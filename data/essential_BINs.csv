@@ -1,691 +1,667 @@
-"BIN","Latitude","Longitude","Borough","Address","Community Board","Category"
-"1000803",40.70634,-74.01343,"Manhattan","39 BROADWAY",101,"Hospital / Health Care"
-"1001015",40.70708,-74.0078,"Manhattan","80 MAIDEN LANE",101,"Hospital / Health Care"
-"1001281",40.71003,-74.0057,"Manhattan","156 WILLIAM STREET",101,"Hospital / Health Care"
-"1001352",40.71036,-74.00501,"Manhattan","170 WILLIAM ST",101,"Hospital / Health Care"
-"1001622",40.71708,-74.00699,"Manhattan","40 WORTH STREET",101,"Hospital / Health Care"
-"1003125",40.71839,-73.9952,"Manhattan","231 GRAND STREET",102,"Homeless Shelter"
-"1003139",40.71101,-73.98291,"Manhattan","7 GOUVERNEUR SLIP EAST",103,"Hospital / Health Care"
-"1003223",40.71336,-73.98606,"Manhattan","220 HENRY ST",103,"Hospital / Health Care"
-"1004351",40.72675,-73.97281,"Manhattan","800 EAST 14 STREET",103,"Utility"
-"1005201",40.72938,-73.98075,"MANHATTAN","204 AVENUE A",103,"Affordable Housing"
-"1005227",40.72861,-73.97962,"MANHATTAN","535 EAST 12 STREET",103,"Affordable Housing"
-"1005483",40.72054,-73.99052,"Manhattan","184 ELDRIDGE STREET",103,"Utility"
-"1005537",40.72223,-73.98949,"Manhattan","189 ALLEN STREET",103,"Hospital / Health Care"
-"1005743",40.7231,-73.98717,"Manhattan","94 EAST 1 STREET",103,"Hospital / Health Care"
-"1005894",40.72821,-73.98436,"MANHATTAN","150 1 AVENUE",103,"Hospital / Health Care"
-"1006394",40.72831,-73.98639,"Manhattan","57 ST MARKS PLACE",103,"Hospital / Health Care"
-"1006480",40.73121,-73.98498,"Manhattan","204 2ND AVENUE",103,"Utility"
-"1006511",40.73188,-73.98461,"Manhattan","310 EAST 14 STREET",103,"Hospital / Health Care"
-"1009217",40.73415,-73.99035,"Manhattan","144 4TH AVENUE",102,"Hospital / Health Care"
-"1009501",40.7341,-73.99834,"Manhattan","61 WEST 9TH STREET",102,"Hospital / Health Care"
-"1009706",40.73684,-73.9968,"Manhattan","65 WEST 13 STREET",102,"Hospital / Health Care"
-"1010641",40.73745,-73.99781,"MANHATTAN","114 WEST 14 STREET",102,"Homeless Shelter"
-"1011094",40.73772,-74.00087,"Manhattan","20 7 AVE",102,"Hospital / Health Care"
-"1012272",40.75323,-74.00499,"Manhattan","601 WEST 29 STREET",104,"Affordable Housing"
-"1013043",40.74136,-74.0032,"Manhattan","111 EIGHTH AVENUE",104,"Hospital / Health Care"
-"1013622",40.7545,-73.99218,"Manhattan","545 8TH AVENUE",104,"Hospital / Health Care"
-"1013644",40.75503,-73.99181,"Manhattan","575 8TH AVENUE",104,"Hospital / Health Care"
-"1014260",40.7477,-73.9939,"Manhattan","211 WEST 28TH STREET",105,"Affordable Housing"
-"1014264",40.74776,-73.99338,"Manhattan","330 SEVENTH AVENUE",105,"Hospital / Health Care"
-"1014337",40.74954,-73.99442,"Manhattan","257 WEST 30TH STREET",105,"Homeless Shelter"
-"1014408",40.75146,-73.99075,"Manhattan","450 7TH AVENUE",105,"Hospital / Health Care"
-"1015000",40.74554,-73.99416,"Manhattan","275 7 AVENUE",104,"Hospital / Health Care"
-"1015480",40.74002,-73.99249,"MANHATTAN","20 WEST 20 STREET",105,"Hospital / Health Care"
-"1015575",40.74303,-73.9921,"Manhattan","71 WEST 23RD STREET",105,"Hospital / Health Care"
-"1016113",40.73793,-73.99142,"Manhattan","5 EAST 17TH STREET",105,"Hospital / Health Care"
-"1016277",40.74025,-73.98913,"Manhattan","936 BROADWAY",105,"Hospital / Health Care"
-"1016881",40.74322,-73.98663,"Manhattan","60 MADISON AVENUE",105,"Hospital / Health Care"
-"1016980",40.74596,-73.98522,"Manhattan","12 EAST 31 STREET",105,"Homeless Shelter"
-"1017869",40.73675,-73.98708,"Manhattan","67 IRVING PLACE",105,"Hospital / Health Care"
-"1018205",40.74332,-73.98315,"Manhattan","108 EAST 29TH STREET",105,"Utility"
-"1019551",40.73537,-73.98527,"Manhattan","201 E 17 ST",106,"Hospital / Health Care"
-"1019792",40.73901,-73.98042,"Manhattan","429 SECOND AVE",106,"Hospital / Health Care"
-"1020338",40.74729,-73.97495,"Manhattan","240 EAST 38TH STREET",106,"Hospital / Health Care"
-"1020429",40.73439,-73.983,"Manhattan","301 EAST 17TH STREET",106,"Hospital / Health Care"
-"1020567",40.73685,-73.98105,"Manhattan","380 2 AVENUE",106,"Hospital / Health Care"
-"1021900",40.74464,-73.97482,"MANHATTAN","317 EAST 34 STREET",106,"Hospital / Health Care"
-"1022057",40.74384,-73.97253,"Manhattan","401 EAST 34TH STREET",106,"Hospital / Health Care"
-"1022553",40.72806,-73.97366,"Manhattan","801 EAST 14 STREET",106,"Utility"
-"1022613",40.75629,-73.98488,"MANHATTAN","127 WEST 43 STREET",105,"Affordable Housing"
-"1027178",40.7719,-73.9921,"MANHATTAN","850 12 AVENUE",104,"Utility"
-"1030342",40.77543,-73.98689,"Manhattan","128 WEST END AVENUE",107,"Utility"
-"1030422",40.77875,-73.98271,"Manhattan","214 WEST 72ND STREET",107,"Affordable Housing"
-"1034137",40.79402,-73.97491,"Manhattan","306 WEST 94TH STREET",107,"Homeless Shelter"
-"1038564",40.75756,-73.9677,"Manhattan","232 EAST 54TH STREET",106,"Affordable Housing"
-"1038579",40.75862,-73.96667,"MANHATTAN","228 EAST 56 STREET",106,"Utility"
-"1038658",40.75005,-73.97167,"Manhattan","800 2ND AVENUE",106,"Hospital / Health Care"
-"1039975",40.75802,-73.9653,"Manhattan","301 EAST 55TH STREET",106,"Hospital / Health Care"
-"1040356",40.75615,-73.96301,"Manhattan","415 EAST 54 STREET",106,"Hospital / Health Care"
-"1040750",40.77039,-73.942,"Manhattan","900 MAIN STREET",108,"Hospital / Health Care"
-"1040753",40.76404,-73.97166,"Manhattan","650 MADISON AVE",108,"Hospital / Health Care"
-"1040754",40.76367,-73.97101,"MANHATTAN","635 MADISON AVENUE",108,"Hospital / Health Care"
-"1042460",40.76724,-73.96552,"Manhattan","643 PARK AVENUE",108,"Hospital / Health Care"
-"1042467",40.76806,-73.96552,"Manhattan","655 PARK AVENUE",108,"Hospital / Health Care"
-"1043870",40.76418,-73.96214,"Manhattan","250 EAST 65TH STREET",108,"Hospital / Health Care"
-"1044182",40.77377,-73.95683,"Manhattan","208 EAST 79TH STREET",108,"Utility"
-"1044361",40.76237,-73.96212,"Manhattan","315 EAST 62ND STREET",108,"Hospital / Health Care"
-"1044750",40.76495,-73.96009,"Manhattan","310 EAST 67 STREET",108,"Hospital / Health Care"
-"1046255",40.76568,-73.95415,"Manhattan","1320 YORK AVENUE",108,"Hospital / Health Care"
-"1046256",40.76511,-73.95273,"Manhattan","535 EAST 70TH STREET",108,"Hospital / Health Care"
-"1046261",40.76686,-73.95265,"Manhattan","515 EAST 72ND STREET",108,"Hospital / Health Care"
-"1046262",40.76669,-73.95222,"Manhattan","523 EAST 72 STREET",108,"Hospital / Health Care"
-"1046294",40.76833,-73.95226,"Manhattan","1402 YORK AVENUE",108,"Affordable Housing"
-"1046842",40.78103,-73.95997,"Manhattan","1049 FIFTH AVENUE",108,"Hospital / Health Care"
-"1051260",40.77599,-73.94647,"Manhattan","511 EAST 86TH STREET",108,"Affordable Housing"
-"1051459",40.78857,-73.95467,"Manhattan","1160 5TH AVENUE",111,"Hospital / Health Care"
-"1051492",40.79158,-73.95206,"Manhattan","17 EAST 102ND STREET",111,"Hospital / Health Care"
-"1051737",40.78646,-73.94928,"Manhattan","151 EAST 97TH STREET",111,"Utility"
-"1052223",40.79615,-73.94427,"Manhattan","128 EAST 112TH STREET",111,"Affordable Housing"
-"1052261",40.79829,-73.94156,"Manhattan","152 EAST 116 STREET",111,"Affordable Housing"
-"1053254",40.80316,-73.94581,"Manhattan","23 WEST 119 STREET",110,"Affordable Housing"
-"1053478",40.80704,-73.94448,"Manhattan","56 WEST 125 STREET",110,"Affordable Housing"
-"1053770",40.81094,-73.94268,"MANHATTAN","406 LENOX AVENUE",110,"Affordable Housing"
-"1053825",40.81158,-73.94224,"Manhattan","424 LENOX AVENUE",110,"Affordable Housing"
-"1053826",40.81163,-73.94221,"Manhattan","426 LENOX AVENUE",110,"Affordable Housing"
-"1053884",40.81174,-73.94212,"Manhattan","432 LENOX AVENUE",110,"Affordable Housing"
-"1053899",40.81413,-73.93977,"Manhattan","506 LENOX AVENUE",110,"Hospital / Health Care"
-"1054682",40.80376,-73.93545,"Manhattan","201 EAST 125 STREET",111,"Affordable Housing"
-"1055718",40.80026,-73.96067,"Manhattan","193 MANHATTAN AVE",107,"Utility"
-"1055906",40.79592,-73.96784,"Manhattan","150 WEST 100TH STREET",107,"Hospital / Health Care"
-"1055933",40.799,-73.96382,"MANHATTAN","107 WEST 105 STREET",107,"Affordable Housing"
-"1055996",40.80171,-73.96438,"Manhattan","981 AMSTERDAM AVENUE",107,"Affordable Housing"
-"1056035",40.80569,-73.96148,"Manhattan","1111 AMSTERDAM AVENUE",109,"Hospital / Health Care"
-"1057032",40.80539,-73.9625,"Manhattan","1090 AMSTERDAM AVENUE",109,"Hospital / Health Care"
-"1057068",40.79635,-73.97314,"Manhattan","305 WEST 97TH STREET",107,"Affordable Housing"
-"1058399",40.80516,-73.95365,"Manhattan","264 WEST 118 STREET",110,"Hospital / Health Care"
-"1058438",40.80573,-73.95384,"Manhattan","281 W 118 STREET",110,"Affordable Housing"
-"1059392",40.81304,-73.9526,"MANHATTAN","410 WEST 128 STREET",109,"Affordable Housing"
-"1059569",40.81276,-73.95409,"Manhattan","414 WEST 127 STREET",109,"Homeless Shelter"
-"1060040",40.81699,-73.94041,"Manhattan","118 WEST 139TH STREET",110,"Affordable Housing"
-"1060550",40.82489,-73.94006,"Manhattan","2794 EIGHTH AVENUE",110,"Affordable Housing"
-"1061380",40.82569,-73.94603,"Manhattan","380 CONVENT AVE",109,"Utility"
-"1062436",40.82862,-73.94935,"MANHATTAN","601 WEST 148 STREET",109,"Affordable Housing"
-"1062675",40.84008,-73.93636,"Manhattan","2185 AMSTERDAM AVENUE",112,"Affordable Housing"
-"1062835",40.83563,-73.94145,"Manhattan","518 WEST 161ST STREET",112,"Affordable Housing"
-"1062896",40.83782,-73.93881,"MANHATTAN","2110 AMSTERDAM AVENUE",112,"Affordable Housing"
-"1062944",40.83723,-73.94138,"Manhattan","544 WEST 163RD STREET",112,"Affordable Housing"
-"1063303",40.83514,-73.94492,"Manhattan","609 WEST 158TH STREET",112,"Affordable Housing"
-"1063314",40.83542,-73.94471,"Manhattan","9 FORT WASHINGTON AVE",112,"Affordable Housing"
-"1063400",40.8424,-73.9435,"Manhattan","722 W 168 ST",112,"Hospital / Health Care"
-"1063629",40.84778,-73.9334,"Manhattan","284 AUDOBON AVE",112,"Homeless Shelter"
-"1064203",40.86167,-73.92664,"Manhattan","21 ARDEN STREET",112,"Affordable Housing"
-"1070031",40.75824,-73.99483,"Manhattan","440 W 41 STREET",104,"Homeless Shelter"
-"1076746",40.84127,-73.94346,"Manhattan","177 FORT WASHINGTON AVE",112,"Hospital / Health Care"
-"1077421",40.71034,-73.99869,"MANHATTAN","54 CATHERINE STREET",103,"Hospital / Health Care"
-"1078039",40.71743,-73.97781,"Manhattan","50 COLUMBIA ST",103,"Hospital / Health Care"
-"1078540",40.7462,-73.99982,"Manhattan","275 8TH AVENUE",104,"Hospital / Health Care"
-"1078756",40.74448,-73.98011,"Manhattan","151 EAST 31ST STREET",106,"Hospital / Health Care"
-"1080679",40.74276,-73.99137,"Manhattan","53 WEST 23RD ST.",105,"Hospital / Health Care"
-"1081243",40.76966,-73.95299,"Manhattan","420 EAST 76 STREET",108,"Hospital / Health Care"
-"1081462",40.80443,-73.94063,"Manhattan","1919 MADISON AVENUE",111,"Hospital / Health Care"
-"1081661",40.73333,-73.98235,"Manhattan","10 NATHAN D. PERLMAN PLACE",106,"Hospital / Health Care"
-"1082185",40.77365,-73.96085,"Manhattan","100 EAST 77 STREET",108,"Hospital / Health Care"
-"1082718",40.7697,-73.98689,"Manhattan","1000 10TH AVENUE",104,"Hospital / Health Care"
-"1083247",40.73464,-73.98921,"Manhattan","1 IRVING PLACE",105,"Hospital / Health Care"
-"1083622",40.75251,-73.99083,"Manhattan","230 WEST 36TH STREET",105,"Utility"
-"1083923",40.78988,-73.95326,"Manhattan","1190 5TH AVENUE",111,"Utility"
-"1083929",40.78505,-73.94496,"Manhattan","1901 1ST AVENUE",111,"Utility"
-"1084338",40.84935,-73.93314,"Manhattan","575 WEST 181 STREET",112,"Hospital / Health Care"
-"1084385",40.84069,-73.94164,"Manhattan","3959 BROADWAY",112,"Hospital / Health Care"
-"1084386",40.84069,-73.94164,"Manhattan","630 WEST 168 STREET",112,"Hospital / Health Care"
-"1084388",40.84069,-73.94164,"Manhattan","620 WEST 168 STREET",112,"Hospital / Health Care"
-"1084583",40.71732,-73.99993,"Manhattan","96 BAXTER STREET",101,"Hospital / Health Care"
-"1084781",40.76445,-73.95414,"Manhattan","525 EAST 68TH STREET",108,"Hospital / Health Care"
-"1084785",40.76445,-73.95414,"MANHATTAN","1300 YORK AVENUE",108,"Hospital / Health Care"
-"1084936",40.734,-73.98775,"Manhattan","4 IRVING PLACE",106,"Utility"
-"1085319",40.72916,-73.97333,"Manhattan","276 AVENUE C",106,"Utility"
-"1085352",40.81151,-73.95074,"Manhattan","314 WEST 127 STREET",110,"Affordable Housing"
-"1085517",40.71648,-74.00578,"Manhattan","33 THOMAS STREET",101,"Utility"
-"1085588",40.74355,-73.97342,"Manhattan","550 1ST AVENUE",106,"Hospital / Health Care"
-"1086175",40.766,-73.99589,"Manhattan","600 W50TH STREET",104,"Utility"
-"1086244",40.82583,-73.95467,"Manhattan","750 WEST 145 STREET",109,"Utility"
-"1086515",40.73875,-73.97534,"Manhattan","462 FIRST AVENUE",106,"Hospital / Health Care"
-"1087284",40.76437,-73.9568,"Manhattan","1275 YORK AVENUE",108,"Hospital / Health Care"
-"1087298",40.74062,-73.97476,"MANHATTAN","400 EAST 30 STREET",106,"Homeless Shelter"
-"1087871",40.80244,-73.96358,"Manhattan","1001 AMSTERDAM AVENUE",107,"Utility"
-"1087878",40.79288,-73.93887,"Manhattan","2141 1ST AVENUE",111,"Utility"
-"1087933",40.74744,-73.97543,"Manhattan","221 EAST 37TH STREET",106,"Utility"
-"1088030",40.78745,-73.92191,"Manhattan","107 2ND DRIVE",111,"Utility"
-"1088218",40.72758,-73.97474,"Manhattan","214 AVENUE C",103,"Utility"
-"1088859",40.75902,-73.95119,"Manhattan","460 MAIN STREET",108,"Affordable Housing"
-"1088869",40.7722,-73.99091,"Manhattan","1 WEST END AVENUE",107,"Affordable Housing"
-"1089374",40.77268,-73.99181,"Manhattan","639 WEST 59TH STREET",107,"Affordable Housing"
-"1089411",40.75327,-74.00284,"Manhattan","545 WEST 30TH STREET",104,"Affordable Housing"
-"1089450",40.71806,-73.98901,"Manhattan","242 BROOME STREET",103,"Affordable Housing"
-"1089451",40.71705,-73.98576,"Manhattan","175 DELANCEY STREET",103,"Hospital / Health Care"
-"1089662",40.80077,-73.93739,"Manhattan","2211 3 AVENUE",111,"Affordable Housing"
-"1089723",40.77345,-73.992,"Manhattan","400 WEST 61 STREET",107,"Affordable Housing"
-"1089736",40.75654,-73.99905,"Manhattan","515 WEST 36TH STREET",104,"Affordable Housing"
-"1089741",40.77296,-73.99251,"Manhattan","10 RIVERSIDE BOULEVARD",107,"Affordable Housing"
-"1089771",40.71046,-73.99124,"Manhattan","250 SOUTH STREET",103,"Affordable Housing"
-"1089891",40.71733,-73.98645,"Manhattan","180 BROOME STREET",103,"Affordable Housing"
-"1089905",40.71723,-73.98724,"Manhattan","202 BROOME STREET",103,"Affordable Housing"
-"1090142",40.79368,-73.94644,"Manhattan","1465 PARK AVENUE",111,"Affordable Housing"
-"1090183",40.81137,-73.94334,"Manhattan","407 LENOX AVENUE",110,"Affordable Housing"
-"1090211",40.73029,-73.98125,"Manhattan","435 EAST 13TH STREET",103,"Affordable Housing"
-"1090254",40.76485,-73.95586,"Manhattan","1283 YORK AVENUE",108,"Hospital / Health Care"
-"1090354",40.81255,-73.9498,"Manhattan","2395 8TH AVENUE",110,"Affordable Housing"
-"1090416",40.70853,-74.00517,"Manhattan","54 FULTON STREET",101,"Affordable Housing"
-"1090431",40.82857,-73.95506,"MANHATTAN","679 RIVERSIDE DRIVE",109,"Utility"
-"1090460",40.76166,-73.99732,"Manhattan","572 11TH AVE",104,"Affordable Housing"
-"1090512",40.74546,-73.98397,"Manhattan","30 EAST 31 ST",105,"Affordable Housing"
-"1090558",40.81671,-73.94205,"Manhattan","2351 ADAM CLAYTON POWELL BLVD",110,"Affordable Housing"
-"1090673",40.81015,-73.95452,"Manhattan","101 MORNINGSIDE AVENUE",109,"Affordable Housing"
-"1090675",40.78434,-73.94321,"Manhattan","1912 FIRST AVENUE",111,"Affordable Housing"
-"1090693",40.72717,-74.0081,"Manhattan","102 CHARLTON STREET",102,"Affordable Housing"
-"1090697",40.79677,-73.94606,"Manhattan","60 EAST 112TH STREET",111,"Affordable Housing"
-"1090710",40.80245,-73.94605,"Manhattan","11 WEST 118 STREET",110,"Affordable Housing"
-"1090720",40.76091,-73.99547,"Manhattan","505 WEST 43 STREET",104,"Affordable Housing"
-"1090736",40.72018,-73.98708,"Manhattan","140 ESSEX STREET",103,"Affordable Housing"
-"1090749",40.80152,-73.96364,"MANHATTAN","149 WEST 108 STREET",107,"Affordable Housing"
-"1090764",40.76255,-73.95573,"Manhattan","1230 YORK AVENUE",108,"Hospital / Health Care"
-"1090815",40.74793,-73.99449,"Manhattan","225 WEST 28TH STREET",105,"Affordable Housing"
-"1091569",40.74253,-73.99094,"Manhattan","39 WEST 23RD STREET",105,"Affordable Housing"
-"1091579",40.72046,-73.97913,"Manhattan","302 EAST 2ND STREET",103,"Affordable Housing"
-"1091580",40.81073,-73.94984,"Manhattan","267 W 126 STREET",110,"Affordable Housing"
-"2000856",40.81681,-73.9185,"Bronx","370 EAST 150TH STREET",201,"Utility"
-"2001224",40.82532,-73.90972,"Bronx","972 WASHINGTON AVENUE",203,"Affordable Housing"
-"2001305",40.82847,-73.90746,"Bronx","3401 THIRD AVENUE",203,"Affordable Housing"
-"2001736",40.82154,-73.91642,"Bronx","758 COURTLAND AV",201,"Hospital / Health Care"
-"2003083",40.83642,-73.92272,"Bronx","1227 EDWARD GRANT HIGHWAY",204,"Hospital / Health Care"
-"2003497",40.8348,-73.93057,"Bronx","1055 UNIVERSITY AVENUE",204,"Homeless Shelter"
-"2004081",40.81018,-73.90451,"Bronx","880 EAST 147TH STREET",201,"Affordable Housing"
-"2004216",40.83011,-73.90536,"BRONX","1193 FULTON AVENUE",203,"Affordable Housing"
-"2004246",40.83143,-73.90318,"Bronx","1276 FULTON AVENUE",203,"Hospital / Health Care"
-"2005371",40.82181,-73.89812,"Bronx","917 WESTCHESTER  AVENUE",202,"Affordable Housing"
-"2005661",40.82306,-73.89436,"Bronx","980 WESTCHESTER AVENUE",202,"Affordable Housing"
-"2005787",40.82157,-73.8921,"Bronx","953 SOUTHERN BOULEVARD",202,"Hospital / Health Care"
-"2007858",40.84647,-73.9104,"Bronx","1775 GRAND CONCOURSE",205,"Hospital / Health Care"
-"2007859",40.84349,-73.91101,"Bronx","1650 GRAND CONCOURSE",204,"Hospital / Health Care"
-"2008471",40.84981,-73.9146,"BRONX","1731 HARRISON AVENUE",205,"Hospital / Health Care"
-"2009428",40.84421,-73.9025,"Bronx","1734 WEBSTER AVENUE",203,"Homeless Shelter"
-"2009646",40.83687,-73.90074,"BRONX","1511 FULTON AVENUE",203,"Homeless Shelter"
-"2009651",40.839,-73.89962,"BRONX","1591 FULTON AVENUE",203,"Hospital / Health Care"
-"2009910",40.84544,-73.89301,"Bronx","1910 ARTHUR AVENUE",206,"Hospital / Health Care"
-"2010494",40.83135,-73.89173,"Bronx","1325 SOUTHERN BLVD",203,"Affordable Housing"
-"2010571",40.83331,-73.88979,"Bronx","1490 SOUTHERN BOULEVARD",203,"Affordable Housing"
-"2011054",40.85868,-73.89466,"Bronx","2400 MARION AVENUE",205,"Hospital / Health Care"
-"2011533",40.85203,-73.89326,"Bronx","4419 THIRD AVENUE",206,"Hospital / Health Care"
-"2013591",40.86058,-73.89745,"Bronx","2432 GRAND CONCOURSE",205,"Hospital / Health Care"
-"2013600",40.86198,-73.89681,"Bronx","2488 GRAND CONCOURSE",205,"Hospital / Health Care"
-"2013628",40.85229,-73.90297,"BRONX","2050 GRAND CONCOURSE",205,"Affordable Housing"
-"2013665",40.85195,-73.90155,"Bronx","2051 RYER AVENUE",205,"Affordable Housing"
-"2014083",40.85906,-73.90307,"Bronx","2314 JEROME AVENUE",205,"Homeless Shelter"
-"2015449",40.88407,-73.88848,"Bronx","66 VAN CORTLANDT PARK SOUTH",208,"Hospital / Health Care"
-"2015502",40.87042,-73.90387,"Bronx","2678 KINGSBRIDGE TERRACE",208,"Hospital / Health Care"
-"2016116",40.87665,-73.90594,"Bronx","5500 BROADWAY",208,"Hospital / Health Care"
-"2016171",40.88002,-73.90323,"BRONX","170 WEST 233 STREET",208,"Hospital / Health Care"
-"2017787",40.88049,-73.88109,"Bronx","3424 KOSSUTH AVENUE",207,"Hospital / Health Care"
-"2017852",40.88538,-73.87862,"Bronx","3600 JEROME AVE",207,"Homeless Shelter"
-"2018271",40.88155,-73.87679,"Bronx","3530 WAYNE AVENUE",207,"Hospital / Health Care"
-"2018798",40.89626,-73.87354,"Bronx","69 EAST 233 STREET",212,"Affordable Housing"
-"2018800",40.89613,-73.87424,"Bronx","63 EAST 233RD STREET",212,"Affordable Housing"
-"2023644",40.82675,-73.86087,"BRONX","1010 UNDERHILL AVENUE",209,"Hospital / Health Care"
-"2024208",40.82803,-73.86786,"Bronx","1755 WATSON AVENUE",209,"Affordable Housing"
-"2025407",40.83055,-73.87241,"Bronx","1240 METCALF AVENUE",209,"Affordable Housing"
-"2026267",40.83329,-73.85735,"Bronx","2008 WESTCHESTER AVENUE",209,"Homeless Shelter"
-"2026971",40.83001,-73.84661,"Bronx","1070 HAVEMEYER AVENUE",209,"Hospital / Health Care"
-"2042138",40.84071,-73.84844,"Bronx","2475 ST. RAYMOND AVENUE",210,"Hospital / Health Care"
-"2044221",40.84599,-73.84645,"Bronx","1617 POPLAR STREET",211,"Hospital / Health Care"
-"2044353",40.84423,-73.85735,"Bronx","1616 BRONXDALE AVE",211,"Hospital / Health Care"
-"2047124",40.84806,-73.84366,"Bronx","1740 EASTCHESTER ROAD",211,"Hospital / Health Care"
-"2049614",40.85653,-73.85951,"Bronx","1000 PELHAM PARKWAY",211,"Hospital / Health Care"
-"2050004",40.85881,-73.8681,"Bronx","681 THWAITES PLACE",211,"Affordable Housing"
-"2050370",40.859,-73.85156,"BRONX","1235 PELHAM PARKWAY",211,"Hospital / Health Care"
-"2051277",40.86469,-73.86976,"Bronx","612 ALLERTON AVENUE",211,"Hospital / Health Care"
-"2054552",40.86564,-73.84282,"Bronx","2700 EASTCHESTER RD",211,"Hospital / Health Care"
-"2055589",40.87114,-73.86569,"Bronx","3050 CRUGER AVENUE",212,"Utility"
-"2065164",40.88765,-73.84824,"Bronx","1050 EAST  230 STREET",212,"Hospital / Health Care"
-"2068259",40.89245,-73.8534,"Bronx","825 EAST 233RD STREET",212,"Hospital / Health Care"
-"2070559",40.90046,-73.85805,"Bronx","555 NEREID AVENUE",212,"Affordable Housing"
-"2071889",40.90524,-73.84894,"Bronx","4770 WHITE PLAINS ROAD",212,"Hospital / Health Care"
-"2072356",40.87932,-73.82906,"Bronx","801 CO-OP CITY BLVD",210,"Hospital / Health Care"
-"2072372",40.87723,-73.83543,"Bronx","3200 BAYCHESTER AVE",212,"Hospital / Health Care"
-"2072483",40.884,-73.83222,"Bronx","4008 BOSTON RD",212,"Hospital / Health Care"
-"2077017",40.82821,-73.81902,"Bronx","707 THROGS NECK EXPRESSWAY",210,"Hospital / Health Care"
-"2083186",40.87879,-73.90815,"Bronx","3001 KINGSBRIDGE AVENUE",208,"Utility"
-"2083412",40.88242,-73.91511,"Bronx","641 WEST 230 STREET",208,"Hospital / Health Care"
-"2084228",40.89054,-73.90313,"Bronx","4499 MANHATTAN COLLEGE PARKWAY",208,"Hospital / Health Care"
-"2085164",40.90625,-73.9037,"Bronx","5676 RIVERDALE AVENUE",208,"Hospital / Health Care"
-"2085330",40.90797,-73.89692,"Bronx","6585 BROADWAY",208,"Hospital / Health Care"
-"2086555",40.81952,-73.89583,"Bronx","900 INTERVALE AVE.",202,"Hospital / Health Care"
-"2087151",40.85275,-73.8368,"Bronx","1200 WATERS PLACE",211,"Hospital / Health Care"
-"2088351",40.85616,-73.89193,"BRONX","480 EAST 185 STREET",206,"Homeless Shelter"
-"2090447",40.84852,-73.91217,"Bronx","1769 JEROME AVENUE",205,"Affordable Housing"
-"2091322",40.81482,-73.90885,"Bronx","603 PONTIAC PLACE",201,"Affordable Housing"
-"2091800",40.83163,-73.90417,"Bronx","1265 FULTON AVENUE",203,"Hospital / Health Care"
-"2092008",40.8223,-73.89552,"Bronx","975 TIFFANY STREET",202,"Affordable Housing"
-"2094217",40.85303,-73.89087,"Bronx","4422 3RD AVE",206,"Hospital / Health Care"
-"2094521",40.84611,-73.90894,"Bronx","1780 GRAND CONCOURSE",205,"Hospital / Health Care"
-"2094699",40.8804,-73.89818,"Bronx","3400 CANNON PLACE",208,"Hospital / Health Care"
-"2094749",40.88083,-73.87994,"Bronx","3444 KOSSUTH AVENUE",207,"Hospital / Health Care"
-"2094835",40.82431,-73.85708,"Bronx","1925 TURNBULL AVENUE",209,"Hospital / Health Care"
-"2095219",40.83703,-73.92942,"BRONX","1145 UNIVERSITY AVENUE",204,"Hospital / Health Care"
-"2095229",40.86728,-73.90532,"BRONX","130 WEST KINGSBRIDGE ROAD",207,"Hospital / Health Care"
-"2096399",40.88083,-73.87994,"Bronx","111 EAST 210TH STREET",207,"Utility"
-"2097050",40.81676,-73.92448,"Bronx","234 E 149 ST",201,"Hospital / Health Care"
-"2097363",40.84985,-73.84611,"Bronx","1300 MORRIS PARK AVENUE",211,"Hospital / Health Care"
-"2097378",40.85925,-73.83305,"Bronx","2316 BRUNER AVENUE",211,"Hospital / Health Care"
-"2097550",40.85546,-73.84661,"Bronx","1400 PELHAM PARKWAY",211,"Hospital / Health Care"
-"2098417",40.87667,-73.88649,"Bronx","3188 VILLA AVENUE",207,"Affordable Housing"
-"2100381",40.8835,-73.91877,"Bronx","2975 INDEPENDENCE AVENUE",208,"Hospital / Health Care"
-"2113129",40.82067,-73.90083,"Bronx","890 PROSPECT AVENUE",202,"Hospital / Health Care"
-"2114100",40.83062,-73.8467,"Bronx","1072 HAVEMEYER AVENUE",209,"Hospital / Health Care"
-"2114609",40.82504,-73.89229,"Bronx","1065 SOUTHERN BLVD",202,"Hospital / Health Care"
-"2116428",40.91075,-73.91066,"Bronx","5901 PALISADE AVENUE",208,"Hospital / Health Care"
-"2118990",40.8204,-73.89952,"Bronx","886 WESTCHESTER AVE",202,"Hospital / Health Care"
-"2120051",40.85274,-73.8464,"BRONX","1225 MORRIS PARK AVENUE",211,"Hospital / Health Care"
-"2122918",40.8799,-73.90776,"BRONX","3050 CORLEAR AVENUE",208,"Hospital / Health Care"
-"2124019",40.84329,-73.86118,"Bronx","1610 MATTHEWS AVE",211,"Utility"
-"2124546",40.8433,-73.90976,"Bronx","199 MT EDEN PARKWAY",204,"Hospital / Health Care"
-"2127129",40.81669,-73.9147,"Bronx","600 BERGEN AVENUE",201,"Affordable Housing"
-"2127284",40.82096,-73.87794,"Bronx","1530 STORY AVENUE",209,"Affordable Housing"
-"2128204",40.87152,-73.89162,"Bronx","2865 CRESTON AVENUE",207,"Affordable Housing"
-"2128231",40.85385,-73.89182,"Bronx","4511 3RD AVE",206,"Affordable Housing"
-"2128391",40.81964,-73.89532,"Bronx","909 BECK ST.",202,"Affordable Housing"
-"2128398",40.83821,-73.88477,"Bronx","1812 VYSE AVENUE",203,"Affordable Housing"
-"2128429",40.80495,-73.91695,"Bronx","570 EAST 137 STREET",201,"Affordable Housing"
-"2128439",40.83307,-73.85569,"Bronx","2035 NEWBOLD AVENUE",209,"Affordable Housing"
-"2128441",40.83346,-73.85564,"Bronx","2044 WESTCHESTER AVENUE",209,"Affordable Housing"
-"2128505",40.85012,-73.90411,"Bronx","220 EAST 178 STREET",205,"Affordable Housing"
-"2128726",40.84615,-73.89693,"Bronx","1880 BATHGATE AVE",206,"Affordable Housing"
-"2128766",40.84105,-73.89172,"Bronx","775 CROTONA PARK NORTH",206,"Affordable Housing"
-"2128910",40.85103,-73.90333,"Bronx","225 EAST 179 STREET",205,"Affordable Housing"
-"2128914",40.86786,-73.88645,"BRONX","2885 MARION AVENUE",207,"Affordable Housing"
-"2128935",40.81462,-73.88806,"Bronx","700 MANIDA STREET",202,"Affordable Housing"
-"2128955",40.81294,-73.90459,"Bronx","569 PROSPECT AVE",201,"Affordable Housing"
-"2128970",40.82081,-73.87899,"BRONX","1520 STORY AVENUE",209,"Affordable Housing"
-"2128977",40.80951,-73.91615,"Bronx","345 ST ANNS AVENUE",201,"Affordable Housing"
-"2129026",40.84001,-73.88158,"Bronx","1932 BRYANT AVENUE",206,"Affordable Housing"
-"2129027",40.83361,-73.88416,"Bronx","1560 BOONE AVENUE",203,"Affordable Housing"
-"2129044",40.81699,-73.92852,"Bronx","425 GRAND CONCOURSE",201,"Affordable Housing"
-"2129056",40.81603,-73.91547,"Bronx","556 BERGEN AVENUE",201,"Affordable Housing"
-"2129118",40.83863,-73.88176,"Bronx","1903 WEST FARMS RD",206,"Affordable Housing"
-"2129119",40.82791,-73.90833,"Bronx","1074 WASHINGTON AVENUE",203,"Affordable Housing"
-"2129139",40.82249,-73.91256,"Bronx","451 EAST 159TH STREET",203,"Affordable Housing"
-"2129140",40.83143,-73.90781,"Bronx","3500 PARK AVENUE",203,"Affordable Housing"
-"2129144",40.82364,-73.91753,"Bronx","3120 PARK AVENUE",201,"Affordable Housing"
-"2129154",40.81865,-73.90935,"Bronx","600 EAST 156TH STREET",201,"Affordable Housing"
-"2129161",40.82548,-73.88903,"Bronx","1115 EAST 165TH STREET",202,"Affordable Housing"
-"2129167",40.82215,-73.89526,"Bronx","975 TIFFANY STREET",202,"Affordable Housing"
-"2129171",40.81982,-73.89168,"Bronx","985 BRUCKNER BOULEVARD",202,"Affordable Housing"
-"2129183",40.83727,-73.91675,"Bronx","112 EAST CLARKE PLACE",204,"Affordable Housing"
-"2129224",40.83871,-73.91879,"Bronx","1325 JEROME AVENUE",204,"Affordable Housing"
-"2129230",40.82288,-73.92378,"Bronx","180 EAST 156TH STREET",204,"Affordable Housing"
-"2129250",40.87407,-73.88603,"Bronx","211 EAST 203 STREET",207,"Affordable Housing"
-"2129261",40.84761,-73.89225,"Bronx","600 EAST 179 STREET",206,"Affordable Housing"
-"2129268",40.82453,-73.91153,"Bronx","443 EAST 162ND STREET",203,"Affordable Housing"
-"2129282",40.87482,-73.88799,"Bronx","16 E. 204TH STREET",207,"Affordable Housing"
-"2129288",40.82838,-73.90652,"Bronx","545 EAST  166 STREET",203,"Affordable Housing"
-"2129313",40.85871,-73.89142,"Bronx","4697 3RD AVENUE",206,"Affordable Housing"
-"2129326",40.87673,-73.88451,"Bronx","150 VAN CORTLANDT AVE EAST",207,"Affordable Housing"
-"2129390",40.81137,-73.91901,"Bronx","448 EAST 143RD STREET",201,"Affordable Housing"
-"2129395",40.84731,-73.88451,"Bronx","801 EAST 181 STREET",206,"Affordable Housing"
-"2129466",40.8772,-73.86013,"Bronx","839 TILDEN STREET",212,"Affordable Housing"
-"2129467",40.822,-73.92467,"Bronx","702 GRAND CONCOURSE",204,"Affordable Housing"
-"2129503",40.83011,-73.90536,"Bronx","1193 FULTON AVENUE",203,"Affordable Housing"
-"2130367",40.8347,-73.92189,"Bronx","1164 RIVER AVENUE",204,"Affordable Housing"
-"2130390",40.81466,-73.89088,"Bronx","720 TIFFANY STREET",202,"Affordable Housing"
-"2130434",40.84227,-73.884,"BRONX","1973 DALY AVENUE",206,"Affordable Housing"
-"2825058",40.8259,-73.90963,"Bronx","481 EAST 164TH STREET",203,"Affordable Housing"
-"2833311",40.82204,-73.92427,"Bronx","707 CONCOURSE VILLAGE WEST",204,"Affordable Housing"
-"3000338",40.69254,-73.98653,"Brooklyn","57 WILLOUGHBY STREET",302,"Hospital / Health Care"
-"3000507",40.6881,-73.9824,"Brooklyn","308 LIVINGSTON STREET",302,"Affordable Housing"
-"3000519",40.68792,-73.98261,"BROOKLYN","285 SCHERMERHORN STREET",302,"Affordable Housing"
-"3000556",40.68714,-73.98222,"Brooklyn","50 NEVINS STREET",302,"Affordable Housing"
-"3000753",40.68574,-73.98073,"Brooklyn","30 3RD AVE",302,"Hospital / Health Care"
-"3002801",40.68974,-73.99084,"Brooklyn","66 BOERUM PLACE",302,"Hospital / Health Care"
-"3007002",40.67886,-73.98406,"Brooklyn","601 SACKETT STREET",306,"Homeless Shelter"
-"3010094",40.65608,-74.00202,"Brooklyn","875 FOURTH AVENUE",307,"Affordable Housing"
-"3012967",40.64511,-74.00928,"Brooklyn","514 49TH STREET",307,"Hospital / Health Care"
-"3013507",40.64592,-74.01364,"BROOKLYN","5106 4 AVENUE",307,"Affordable Housing"
-"3014856",40.64667,-74.02122,"Brooklyn","150 55 STREET",307,"Hospital / Health Care"
-"3015571",40.64502,-74.02157,"Brooklyn","5718 SECOND AVENUE",307,"Hospital / Health Care"
-"3024704",40.67229,-73.97095,"Brooklyn","1 PROSPECT PARK WEST",306,"Hospital / Health Care"
-"3029544",40.67297,-73.96313,"Brooklyn","840 WASHINGTON AVENUE",308,"Affordable Housing"
-"3029966",40.67739,-73.95321,"Brooklyn","1350 BEDFORD AVENUE",308,"Affordable Housing"
-"3029989",40.67752,-73.95161,"Brooklyn","1216 PACIFIC STREET",308,"Affordable Housing"
-"3033161",40.6688,-73.95499,"Brooklyn","1089 PRESIDENT STREET",309,"Affordable Housing"
-"3037315",40.66966,-73.93354,"Brooklyn","259 SCHENECTADY AVE.",308,"Hospital / Health Care"
-"3038661",40.67554,-73.90709,"BROOKLYN","126 SACKMAN STREET",316,"Affordable Housing"
-"3038665",40.67577,-73.9058,"BROOKLYN","2384 ATLANTIC AVENUE",316,"Hospital / Health Care"
-"3039624",40.68898,-73.92341,"Brooklyn","1000 GATES AVENUE",303,"Hospital / Health Care"
-"3048072",40.67843,-73.93759,"Brooklyn","55 ALBANY AVENUE",303,"Hospital / Health Care"
-"3048341",40.6995,-73.94273,"Brooklyn","760 BROADWAY",303,"Hospital / Health Care"
-"3048430",40.69566,-73.95604,"Brooklyn","825 BEDFORD AVE",303,"Affordable Housing"
-"3049600",40.69087,-73.95471,"BROOKLYN","550 DEKALB AVENUE",303,"Affordable Housing"
-"3052406",40.6832,-73.9463,"Brooklyn","243 HANCOCK ST.",303,"Affordable Housing"
-"3054209",40.6967,-73.95925,"Brooklyn","439 PARK AVENUE",303,"Hospital / Health Care"
-"3056631",40.68352,-73.96562,"BROOKLYN","937 FULTON STREET",302,"Hospital / Health Care"
-"3057751",40.68071,-73.95519,"Brooklyn","1134 FULTON STREET",303,"Affordable Housing"
-"3057984",40.69633,-73.97325,"BROOKLYN","55 CARLTON AVENUE",302,"Affordable Housing"
-"3058003",40.69642,-73.97289,"Brooklyn","165 PARK AVE",302,"Affordable Housing"
-"3058264",40.69231,-73.9779,"Brooklyn","140 ST. EDWARDS STREET",302,"Hospital / Health Care"
-"3058406",40.69178,-73.98204,"Brooklyn","295 FLATBUSH AVENUE EXTENSION",302,"Hospital / Health Care"
-"3058410",40.69058,-73.97794,"Brooklyn","121 DEKALB AVENUE",302,"Hospital / Health Care"
-"3062216",40.71651,-73.95786,"Brooklyn","186 NORTH 6TH STREET",301,"Homeless Shelter"
-"3062539",40.71264,-73.95287,"BROOKLYN","56 AINSLIE STREET",301,"Affordable Housing"
-"3062567",40.71617,-73.96434,"Brooklyn","292 WYTHE AVE",301,"Affordable Housing"
-"3063675",40.73799,-73.95708,"Brooklyn","77 COMMERCIAL STREET",301,"Affordable Housing"
-"3070943",40.70799,-73.9479,"Brooklyn","55 MESEROLE STREET",301,"Utility"
-"3071676",40.70064,-73.94049,"Brooklyn","16 SUMNER PLACE",304,"Hospital / Health Care"
-"3072011",40.69832,-73.93465,"Brooklyn","594 BUSHWICK AVENUE",304,"Affordable Housing"
-"3072556",40.7042,-73.92484,"Brooklyn","314 TROUTMAN STREET",304,"Affordable Housing"
-"3073272",40.70502,-73.91992,"Brooklyn","97 WYCKOFF AVE",304,"Homeless Shelter"
-"3074262",40.7042,-73.91756,"Brooklyn","374 STOCKHOLM STREET",304,"Hospital / Health Care"
-"3080677",40.6707,-73.9107,"Brooklyn","381 ROCKAWAY AVENUE",316,"Homeless Shelter"
-"3081765",40.6647,-73.9111,"Brooklyn","259 BRISTOL STREET",316,"Hospital / Health Care"
-"3083272",40.67689,-73.89789,"BROOKLYN","2618 FULTON STREET",305,"Affordable Housing"
-"3083600",40.67261,-73.90729,"Brooklyn","273 MOTHER GASTON BOULEVARD",316,"Affordable Housing"
-"3083928",40.6715,-73.89539,"Brooklyn","249 PENNSYLVANIA AVENUE",305,"Hospital / Health Care"
-"3085896",40.65764,-73.90132,"Brooklyn","672 POWELL STREET",316,"Affordable Housing"
-"3085948",40.65789,-73.89792,"Brooklyn","1745 LINDEN BOULEVARD",305,"Affordable Housing"
-"3085955",40.65866,-73.89701,"Brooklyn","653 HINSDALE STREET",305,"Affordable Housing"
-"3088349",40.6771,-73.88552,"Brooklyn","2950 ATLANTIC AVENUE",305,"Utility"
-"3088714",40.67551,-73.88144,"Brooklyn","777 GLENMORE AVE",305,"Affordable Housing"
-"3089994",40.6685,-73.88873,"Brooklyn","806 BLAKE AVENUE",305,"Affordable Housing"
-"3096183",40.67157,-73.86284,"BROOKLYN","1485 DUMONT AVENUE",305,"Hospital / Health Care"
-"3102705",40.6567,-73.91469,"Brooklyn","9701 CHURCH AVE",317,"Hospital / Health Care"
-"3103615",40.65492,-73.91238,"Brooklyn","1 BROOKDALE PLAZA",317,"Hospital / Health Care"
-"3116414",40.64953,-73.96729,"Brooklyn","1312 CATON AVE",314,"Hospital / Health Care"
-"3117703",40.64776,-73.95443,"Brooklyn","74 LOTT ST",317,"Affordable Housing"
-"3118533",40.64346,-73.96012,"Brooklyn","1921 CORTELYOU ROAD",314,"Affordable Housing"
-"3119523",40.64024,-73.95763,"Brooklyn","2107 DITMAS AVENUE",314,"Hospital / Health Care"
-"3125490",40.64137,-73.97266,"Brooklyn","615 AVE C",312,"Hospital / Health Care"
-"3137310",40.64029,-73.99979,"Brooklyn","920 48 STREET",312,"Hospital / Health Care"
-"3137601",40.6385,-73.99862,"BROOKLYN","4915 10 AVENUE",312,"Hospital / Health Care"
-"3140386",40.63095,-73.9979,"Brooklyn","1250 57 STREET",312,"Hospital / Health Care"
-"3148730",40.63075,-74.02583,"Brooklyn","370 BAY RIDGE PARKWAY",310,"Hospital / Health Care"
-"3158966",40.61679,-73.99938,"Brooklyn","7305 NEW UTRECTH AVE",311,"Homeless Shelter"
-"3165661",40.61237,-74.01054,"Brooklyn","1435 86TH STREET",311,"Hospital / Health Care"
-"3182384",40.60948,-73.95966,"Brooklyn","1630 EAST 14TH STREET",315,"Hospital / Health Care"
-"3187569",40.59487,-73.9966,"Brooklyn","2340 CROPSEY AVENUE",311,"Hospital / Health Care"
-"3189635",40.57244,-73.98997,"Brooklyn","3035 WEST 24TH STREET",313,"Hospital / Health Care"
-"3196342",40.58128,-73.96535,"Brooklyn","2865 BRIGHTON 3RD STREET",313,"Hospital / Health Care"
-"3210431",40.61873,-73.94298,"Brooklyn","3201 KINGS HIGHWAY",318,"Hospital / Health Care"
-"3230126",40.64248,-73.89857,"Brooklyn","1555 ROCKAWAY PARKWAY",318,"Hospital / Health Care"
-"3246887",40.57619,-73.93831,"Brooklyn","1516 ORIENTAL BOULEVARD",315,"Hospital / Health Care"
-"3247426",40.5842,-73.9412,"BROOKLYN","2701 EMMONS AVENUE",315,"Hospital / Health Care"
-"3251647",40.6955,-73.97682,"Brooklyn","100 NORTH PORTLAND AVE",302,"Hospital / Health Care"
-"3252578",40.66806,-73.89941,"Brooklyn","289 HINSDALE STREET",305,"Affordable Housing"
-"3252950",40.66788,-73.88234,"Brooklyn","980 DUMONT AVENUE",305,"Affordable Housing"
-"3253398",40.6305,-73.99642,"Brooklyn","1301 57 STREET",312,"Hospital / Health Care"
-"3319656",40.67413,-73.88248,"Brooklyn","2437 PITKIN AVENUE",305,"Affordable Housing"
-"3319689",40.66885,-73.88103,"Brooklyn","671 LINWOOD STREET",305,"Affordable Housing"
-"3322633",40.68196,-73.9467,"Brooklyn","178 HALSEY STREET",303,"Affordable Housing"
-"3326498",40.6624,-73.9113,"Brooklyn","169 LIVONIA AVENUE",316,"Affordable Housing"
-"3327047",40.65764,-73.90132,"Brooklyn","96 NEW LOTS AVENUE",316,"Affordable Housing"
-"3327711",40.65663,-73.94414,"BROOKLYN","451 CLARKSON AVENUE",309,"Hospital / Health Care"
-"3328199",40.64804,-73.95718,"Brooklyn","2177 ALBEMARLE ROAD",314,"Utility"
-"3328803",40.63414,-74.01409,"Brooklyn","6405 7TH AVENUE",310,"Hospital / Health Care"
-"3328805",40.63391,-74.0135,"Brooklyn","730 64TH STREET",310,"Hospital / Health Care"
-"3329130",40.59594,-73.99786,"Brooklyn","2266 CROPSEY AVE",311,"Hospital / Health Care"
-"3329934",40.7183,-73.95358,"BROOKLYN","215 NORTH 10 STREET",301,"Affordable Housing"
-"3330782",40.67516,-73.95947,"Brooklyn","520 PROSPECT PLACE",308,"Hospital / Health Care"
-"3335884",40.69744,-73.98608,"Brooklyn","40 FLATBUSH AVENUE EXTENSION",302,"Hospital / Health Care"
-"3336201",40.63666,-73.94547,"Brooklyn","1488 NEW YORK AVENUE",317,"Affordable Housing"
-"3336552",40.57235,-73.99316,"Brooklyn","2720 SURF AVENUE",313,"Hospital / Health Care"
-"3336861",40.66207,-74.00275,"Brooklyn","99 27 STREET",307,"Utility"
-"3336994",40.73008,-73.96007,"Brooklyn","30 KENT STREET",301,"Affordable Housing"
-"3337274",40.58565,-73.96487,"Brooklyn","2601 OCEAN PARKWAY",313,"Hospital / Health Care"
-"3337808",40.66783,-73.97913,"Brooklyn","506 6TH STREET",306,"Hospital / Health Care"
-"3337899",40.67587,-73.90778,"Brooklyn","1864 EASTERN PARKWAY",316,"Affordable Housing"
-"3338267",40.72113,-73.93103,"Brooklyn","287 MASPETH AVENUE",301,"Utility"
-"3339298",40.58932,-73.93146,"Brooklyn","2601 KNAPP STREET",315,"Utility"
-"3339428",40.68542,-73.98175,"Brooklyn","500 ATLANTIC AVENUE",302,"Hospital / Health Care"
-"3341860",40.68783,-73.93984,"Brooklyn","645 GATES AVENUE",303,"Affordable Housing"
-"3342538",40.65827,-73.89845,"Brooklyn","666 SNEDIKER AVENUE",305,"Affordable Housing"
-"3345333",40.66253,-73.91037,"Brooklyn","215 LIVONIA AVENUE",316,"Affordable Housing"
-"3346308",40.57999,-73.9808,"Brooklyn","1225 NEPTUNE AVENUE",313,"Utility"
-"3379800",40.7296,-73.95139,"Brooklyn","211 MCGUINNESS BOULEVARD",301,"Affordable Housing"
-"3387647",40.69686,-73.92738,"Brooklyn","48 CEDAR STREET",304,"Hospital / Health Care"
-"3391735",40.60973,-73.95906,"Brooklyn","1630 EAST 15TH STRET",315,"Hospital / Health Care"
-"3393021",40.67476,-73.87475,"Brooklyn","2640 PITKIN AVENUE",305,"Hospital / Health Care"
-"3393316",40.64243,-74.00634,"Brooklyn","5008 7TH AVENUE",307,"Hospital / Health Care"
-"3395434",40.70152,-73.94118,"Brooklyn","40 DEBEVOISE STREET",301,"Affordable Housing"
-"3395548",40.70453,-73.98176,"Brooklyn","136 MARSHALL STREET",302,"Utility"
-"3395551",40.70389,-73.98184,"Brooklyn","34 HUDSON AVENUE",302,"Utility"
-"3397264",40.65323,-73.95982,"Brooklyn","2119 CATON AVENUE",314,"Affordable Housing"
-"3398209",40.73364,-73.94761,"Brooklyn","277 GREENPOINT AVENUE",301,"Utility"
-"3398211",40.73364,-73.94761,"Brooklyn","353 GREENPOINT AVENUE",301,"Utility"
-"3418101",40.73683,-73.95909,"Brooklyn","1 BLUE SLIP",301,"Affordable Housing"
-"3418262",40.73643,-73.95956,"Brooklyn","41 BLUE SLIP",301,"Affordable Housing"
-"3421372",40.66393,-73.89821,"Brooklyn","453 HINSDALE STREET",305,"Affordable Housing"
-"3421378",40.69567,-73.99143,"Brooklyn","1 CLINTON STREET",302,"Affordable Housing"
-"3421386",40.66408,-73.90018,"Brooklyn","463 LIVONIA AVENUE",305,"Affordable Housing"
-"3421400",40.65998,-73.89568,"Brooklyn","21 MALTA STREET",305,"Affordable Housing"
-"3421406",40.66279,-73.89185,"Brooklyn","668 VERMONT STREET",305,"Affordable Housing"
-"3421801",40.66889,-73.88501,"Brooklyn","586 WARWICK STREET",305,"Affordable Housing"
-"3421802",40.66884,-73.88496,"Brooklyn","588 WARWICK STREET",305,"Affordable Housing"
-"3421816",40.65895,-73.89896,"Brooklyn","180 NEW LOTS AVENUE",305,"Affordable Housing"
-"3421879",40.6538,-73.8663,"Brooklyn","11629 SEAVIEW AVENUE",305,"Affordable Housing"
-"3421880",40.65396,-73.86679,"Brooklyn","911 ERSKINE STREET",305,"Affordable Housing"
-"3421884",40.65281,-73.87668,"Brooklyn","129 GATEWAY DRIVE",305,"Affordable Housing"
-"3421885",40.65289,-73.87675,"BROOKLYN","127 GATEWAY DRIVE",305,"Affordable Housing"
-"3421886",40.65299,-73.87704,"BROOKLYN","392 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421887",40.65303,-73.87691,"Brooklyn","396 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421888",40.65307,-73.8768,"Brooklyn","398 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421889",40.6531,-73.87669,"BROOKLYN","400 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421890",40.65313,-73.87657,"Brooklyn","402 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421891",40.65335,-73.87721,"Brooklyn","401 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421892",40.6533,-73.87734,"BROOKLYN","389 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421904",40.65559,-73.87326,"Brooklyn","498 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421905",40.65559,-73.87326,"Brooklyn","500 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421906",40.65559,-73.87326,"Brooklyn","502 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421907",40.65559,-73.87326,"Brooklyn","504 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421908",40.65559,-73.87326,"Brooklyn","516 SCHROEDERS AVENUE",305,"Affordable Housing"
-"3421909",40.65559,-73.87326,"Brooklyn","1111 ASHFORD STREET",305,"Affordable Housing"
-"3421919",40.65559,-73.87326,"Brooklyn","1123 ASHFORD STREET",305,"Affordable Housing"
-"3421920",40.65559,-73.87326,"Brooklyn","1121 ASHFORD STREET",305,"Affordable Housing"
-"3421921",40.65559,-73.87326,"Brooklyn","1119 ASHFORD STREET",305,"Affordable Housing"
-"3421922",40.65559,-73.87326,"Brooklyn","1117 ASHFORD STREET",305,"Affordable Housing"
-"3421923",40.65559,-73.87326,"Brooklyn","1115 ASHFORD STREET",305,"Affordable Housing"
-"3421924",40.65559,-73.87326,"Brooklyn","1113 ASHFORD STREET",305,"Affordable Housing"
-"3421942",40.67108,-73.91455,"Brooklyn","416 THOMAS S. BOYLAND STREET",316,"Affordable Housing"
-"3421943",40.6713,-73.91459,"Brooklyn","1900 PARK PLACE",316,"Affordable Housing"
-"3422087",40.73209,-73.96092,"Brooklyn","10 HURON STREET",301,"Affordable Housing"
-"3422112",40.68826,-73.98322,"Brooklyn","33 BOND STREET",302,"Homeless Shelter"
-"3423327",40.69547,-73.93324,"Brooklyn","874 WILLOUGHBY AVENUE",303,"Affordable Housing"
-"3423863",40.57431,-73.98727,"Brooklyn","3003 WEST 21 STREET",313,"Affordable Housing"
-"3424222",40.57439,-73.98685,"Brooklyn","2006 SURF AVENUE",313,"Affordable Housing"
-"3424472",40.68832,-73.98018,"Brooklyn","1 FLATBUSH AVENUE",302,"Affordable Housing"
-"3424477",40.68879,-73.98152,"Brooklyn","540 FULTON STREET",302,"Affordable Housing"
-"3424482",40.69446,-73.9916,"Brooklyn","146 PIERREPONT STREET",302,"Affordable Housing"
-"3424494",40.69384,-73.97791,"Brooklyn","112 ST EDWARDS STREET",302,"Affordable Housing"
-"3424498",40.66896,-73.88717,"Brooklyn","848 BLAKE AVENUE",305,"Affordable Housing"
-"3424499",40.66896,-73.88722,"Brooklyn","846 BLAKE AVENUE",305,"Affordable Housing"
-"3424502",40.66482,-73.90455,"Brooklyn","405 DUMONT AVE",316,"Affordable Housing"
-"3424570",40.65593,-73.86779,"Brooklyn","881 ERSKINE STREET",305,"Affordable Housing"
-"3424571",40.6578,-73.86777,"Brooklyn","702 VANDALIA AVENUE",305,"Affordable Housing"
-"3424614",40.65654,-73.90394,"Brooklyn","214 HEGEMAN AVENUE",316,"Affordable Housing"
-"3424751",40.71473,-73.95922,"Brooklyn","658 DRIGGS AVENUE",301,"Affordable Housing"
-"3425023",40.5997,-73.99657,"Brooklyn","8718 BAY PARKWAY",311,"Hospital / Health Care"
-"3425049",40.71595,-73.96661,"Brooklyn","262 KENT AVENUE",301,"Affordable Housing"
-"3425088",40.67004,-73.85869,"Brooklyn","2858 LINDEN BOULEVARD",305,"Affordable Housing"
-"3425089",40.67061,-73.95466,"Brooklyn","1535 BEDFORD AVENUE",308,"Affordable Housing"
-"3425093",40.67739,-73.95321,"Brooklyn","1336 BEDFORD AVENUE",308,"Affordable Housing"
-"3425163",40.67801,-73.88333,"Brooklyn","315 LINWOOD STREET",305,"Affordable Housing"
-"3425443",40.66633,-73.99163,"Brooklyn","541 4TH AVE",307,"Affordable Housing"
-"3425609",40.6173,-73.96314,"BROOKLYN","1122 CHESTNUT AVENUE",314,"Hospital / Health Care"
-"3425624",40.72712,-73.95882,"Brooklyn","29 WEST STREET",301,"Affordable Housing"
-"3425745",40.68107,-73.96252,"Brooklyn","909 ATLANTIC AVENUE",302,"Affordable Housing"
-"3425776",40.68687,-73.95493,"Brooklyn","1104 BEDFORD AVENUE",303,"Affordable Housing"
-"3425799",40.65599,-73.86378,"Brooklyn","894 FOUNTAIN AVENUE",305,"Affordable Housing"
-"3425801",40.69565,-73.94389,"Brooklyn","948 MYRTLE AVE",303,"Affordable Housing"
-"3425854",40.72044,-73.94749,"Brooklyn","22 ECKFORD ST",301,"Affordable Housing"
-"3425954",40.71095,-73.95445,"Brooklyn","125 BORINQUEN PLACE",301,"Affordable Housing"
-"3426037",40.69574,-73.94787,"BROOKLYN","869 MYRTLE AVENUE",303,"Affordable Housing"
-"3426061",40.73217,-73.96005,"Brooklyn","19 INDIA STREET",301,"Affordable Housing"
-"3426069",40.65516,-73.94861,"Brooklyn","350 CLARKSON AVENUE",317,"Affordable Housing"
-"3426087",40.72001,-73.94628,"Brooklyn","150 BAYARD ST",301,"Affordable Housing"
-"3426172",40.66146,-73.91788,"Brooklyn","7 LIVONIA AVENUE",3,"Affordable Housing"
-"3426189",40.57573,-73.98624,"Brooklyn","2926 WEST 19 STREET",313,"Affordable Housing"
-"3426244",40.6814,-73.87556,"Brooklyn","110 DINSMORE PLACE",305,"Affordable Housing"
-"3426365",40.70818,-73.94738,"Brooklyn","64 SCHOLES STREET",301,"Affordable Housing"
-"3426367",40.69976,-73.93346,"Brooklyn","123 MELROSE STREET",304,"Affordable Housing"
-"3426518",40.68349,-73.96846,"Brooklyn","810 FULTON STREET",302,"Affordable Housing"
-"3426568",40.67539,-73.87959,"Brooklyn","820 GLENMORE AVENUE",305,"Affordable Housing"
-"3426584",40.67941,-73.93619,"Brooklyn","1620 FULTON ST",303,"Affordable Housing"
-"3426643",40.67394,-73.90806,"BROOKLYN","2175 BERGEN STREET",316,"Affordable Housing"
-"3426850",40.68239,-73.96077,"Brooklyn","108 DOWNING STREET",302,"Affordable Housing"
-"3428515",40.65821,-73.89844,"Brooklyn","668 SNEDIKER AVENUE",305,"Affordable Housing"
-"3428568",40.73492,-73.95468,"BROOKLYN","1056 MANHATTAN AVENUE",301,"Affordable Housing"
-"3428706",40.67696,-73.89717,"Brooklyn","50 PENNSYLVANIA AVE",305,"Affordable Housing"
-"3804153",40.65996,-73.89525,"Brooklyn","650 ALABAMA AVENUE",305,"Affordable Housing"
-"3806286",40.68259,-73.9805,"Brooklyn","346 BERGEN ST",302,"Affordable Housing"
-"3808795",40.67275,-73.90691,"Brooklyn","38 CHRISTOPHER AVENUE",316,"Affordable Housing"
-"3810678",40.67478,-73.91594,"Brooklyn","2164 DEAN STREET",316,"Affordable Housing"
-"3811206",40.71512,-73.95813,"Brooklyn","625 DRIGGS AVENUE",301,"Affordable Housing"
-"3816863",40.68203,-73.96112,"Brooklyn","445 GRAND AVENUE",302,"Affordable Housing"
-"3818661",40.66817,-73.89944,"Brooklyn","285 HINSDALE STREET",305,"Affordable Housing"
-"3818663",40.66812,-73.89942,"Brooklyn","287 HINSDALE STREET",305,"Affordable Housing"
-"3818666",40.66801,-73.8994,"Brooklyn","291 HINSDALE STREET",305,"Affordable Housing"
-"3818761",40.65892,-73.89767,"Brooklyn","642 HINSDALE STREET",305,"Affordable Housing"
-"3818766",40.6586,-73.897,"Brooklyn","655 HINSDALE STREET",305,"Affordable Housing"
-"3825231",40.67737,-73.92152,"Brooklyn","343 RALPH AVENUE",303,"Affordable Housing"
-"3828001",40.67241,-73.90722,"Brooklyn","281 MOTHER GASTON BOULEVARD",316,"Affordable Housing"
-"3829837",40.65995,-73.89943,"Brooklyn","679 VAN SINDEREN AVENUE",305,"Affordable Housing"
-"3830946",40.73199,-73.95933,"Brooklyn","144 WEST STREET",301,"Affordable Housing"
-"3833650",40.67458,-73.91772,"Brooklyn","1915 BERGEN STREET",316,"Affordable Housing"
-"3836272",40.67476,-73.91553,"Brooklyn","2178 DEAN STREET",316,"Affordable Housing"
-"3843933",40.66929,-73.88284,"Brooklyn","617 CLEVELAND STREET",305,"Affordable Housing"
-"3844843",40.67203,-73.90712,"Brooklyn","299 MOTHER GASTON BOULEVARD",316,"Affordable Housing"
-"3848437",40.67082,-73.88206,"Brooklyn","586 LINWOOD STREET",305,"Affordable Housing"
-"3855064",40.67799,-73.87359,"Brooklyn","975 LIBERTY AVENUE",305,"Affordable Housing"
-"3855970",40.67344,-73.91277,"Brooklyn","1633 SAINT MARKS AVENUE",316,"Affordable Housing"
-"3858777",40.69283,-74.00069,"Brooklyn","50 BRIDGE PARK DRIVE",302,"Affordable Housing"
-"4007688",40.76772,-73.92157,"QUEENS","28-27 30 STREET",401,"Utility"
-"4017180",40.77361,-73.91334,"Queens","2325 31 ST",401,"Hospital / Health Care"
-"4028821",40.75103,-73.8955,"Queens","70-05 35TH AVENUE",403,"Hospital / Health Care"
-"4037182",40.74582,-73.8835,"QUEENS","8130 BAXTER AVENUE",404,"Homeless Shelter"
-"4045404",40.73719,-73.87637,"Queens","87-08 JUSTICE AVENUE",404,"Hospital / Health Care"
-"4046000",40.7337,-73.86935,"Queens","91-31 QUEENS BOULEVARD",404,"Hospital / Health Care"
-"4048557",40.7494,-73.86206,"Queens","103-24 ROOSEVELT AVE",404,"Hospital / Health Care"
-"4050410",40.73121,-73.86358,"Queens","95-25 QUEENS BLVD",406,"Hospital / Health Care"
-"4050482",40.72921,-73.85844,"Queens","9785 QUEENS BOULEVARD",406,"Hospital / Health Care"
-"4051250",40.72903,-73.85155,"Queens","102-01 66 ROAD",406,"Hospital / Health Care"
-"4052689",40.72467,-73.83828,"Queens","69-70 GRAND CENTRAL PARKWAY",406,"Hospital / Health Care"
-"4052811",40.71526,-73.83063,"Queens","118-35 QUEENS BLVD",406,"Hospital / Health Care"
-"4061301",40.71592,-73.90188,"Queens","60-40 FRESH POND ROAD",405,"Hospital / Health Care"
-"4075227",40.72296,-73.84841,"Queens","104-70 QUEENS BLVD",406,"Hospital / Health Care"
-"4077480",40.72134,-73.84576,"Queens","107-15 70TH ROAD",406,"Utility"
-"4083254",40.70599,-73.90527,"Queens","680 FAIRVIEW AVENUE",405,"Utility"
-"4092399",40.70735,-73.8732,"QUEENS","78-16 COOPER AVENUE",405,"Homeless Shelter"
-"4113174",40.76537,-73.82529,"Queens","13966 35TH AVENUE",407,"Hospital / Health Care"
-"4113418",40.76412,-73.82266,"Queens","36-17 PARSONS BOULEVARD",407,"Hospital / Health Care"
-"4137890",40.75886,-73.78224,"Queens","42-41 201 STREET",411,"Hospital / Health Care"
-"4138361",40.76132,-73.76925,"Queens","214-20 43RD AVENUE",411,"Utility"
-"4147950",40.72076,-73.80778,"QUEENS","159-05 UNION TURNPIKE",408,"Hospital / Health Care"
-"4155422",40.72574,-73.7907,"Queens","176-60 UNION TURNPIKE",408,"Hospital / Health Care"
-"4173982",40.7556,-73.7075,"Queens","271-11 76TH AVENUE",413,"Hospital / Health Care"
-"4187476",40.6868,-73.85126,"Queens","91-02 ATLANTIC AVE",409,"Hospital / Health Care"
-"4202778",40.67944,-73.83891,"Queens","100-02 ROCKAWAY BOULEVARD",410,"Hospital / Health Care"
-"4206508",40.70827,-73.81869,"Queens","138-02 QUEENS BLVD",408,"Hospital / Health Care"
-"4207127",40.70644,-73.80597,"Queens","150-10 HILLSIDE AVENUE",412,"Hospital / Health Care"
-"4208823",40.70326,-73.80159,"Queens","153-19 JAMAICA AVENUE",412,"Affordable Housing"
-"4208866",40.70546,-73.79981,"Queens","89-30 161 STREET",412,"Hospital / Health Care"
-"4208875",40.70456,-73.79807,"Queens","89-74 162 STREET",412,"Hospital / Health Care"
-"4208989",40.70663,-73.7998,"Queens","161-01 89 AVENUE",412,"Affordable Housing"
-"4209575",40.70553,-73.79704,"Queens","89-63 163RD STREET",412,"Utility"
-"4209584",40.70599,-73.79658,"Queens","89-48 164TH STREET",412,"Affordable Housing"
-"4210392",40.71163,-73.78687,"Queens","175-20 HILLSIDE AVENUE",412,"Utility"
-"4210853",40.71445,-73.8019,"Queens","164-11 CHAPIN PARKWAY",408,"Hospital / Health Care"
-"4213659",40.7004,-73.81469,"Queens","90-09 VAN WYCK EXPRESSWAY",412,"Hospital / Health Care"
-"4213669",40.69918,-73.8139,"Queens","137-30 91ST AVE.",412,"Utility"
-"4216225",40.70446,-73.79349,"QUEENS","165-15 ARCHER AVENUE",412,"Hospital / Health Care"
-"4222244",40.7158,-73.77064,"Queens","191-06 HILLSIDE AVE",412,"Hospital / Health Care"
-"4222673",40.71378,-73.75784,"Queens","201-15 JAMAICA AVE",412,"Homeless Shelter"
-"4228614",40.72516,-73.75277,"Queens","212-40 HILLSIDE AVENUE",413,"Hospital / Health Care"
-"4247760",40.67838,-73.8334,"Queens","105-34 ROCKAWAY BLVD.",410,"Hospital / Health Care"
-"4279972",40.67909,-73.75327,"Queens","134-35 SPRINGFIELD BOULEVARD",413,"Hospital / Health Care"
-"4297950",40.60462,-73.75303,"QUEENS","20-10 MOTT AVENUE",414,"Affordable Housing"
-"4298340",40.60002,-73.75187,"Queens","520 BEACH 19 STREET",414,"Hospital / Health Care"
-"4299228",40.59569,-73.7488,"Queens","1410 SEAGIRT BOULEVARD",414,"Hospital / Health Care"
-"4299390",40.59669,-73.75363,"Queens","242 BEACH 20TH STREET",414,"Hospital / Health Care"
-"4301055",40.59962,-73.75443,"Queens","495 BEACH 20 STREET",414,"Hospital / Health Care"
-"4301403",40.59866,-73.76475,"Queens","29-38 FAR ROCKAWAY BOULEVARD",414,"Hospital / Health Care"
-"4301899",40.5946,-73.78146,"QUEENS","50-15 BEACH CHANNEL DRIVE",414,"Hospital / Health Care"
-"4301970",40.59247,-73.79356,"Queens","64-11 BEACH CHANNEL DRIVE",414,"Hospital / Health Care"
-"4303702",40.58449,-73.82206,"Queens","226 BEACH 101 STREET",414,"Homeless Shelter"
-"4312845",40.7703,-73.84435,"Queens","124-15 31ST  AVENUE",407,"Utility"
-"4314502",40.74878,-73.86985,"Queens","40-11 WARREN STREET",404,"Hospital / Health Care"
-"4430390",40.70755,-73.8111,"Queens","144-45 87 AVENUE",408,"Hospital / Health Care"
-"4430537",40.59866,-73.75349,"Queens","327 BEACH 19TH STREET",414,"Hospital / Health Care"
-"4436864",40.76805,-73.92484,"Queens","25-10 30TH AVENUE",401,"Hospital / Health Care"
-"4437132",40.74512,-73.88564,"Queens","79-01 BROADWAY",404,"Hospital / Health Care"
-"4438669",40.70545,-73.80476,"Queens","150-13 89TH AVENUE",412,"Affordable Housing"
-"4438776",40.70456,-73.78824,"Queens","170-01 DOUGLAS AVE",412,"Homeless Shelter"
-"4439540",40.75293,-73.70931,"Queens","270-05 76 AVENUE",413,"Hospital / Health Care"
-"4439898",40.74718,-73.82516,"Queens","56-45 MAIN STREET",407,"Hospital / Health Care"
-"4441880",40.74021,-73.8622,"Queens","52-24 99 STREET",404,"Utility"
-"4442400",40.78038,-73.89295,"Queens","43-01 BERRIAN BLVD",401,"Utility"
-"4442433",40.71778,-73.80529,"Queens","82-70 164TH STREET",408,"Hospital / Health Care"
-"4442434",40.71753,-73.80759,"Queens","82-41 PARSONS BLVD",408,"Affordable Housing"
-"4445327",40.75293,-73.70931,"Queens","75-59 263 STREET",413,"Hospital / Health Care"
-"4447121",40.6819,-73.79282,"Queens","116-30 SUTPHIN BOULEVARD",412,"Hospital / Health Care"
-"4447892",40.76916,-73.87024,"Queens","100-17 23 AVENUE",403,"Hospital / Health Care"
-"4448763",40.70912,-73.81127,"QUEENS","85-70 148 STREET",408,"Hospital / Health Care"
-"4448835",40.69954,-73.80619,"Queens","147-07 94TH AVENUE",412,"Affordable Housing"
-"4448909",40.6674,-73.8515,"Queens","82-12 151ST AVE",410,"Hospital / Health Care"
-"4453834",40.79494,-73.83934,"Queens","127-01 POWELLS COVE BOULEVARD",407,"Utility"
-"4459547",40.66238,-73.80903,"Queens","150-20 134TH STREET",410,"Utility"
-"4539810",40.58344,-73.82933,"Queens","106-21 BEACH CHANNEL  DRIVE",414,"Utility"
-"4542931",40.74148,-73.95936,"Queens","5220 2 STREET",402,"Utility"
-"4542984",40.75804,-73.94686,"QUEENS","38-54 VERNON BOULEVARD",401,"Utility"
-"4546126",40.72921,-73.80584,"Queens","71-40 164TH STREET",408,"Utility"
-"4546438",40.7849,-73.90514,"Queens","31-01 20TH AVENUE",401,"Utility"
-"4546843",40.78728,-73.913,"Queens","18-01 20 AVENUE",401,"Utility"
-"4595549",40.75716,-73.78262,"Queens","44-01 FRANCIS LEWIS BOULEVARD",411,"Hospital / Health Care"
-"4596913",40.74474,-73.94551,"Queens","22-44 JACKSON AVENUE",402,"Affordable Housing"
-"4605192",40.74434,-73.92539,"Queens","43-46 39TH PLACE",402,"Affordable Housing"
-"4607280",40.70054,-73.80679,"Queens","147-40 ARCHER AVENUE",412,"Affordable Housing"
-"4607281",40.70075,-73.80579,"Queens","148-10 ARCHER AVENUE",412,"Affordable Housing"
-"4614896",40.77462,-73.93378,"Queens","3-24 27TH AVENUE",401,"Affordable Housing"
-"4616477",40.75483,-73.78255,"Queens","45-64 FRANCIS LEWIS BLVD",411,"Hospital / Health Care"
-"4617126",40.77082,-73.92748,"Queens","28-16 21ST STREET",401,"Affordable Housing"
-"4617186",40.70559,-73.79166,"Queens","92-23 168TH STREET",412,"Affordable Housing"
-"4617504",40.59322,-73.77698,"Queens","4519 ROCKAWAY BEACH BOULEVARD",414,"Affordable Housing"
-"4617681",40.77649,-73.93518,"Queens","10 HALLETTS POINT",401,"Affordable Housing"
-"4617904",40.60254,-73.75257,"QUEENS","19-38 CORNAGA AVENUE",414,"Affordable Housing"
-"4617912",40.60277,-73.75291,"QUEENS","10-18 BEACH 20 STREET",414,"Affordable Housing"
-"4617913",40.74139,-73.96017,"Queens","52-41 CENTER BOULEVARD",402,"Affordable Housing"
-"4618318",40.74192,-73.95956,"Queens","52-03 CENTER BOULEVARD",402,"Affordable Housing"
-"4618544",40.69954,-73.80619,"QUEENS","147-25 94 AVENUE",412,"Affordable Housing"
-"4618620",40.73696,-73.85073,"QUEENS","108-40 HORACE HARDING EXPRESSWAY",406,"Affordable Housing"
-"4618650",40.74308,-73.91425,"Queens","43-46 51 STREET",402,"Affordable Housing"
-"4618716",40.70384,-73.80605,"Queens","148-33 90 AVENUE",412,"Affordable Housing"
-"4618810",40.76742,-73.92949,"QUEENS","21-03 31 AVENUE",401,"Affordable Housing"
-"4618927",40.60656,-73.75094,"Queens","19-15 NAMEOKE AVENUE",414,"Affordable Housing"
-"4619106",40.76964,-73.93384,"QUEENS","11-37 31 AVENUE",401,"Affordable Housing"
-"4619107",40.7696,-73.93342,"QUEENS","11-28 30 DRIVE",401,"Affordable Housing"
-"4619413",40.70326,-73.80159,"Queens","153-24 90 ROAD",412,"Affordable Housing"
-"4619442",40.60154,-73.74863,"Queens","1403 GATEWAY BLVD",414,"Affordable Housing"
-"4619474",40.73729,-73.84976,"Queens","108-60 HORACE HARDING EXPRESSWAY",406,"Affordable Housing"
-"4619475",40.7369,-73.85137,"Queens","62-11 108 STREET",406,"Affordable Housing"
-"4619700",40.67575,-73.77802,"Queens","161-11 132 AVENUE",412,"Affordable Housing"
-"4619735",40.73666,-73.84894,"Queens","108-75 62 DRIVE",4,"Affordable Housing"
-"4619856",40.73929,-73.96117,"Queens","1-15 57 AVENUE",402,"Affordable Housing"
-"4619857",40.73811,-73.96072,"Queens","57-28 2ND STREET",402,"Affordable Housing"
-"4622929",40.60356,-73.75407,"Queens","1047 BEACH 21 STREET",414,"Affordable Housing"
-"4623027",40.70609,-73.79685,"Queens","89-46 164 STREET",412,"Affordable Housing"
-"4623074",40.75228,-73.93482,"Queens","29-17 40TH AVENUE",401,"Affordable Housing"
-"4623158",40.76989,-73.93424,"QUEENS","11-12 30 DRIVE",401,"Affordable Housing"
-"5013145",40.6108,-74.14561,"STATEN ISLAND","2475 VICTORY BOULEVARD",501,"Utility"
-"5013674",40.6272,-74.07779,"STATEN ISLAND","111 WATER STREET",501,"Hospital / Health Care"
-"5019636",40.60673,-74.13136,"Staten Island","191 BRADLEY AVE",502,"Hospital / Health Care"
-"5037085",40.57924,-74.13076,"Staten Island","140 MEISNER AVENUE",502,"Hospital / Health Care"
-"5048706",40.59557,-74.09061,"Staten Island","88 OLD TOWN ROAD",502,"Hospital / Health Care"
-"5049717",40.58455,-74.08552,"Staten Island","475 SEAVIEW AVENUE",502,"Hospital / Health Care"
-"5082757",40.51698,-74.19614,"Staten Island","375 SEGUINE AVE",503,"Hospital / Health Care"
-"5082854",40.51643,-74.1973,"Staten Island","392 SEGUINE AVENUE",503,"Hospital / Health Care"
-"5106483",40.64541,-74.08222,"Staten Island","105 HAMILTON AVENUE",501,"Hospital / Health Care"
-"5106523",40.63588,-74.10556,"Staten Island","355 BARD AVE",501,"Hospital / Health Care"
-"5106568",40.64462,-74.10966,"STATEN ISLAND","1 DAVIS AVENUE",501,"Utility"
-"5106863",40.62257,-74.07561,"Staten Island","75 VANDERBILT AVENUE",501,"Hospital / Health Care"
-"5110626",40.62522,-74.15717,"Staten Island","2040 FOREST AVENUE",501,"Hospital / Health Care"
-"5110952",40.62267,-74.07799,"STATEN ISLAND","91 TOMPKINS AVENUE",501,"Hospital / Health Care"
-"5113497",40.58631,-74.0862,"STATEN ISLAND","256 MASON AVENUE",502,"Hospital / Health Care"
-"5129201",40.62424,-74.17938,"STATEN ISLAND","200 GULF AVENUE",502,"Utility"
-"5154461",40.58899,-74.1972,"Staten Island","4329 VICTORY BOULEVARD",502,"Utility"
-"5157667",40.63576,-74.13447,"Staten Island","221 PORT RICHMOND AVENUE",501,"Hospital / Health Care"
+BIN,Latitude,Longitude,Borough,Address,Community Board,Category
+1000803,40.70634,-74.01343,Manhattan,39 BROADWAY,101,Hospital / Health Care
+1001015,40.70708,-74.0078,Manhattan,80 MAIDEN LANE,101,Hospital / Health Care
+1001281,40.71003,-74.0057,Manhattan,156 WILLIAM STREET,101,Hospital / Health Care
+1001352,40.71036,-74.00501,Manhattan,170 WILLIAM ST,101,Hospital / Health Care
+1001622,40.71708,-74.00699,Manhattan,40 WORTH STREET,101,Hospital / Health Care
+1003139,40.71101,-73.98291,Manhattan,7 GOUVERNEUR SLIP EAST,103,Hospital / Health Care
+1003223,40.71336,-73.98606,Manhattan,220 HENRY STREET,103,Hospital / Health Care
+1004351,40.72675,-73.97281,Manhattan,800 EAST 14 STREET,103,Utility
+1005201,40.72938,-73.98075,MANHATTAN,204 AVENUE A,103,Affordable Housing
+1005227,40.72861,-73.97962,MANHATTAN,535 EAST 12 STREET,103,Affordable Housing
+1005483,40.72054,-73.99052,Manhattan,184 ELDRIDGE STREET,103,Utility
+1005537,40.72223,-73.98949,Manhattan,189 ALLEN STREET,103,Hospital / Health Care
+1005743,40.7231,-73.98717,Manhattan,94 EAST 1 STREET,103,Hospital / Health Care
+1005894,40.72821,-73.98436,MANHATTAN,150 1 AVENUE,103,Hospital / Health Care
+1006394,40.72831,-73.98639,Manhattan,57 ST MARKS PLACE,103,Hospital / Health Care
+1006480,40.73121,-73.98498,Manhattan,204 2ND AVENUE,103,Utility
+1006511,40.73188,-73.98461,Manhattan,310 EAST 14 STREET,103,Hospital / Health Care
+1009217,40.73415,-73.99035,Manhattan,144 4TH AVENUE,102,Hospital / Health Care
+1009501,40.7341,-73.99834,Manhattan,61 WEST 9TH STREET,102,Hospital / Health Care
+1009706,40.73684,-73.9968,Manhattan,65 WEST 13 STREET,102,Hospital / Health Care
+1011094,40.73772,-74.00087,Manhattan,20 7 AVE,102,Hospital / Health Care
+1012272,40.75323,-74.00499,Manhattan,601 WEST 29 STREET,104,Affordable Housing
+1013043,40.74136,-74.0032,Manhattan,111 EIGHTH AVENUE,104,Hospital / Health Care
+1013622,40.7545,-73.99218,Manhattan,545 8TH AVENUE,104,Hospital / Health Care
+1013644,40.75503,-73.99181,Manhattan,575 8 AVE,104,Hospital / Health Care
+1014260,40.7477,-73.9939,Manhattan,211 WEST 28TH STREET,105,Affordable Housing
+1014264,40.74776,-73.99338,Manhattan,330 SEVENTH AVENUE,105,Hospital / Health Care
+1014337,40.74954,-73.99442,Manhattan,257 WEST 30TH STREET,105,Homeless Shelter
+1014408,40.75146,-73.99075,MANHATTAN,450 7 AVENUE,105,Hospital / Health Care
+1015000,40.74554,-73.99416,Manhattan,275 SEVENTH AVENUE,104,Hospital / Health Care
+1015480,40.74002,-73.99249,MANHATTAN,20 WEST 20 STREET,105,Hospital / Health Care
+1015575,40.74303,-73.9921,Manhattan,71 WEST 23RD STREET,105,Hospital / Health Care
+1016113,40.73793,-73.99142,Manhattan,5 EAST 17TH STREET,105,Hospital / Health Care
+1016277,40.74025,-73.98913,Manhattan,936 BROADWAY,105,Hospital / Health Care
+1016881,40.74322,-73.98663,MANHATTAN,60 MADISON AVENUE,105,Hospital / Health Care
+1017869,40.73675,-73.98708,Manhattan,67 IRVING PLACE,105,Hospital / Health Care
+1018205,40.74332,-73.98315,Manhattan,108 EAST 29TH STREET,105,Utility
+1019551,40.73537,-73.98527,Manhattan,201 EAST 17TH STREET,106,Hospital / Health Care
+1019792,40.73901,-73.98042,Manhattan,429 SECOND AVE,106,Hospital / Health Care
+1020338,40.74729,-73.97495,Manhattan,240 EAST 38TH STREET,106,Hospital / Health Care
+1020429,40.73439,-73.983,Manhattan,301 EAST 17TH STREET,106,Hospital / Health Care
+1020567,40.73685,-73.98105,Manhattan,380 2 AVENUE,106,Hospital / Health Care
+1021900,40.74464,-73.97482,Manhattan,317 EAST   34 STREET,106,Hospital / Health Care
+1022057,40.74384,-73.97253,Manhattan,401 EAST 34TH STREET,106,Hospital / Health Care
+1022553,40.72806,-73.97366,Manhattan,801 EAST 14 STREET,106,Utility
+1022613,40.75629,-73.98488,Manhattan,127 WEST 43 STREET,105,Affordable Housing
+1027178,40.7719,-73.9921,MANHATTAN,850 12 AVENUE,104,Utility
+1030342,40.77543,-73.98689,Manhattan,128 WEST END AVENUE,107,Utility
+1030422,40.77875,-73.98271,Manhattan,214 WEST 72ND STREET,107,Affordable Housing
+1038564,40.75756,-73.9677,Manhattan,232 EAST 54TH STREET,106,Affordable Housing
+1038579,40.75863,-73.96667,Manhattan,228 EAST 56 STREET,106,Utility
+1038658,40.75005,-73.97167,Manhattan,800 2ND AVENUE,106,Hospital / Health Care
+1039975,40.75802,-73.9653,Manhattan,301 EAST 55TH STREET,106,Hospital / Health Care
+1040356,40.75615,-73.96301,Manhattan,415 EAST 54 STREET,106,Hospital / Health Care
+1040750,40.77039,-73.942,Manhattan,900 MAIN STREET,108,Hospital / Health Care
+1040753,40.76404,-73.97166,Manhattan,650 MADISON AVE,108,Hospital / Health Care
+1040754,40.76366,-73.97102,Manhattan,635 MADISON AVENUE,108,Hospital / Health Care
+1042460,40.76724,-73.96552,Manhattan,643 PARK AVENUE,108,Hospital / Health Care
+1042467,40.76806,-73.96552,Manhattan,655 PARK AVENUE,108,Hospital / Health Care
+1043870,40.76418,-73.96214,Manhattan,1239 2ND AVENUE,108,Hospital / Health Care
+1044182,40.77377,-73.95683,Manhattan,208 EAST 79TH STREET,108,Utility
+1044361,40.76237,-73.96212,Manhattan,315 EAST 62ND STREET,108,Hospital / Health Care
+1044750,40.76495,-73.96009,Manhattan,310 EAST 67 STREET,108,Hospital / Health Care
+1046255,40.76568,-73.95415,Manhattan,1320 YORK AVENUE,108,Hospital / Health Care
+1046256,40.76511,-73.95273,Manhattan,535 EAST 70TH STREET,108,Hospital / Health Care
+1046261,40.76686,-73.95265,Manhattan,510 EAST 73RD STREET,108,Hospital / Health Care
+1046262,40.76669,-73.95222,Manhattan,523 EAST 72 STREET,108,Hospital / Health Care
+1046294,40.76833,-73.95226,Manhattan,1402 YORK AVENUE,108,Affordable Housing
+1046842,40.78103,-73.95997,Manhattan,1049 FIFTH AVENUE,108,Hospital / Health Care
+1051260,40.77598,-73.94647,MANHATTAN,511 EAST 86 STREET,108,Affordable Housing
+1051459,40.78857,-73.95467,Manhattan,1160 5TH AVENUE,111,Hospital / Health Care
+1051492,40.79158,-73.95206,Manhattan,17 EAST 102ND STREET,111,Hospital / Health Care
+1051737,40.78646,-73.94928,Manhattan,151 EAST 97TH STREET,111,Utility
+1052223,40.79615,-73.94427,Manhattan,128 EAST 112TH STREET,111,Affordable Housing
+1052261,40.79829,-73.94156,Manhattan,152 EAST 116 STREET,111,Affordable Housing
+1053254,40.80316,-73.94581,MANHATTAN,23 WEST 119 STREET,110,Affordable Housing
+1053478,40.80704,-73.94448,Manhattan,56 W 125 STREET,110,Affordable Housing
+1053770,40.81094,-73.94268,MANHATTAN,406 LENOX AVENUE,110,Affordable Housing
+1053825,40.81158,-73.94224,Manhattan,424 LENOX AVENUE,110,Affordable Housing
+1053826,40.81162,-73.94221,MANHATTAN,426 LENOX AVENUE,110,Affordable Housing
+1053884,40.81174,-73.94212,Manhattan,432 LENOX AVENUE,110,Affordable Housing
+1053899,40.81413,-73.93977,Manhattan,506 LENOX AVENUE,110,Hospital / Health Care
+1054682,40.80376,-73.93545,Manhattan,201 EAST 125TH STREET,111,Affordable Housing
+1055718,40.80026,-73.96067,Manhattan,193 MANHATTAN AVE,107,Utility
+1055906,40.79592,-73.96784,Manhattan,150 WEST 100TH STREET,107,Hospital / Health Care
+1055933,40.799,-73.96382,MANHATTAN,107 WEST 105 STREET,107,Affordable Housing
+1055996,40.80171,-73.96438,Manhattan,981 AMSTERDAM AVENUE,107,Affordable Housing
+1056035,40.80569,-73.96148,Manhattan,1111 AMSTERDAM AVENUE,109,Hospital / Health Care
+1057032,40.80539,-73.9625,Manhattan,1090 AMSTERDAM AVENUE,109,Hospital / Health Care
+1057068,40.79635,-73.97314,Manhattan,305 WEST 97TH STREET,107,Affordable Housing
+1058399,40.80516,-73.95365,Manhattan,264 WEST 118 STREET,110,Hospital / Health Care
+1058438,40.80573,-73.95384,MANHATTAN,281 WEST 118 STREET,110,Affordable Housing
+1059392,40.81304,-73.9526,Manhattan,410 WEST 128TH STREET,109,Affordable Housing
+1060040,40.81699,-73.94041,Manhattan,118 WEST 139TH STREET,110,Affordable Housing
+1060550,40.82489,-73.94006,MANHATTAN,2794 8 AVENUE,110,Affordable Housing
+1061380,40.82569,-73.94603,Manhattan,380 CONVENT AVE,109,Utility
+1062436,40.82862,-73.94935,Manhattan,601 WEST 148 STREET,109,Affordable Housing
+1062675,40.84008,-73.93636,Manhattan,2185 AMSTERDAM AVENUE,112,Affordable Housing
+1062835,40.83563,-73.94145,Manhattan,518 WEST 161ST STREET,112,Affordable Housing
+1062896,40.83782,-73.93881,Manhattan,2110 AMSTERDAM AVENUE,112,Affordable Housing
+1062944,40.83723,-73.94138,Manhattan,544 WEST 163RD STREET,112,Affordable Housing
+1063303,40.83514,-73.94492,Manhattan,609 WEST 158TH STREET,112,Affordable Housing
+1063314,40.83542,-73.94471,Manhattan,9 FORT WASHINGTON AVE,112,Affordable Housing
+1063400,40.8424,-73.9435,Manhattan,722 W 168 ST,112,Hospital / Health Care
+1064203,40.86167,-73.92664,Manhattan,21 ARDEN STREET,112,Affordable Housing
+1076746,40.84127,-73.94346,Manhattan,177 FT WASHINGTON AVENUE,112,Hospital / Health Care
+1077421,40.71034,-73.99869,MANHATTAN,54 CATHERINE STREET,103,Hospital / Health Care
+1078039,40.71743,-73.97781,Manhattan,50 COLUMBIA ST,103,Hospital / Health Care
+1078540,40.7462,-73.99982,Manhattan,275 8TH AVENUE,104,Hospital / Health Care
+1078756,40.74448,-73.98011,Manhattan,151 EAST 31ST STREET,106,Hospital / Health Care
+1080679,40.74276,-73.99137,Manhattan,53 WEST 23RD ST.,105,Hospital / Health Care
+1081243,40.76966,-73.95299,Manhattan,420 EAST 76 STREET,108,Hospital / Health Care
+1081462,40.80443,-73.94063,Manhattan,1919 MADISON AVENUE,111,Hospital / Health Care
+1081661,40.73333,-73.98235,Manhattan,10 NATHAN D. PERLMAN PLACE,106,Hospital / Health Care
+1082185,40.77365,-73.96085,Manhattan,100 EAST 77 STREET,108,Hospital / Health Care
+1082718,40.7697,-73.98689,Manhattan,1000 10TH AVENUE,104,Hospital / Health Care
+1083247,40.73464,-73.98921,Manhattan,10 UNION SQUARE EAST,105,Hospital / Health Care
+1083622,40.75251,-73.99083,Manhattan,230 WEST 36TH STREET,105,Utility
+1083923,40.78988,-73.95326,Manhattan,1190 5TH AVENUE,111,Utility
+1083929,40.78505,-73.94496,Manhattan,1901 1ST AVENUE,111,Utility
+1084338,40.84935,-73.93314,Manhattan,575 WEST 181 STREET,112,Hospital / Health Care
+1084385,40.84069,-73.94164,Manhattan,3959 BROADWAY,112,Hospital / Health Care
+1084386,40.84069,-73.94164,Manhattan,630 WEST 168 STREET,112,Hospital / Health Care
+1084388,40.84069,-73.94164,Manhattan,620 WEST 168 STREET,112,Hospital / Health Care
+1084583,40.71732,-73.99993,Manhattan,96 BAXTER STREET,101,Hospital / Health Care
+1084781,40.76445,-73.95414,Manhattan,525 EAST 68TH STREET,108,Hospital / Health Care
+1084785,40.76445,-73.95414,MANHATTAN,1300 YORK AVENUE,108,Hospital / Health Care
+1084936,40.734,-73.98775,Manhattan,4 IRVING PLACE,106,Utility
+1085319,40.72916,-73.97333,Manhattan,276 AVENUE C,106,Utility
+1085352,40.81151,-73.95074,Manhattan,314 WEST 127TH STREET,110,Affordable Housing
+1085517,40.71648,-74.00578,MANHATTAN,33 THOMAS STREET,101,Utility
+1085588,40.74355,-73.97342,Manhattan,433 EAST 30TH STREET,106,Hospital / Health Care
+1086175,40.766,-73.99589,Manhattan,600 WEST 50 STREET,104,Utility
+1086244,40.82583,-73.95467,Manhattan,750 WEST 145 STREET,109,Utility
+1086515,40.73875,-73.97534,Manhattan,462 1 AVENUE,106,Hospital / Health Care
+1087284,40.76437,-73.9568,Manhattan,1275 YORK AVENUE,108,Hospital / Health Care
+1087298,40.74062,-73.97476,Manhattan,400 EAST 30 ST,106,Homeless Shelter
+1087871,40.80244,-73.96358,Manhattan,1001 AMSTERDAM AVENUE,107,Utility
+1087878,40.79288,-73.93887,Manhattan,2141 1ST AVENUE,111,Utility
+1087933,40.74744,-73.97543,Manhattan,221 EAST 37TH STREET,106,Utility
+1088030,40.78745,-73.92191,Manhattan,107 2ND DRIVE,111,Utility
+1088218,40.72758,-73.97474,Manhattan,214 AVENUE C,103,Utility
+1088859,40.75902,-73.95119,Manhattan,460 MAIN STREET,108,Affordable Housing
+1088869,40.7722,-73.99091,Manhattan,1 WEST END AVENUE,107,Affordable Housing
+1089374,40.77268,-73.99181,Manhattan,639 WEST 59TH STREET,107,Affordable Housing
+1089411,40.75327,-74.00284,Manhattan,545 WEST 30 STREET,104,Affordable Housing
+1089450,40.71806,-73.98901,Manhattan,242 BROOME STREET,103,Affordable Housing
+1089451,40.71705,-73.98576,Manhattan,175 DELANCEY STREET,103,Hospital / Health Care
+1089662,40.80077,-73.93739,Manhattan,2211 3 AVENUE,111,Affordable Housing
+1089723,40.77345,-73.992,Manhattan,400 WEST 61 STREET,107,Affordable Housing
+1089736,40.75654,-73.99905,Manhattan,515 WEST 36TH STREET,104,Affordable Housing
+1089741,40.77296,-73.99251,Manhattan,10 RIVERSIDE BOULEVARD,107,Affordable Housing
+1089771,40.71046,-73.99124,Manhattan,250 SOUTH STREET,103,Affordable Housing
+1089891,40.71733,-73.98645,Manhattan,180 BROOME STREET,103,Affordable Housing
+1089905,40.71723,-73.98724,Manhattan,202 BROOME STREET,103,Affordable Housing
+1090142,40.79368,-73.94644,Manhattan,1465 PARK AVENUE,111,Affordable Housing
+1090183,40.81137,-73.94334,Manhattan,407 LENOX AVENUE,110,Affordable Housing
+1090211,40.73029,-73.98125,Manhattan,435 EAST 13TH STREET,103,Affordable Housing
+1090254,40.76485,-73.95586,Manhattan,1283 YORK AVE,108,Hospital / Health Care
+1090354,40.81255,-73.9498,Manhattan,2395 8TH AVENUE,110,Affordable Housing
+1090416,40.70853,-74.00517,Manhattan,54 FULTON STREET,101,Affordable Housing
+1090431,40.82857,-73.95506,MANHATTAN,679 RIVERSIDE DRIVE,109,Utility
+1090460,40.76166,-73.99732,MANHATTAN,572 11 AVENUE,104,Affordable Housing
+1090512,40.74546,-73.98397,Manhattan,30 EAST 31 STREET,105,Affordable Housing
+1090558,40.81671,-73.94205,Manhattan,2351 ADAM CLAYTON POWELL BLVD,110,Affordable Housing
+1090673,40.81015,-73.95452,Manhattan,101 MORNINGSIDE AVE,109,Affordable Housing
+1090675,40.78434,-73.94321,Manhattan,1912 FIRST AVENUE,111,Affordable Housing
+1090693,40.72717,-74.0081,Manhattan,102 CHARLTON STREET,102,Affordable Housing
+1090697,40.79677,-73.94606,Manhattan,60 EAST 112TH STREET,111,Affordable Housing
+1090710,40.80245,-73.94605,Manhattan,11 WEST 118TH STREET,110,Affordable Housing
+1090720,40.76091,-73.99547,Manhattan,505 WEST 43 STREET,104,Affordable Housing
+1090736,40.72018,-73.98708,Manhattan,140 ESSEX STREET,103,Affordable Housing
+1090749,40.80165,-73.96395,Manhattan,145 WEST 108TH STREET,107,Affordable Housing
+1090764,40.76255,-73.95573,Manhattan,1230 YORK AVENUE,108,Hospital / Health Care
+1090815,40.74793,-73.99449,Manhattan,225 WEST 28TH STREET,105,Affordable Housing
+1091569,40.74253,-73.99094,Manhattan,39 WEST 23RD STREET,105,Affordable Housing
+1091579,40.72046,-73.97913,Manhattan,302 EAST 2ND STREET,103,Affordable Housing
+1091580,40.81073,-73.94984,Manhattan,267 W 126 STREET,110,Affordable Housing
+2000856,40.81681,-73.9185,Bronx,370 EAST 150TH STREET,201,Utility
+2001224,40.82532,-73.90972,Bronx,972 WASHINGTON AVENUE,203,Affordable Housing
+2001305,40.82847,-73.90746,Bronx,3401 3RD AVENUE,203,Affordable Housing
+2001736,40.82154,-73.91642,Bronx,758 COURTLAND AV,201,Hospital / Health Care
+2003083,40.83642,-73.92272,Bronx,1227 EDWARD GRANT HIGHWAY,204,Hospital / Health Care
+2004081,40.81018,-73.90451,Bronx,880 EAST 147TH STREET,201,Affordable Housing
+2004216,40.83011,-73.90536,BRONX,1193 FULTON AVENUE,203,Affordable Housing
+2004246,40.83143,-73.90318,Bronx,1276 FULTON AVENUE,203,Hospital / Health Care
+2005371,40.82181,-73.89812,Bronx,917 WESTCHESTER AVENUE,202,Affordable Housing
+2005661,40.82306,-73.89436,Bronx,980 WESTCHESTER AVENUE,202,Affordable Housing
+2005787,40.82157,-73.8921,Bronx,953 SOUTHERN BOULEVARD,202,Hospital / Health Care
+2007858,40.84647,-73.9104,Bronx,1775 GRAND CONCOURSE,205,Hospital / Health Care
+2007859,40.84349,-73.91101,Bronx,1650 GRAND CONCOURSE,204,Hospital / Health Care
+2008471,40.84981,-73.9146,Bronx,1731 HARRISON AVENUE,205,Hospital / Health Care
+2009651,40.839,-73.89962,BRONX,1591 FULTON AVENUE,203,Hospital / Health Care
+2009910,40.84544,-73.89301,Bronx,1910 ARTHUR AVENUE,206,Hospital / Health Care
+2010494,40.83135,-73.89173,BRONX,1325 SOUTHERN BOULEVARD,203,Affordable Housing
+2010571,40.83331,-73.88979,BRONX,1490 SOUTHERN BOULEVARD,203,Affordable Housing
+2011054,40.85868,-73.89466,Bronx,2400 MARION AVENUE,205,Hospital / Health Care
+2011533,40.85203,-73.89326,Bronx,4419 THIRD AVENUE,206,Hospital / Health Care
+2013591,40.86058,-73.89745,Bronx,2432 GRAND CONCOURSE,205,Hospital / Health Care
+2013600,40.86198,-73.89681,Bronx,2488 GRAND CONCOURSE,205,Hospital / Health Care
+2013628,40.85229,-73.90297,Bronx,2050 GRAND CONCOURSE,205,Affordable Housing
+2013665,40.85195,-73.90155,Bronx,2051 RYER AVENUE,205,Affordable Housing
+2015449,40.88407,-73.88848,Bronx,66 VAN CORTLANDT PARK SOUTH,208,Hospital / Health Care
+2015502,40.87042,-73.90387,Bronx,2678 KINGSBRIDGE TERRACE,208,Hospital / Health Care
+2016116,40.87665,-73.90594,Bronx,5500 BROADWAY,208,Hospital / Health Care
+2016171,40.88002,-73.90323,BRONX,170 WEST 233 STREET,208,Hospital / Health Care
+2017787,40.88049,-73.88109,Bronx,3424 KOSSUTH AVENUE,207,Hospital / Health Care
+2018271,40.88155,-73.87679,Bronx,3530 WAYNE AVENUE,207,Hospital / Health Care
+2018798,40.89626,-73.87353,BRONX,69 EAST 233 STREET,212,Affordable Housing
+2018800,40.89613,-73.87424,Bronx,63 EAST 233RD STREET,212,Affordable Housing
+2023644,40.82675,-73.86087,BRONX,1010 UNDERHILL AVENUE,209,Hospital / Health Care
+2024208,40.82803,-73.86786,Bronx,1755 WATSON AVENUE,209,Affordable Housing
+2025407,40.83055,-73.87241,Bronx,1240 METCALF AVENUE,209,Affordable Housing
+2026971,40.83001,-73.84661,Bronx,1070 HAVEMEYER AVENUE,209,Hospital / Health Care
+2042138,40.84071,-73.84844,Bronx,2475 ST. RAYMOND AVENUE,210,Hospital / Health Care
+2044221,40.84599,-73.84645,Bronx,1617 POPLAR STREET,211,Hospital / Health Care
+2044353,40.84423,-73.85735,Bronx,1616 BRONXDALE AVE,211,Hospital / Health Care
+2047124,40.84806,-73.84366,Bronx,1740 EASTCHESTER ROAD,211,Hospital / Health Care
+2049614,40.85653,-73.85951,Bronx,1000 PELHAM PARKWAY,211,Hospital / Health Care
+2050004,40.85881,-73.8681,Bronx,695 THWAITES PLACE,211,Affordable Housing
+2050370,40.859,-73.85156,BRONX,1235 PELHAM PARKWAY,211,Hospital / Health Care
+2051277,40.86469,-73.86976,Bronx,612 ALLERTON AVENUE,211,Hospital / Health Care
+2054552,40.86564,-73.84282,Bronx,2700 EASTCHESTER RD,211,Hospital / Health Care
+2055589,40.87114,-73.86569,Bronx,3050 CRUGER AVENUE,212,Utility
+2065164,40.88765,-73.84824,Bronx,1050 EAST  230 STREET,212,Hospital / Health Care
+2068259,40.89245,-73.8534,Bronx,825 EAST 233RD STREET,212,Hospital / Health Care
+2070559,40.90046,-73.85805,Bronx,555 NEREID AVENUE,212,Affordable Housing
+2071889,40.90524,-73.84894,Bronx,4770 WHITE PLAINS ROAD,212,Hospital / Health Care
+2072356,40.87932,-73.82906,Bronx,801 CO-OP CITY BLVD,210,Hospital / Health Care
+2072372,40.87723,-73.83543,Bronx,3200 BAYCHESTER AVENUE,212,Hospital / Health Care
+2072483,40.884,-73.83222,Bronx,4012 BOSTON RD,212,Hospital / Health Care
+2077017,40.82821,-73.81902,Bronx,707 THROGS NECK EXPRESSWAY,210,Hospital / Health Care
+2083186,40.87879,-73.90815,Bronx,3001 KINGSBRIDGE AVENUE,208,Utility
+2083412,40.88242,-73.91511,Bronx,641 WEST 230 STREET,208,Hospital / Health Care
+2084228,40.89054,-73.90313,Bronx,4499 MANHATTAN COLLEGE PARKWAY,208,Hospital / Health Care
+2085164,40.90625,-73.9037,Bronx,5676 RIVERDALE AVENUE,208,Hospital / Health Care
+2085330,40.90797,-73.89692,Bronx,6585 BROADWAY,208,Hospital / Health Care
+2086555,40.81952,-73.89583,Bronx,900 INTERVALE AVENUE,202,Hospital / Health Care
+2087151,40.85275,-73.8368,Bronx,1200 WATERS PLACE,211,Hospital / Health Care
+2090447,40.84852,-73.91217,Bronx,1761 JEROME AVENUE,205,Affordable Housing
+2091322,40.81482,-73.90885,Bronx,603 PONTIAC PLACE,201,Affordable Housing
+2091800,40.83163,-73.90417,Bronx,1265 FULTON AVENUE,203,Hospital / Health Care
+2092008,40.8223,-73.89552,Bronx,975 TIFFANY STREET,202,Affordable Housing
+2094217,40.85303,-73.89087,Bronx,4422 3 AVENUE,206,Hospital / Health Care
+2094521,40.84611,-73.90894,Bronx,1780 GRAND CONCOURSE,205,Hospital / Health Care
+2094699,40.8804,-73.89818,Bronx,3400 CANNON PLACE,208,Hospital / Health Care
+2094749,40.88083,-73.87994,Bronx,3444 KOSSUTH AVENUE,207,Hospital / Health Care
+2094835,40.82431,-73.85708,Bronx,1925 TURNBULL AVENUE,209,Hospital / Health Care
+2095219,40.83703,-73.92942,BRONX,1145 UNIVERSITY AVENUE,204,Hospital / Health Care
+2095229,40.86728,-73.90532,BRONX,130 WEST KINGSBRIDGE ROAD,207,Hospital / Health Care
+2096399,40.88083,-73.87994,Bronx,111 EAST 210TH STREET,207,Utility
+2097050,40.81676,-73.92448,Bronx,234 E 149 STREET,201,Hospital / Health Care
+2097363,40.84985,-73.84611,Bronx,1300 MORRIS PARK AVENUE,211,Hospital / Health Care
+2097378,40.85925,-73.83305,Bronx,2316 BRUNER AVENUE,211,Hospital / Health Care
+2097550,40.85546,-73.84661,Bronx,1400 PELHAM PARKWAY,211,Hospital / Health Care
+2098417,40.87667,-73.88649,Bronx,3188 VILLA AVENUE,207,Affordable Housing
+2100381,40.8835,-73.91877,Bronx,2975 INDEPENDENCE AVENUE,208,Hospital / Health Care
+2113129,40.82067,-73.90083,Bronx,890 PROSPECT AVENUE,202,Hospital / Health Care
+2114100,40.83062,-73.8467,Bronx,1072 HAVEMEYER AVENUE,209,Hospital / Health Care
+2114609,40.82504,-73.89229,Bronx,1065 SOUTHERN BLVD,202,Hospital / Health Care
+2116428,40.91075,-73.91066,Bronx,5901 PALISADE AVENUE,208,Hospital / Health Care
+2118990,40.8204,-73.89952,Bronx,886 WESTCHESTER AVE,202,Hospital / Health Care
+2120051,40.85274,-73.8464,BRONX,1225 MORRIS PARK AVENUE,211,Hospital / Health Care
+2122918,40.8799,-73.90776,BRONX,3050 CORLEAR AVENUE,208,Hospital / Health Care
+2124019,40.84329,-73.86118,Bronx,1610 MATTHEWS AVE,211,Utility
+2124546,40.8433,-73.90976,Bronx,199 MT EDEN PARKWAY,204,Hospital / Health Care
+2127129,40.81669,-73.9147,Bronx,600 BERGEN AVENUE,201,Affordable Housing
+2127284,40.82096,-73.87794,Bronx,1530 STORY AVENUE,209,Affordable Housing
+2128204,40.87152,-73.89162,Bronx,2865 CRESTON AVENUE,207,Affordable Housing
+2128231,40.85385,-73.89182,Bronx,4511 3RD AVE,206,Affordable Housing
+2128391,40.81964,-73.89532,Bronx,909 BECK ST.,202,Affordable Housing
+2128398,40.83821,-73.88477,Bronx,1812 VYSE AVENUE,203,Affordable Housing
+2128429,40.80495,-73.91695,Bronx,570 EAST 137 STREET,201,Affordable Housing
+2128439,40.83307,-73.85569,Bronx,2035 NEWBOLD AVE,209,Affordable Housing
+2128441,40.83346,-73.85564,Bronx,2044 WESTCHESTER AVENUE,209,Affordable Housing
+2128505,40.85012,-73.90411,Bronx,220 EAST 178 STREET,205,Affordable Housing
+2128726,40.84615,-73.89693,Bronx,1880 BATHGATE AVENUE,206,Affordable Housing
+2128766,40.84105,-73.89172,Bronx,775 CROTONA PARK NORTH,206,Affordable Housing
+2128910,40.85103,-73.90333,Bronx,225 EAST 179 STREET,205,Affordable Housing
+2128914,40.86786,-73.88645,BRONX,2885 MARION AVENUE,207,Affordable Housing
+2128935,40.81462,-73.88806,Bronx,700 MANIDA STREET,202,Affordable Housing
+2128955,40.81294,-73.90459,Bronx,569 PROSPECT AVE,201,Affordable Housing
+2128970,40.82081,-73.87899,BRONX,1520 STORY AVENUE,209,Affordable Housing
+2128977,40.80951,-73.91615,Bronx,345 ST ANN'S AVE,201,Affordable Housing
+2129026,40.84001,-73.88158,Bronx,1932 BRYANT AVENUE,206,Affordable Housing
+2129027,40.83361,-73.88416,Bronx,1560 BOONE AVENUE,203,Affordable Housing
+2129044,40.81699,-73.92852,Bronx,425 GRAND CONCOURSE,201,Affordable Housing
+2129056,40.81603,-73.91547,Bronx,556 BERGEN AVENUE,201,Affordable Housing
+2129118,40.83863,-73.88176,Bronx,1903 WEST FARMS RD,206,Affordable Housing
+2129119,40.82791,-73.90833,Bronx,1074 WASHINGTON AVENUE,203,Affordable Housing
+2129139,40.82249,-73.91256,Bronx,451 EAST 159TH STREET,203,Affordable Housing
+2129140,40.83143,-73.90781,Bronx,3500 PARK AVENUE,203,Affordable Housing
+2129144,40.82364,-73.91753,Bronx,3120 PARK AVENUE,201,Affordable Housing
+2129154,40.81865,-73.90935,Bronx,600 EAST 156TH STREET,201,Affordable Housing
+2129161,40.82548,-73.88903,Bronx,1115 EAST 165TH STREET,202,Affordable Housing
+2129167,40.82215,-73.89526,Bronx,975 TIFFANY STREET,202,Affordable Housing
+2129171,40.81982,-73.89168,Bronx,985 BRUCKNER BOULEVARD,202,Affordable Housing
+2129183,40.83727,-73.91675,Bronx,112 EAST CLARKE PLACE,204,Affordable Housing
+2129224,40.83871,-73.91879,Bronx,1325 JEROME AVENUE,204,Affordable Housing
+2129230,40.82288,-73.92378,Bronx,180 EAST 156TH STREET,204,Affordable Housing
+2129250,40.87407,-73.88603,BRONX,211 EAST 203 STREET,207,Affordable Housing
+2129261,40.84761,-73.89225,Bronx,600 EAST 179 STREET,206,Affordable Housing
+2129268,40.82453,-73.91153,Bronx,443 EAST 162ND STREET,203,Affordable Housing
+2129282,40.87482,-73.88799,Bronx,16 E. 204TH STREET,207,Affordable Housing
+2129288,40.82838,-73.90652,Bronx,545 EAST  166 STREET,203,Affordable Housing
+2129313,40.85871,-73.89142,BRONX,4697 3 AVENUE,206,Affordable Housing
+2129326,40.87673,-73.88451,Bronx,150 VAN CORTLANDT AVE EAST,207,Affordable Housing
+2129390,40.81137,-73.91901,Bronx,448 EAST 143RD STREET,201,Affordable Housing
+2129395,40.84731,-73.88451,Bronx,801 EAST 181 STREET,206,Affordable Housing
+2129466,40.8772,-73.86013,Bronx,839 TILDEN STREET,212,Affordable Housing
+2129467,40.822,-73.92467,Bronx,702 GRAND CONCOURSE,204,Affordable Housing
+2129503,40.83011,-73.90536,Bronx,1193 FULTON AVENUE,203,Affordable Housing
+2130367,40.8347,-73.92189,Bronx,1164 RIVER AVENUE,204,Affordable Housing
+2130390,40.81466,-73.89088,Bronx,720 TIFFANY STREET,202,Affordable Housing
+2130434,40.84227,-73.884,BRONX,1973 DALY AVENUE,206,Affordable Housing
+2825058,40.8259,-73.90963,Bronx,481 EAST 164TH STREET,203,Affordable Housing
+2833311,40.82204,-73.92427,Bronx,707 CONCOURSE VILLAGE WEST,204,Affordable Housing
+3000338,40.69254,-73.98653,Brooklyn,57 WILLOUGHBY STREET,302,Hospital / Health Care
+3000507,40.6881,-73.9824,Brooklyn,308 LIVINGSTON STREET,302,Affordable Housing
+3000519,40.68792,-73.98261,BROOKLYN,285 SCHERMERHORN STREET,302,Affordable Housing
+3000556,40.68714,-73.98222,Brooklyn,50 NEVINS STREET,302,Affordable Housing
+3000753,40.68574,-73.98073,Brooklyn,30 3RD AVE,302,Hospital / Health Care
+3002801,40.68974,-73.99084,Brooklyn,66 BOERUM PLACE,302,Hospital / Health Care
+3010094,40.65608,-74.00202,Brooklyn,875 FOURTH AVENUE,307,Affordable Housing
+3012967,40.64511,-74.00928,Brooklyn,514 49TH STREET,307,Hospital / Health Care
+3013507,40.64592,-74.01364,BROOKLYN,5106 4 AVENUE,307,Affordable Housing
+3014856,40.64667,-74.02122,Brooklyn,150 55TH STREET,307,Hospital / Health Care
+3015571,40.64502,-74.02157,Brooklyn,5718 SECOND AVENUE,307,Hospital / Health Care
+3024704,40.67229,-73.97095,Brooklyn,1 PROSPECT PARK WEST,306,Hospital / Health Care
+3029544,40.67297,-73.96313,Brooklyn,840 WASHINGTON AVE,308,Affordable Housing
+3029966,40.67739,-73.95321,Brooklyn,1350 BEDFORD AVENUE,308,Affordable Housing
+3029989,40.67752,-73.95161,Brooklyn,1216 PACIFIC STREET,308,Affordable Housing
+3033161,40.6688,-73.95499,Brooklyn,1101 PRESIDENT STREET,309,Affordable Housing
+3037315,40.66966,-73.93354,Brooklyn,259 SCHENECTADY AVE.,308,Hospital / Health Care
+3038661,40.67554,-73.90709,BROOKLYN,126 SACKMAN STREET,316,Affordable Housing
+3038665,40.67577,-73.9058,BROOKLYN,2384 ATLANTIC AVENUE,316,Hospital / Health Care
+3039624,40.68898,-73.92341,Brooklyn,1000 GATES AVENUE,303,Hospital / Health Care
+3048072,40.67843,-73.93759,Brooklyn,1535 ATLANTIC AVE,303,Hospital / Health Care
+3048341,40.6995,-73.94273,Brooklyn,760 BROADWAY,303,Hospital / Health Care
+3048430,40.69566,-73.95604,Brooklyn,825 BEDFORD AVE,303,Affordable Housing
+3049600,40.69087,-73.95471,Brooklyn,550 DEKALB AVENUE,303,Affordable Housing
+3052406,40.6832,-73.9463,Brooklyn,243 HANCOCK ST.,303,Affordable Housing
+3054209,40.6967,-73.95925,Brooklyn,439 PARK AVENUE,303,Hospital / Health Care
+3056631,40.68352,-73.96562,BROOKLYN,937 FULTON STREET,302,Hospital / Health Care
+3057751,40.68071,-73.95519,Brooklyn,1134 FULTON ST,303,Affordable Housing
+3057984,40.69633,-73.97324,Brooklyn,55 CARLTON AVENUE,302,Affordable Housing
+3058003,40.69642,-73.97289,Brooklyn,165 PARK AVE,302,Affordable Housing
+3058264,40.69231,-73.9779,Brooklyn,140 ST. EDWARDS STREET,302,Hospital / Health Care
+3058406,40.69178,-73.98204,BROOKLYN,295 FLATBUSH AVENUE EXTENSION,302,Hospital / Health Care
+3058410,40.69058,-73.97794,Brooklyn,121 DEKALB AVENUE,302,Hospital / Health Care
+3062539,40.71264,-73.95287,Brooklyn,56 AINSLIE STREET,301,Affordable Housing
+3062567,40.71617,-73.96434,Brooklyn,296 WHYTE AV,301,Affordable Housing
+3063675,40.73799,-73.95708,Brooklyn,77 COMMERCIAL STREET,301,Affordable Housing
+3070943,40.70799,-73.9479,Brooklyn,55 MESEROLE STREET,301,Utility
+3071676,40.70064,-73.94049,Brooklyn,16 SUMNER PLACE,304,Hospital / Health Care
+3072011,40.69832,-73.93465,Brooklyn,594 BUSHWICK AVENUE,304,Affordable Housing
+3072556,40.7042,-73.92484,Brooklyn,314 TROUTMAN STREET,304,Affordable Housing
+3074262,40.7042,-73.91756,Brooklyn,374 STOCKHOLM STREET,304,Hospital / Health Care
+3081765,40.6647,-73.9111,Brooklyn,259 BRISTOL STREET,316,Hospital / Health Care
+3083272,40.67689,-73.89789,BROOKLYN,2618 FULTON STREET,305,Affordable Housing
+3083600,40.67261,-73.90729,Brooklyn,273 MOTHER GASTON BOULEVARD,316,Affordable Housing
+3083928,40.6715,-73.89539,Brooklyn,249 PENNSYLVANIA AVENUE,305,Hospital / Health Care
+3085896,40.65764,-73.90132,Brooklyn,672 POWELL STREET,316,Affordable Housing
+3085948,40.65789,-73.89792,Brooklyn,1745 LINDEN BOULEVARD,305,Affordable Housing
+3085955,40.65866,-73.89701,Brooklyn,653 HINSDALE STREET,305,Affordable Housing
+3088349,40.6771,-73.88552,Brooklyn,2950 ATLANTIC AVENUE,305,Utility
+3088714,40.67551,-73.88144,Brooklyn,777 GLENMORE AVE,305,Affordable Housing
+3089994,40.6685,-73.88873,Brooklyn,806 BLAKE AVENUE,305,Affordable Housing
+3096183,40.67157,-73.86284,BROOKLYN,1485 DUMONT AVENUE,305,Hospital / Health Care
+3102705,40.6567,-73.91469,Brooklyn,9701 CHURCH AVE,317,Hospital / Health Care
+3103615,40.65492,-73.91238,BROOKLYN,1275 LINDEN BOULEVARD,317,Hospital / Health Care
+3116414,40.64953,-73.96729,Brooklyn,1312 CATON AVE,314,Hospital / Health Care
+3117703,40.64776,-73.95443,Brooklyn,74 LOTT STREET,317,Affordable Housing
+3118533,40.64346,-73.96012,Brooklyn,1921 CORTELYOU ROAD,314,Affordable Housing
+3119523,40.64024,-73.95763,Brooklyn,2107 DITMAS AVENUE,314,Hospital / Health Care
+3125490,40.64137,-73.97266,Brooklyn,615 AVE C,312,Hospital / Health Care
+3137310,40.64029,-73.99979,Brooklyn,920 48 STREET,312,Hospital / Health Care
+3137601,40.6385,-73.99862,BROOKLYN,4915 10 AVENUE,312,Hospital / Health Care
+3140386,40.63095,-73.9979,Brooklyn,1250 57 STREET,312,Hospital / Health Care
+3148730,40.63075,-74.02583,Brooklyn,370 BAY RIDGE PARKWAY,310,Hospital / Health Care
+3165661,40.61237,-74.01054,Brooklyn,1435 86TH STREET,311,Hospital / Health Care
+3182384,40.60948,-73.95966,Brooklyn,1630 EAST 14TH STREET,315,Hospital / Health Care
+3187569,40.59487,-73.9966,Brooklyn,2340 CROPSEY AVENUE,311,Hospital / Health Care
+3189635,40.57244,-73.98997,Brooklyn,3035 WEST 24TH STREET,313,Hospital / Health Care
+3196342,40.58128,-73.96535,Brooklyn,2865 BRIGHTON 3RD STREET,313,Hospital / Health Care
+3210431,40.61873,-73.94298,Brooklyn,3201 KINGS HIGHWAY,318,Hospital / Health Care
+3230126,40.64248,-73.89857,Brooklyn,1555 ROCKAWAY PARKWAY,318,Hospital / Health Care
+3246887,40.57619,-73.93831,Brooklyn,1516 ORIENTAL BOULEVARD,315,Hospital / Health Care
+3247426,40.5842,-73.9412,BROOKLYN,2701 EMMONS AVENUE,315,Hospital / Health Care
+3251647,40.6955,-73.97682,Brooklyn,100 NORTH PORTLAND AVE,302,Hospital / Health Care
+3252578,40.66806,-73.89941,Brooklyn,289 HINSDALE STREET,305,Affordable Housing
+3252950,40.66788,-73.88234,Brooklyn,980 DUMONT AVENUE,305,Affordable Housing
+3253398,40.6305,-73.99642,Brooklyn,1301 57 STREET,312,Hospital / Health Care
+3319656,40.67413,-73.88248,Brooklyn,2437 PITKIN AVENUE,305,Affordable Housing
+3319689,40.66885,-73.88103,Brooklyn,671 LINWOOD STREET,305,Affordable Housing
+3322633,40.68196,-73.9467,Brooklyn,178 HALSEY STREET,303,Affordable Housing
+3326498,40.6624,-73.9113,Brooklyn,169 LIVONIA AVENUE,316,Affordable Housing
+3327047,40.65764,-73.90132,Brooklyn,96 NEW LOTS AVENUE,316,Affordable Housing
+3327711,40.65663,-73.94414,BROOKLYN,451 CLARKSON AVENUE,309,Hospital / Health Care
+3328199,40.64804,-73.95718,Brooklyn,2177 ALBEMARLE ROAD,314,Utility
+3328803,40.63414,-74.0141,BROOKLYN,6405 7 AVENUE,310,Hospital / Health Care
+3328805,40.63391,-74.0135,Brooklyn,730 64TH STREET,310,Hospital / Health Care
+3329130,40.59594,-73.99785,BROOKLYN,2256 CROPSEY AVENUE,311,Hospital / Health Care
+3329934,40.7183,-73.95358,BROOKLYN,215 NORTH 10 STREET,301,Affordable Housing
+3330782,40.67516,-73.95947,Brooklyn,520 PROSPECT PLACE,308,Hospital / Health Care
+3335884,40.69744,-73.98608,Brooklyn,40 FLATBUSH AVENUE EXTENSION,302,Hospital / Health Care
+3336201,40.63666,-73.94547,Brooklyn,1488 NEW YORK AVENUE,317,Affordable Housing
+3336552,40.57235,-73.99316,Brooklyn,2720 SURF AVENUE,313,Hospital / Health Care
+3336861,40.66207,-74.00275,Brooklyn,99 27 STREET,307,Utility
+3336994,40.73008,-73.96007,Brooklyn,30 KENT STREET,301,Affordable Housing
+3337274,40.58565,-73.96487,Brooklyn,2601 OCEAN PARKWAY,313,Hospital / Health Care
+3337808,40.66783,-73.97913,Brooklyn,506 6TH STREET,306,Hospital / Health Care
+3337899,40.67587,-73.90778,Brooklyn,1860 EASTERN PARKWAY,316,Affordable Housing
+3338267,40.72113,-73.93103,Brooklyn,287 MASPETH AVENUE,301,Utility
+3339298,40.58932,-73.93146,Brooklyn,2601 KNAPP STREET,315,Utility
+3339428,40.68542,-73.98175,Brooklyn,500 ATLANTIC AVENUE,302,Hospital / Health Care
+3341860,40.68783,-73.93984,Brooklyn,645 GATES AVENUE,303,Affordable Housing
+3342538,40.65827,-73.89845,Brooklyn,666 SNEDIKER AVENUE,305,Affordable Housing
+3345333,40.66253,-73.91037,Brooklyn,215 LIVONIA AVENUE,316,Affordable Housing
+3346308,40.57999,-73.9808,Brooklyn,1225 NEPTUNE AVENUE,313,Utility
+3379800,40.7296,-73.95138,BROOKLYN,211 MCGUINNESS BOULEVARD,301,Affordable Housing
+3387647,40.69686,-73.92738,Brooklyn,48 CEDAR STREET,304,Hospital / Health Care
+3391735,40.60973,-73.95906,Brooklyn,1630 EAST 15TH STRET,315,Hospital / Health Care
+3393021,40.67476,-73.87475,Brooklyn,2640 PITKIN AVENUE,305,Hospital / Health Care
+3393316,40.64243,-74.00634,Brooklyn,5008 7TH AVENUE,307,Hospital / Health Care
+3395434,40.70152,-73.94118,Brooklyn,40 DEBEVOISE STREET,301,Affordable Housing
+3395548,40.70453,-73.98176,Brooklyn,136 MARSHALL STREET,302,Utility
+3395551,40.70389,-73.98184,Brooklyn,34 HUDSON AVENUE,302,Utility
+3397264,40.65323,-73.95982,Brooklyn,800 FLATBUSH AVENUE,314,Affordable Housing
+3398209,40.73364,-73.94761,Brooklyn,277 GREENPOINT AVENUE,301,Utility
+3398211,40.73364,-73.94761,Brooklyn,353 GREENPOINT AVENUE,301,Utility
+3418101,40.73683,-73.95909,Brooklyn,1 BLUE SLIP,301,Affordable Housing
+3418262,40.73643,-73.95956,Brooklyn,41 BLUE SLIP,301,Affordable Housing
+3421372,40.66393,-73.89821,Brooklyn,453 HINSDALE STREET,305,Affordable Housing
+3421378,40.69567,-73.99143,Brooklyn,1 CLINTON STREET,302,Affordable Housing
+3421386,40.66408,-73.90018,Brooklyn,463 LIVONIA AVENUE,305,Affordable Housing
+3421400,40.65998,-73.89568,Brooklyn,21 MALTA STREET,305,Affordable Housing
+3421406,40.66279,-73.89185,Brooklyn,668 VERMONT STREET,305,Affordable Housing
+3421801,40.66889,-73.88501,Brooklyn,586 WARWICK STREET,305,Affordable Housing
+3421802,40.66884,-73.88496,Brooklyn,588 WARWICK STREET,305,Affordable Housing
+3421816,40.65895,-73.89896,Brooklyn,180 NEW LOTS AVENUE,305,Affordable Housing
+3421879,40.6538,-73.8663,Brooklyn,11629 SEAVIEW AVENUE,305,Affordable Housing
+3421880,40.65396,-73.86679,Brooklyn,911 ERSKINE STREET,305,Affordable Housing
+3421884,40.65281,-73.87668,Brooklyn,129 GATEWAY DRIVE,305,Affordable Housing
+3421885,40.65289,-73.87675,Brooklyn,127 GATEWAY DRIVE,305,Affordable Housing
+3421886,40.65299,-73.87704,Brooklyn,392 SCHROEDERS AVENUE,305,Affordable Housing
+3421887,40.65303,-73.87691,Brooklyn,396 SCHROEDERS AVENUE,305,Affordable Housing
+3421888,40.65307,-73.8768,Brooklyn,398 SCHROEDERS AVENUE,305,Affordable Housing
+3421889,40.6531,-73.87669,BROOKLYN,400 SCHROEDERS AVENUE,305,Affordable Housing
+3421890,40.65313,-73.87657,Brooklyn,402 SCHROEDERS AVENUE,305,Affordable Housing
+3421891,40.65335,-73.87721,Brooklyn,401 SCHROEDERS AVENUE,305,Affordable Housing
+3421892,40.6533,-73.87733,Brooklyn,389 SCHROEDERS AVENUE,305,Affordable Housing
+3421904,40.65433,-73.8737,BROOKLYN,498 SCHROEDERS AVENUE,305,Affordable Housing
+3421905,40.65559,-73.87326,Brooklyn,500 SCHROEDERS AVENUE,305,Affordable Housing
+3421906,40.65559,-73.87326,Brooklyn,502 SCHROEDERS AVENUE,305,Affordable Housing
+3421907,40.65559,-73.87326,Brooklyn,504 SCHROEDERS AVENUE,305,Affordable Housing
+3421908,40.65559,-73.87326,Brooklyn,516 SCHROEDERS AVENUE,305,Affordable Housing
+3421909,40.65559,-73.87326,Brooklyn,1111 ASHFORD STREET,305,Affordable Housing
+3421919,40.6544,-73.87452,BROOKLYN,1123 ASHFORD STREET,305,Affordable Housing
+3421920,40.65559,-73.87326,Brooklyn,1121 ASHFORD STREET,305,Affordable Housing
+3421921,40.65559,-73.87326,Brooklyn,1119 ASHFORD STREET,305,Affordable Housing
+3421922,40.65559,-73.87326,Brooklyn,1117 ASHFORD STREET,305,Affordable Housing
+3421923,40.65559,-73.87326,Brooklyn,1115 ASHFORD STREET,305,Affordable Housing
+3421924,40.65559,-73.87326,Brooklyn,1113 ASHFORD STREET,305,Affordable Housing
+3421942,40.67108,-73.91455,Brooklyn,416 THOMAS S. BOYLAND STREET,316,Affordable Housing
+3421943,40.6713,-73.91459,BROOKLYN,1900 PARK PLACE,316,Affordable Housing
+3422087,40.73209,-73.96092,Brooklyn,10 HURON STREET,301,Affordable Housing
+3422112,40.68826,-73.98322,Brooklyn,33 BOND STREET,302,Homeless Shelter
+3423327,40.69547,-73.93324,Brooklyn,874 WILLOUGHBY AVENUE,303,Affordable Housing
+3423863,40.57431,-73.98727,Brooklyn,3003 WEST 21 STREET,313,Affordable Housing
+3424222,40.57439,-73.98685,Brooklyn,2006 SURF AVENUE,313,Affordable Housing
+3424472,40.68832,-73.98018,Brooklyn,1 FLATBUSH AVENUE,302,Affordable Housing
+3424477,40.68879,-73.98152,Brooklyn,540 FULTON STREET,302,Affordable Housing
+3424482,40.69446,-73.9916,Brooklyn,146 PIERREPONT STREET,302,Affordable Housing
+3424494,40.69384,-73.97791,Brooklyn,112 ST EDWARDS STREET,302,Affordable Housing
+3424498,40.66896,-73.88717,Brooklyn,848 BLAKE AVENUE,305,Affordable Housing
+3424499,40.66896,-73.88722,Brooklyn,846 BLAKE AVENUE,305,Affordable Housing
+3424502,40.66482,-73.90455,Brooklyn,405 DUMONT AVE,316,Affordable Housing
+3424570,40.65593,-73.86779,Brooklyn,881 ERSKINE STREET,305,Affordable Housing
+3424571,40.6578,-73.86777,Brooklyn,702 VANDALIA AVENUE,305,Affordable Housing
+3424614,40.65654,-73.90394,Brooklyn,214 HEGEMAN AVENUE,316,Affordable Housing
+3424751,40.71473,-73.95922,Brooklyn,658 DRIGGS AVENUE,301,Affordable Housing
+3425023,40.5997,-73.99657,Brooklyn,8718 BAY PARKWAY,311,Hospital / Health Care
+3425049,40.71595,-73.96661,Brooklyn,266 KENT AVE,301,Affordable Housing
+3425088,40.67004,-73.85869,Brooklyn,2858 LINDEN BOULEVARD,305,Affordable Housing
+3425089,40.67061,-73.95466,Brooklyn,1535 BEDFORD AVENUE,308,Affordable Housing
+3425093,40.67739,-73.95321,Brooklyn,1336 BEDFORD AVENUE,308,Affordable Housing
+3425163,40.67801,-73.88333,Brooklyn,315 LINWOOD STREET,305,Affordable Housing
+3425443,40.66633,-73.99163,Brooklyn,541 4TH AVE,307,Affordable Housing
+3425609,40.6173,-73.96314,BROOKLYN,1122 CHESTNUT AVENUE,314,Hospital / Health Care
+3425624,40.72712,-73.95882,Brooklyn,27 WEST ST,301,Affordable Housing
+3425745,40.68107,-73.96252,Brooklyn,909 ATLANTIC AVENUE,302,Affordable Housing
+3425776,40.68687,-73.95493,Brooklyn,1104 BEDFORD AVE,303,Affordable Housing
+3425799,40.65599,-73.86378,Brooklyn,894 FOUNTAIN AVE.,305,Affordable Housing
+3425801,40.69565,-73.94389,Brooklyn,948 MYRTLE AVE,303,Affordable Housing
+3425854,40.72044,-73.94749,Brooklyn,12 ECKFORD ST,301,Affordable Housing
+3425954,40.71095,-73.95445,Brooklyn,125 BORINQUEN PLACE,301,Affordable Housing
+3426037,40.69574,-73.94787,Brooklyn,869 MYRTLE AVENUE,303,Affordable Housing
+3426061,40.73217,-73.96005,Brooklyn,19 INDIA STREET,301,Affordable Housing
+3426069,40.65516,-73.94861,Brooklyn,350 CLARKSON AVENUE,317,Affordable Housing
+3426087,40.72001,-73.94628,Brooklyn,150 BAYARD ST,301,Affordable Housing
+3426172,40.66146,-73.91788,Brooklyn,7 LIVONIA AVENUE,3,Affordable Housing
+3426189,40.57573,-73.98624,Brooklyn,2926 WEST 19 STREET,313,Affordable Housing
+3426244,40.6814,-73.87556,Brooklyn,110 DINSMORE PLACE,305,Affordable Housing
+3426365,40.70818,-73.94738,BROOKLYN,64 SCHOLES STREET,301,Affordable Housing
+3426367,40.69976,-73.93346,Brooklyn,123 MELROSE STREET,304,Affordable Housing
+3426518,40.68349,-73.96846,Brooklyn,810 FULTON STREET,302,Affordable Housing
+3426568,40.67539,-73.87959,Brooklyn,820 GLENMORE AVE,305,Affordable Housing
+3426584,40.67941,-73.93619,Brooklyn,1620 FULTON ST,303,Affordable Housing
+3426643,40.67382,-73.90815,Brooklyn,2175 BERGEN STREET,316,Affordable Housing
+3426850,40.68239,-73.96077,BROOKLYN,108 DOWNING STREET,302,Affordable Housing
+3428515,40.65821,-73.89844,Brooklyn,668 SNEDIKER AVENUE,305,Affordable Housing
+3428568,40.73492,-73.95468,BROOKLYN,1056 MANHATTAN AVENUE,301,Affordable Housing
+3428706,40.67696,-73.89717,Brooklyn,50 PENNSYLVANIA AVE,305,Affordable Housing
+3804153,40.65996,-73.89525,Brooklyn,650 ALABAMA AVENUE,305,Affordable Housing
+3806286,40.68259,-73.9805,Brooklyn,346 BERGEN STREET,302,Affordable Housing
+3808795,40.67275,-73.90691,Brooklyn,38 CHRISTOPHER AVENUE,316,Affordable Housing
+3810678,40.67478,-73.91594,Brooklyn,2164 DEAN STREET,316,Affordable Housing
+3811206,40.71512,-73.95813,Brooklyn,625 DRIGGS AVENUE,301,Affordable Housing
+3816863,40.68203,-73.96112,Brooklyn,445 GRAND AVENUE,302,Affordable Housing
+3818661,40.66817,-73.89944,Brooklyn,285 HINSDALE STREET,305,Affordable Housing
+3818663,40.66812,-73.89942,Brooklyn,287 HINSDALE STREET,305,Affordable Housing
+3818666,40.66801,-73.8994,Brooklyn,291 HINSDALE STREET,305,Affordable Housing
+3818761,40.65892,-73.89767,Brooklyn,642 HINSDALE STREET,305,Affordable Housing
+3818766,40.6586,-73.897,Brooklyn,655 HINSDALE STREET,305,Affordable Housing
+3825231,40.67737,-73.92152,Brooklyn,343 RALPH AVENUE,303,Affordable Housing
+3828001,40.67241,-73.90722,Brooklyn,281 MOTHER GASTON BOULEVARD,316,Affordable Housing
+3829837,40.65995,-73.89943,Brooklyn,679 VAN SINDEREN AVENUE,305,Affordable Housing
+3830946,40.73199,-73.95933,Brooklyn,144 WEST STREET,301,Affordable Housing
+3833650,40.67458,-73.91772,Brooklyn,1915 BERGEN STREET,316,Affordable Housing
+3836272,40.67476,-73.91553,Brooklyn,2178 DEAN STREET,316,Affordable Housing
+3843933,40.66929,-73.88284,Brooklyn,617 CLEVELAND STREET,305,Affordable Housing
+3844843,40.67203,-73.90712,Brooklyn,299 MOTHER GASTON BOULEVARD,316,Affordable Housing
+3848437,40.67082,-73.88206,Brooklyn,586 LINWOOD STREET,305,Affordable Housing
+3855064,40.67799,-73.87359,Brooklyn,975 LIBERTY AVENUE,305,Affordable Housing
+3855970,40.67344,-73.91277,Brooklyn,1633 SAINT MARKS AVENUE,316,Affordable Housing
+3858777,40.69283,-74.00069,Brooklyn,50 BRIDGE PARK DRIVE,302,Affordable Housing
+4007688,40.76772,-73.92157,QUEENS,28-27 30 STREET,401,Utility
+4017180,40.77361,-73.91334,Queens,2325 31 ST,401,Hospital / Health Care
+4028821,40.75103,-73.8955,Queens,70-05 35TH AVENUE,403,Hospital / Health Care
+4045404,40.73719,-73.87637,Queens,87-08 JUSTICE AVENUE,404,Hospital / Health Care
+4046000,40.7337,-73.86935,Queens,91-31 QUEENS BOULEVARD,404,Hospital / Health Care
+4048557,40.7494,-73.86206,Queens,103-24 ROOSEVELT AVE,404,Hospital / Health Care
+4050410,40.73121,-73.86358,Queens,95-25 QUEENS BLVD,406,Hospital / Health Care
+4050482,40.72921,-73.85844,Queens,9785 QUEENS BOULEVARD,406,Hospital / Health Care
+4051250,40.72903,-73.85155,Queens,102-01 66 ROAD,406,Hospital / Health Care
+4052689,40.72467,-73.83828,Queens,69-70 GRAND CENTRAL PARKWAY,406,Hospital / Health Care
+4052811,40.71526,-73.83063,Queens,118-35 QUEENS BLVD,406,Hospital / Health Care
+4061301,40.71592,-73.90188,Queens,60-40 FRESH POND ROAD,405,Hospital / Health Care
+4075227,40.72296,-73.84841,Queens,104-70 QUEENS BOULEVARD,406,Hospital / Health Care
+4077480,40.72134,-73.84576,Queens,107-15 70TH ROAD,406,Utility
+4083254,40.70599,-73.90527,Queens,680 FAIRVIEW AVENUE,405,Utility
+4113174,40.76537,-73.82529,Queens,13966 35TH AVENUE,407,Hospital / Health Care
+4113418,40.76412,-73.82266,Queens,36-17 PARSONS BOULEVARD,407,Hospital / Health Care
+4137890,40.75886,-73.78224,Queens,42-41 201 STREET,411,Hospital / Health Care
+4138361,40.76132,-73.76925,Queens,214-20 43RD AVENUE,411,Utility
+4147950,40.72076,-73.80778,QUEENS,159-05 UNION TURNPIKE,408,Hospital / Health Care
+4155422,40.72574,-73.7907,Queens,176-60 UNION TURNPIKE,408,Hospital / Health Care
+4173982,40.7556,-73.7075,Queens,271-11 76TH AVENUE,413,Hospital / Health Care
+4187476,40.6868,-73.85126,Queens,91-02 ATLANTIC AVE,409,Hospital / Health Care
+4202778,40.67944,-73.8389,QUEENS,100-02 ROCKAWAY BOULEVARD,410,Hospital / Health Care
+4206508,40.70827,-73.81869,Queens,138-02 QUEENS BLVD,408,Hospital / Health Care
+4207127,40.70644,-73.80597,Queens,150-10 HILLSIDE AVENUE,412,Hospital / Health Care
+4208823,40.70326,-73.80159,Queens,153-19 JAMAICA AVENUE,412,Affordable Housing
+4208866,40.70546,-73.79981,Queens,89-30 161 STREET,412,Hospital / Health Care
+4208875,40.70456,-73.79807,Queens,89-74 162 STREET,412,Hospital / Health Care
+4208989,40.70663,-73.7998,Queens,161-01 89 AVENUE,412,Affordable Housing
+4209575,40.70553,-73.79704,Queens,89-63 163RD STREET,412,Utility
+4209584,40.70599,-73.79658,Queens,89-48 164TH STREET,412,Affordable Housing
+4210392,40.71163,-73.78687,Queens,175-20 HILLSIDE AVENUE,412,Utility
+4210853,40.71445,-73.8019,Queens,164-11 CHAPIN PARKWAY,408,Hospital / Health Care
+4213659,40.7004,-73.81469,Queens,90-09 VAN WYCK EXPRESSWAY,412,Hospital / Health Care
+4213669,40.69918,-73.8139,Queens,137-30 91ST AVENUE,412,Utility
+4216225,40.70446,-73.79349,QUEENS,165-15 ARCHER AVENUE,412,Hospital / Health Care
+4222244,40.7158,-73.77064,Queens,191-06 HILLSIDE AVE,412,Hospital / Health Care
+4228614,40.72516,-73.75277,Queens,212-40 HILLSIDE AVENUE,413,Hospital / Health Care
+4247760,40.67838,-73.8334,Queens,105-34 ROCKAWAY BLVD.,410,Hospital / Health Care
+4279972,40.67909,-73.75327,Queens,134-35 SPRINGFIELD BOULEVARD,413,Hospital / Health Care
+4297950,40.60462,-73.75303,QUEENS,20-10 MOTT AVENUE,414,Affordable Housing
+4298340,40.60002,-73.75187,Queens,520 BEACH 19 STREET,414,Hospital / Health Care
+4299228,40.59569,-73.7488,Queens,1410 SEAGIRT BOULEVARD,414,Hospital / Health Care
+4299390,40.59669,-73.75363,Queens,242 BEACH 20TH STREET,414,Hospital / Health Care
+4301055,40.59962,-73.75443,Queens,495 BEACH 20 STREET,414,Hospital / Health Care
+4301403,40.59866,-73.76475,Queens,29-38 FAR ROCKAWAY BOULEVARD,414,Hospital / Health Care
+4301899,40.5946,-73.78146,QUEENS,50-15 BEACH CHANNEL DRIVE,414,Hospital / Health Care
+4301970,40.59247,-73.79356,Queens,64-11 BEACH CHANNEL DRIVE,414,Hospital / Health Care
+4312845,40.7703,-73.84435,Queens,124-15 31ST  AVENUE,407,Utility
+4314502,40.74878,-73.86985,Queens,40-11 WARREN STREET,404,Hospital / Health Care
+4430390,40.70755,-73.8111,Queens,144-45 87 AVENUE,408,Hospital / Health Care
+4430537,40.59866,-73.75349,Queens,327 BEACH 19TH STREET,414,Hospital / Health Care
+4436864,40.76806,-73.92484,QUEENS,25-10 30 AVENUE,401,Hospital / Health Care
+4437132,40.74512,-73.88564,Queens,79-01 BROADWAY,404,Hospital / Health Care
+4438669,40.70545,-73.80476,Queens,150-13 89TH AVENUE,412,Affordable Housing
+4439540,40.75293,-73.70931,Queens,270-05 76 AVENUE,413,Hospital / Health Care
+4439898,40.74718,-73.82516,Queens,56-45 MAIN STREET,407,Hospital / Health Care
+4441880,40.74021,-73.8622,Queens,52-24 99 STREET,404,Utility
+4442400,40.78038,-73.89295,Queens,43-01 BERRIAN BLVD,401,Utility
+4442433,40.71778,-73.80529,Queens,82-70 164TH STREET,408,Hospital / Health Care
+4442434,40.71753,-73.80759,Queens,82-41 PARSONS BLVD,408,Affordable Housing
+4445327,40.75293,-73.70931,Queens,75-59 263 STREET,413,Hospital / Health Care
+4447121,40.6819,-73.79282,Queens,116-30 SUTPHIN BOULEVARD,412,Hospital / Health Care
+4447892,40.76916,-73.87024,Queens,100-17 23 AVENUE,403,Hospital / Health Care
+4448763,40.70912,-73.81127,QUEENS,85-70 148 STREET,408,Hospital / Health Care
+4448835,40.69954,-73.80619,QUEENS,147-07 94 AVENUE,412,Affordable Housing
+4448909,40.6674,-73.8515,Queens,82-12 151ST AVE,410,Hospital / Health Care
+4453834,40.79494,-73.83934,Queens,127-01 POWELLS COVE BOULEVARD,407,Utility
+4459547,40.66238,-73.80903,Queens,150-20 134TH STREET,410,Utility
+4539810,40.58344,-73.82933,Queens,106-21 BEACH CHANNEL  DRIVE,414,Utility
+4542931,40.74148,-73.95936,Queens,5220 2 STREET,402,Utility
+4542984,40.75804,-73.94686,QUEENS,38-54 VERNON BOULEVARD,401,Utility
+4546126,40.72921,-73.80584,Queens,71-40 164TH STREET,408,Utility
+4546438,40.7849,-73.90514,Queens,31-03 20TH AVENUE,401,Utility
+4546843,40.78728,-73.913,Queens,18-01 20 AVENUE,401,Utility
+4595549,40.75716,-73.78262,Queens,44-01 FRANCIS LEWIS BOULEVARD,411,Hospital / Health Care
+4596913,40.74474,-73.94551,Queens,22-44 JACKSON AVENUE,402,Affordable Housing
+4605192,40.74434,-73.92539,Queens,43-46 39 PLACE,402,Affordable Housing
+4607280,40.70054,-73.80679,Queens,147-40 ARCHER AVENUE,412,Affordable Housing
+4607281,40.70075,-73.80579,Queens,148-10 ARCHER AVENUE,412,Affordable Housing
+4614896,40.77462,-73.93378,Queens,3-24 27TH AVENUE,401,Affordable Housing
+4616477,40.75483,-73.78255,Queens,45-64 FRANCIS LEWIS BLVD,411,Hospital / Health Care
+4617126,40.77082,-73.92748,Queens,28-16 21 STREET,401,Affordable Housing
+4617186,40.70559,-73.79166,Queens,92-23 168TH STREET,412,Affordable Housing
+4617504,40.59322,-73.77698,Queens,4519 ROCKAWAY BEACH BOULEVARD,414,Affordable Housing
+4617681,40.77649,-73.93518,Queens,10 HALLETTS POINT,401,Affordable Housing
+4617904,40.60254,-73.75257,Queens,19-38 CORNAGA AVENUE,414,Affordable Housing
+4617912,40.60277,-73.75291,Queens,1018 BEACH 20TH STREET,414,Affordable Housing
+4617913,40.74139,-73.96017,Queens,52-41 CENTER BOULEVARD,402,Affordable Housing
+4618318,40.74192,-73.95956,Queens,52-03 CENTER BOULEVARD,402,Affordable Housing
+4618544,40.69954,-73.80619,QUEENS,147-25 94 AVENUE,412,Affordable Housing
+4618620,40.73696,-73.85073,QUEENS,108-40 HORACE HARDING EXPRESSWAY,406,Affordable Housing
+4618650,40.74308,-73.91425,Queens,43-46 51 STREET,402,Affordable Housing
+4618716,40.70384,-73.80605,Queens,148-33 90 AVENUE,412,Affordable Housing
+4618810,40.76742,-73.92949,QUEENS,21-03 31 AVENUE,401,Affordable Housing
+4618927,40.60656,-73.75094,Queens,1915 NAMEOKE AVE.,414,Affordable Housing
+4619106,40.76964,-73.93384,QUEENS,11-37 31 AVENUE,401,Affordable Housing
+4619107,40.7696,-73.93342,QUEENS,11-28 30 DRIVE,401,Affordable Housing
+4619413,40.70326,-73.80159,Queens,153-24 90 ROAD,412,Affordable Housing
+4619442,40.60154,-73.74863,Queens,14-03 GATEWAY BOULEVARD,414,Affordable Housing
+4619474,40.73729,-73.84976,Queens,108-60 HORACE HARDING EXPWY,406,Affordable Housing
+4619475,40.7369,-73.85137,Queens,62-11 108 STREET,406,Affordable Housing
+4619700,40.67575,-73.77802,Queens,161-11 132 AVENUE,412,Affordable Housing
+4619735,40.73666,-73.84894,Queens,108-75 62 DRIVE,406,Affordable Housing
+4619856,40.73929,-73.96117,Queens,1-15 57 AVENUE,402,Affordable Housing
+4619857,40.73811,-73.96072,Queens,57-28 2ND STREET,402,Affordable Housing
+4622929,40.60356,-73.75407,Queens,1047 BEACH 21 STREET,414,Affordable Housing
+4623027,40.70609,-73.79685,Queens,89-46 164 STREET,412,Affordable Housing
+4623074,40.75228,-73.93482,Queens,29-17 40TH AVENUE,401,Affordable Housing
+4623158,40.76989,-73.93424,QUEENS,11-12 30 DRIVE,401,Affordable Housing
+5013145,40.6108,-74.14561,STATEN ISLAND,2475 VICTORY BOULEVARD,501,Utility
+5013674,40.6272,-74.07779,STATEN ISLAND,111 WATER STREET,501,Hospital / Health Care
+5019636,40.60673,-74.13136,Staten Island,191 BRADLEY AVE,502,Hospital / Health Care
+5037085,40.57924,-74.13076,Staten Island,140 MEISNER AVENUE,502,Hospital / Health Care
+5048706,40.59557,-74.09061,Staten Island,88 OLD TOWN ROAD,502,Hospital / Health Care
+5049717,40.58455,-74.08552,Staten Island,475 SEAVIEW AVENUE,502,Hospital / Health Care
+5082757,40.51698,-74.19614,Staten Island,375 SEGUINE AVENUE,503,Hospital / Health Care
+5082854,40.51643,-74.1973,Staten Island,392 SEGUINE AVENUE,503,Hospital / Health Care
+5106483,40.64541,-74.08222,Staten Island,105 HAMILTON AVE,501,Hospital / Health Care
+5106523,40.63588,-74.10556,Staten Island,355 BARD AVE,501,Hospital / Health Care
+5106568,40.64462,-74.10966,STATEN ISLAND,1 DAVIS AVENUE,501,Utility
+5106863,40.62257,-74.07561,Staten Island,75 VANDERBILT AVENUE,501,Hospital / Health Care
+5110626,40.62522,-74.15717,Staten Island,2040 FOREST AVENUE,501,Hospital / Health Care
+5110952,40.62267,-74.07799,STATEN ISLAND,91 TOMPKINS AVENUE,501,Hospital / Health Care
+5113497,40.58631,-74.0862,STATEN ISLAND,256 MASON AVENUE,502,Hospital / Health Care
+5129201,40.62424,-74.17938,STATEN ISLAND,200 GULF AVENUE,502,Utility
+5154461,40.58899,-74.1972,Staten Island,4329 VICTORY BOULEVARD,502,Utility
+5157667,40.63576,-74.13447,Staten Island,221 PORT RICHMOND AVENUE,501,Hospital / Health Care
