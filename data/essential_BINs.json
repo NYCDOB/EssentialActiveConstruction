@@ -1,37 +1,10 @@
 [
   {
-    "BIN": 1000006,
-    "Latitude": 40.70227,
-    "Longitude": -74.0106,
-    "Borough": "Manhattan",
-    "Address": "125 BROAD STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1000803,
     "Latitude": 40.70634,
     "Longitude": -74.01343,
     "Borough": "Manhattan",
     "Address": "39 BROADWAY",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1000809,
-    "Latitude": 40.70733,
-    "Longitude": -74.01266,
-    "Borough": "Manhattan",
-    "Address": "65 BROADWAY",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1000813,
-    "Latitude": 40.70623,
-    "Longitude": -74.01244,
-    "Borough": "MANHATTAN",
-    "Address": "50 BROADWAY",
     "Community Board": 101,
     "Category": "Hospital / Health Care"
   },
@@ -45,20 +18,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1001111,
-    "Latitude": 40.70753,
-    "Longitude": -74.00736,
-    "Borough": "Manhattan",
-    "Address": "83 MAIDEN LANE",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1001281,
     "Latitude": 40.71003,
     "Longitude": -74.0057,
     "Borough": "Manhattan",
-    "Address": "156 WILLIAM ST",
+    "Address": "156 WILLIAM STREET",
     "Community Board": 101,
     "Category": "Hospital / Health Care"
   },
@@ -72,47 +36,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1001399,
-    "Latitude": 40.71316,
-    "Longitude": -74.00822,
-    "Borough": "Manhattan",
-    "Address": "11 PARK PLACE",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1001622,
     "Latitude": 40.71708,
     "Longitude": -74.00699,
     "Borough": "Manhattan",
     "Address": "40 WORTH STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1001648,
-    "Latitude": 40.71518,
-    "Longitude": -74.00591,
-    "Borough": "Manhattan",
-    "Address": "299 BROADWAY",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1001830,
-    "Latitude": 40.7151,
-    "Longitude": -74.00119,
-    "Borough": "Manhattan",
-    "Address": "80 CENTRE STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1002334,
-    "Latitude": 40.71858,
-    "Longitude": -74.00218,
-    "Borough": "Manhattan",
-    "Address": "400 BROADWAY",
     "Community Board": 101,
     "Category": "Hospital / Health Care"
   },
@@ -144,24 +72,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1004062,
-    "Latitude": 40.71827,
-    "Longitude": -73.97609,
-    "Borough": "Manhattan",
-    "Address": "525 EAST HOUSTON STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1004070,
-    "Latitude": 40.71941,
-    "Longitude": -73.97958,
-    "Borough": "Manhattan",
-    "Address": "111 COLUMBIA STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1004351,
     "Latitude": 40.72675,
     "Longitude": -73.97281,
@@ -169,15 +79,6 @@
     "Address": "800 EAST 14 STREET",
     "Community Board": 103,
     "Category": "Utility"
-  },
-  {
-    "BIN": 1004627,
-    "Latitude": 40.72369,
-    "Longitude": -73.98162,
-    "Borough": "Manhattan",
-    "Address": "600 E 6TH STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1005201,
@@ -198,22 +99,13 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1005283,
-    "Latitude": 40.71733,
-    "Longitude": -73.98933,
-    "Borough": "Manhattan",
-    "Address": "350 GRAND STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1005483,
     "Latitude": 40.72054,
     "Longitude": -73.99052,
     "Borough": "Manhattan",
     "Address": "184 ELDRIDGE STREET",
     "Community Board": 103,
-    "Category": "Hospital / Health Care"
+    "Category": "Utility"
   },
   {
     "BIN": 1005537,
@@ -270,42 +162,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1007944,
-    "Latitude": 40.7248,
-    "Longitude": -73.9967,
-    "Borough": "Manhattan",
-    "Address": "594 BROADWAY",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1008118,
-    "Latitude": 40.72825,
-    "Longitude": -74.00479,
-    "Borough": "Manhattan",
-    "Address": "200 VARICK STREET",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1008425,
-    "Latitude": 40.72649,
-    "Longitude": -73.99445,
-    "Borough": "Manhattan",
-    "Address": "11 BOND STREET",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1008455,
-    "Latitude": 40.72691,
-    "Longitude": -73.99509,
-    "Borough": "Manhattan",
-    "Address": "666 BROADWAY",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1009217,
     "Latitude": 40.73415,
     "Longitude": -73.99035,
@@ -333,15 +189,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1010159,
-    "Latitude": 40.73232,
-    "Longitude": -74.0031,
-    "Borough": "Manhattan",
-    "Address": "27 BARROW STREET",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1010641,
     "Latitude": 40.73745,
     "Longitude": -73.99781,
@@ -364,36 +211,9 @@
     "Latitude": 40.75323,
     "Longitude": -74.00499,
     "Borough": "Manhattan",
-    "Address": "601 WEST 29TH STREET",
+    "Address": "601 WEST 29 STREET",
     "Community Board": 104,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1012827,
-    "Latitude": 40.74964,
-    "Longitude": -74.00147,
-    "Borough": "MANHATTAN",
-    "Address": "436 WEST 27 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1012843,
-    "Latitude": 40.75405,
-    "Longitude": -73.99898,
-    "Borough": "Manhattan",
-    "Address": "460 WEST 34TH STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1013005,
-    "Latitude": 40.7572,
-    "Longitude": -73.99433,
-    "Borough": "MANHATTAN",
-    "Address": "408 WEST 40 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1013043,
@@ -401,33 +221,6 @@
     "Longitude": -74.0032,
     "Borough": "Manhattan",
     "Address": "111 EIGHTH AVENUE",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1013088,
-    "Latitude": 40.74304,
-    "Longitude": -74.00313,
-    "Borough": "Manhattan",
-    "Address": "356 WEST 18 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1013260,
-    "Latitude": 40.74419,
-    "Longitude": -74.00075,
-    "Borough": "Manhattan",
-    "Address": "320 WEST 21ST STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1013540,
-    "Latitude": 40.75109,
-    "Longitude": -73.99733,
-    "Borough": "Manhattan",
-    "Address": "368 NINTH AVENUE",
     "Community Board": 104,
     "Category": "Hospital / Health Care"
   },
@@ -441,29 +234,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1013643,
-    "Latitude": 40.75523,
-    "Longitude": -73.99216,
-    "Borough": "Manhattan",
-    "Address": "307 WEST 38 ST",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1013644,
     "Latitude": 40.75503,
     "Longitude": -73.99181,
     "Borough": "Manhattan",
-    "Address": "575 8 AVE",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1014174,
-    "Latitude": 40.74567,
-    "Longitude": -73.99636,
-    "Borough": "Manhattan",
-    "Address": "225 WEST 24TH STREET",
+    "Address": "575 8TH AVENUE",
     "Community Board": 104,
     "Category": "Hospital / Health Care"
   },
@@ -481,7 +256,7 @@
     "Latitude": 40.74776,
     "Longitude": -73.99338,
     "Borough": "Manhattan",
-    "Address": "330 7TH AVENUE",
+    "Address": "330 SEVENTH AVENUE",
     "Community Board": 105,
     "Category": "Hospital / Health Care"
   },
@@ -495,15 +270,6 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1014402,
-    "Latitude": 40.75187,
-    "Longitude": -73.99171,
-    "Borough": "Manhattan",
-    "Address": "225 WEST 34TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1014408,
     "Latitude": 40.75146,
     "Longitude": -73.99075,
@@ -513,75 +279,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1014414,
-    "Latitude": 40.7519,
-    "Longitude": -73.99129,
-    "Borough": "Manhattan",
-    "Address": "224 WEST 35TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1014421,
-    "Latitude": 40.75301,
-    "Longitude": -73.99243,
-    "Borough": "Manhattan",
-    "Address": "500 8TH AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1014454,
-    "Latitude": 40.75398,
-    "Longitude": -73.99122,
-    "Borough": "Manhattan",
-    "Address": "247 WEST 37TH ST",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1014547,
-    "Latitude": 40.73896,
-    "Longitude": -73.9979,
-    "Borough": "MANHATTAN",
-    "Address": "145 WEST 15 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1015000,
     "Latitude": 40.74554,
     "Longitude": -73.99416,
     "Borough": "Manhattan",
-    "Address": "275 7TH AVENUE",
+    "Address": "275 7 AVENUE",
     "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015051,
-    "Latitude": 40.74574,
-    "Longitude": -73.99231,
-    "Borough": "Manhattan",
-    "Address": "122 WEST 27TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015181,
-    "Latitude": 40.74859,
-    "Longitude": -73.98985,
-    "Borough": "Manhattan",
-    "Address": "116 WEST 32 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015222,
-    "Latitude": 40.75165,
-    "Longitude": -73.98953,
-    "Borough": "Manhattan",
-    "Address": "463 SEVENTH AVENUE",
-    "Community Board": 105,
     "Category": "Hospital / Health Care"
   },
   {
@@ -590,15 +293,6 @@
     "Longitude": -73.99249,
     "Borough": "MANHATTAN",
     "Address": "20 WEST 20 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015491,
-    "Latitude": 40.74065,
-    "Longitude": -73.9927,
-    "Borough": "Manhattan",
-    "Address": "27 WEST 20 STREET",
     "Community Board": 105,
     "Category": "Hospital / Health Care"
   },
@@ -612,56 +306,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1015805,
-    "Latitude": 40.74777,
-    "Longitude": -73.98788,
-    "Borough": "Manhattan",
-    "Address": "1250 BROADWAY",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015853,
-    "Latitude": 40.7477,
-    "Longitude": -73.9855,
-    "Borough": "Manhattan",
-    "Address": "330 5TH AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1015868,
-    "Latitude": 40.74981,
-    "Longitude": -73.98685,
-    "Borough": "Manhattan",
-    "Address": "45 WEST 34 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1016077,
-    "Latitude": 40.73664,
-    "Longitude": -73.99199,
-    "Borough": "Manhattan",
-    "Address": "16 EAST 16 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1016113,
     "Latitude": 40.73793,
     "Longitude": -73.99142,
     "Borough": "Manhattan",
     "Address": "5 EAST 17TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1016176,
-    "Latitude": 40.73825,
-    "Longitude": -73.98817,
-    "Borough": "Manhattan",
-    "Address": "250 PARK AVENUE SOUTH",
     "Community Board": 105,
     "Category": "Hospital / Health Care"
   },
@@ -684,15 +333,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1016894,
-    "Latitude": 40.744,
-    "Longitude": -73.98657,
-    "Borough": "Manhattan",
-    "Address": "10 EAST 28 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1016980,
     "Latitude": 40.74596,
     "Longitude": -73.98522,
@@ -702,38 +342,11 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1016994,
-    "Latitude": 40.74593,
-    "Longitude": -73.98315,
-    "Borough": "Manhattan",
-    "Address": "38 EAST 32ND STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1017828,
-    "Latitude": 40.73532,
-    "Longitude": -73.98709,
-    "Borough": "Manhattan",
-    "Address": "40 IRVING PLACE",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1017869,
     "Latitude": 40.73675,
     "Longitude": -73.98708,
     "Borough": "Manhattan",
     "Address": "67 IRVING PLACE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1018010,
-    "Latitude": 40.73951,
-    "Longitude": -73.98631,
-    "Borough": "Manhattan",
-    "Address": "287 PARK AVENUE SOUTH",
     "Community Board": 105,
     "Category": "Hospital / Health Care"
   },
@@ -747,29 +360,11 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1018494,
-    "Latitude": 40.74576,
-    "Longitude": -73.97979,
-    "Borough": "MANHATTAN",
-    "Address": "141 EAST 33 STREET",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1019551,
     "Latitude": 40.73537,
     "Longitude": -73.98527,
     "Borough": "Manhattan",
     "Address": "201 E 17 ST",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1019775,
-    "Latitude": 40.73848,
-    "Longitude": -73.98136,
-    "Borough": "Manhattan",
-    "Address": "223 EAST 23 STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care"
   },
@@ -805,7 +400,7 @@
     "Latitude": 40.73685,
     "Longitude": -73.98105,
     "Borough": "Manhattan",
-    "Address": "380 2ND AVENUE",
+    "Address": "380 2 AVENUE",
     "Community Board": 106,
     "Category": "Hospital / Health Care"
   },
@@ -813,8 +408,8 @@
     "BIN": 1021900,
     "Latitude": 40.74464,
     "Longitude": -73.97482,
-    "Borough": "Manhattan",
-    "Address": "317 EAST 34TH STREET",
+    "Borough": "MANHATTAN",
+    "Address": "317 EAST 34 STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care"
   },
@@ -823,7 +418,7 @@
     "Latitude": 40.74384,
     "Longitude": -73.97253,
     "Borough": "Manhattan",
-    "Address": "401 EAST 34TH ST",
+    "Address": "401 EAST 34TH STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care"
   },
@@ -840,91 +435,10 @@
     "BIN": 1022613,
     "Latitude": 40.75629,
     "Longitude": -73.98488,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "127 WEST 43 STREET",
     "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1022708,
-    "Latitude": 40.76095,
-    "Longitude": -73.98206,
-    "Borough": "Manhattan",
-    "Address": "135 WEST 50TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1024703,
-    "Latitude": 40.75788,
-    "Longitude": -73.98868,
-    "Borough": "Manhattan",
-    "Address": "255 WEST 43 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1024781,
-    "Latitude": 40.7609,
-    "Longitude": -73.98534,
-    "Borough": "MANHATTAN",
-    "Address": "220 WEST 49 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1024946,
-    "Latitude": 40.75756,
-    "Longitude": -73.98991,
-    "Borough": "MANHATTAN",
-    "Address": "661 8 AVENUE",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1025397,
-    "Latitude": 40.76488,
-    "Longitude": -73.98546,
-    "Borough": "Manhattan",
-    "Address": "314 WEST 54 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1026893,
-    "Latitude": 40.7689,
-    "Longitude": -73.98655,
-    "Borough": "Manhattan",
-    "Address": "432 WEST 58 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1027056,
-    "Latitude": 40.76716,
-    "Longitude": -73.99086,
-    "Borough": "Manhattan",
-    "Address": "811 10TH AVENUE",
-    "Community Board": 104,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 1027084,
-    "Latitude": 40.7709,
-    "Longitude": -73.98974,
-    "Borough": "Manhattan",
-    "Address": "860 11TH AVENUE",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1027155,
-    "Latitude": 40.76916,
-    "Longitude": -73.99368,
-    "Borough": "Manhattan",
-    "Address": "619 WEST 54TH STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
+    "Category": "Affordable Housing"
   },
   {
     "BIN": 1027178,
@@ -936,42 +450,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1027468,
-    "Latitude": 40.77112,
-    "Longitude": -73.98053,
-    "Borough": "Manhattan",
-    "Address": "5 WEST 63 STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1029934,
-    "Latitude": 40.77792,
-    "Longitude": -73.97925,
-    "Borough": "MANHATTAN",
-    "Address": "117 WEST 72 STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1030012,
-    "Latitude": 40.77874,
-    "Longitude": -73.97923,
-    "Borough": "Manhattan",
-    "Address": "125 WEST 73RD STREET",
-    "Community Board": 107,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 1030337,
-    "Latitude": 40.77428,
-    "Longitude": -73.98804,
-    "Borough": "Manhattan",
-    "Address": "250 WEST 64TH STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1030342,
     "Latitude": 40.77543,
     "Longitude": -73.98689,
@@ -979,24 +457,6 @@
     "Address": "128 WEST END AVENUE",
     "Community Board": 107,
     "Category": "Utility"
-  },
-  {
-    "BIN": 1030343,
-    "Latitude": 40.77489,
-    "Longitude": -73.98561,
-    "Borough": "Manhattan",
-    "Address": "122 AMSTERDAM AVENUE",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1030408,
-    "Latitude": 40.77893,
-    "Longitude": -73.98395,
-    "Borough": "Manhattan",
-    "Address": "255 WEST 71 STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1030422,
@@ -1008,42 +468,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1032128,
-    "Latitude": 40.78605,
-    "Longitude": -73.97434,
-    "Borough": "Manhattan",
-    "Address": "145 WEST 84TH STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1033199,
-    "Latitude": 40.78926,
-    "Longitude": -73.97717,
-    "Borough": "Manhattan",
-    "Address": "552 WEST END AVENUE",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1033597,
-    "Latitude": 40.7916,
-    "Longitude": -73.97309,
-    "Borough": "Manhattan",
-    "Address": "206 WEST 92ND STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1033956,
-    "Latitude": 40.79064,
-    "Longitude": -73.97936,
-    "Borough": "Manhattan",
-    "Address": "150 RIVERSIDE DRIVE",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1034137,
     "Latitude": 40.79402,
     "Longitude": -73.97491,
@@ -1053,110 +477,20 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1034245,
-    "Latitude": 40.75616,
-    "Longitude": -73.98068,
-    "Borough": "Manhattan",
-    "Address": "25 WEST 45 STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1034510,
-    "Latitude": 40.76047,
-    "Longitude": -73.97888,
-    "Borough": "Manhattan",
-    "Address": "1290 AVENUE OF THE AMERICAS",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1035366,
-    "Latitude": 40.75484,
-    "Longitude": -73.97942,
-    "Borough": "Manhattan",
-    "Address": "535 5TH AVE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1035728,
-    "Latitude": 40.75973,
-    "Longitude": -73.97369,
-    "Borough": "Manhattan",
-    "Address": "515 MADISON AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1035775,
-    "Latitude": 40.76118,
-    "Longitude": -73.97268,
-    "Borough": "Manhattan",
-    "Address": "555 MADISON AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1036469,
-    "Latitude": 40.75756,
-    "Longitude": -73.96996,
-    "Borough": "MANHATTAN",
-    "Address": "163 EAST 52 STREET",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1036482,
-    "Latitude": 40.7589,
-    "Longitude": -73.96976,
-    "Borough": "Manhattan",
-    "Address": "641 LEXINGTON AVENUE",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1037546,
-    "Latitude": 40.74977,
-    "Longitude": -73.97318,
-    "Borough": "Manhattan",
-    "Address": "220 E 42 ST",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1037578,
-    "Latitude": 40.75186,
-    "Longitude": -73.9718,
-    "Borough": "Manhattan",
-    "Address": "228 EAST 45 STREET",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1038551,
-    "Latitude": 40.75744,
-    "Longitude": -73.96821,
-    "Borough": "MANHATTAN",
-    "Address": "225 EAST 53 STREET",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1038564,
     "Latitude": 40.75756,
     "Longitude": -73.9677,
     "Borough": "Manhattan",
-    "Address": "232 EAST 54 STREET",
+    "Address": "232 EAST 54TH STREET",
     "Community Board": 106,
     "Category": "Affordable Housing"
   },
   {
     "BIN": 1038579,
-    "Latitude": 40.75863,
+    "Latitude": 40.75862,
     "Longitude": -73.96667,
-    "Borough": "Manhattan",
-    "Address": "228 EAST 56TH STREET",
+    "Borough": "MANHATTAN",
+    "Address": "228 EAST 56 STREET",
     "Community Board": 106,
     "Category": "Utility"
   },
@@ -1201,15 +535,15 @@
     "Latitude": 40.76404,
     "Longitude": -73.97166,
     "Borough": "Manhattan",
-    "Address": "650 MADISON AVENUE",
+    "Address": "650 MADISON AVE",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1040754,
-    "Latitude": 40.76366,
-    "Longitude": -73.97102,
-    "Borough": "Manhattan",
+    "Latitude": 40.76367,
+    "Longitude": -73.97101,
+    "Borough": "MANHATTAN",
     "Address": "635 MADISON AVENUE",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
@@ -1236,8 +570,8 @@
     "BIN": 1043870,
     "Latitude": 40.76418,
     "Longitude": -73.96214,
-    "Borough": "MANHATTAN",
-    "Address": "250 EAST 65 STREET",
+    "Borough": "Manhattan",
+    "Address": "250 EAST 65TH STREET",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
   },
@@ -1264,34 +598,7 @@
     "Latitude": 40.76495,
     "Longitude": -73.96009,
     "Borough": "Manhattan",
-    "Address": "310 EAST 67TH STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1044930,
-    "Latitude": 40.76956,
-    "Longitude": -73.9555,
-    "Borough": "Manhattan",
-    "Address": "351 EAST 74TH STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1045836,
-    "Latitude": 40.76662,
-    "Longitude": -73.95432,
-    "Borough": "Manhattan",
-    "Address": "1339 YORK AVE",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1045849,
-    "Latitude": 40.76741,
-    "Longitude": -73.9539,
-    "Borough": "Manhattan",
-    "Address": "1365 YORK AVE",
+    "Address": "310 EAST 67 STREET",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
   },
@@ -1318,7 +625,7 @@
     "Latitude": 40.76686,
     "Longitude": -73.95265,
     "Borough": "Manhattan",
-    "Address": "510 EAST 73RD STREET",
+    "Address": "515 EAST 72ND STREET",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
   },
@@ -1350,33 +657,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1048043,
-    "Latitude": 40.7808,
-    "Longitude": -73.9556,
-    "Borough": "Manhattan",
-    "Address": "115 EAST 87STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1048782,
-    "Latitude": 40.77814,
-    "Longitude": -73.95351,
-    "Borough": "Manhattan",
-    "Address": "210 EAST 86TH STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1048916,
-    "Latitude": 40.78336,
-    "Longitude": -73.95,
-    "Borough": "Manhattan",
-    "Address": "200 EAST 94TH STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1051260,
     "Latitude": 40.77599,
     "Longitude": -73.94647,
@@ -1384,15 +664,6 @@
     "Address": "511 EAST 86TH STREET",
     "Community Board": 108,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1051436,
-    "Latitude": 40.80188,
-    "Longitude": -73.94629,
-    "Borough": "MANHATTAN",
-    "Address": "8 WEST 118 STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1051459,
@@ -1413,24 +684,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1051513,
-    "Latitude": 40.79365,
-    "Longitude": -73.95065,
-    "Borough": "Manhattan",
-    "Address": "1249 5 AVENUE",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1051584,
-    "Latitude": 40.79503,
-    "Longitude": -73.94785,
-    "Borough": "Manhattan",
-    "Address": "1615 MADISON AVENUE",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1051737,
     "Latitude": 40.78646,
     "Longitude": -73.94928,
@@ -1440,20 +693,11 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1052015,
-    "Latitude": 40.79293,
-    "Longitude": -73.94717,
-    "Borough": "Manhattan",
-    "Address": "105 EAST 106TH STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1052223,
     "Latitude": 40.79615,
     "Longitude": -73.94427,
     "Borough": "Manhattan",
-    "Address": "128 EAST 112 STREET",
+    "Address": "128 EAST 112TH STREET",
     "Community Board": 111,
     "Category": "Affordable Housing"
   },
@@ -1467,91 +711,28 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1052299,
-    "Latitude": 40.79839,
-    "Longitude": -73.94034,
-    "Borough": "Manhattan",
-    "Address": "179 EAST 116TH STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1052384,
-    "Latitude": 40.78869,
-    "Longitude": -73.94478,
-    "Borough": "Manhattan",
-    "Address": "232 E 103 ST",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1052433,
-    "Latitude": 40.79255,
-    "Longitude": -73.94228,
-    "Borough": "Manhattan",
-    "Address": "240 EAST 109TH STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1052436,
-    "Latitude": 40.79333,
-    "Longitude": -73.94196,
-    "Borough": "Manhattan",
-    "Address": "219 EAST 109TH STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1053254,
     "Latitude": 40.80316,
     "Longitude": -73.94581,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "23 WEST 119 STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1053467,
-    "Latitude": 40.80638,
-    "Longitude": -73.94292,
-    "Borough": "Manhattan",
-    "Address": "4 WEST 125 STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1053478,
     "Latitude": 40.80704,
     "Longitude": -73.94448,
     "Borough": "Manhattan",
-    "Address": "56 W 125 STREET",
+    "Address": "56 WEST 125 STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1053487,
-    "Latitude": 40.80738,
-    "Longitude": -73.94529,
-    "Borough": "MANHATTAN",
-    "Address": "292 LENOX AVENUE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1053504,
-    "Latitude": 40.80679,
-    "Longitude": -73.94242,
-    "Borough": "Manhattan",
-    "Address": "1 WEST 125TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1053770,
     "Latitude": 40.81094,
     "Longitude": -73.94268,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "406 LENOX AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing"
@@ -1567,9 +748,9 @@
   },
   {
     "BIN": 1053826,
-    "Latitude": 40.81162,
+    "Latitude": 40.81163,
     "Longitude": -73.94221,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "426 LENOX AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing"
@@ -1593,33 +774,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1054453,
-    "Latitude": 40.80385,
-    "Longitude": -73.93885,
-    "Borough": "MANHATTAN",
-    "Address": "116 EAST 124 STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1054472,
-    "Latitude": 40.80514,
-    "Longitude": -73.93851,
-    "Borough": "Manhattan",
-    "Address": "1825 PARK AVENUE",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1054502,
-    "Latitude": 40.80565,
-    "Longitude": -73.93546,
-    "Borough": "Manhattan",
-    "Address": "144 EAST 128 STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1054682,
     "Latitude": 40.80376,
     "Longitude": -73.93545,
@@ -1627,15 +781,6 @@
     "Address": "201 EAST 125 STREET",
     "Community Board": 111,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1055204,
-    "Latitude": 40.80261,
-    "Longitude": -73.95415,
-    "Borough": "Manhattan",
-    "Address": "215 WEST 114TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1055718,
@@ -1665,15 +810,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1055990,
-    "Latitude": 40.80071,
-    "Longitude": -73.96327,
-    "Borough": "MANHATTAN",
-    "Address": "103 WEST 107 STREET",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1055996,
     "Latitude": 40.80171,
     "Longitude": -73.96438,
@@ -1684,19 +820,10 @@
   },
   {
     "BIN": 1056035,
-    "Latitude": 40.8057,
+    "Latitude": 40.80569,
     "Longitude": -73.96148,
-    "Borough": "MANHATTAN",
-    "Address": "1111 AMSTERDAM AVENUE",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1056997,
-    "Latitude": 40.80465,
-    "Longitude": -73.9633,
     "Borough": "Manhattan",
-    "Address": "1060 AMSTERDAM AVENUE",
+    "Address": "1111 AMSTERDAM AVENUE",
     "Community Board": 109,
     "Category": "Hospital / Health Care"
   },
@@ -1719,42 +846,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1057819,
-    "Latitude": 40.80825,
-    "Longitude": -73.94772,
-    "Borough": "Manhattan",
-    "Address": "144 WEST 125TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1057820,
-    "Latitude": 40.80811,
-    "Longitude": -73.94741,
-    "Borough": "Manhattan",
-    "Address": "132 WEST 125TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1058162,
-    "Latitude": 40.81245,
-    "Longitude": -73.94254,
-    "Borough": "Manhattan",
-    "Address": "441 LENOX AVE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1058377,
-    "Latitude": 40.80371,
-    "Longitude": -73.95305,
-    "Borough": "Manhattan",
-    "Address": "121 ST NICHOLAS AVENUE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1058399,
     "Latitude": 40.80516,
     "Longitude": -73.95365,
@@ -1767,73 +858,19 @@
     "BIN": 1058438,
     "Latitude": 40.80573,
     "Longitude": -73.95384,
-    "Borough": "MANHATTAN",
-    "Address": "281 WEST 118 STREET",
+    "Borough": "Manhattan",
+    "Address": "281 W 118 STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1058447,
-    "Latitude": 40.8059,
-    "Longitude": -73.95191,
-    "Borough": "Manhattan",
-    "Address": "212 WEST 120TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1058640,
-    "Latitude": 40.80875,
-    "Longitude": -73.94893,
-    "Borough": "Manhattan",
-    "Address": "2090 7TH AVENUE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1058659,
-    "Latitude": 40.80969,
-    "Longitude": -73.94894,
-    "Borough": "Manhattan",
-    "Address": "215 WEST 125TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1059273,
-    "Latitude": 40.80984,
-    "Longitude": -73.95368,
-    "Borough": "MANHATTAN",
-    "Address": "565 MANHATTAN AVENUE",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1059298,
-    "Latitude": 40.81006,
-    "Longitude": -73.95209,
-    "Borough": "Manhattan",
-    "Address": "284 ST. NICHOLAS AVENUE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1059392,
     "Latitude": 40.81304,
     "Longitude": -73.9526,
-    "Borough": "Manhattan",
-    "Address": "410 WEST 128TH STREET",
+    "Borough": "MANHATTAN",
+    "Address": "410 WEST 128 STREET",
     "Community Board": 109,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1059548,
-    "Latitude": 40.81185,
-    "Longitude": -73.95441,
-    "Borough": "Manhattan",
-    "Address": "413 W 125 STREET",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1059569,
@@ -1845,76 +882,22 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1059645,
-    "Latitude": 40.81772,
-    "Longitude": -73.95248,
-    "Borough": "Manhattan",
-    "Address": "499 WEST 133 STREET",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1059723,
-    "Latitude": 40.81571,
-    "Longitude": -73.95556,
-    "Borough": "Manhattan",
-    "Address": "509 WEST 129TH STREET",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1060040,
     "Latitude": 40.81699,
     "Longitude": -73.94041,
     "Borough": "Manhattan",
-    "Address": "118 W 139 STREET",
+    "Address": "118 WEST 139TH STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1060189,
-    "Latitude": 40.82117,
-    "Longitude": -73.93649,
-    "Borough": "Manhattan",
-    "Address": "100 WEST 146TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1060198,
-    "Latitude": 40.82395,
-    "Longitude": -73.93568,
-    "Borough": "Manhattan",
-    "Address": "2581 7TH AVENUE",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1060443,
-    "Latitude": 40.82254,
-    "Longitude": -73.94174,
-    "Borough": "Manhattan",
-    "Address": "2726 FREDERICK DOUGLAS BLVD.",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1060550,
     "Latitude": 40.82489,
     "Longitude": -73.94006,
-    "Borough": "MANHATTAN",
-    "Address": "2794 8 AVENUE",
+    "Borough": "Manhattan",
+    "Address": "2794 EIGHTH AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1060726,
-    "Latitude": 40.82018,
-    "Longitude": -73.94453,
-    "Borough": "Manhattan",
-    "Address": "301 WEST 140TH STREET",
-    "Community Board": 110,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1061380,
@@ -1926,19 +909,10 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1062333,
-    "Latitude": 40.82482,
-    "Longitude": -73.95318,
-    "Borough": "Manhattan",
-    "Address": "618 WEST 142 STREET",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1062436,
     "Latitude": 40.82862,
     "Longitude": -73.94935,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "601 WEST 148 STREET",
     "Community Board": 109,
     "Category": "Affordable Housing"
@@ -1962,19 +936,10 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1062836,
-    "Latitude": 40.8353,
-    "Longitude": -73.94093,
-    "Borough": "MANHATTAN",
-    "Address": "2036 AMSTERDAM AVENUE",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1062896,
     "Latitude": 40.83782,
     "Longitude": -73.93881,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "2110 AMSTERDAM AVENUE",
     "Community Board": 112,
     "Category": "Affordable Housing"
@@ -1987,15 +952,6 @@
     "Address": "544 WEST 163RD STREET",
     "Community Board": 112,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1062988,
-    "Latitude": 40.83918,
-    "Longitude": -73.93961,
-    "Borough": "Manhattan",
-    "Address": "1112 ST. NICHOLAS AVENUE",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1063303,
@@ -2016,38 +972,11 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1063381,
-    "Latitude": 40.84212,
-    "Longitude": -73.94129,
-    "Borough": "Manhattan",
-    "Address": "216 FORT WASHINGTON AVE",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1063400,
     "Latitude": 40.8424,
     "Longitude": -73.9435,
     "Borough": "Manhattan",
     "Address": "722 W 168 ST",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1063556,
-    "Latitude": 40.84608,
-    "Longitude": -73.93696,
-    "Borough": "Manhattan",
-    "Address": "608 WEST 176TH STREET",
-    "Community Board": 112,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 1063625,
-    "Latitude": 40.8483,
-    "Longitude": -73.93407,
-    "Borough": "Manhattan",
-    "Address": "560 WEST 180 STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care"
   },
@@ -2061,24 +990,6 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1063636,
-    "Latitude": 40.84893,
-    "Longitude": -73.93356,
-    "Borough": "Manhattan",
-    "Address": "564 WEST 181 STREET",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1064070,
-    "Latitude": 40.86012,
-    "Longitude": -73.92596,
-    "Borough": "MANHATTAN",
-    "Address": "129 HILLSIDE AVENUE",
-    "Community Board": 112,
-    "Category": "Utility"
-  },
-  {
     "BIN": 1064203,
     "Latitude": 40.86167,
     "Longitude": -73.92664,
@@ -2086,51 +997,6 @@
     "Address": "21 ARDEN STREET",
     "Community Board": 112,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1064532,
-    "Latitude": 40.87731,
-    "Longitude": -73.91294,
-    "Borough": "Manhattan",
-    "Address": "99 TERRACE VIEW AVENUE",
-    "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1064883,
-    "Latitude": 40.86882,
-    "Longitude": -73.91654,
-    "Borough": "Manhattan",
-    "Address": "5030 BROADWAY",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1065045,
-    "Latitude": 40.87323,
-    "Longitude": -73.91295,
-    "Borough": "MANHATTAN",
-    "Address": "5141 BROADWAY",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1066793,
-    "Latitude": 40.72926,
-    "Longitude": -74.00479,
-    "Borough": "Manhattan",
-    "Address": "230 VARICK STREET",
-    "Community Board": 102,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1069344,
-    "Latitude": 40.73475,
-    "Longitude": -73.98367,
-    "Borough": "Manhattan",
-    "Address": "305 2ND AVE",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1070031,
@@ -2142,65 +1008,11 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 1075787,
-    "Latitude": 40.71486,
-    "Longitude": -73.99594,
-    "Borough": "Manhattan",
-    "Address": "33 BOWERY",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1076307,
-    "Latitude": 40.76477,
-    "Longitude": -73.96355,
-    "Borough": "Manhattan",
-    "Address": "200 EAST 65 STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1076739,
-    "Latitude": 40.83161,
-    "Longitude": -73.94199,
-    "Borough": "Manhattan",
-    "Address": "475 WEST 155TH STREET",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1076745,
-    "Latitude": 40.83462,
-    "Longitude": -73.94508,
-    "Borough": "Manhattan",
-    "Address": "3781 BROADWAY",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1076746,
     "Latitude": 40.84127,
     "Longitude": -73.94346,
     "Borough": "Manhattan",
     "Address": "177 FORT WASHINGTON AVE",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1076751,
-    "Latitude": 40.85661,
-    "Longitude": -73.92599,
-    "Borough": "Manhattan",
-    "Address": "549 AUDUBON AVE",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1076776,
-    "Latitude": 40.86549,
-    "Longitude": -73.92541,
-    "Borough": "Manhattan",
-    "Address": "650 ACADEMY STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care"
   },
@@ -2214,38 +1026,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1077604,
-    "Latitude": 40.7154,
-    "Longitude": -73.98808,
-    "Borough": "Manhattan",
-    "Address": "357 GRAND STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1077841,
-    "Latitude": 40.76288,
-    "Longitude": -73.98849,
-    "Borough": "Manhattan",
-    "Address": "720 9TH AVENUE",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1078039,
     "Latitude": 40.71743,
     "Longitude": -73.97781,
     "Borough": "Manhattan",
     "Address": "50 COLUMBIA ST",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1078043,
-    "Latitude": 40.71743,
-    "Longitude": -73.97781,
-    "Borough": "Manhattan",
-    "Address": "72 COLUMBIA ST",
     "Community Board": 103,
     "Category": "Hospital / Health Care"
   },
@@ -2263,80 +1048,17 @@
     "Latitude": 40.74448,
     "Longitude": -73.98011,
     "Borough": "Manhattan",
-    "Address": "460 3RD AVENUE",
+    "Address": "151 EAST 31ST STREET",
     "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1078843,
-    "Latitude": 40.74429,
-    "Longitude": -73.97569,
-    "Borough": "Manhattan",
-    "Address": "300 E34TH STREET",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1079000,
-    "Latitude": 40.71609,
-    "Longitude": -74.00079,
-    "Borough": "Manhattan",
-    "Address": "100 CENTER ST",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1079063,
-    "Latitude": 40.70932,
-    "Longitude": -74.00714,
-    "Borough": "Manhattan",
-    "Address": "123 WILLIAM STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1080092,
-    "Latitude": 40.72969,
-    "Longitude": -73.99234,
-    "Borough": "Manhattan",
-    "Address": "2 ASTOR PLACE",
-    "Community Board": 102,
     "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1080679,
     "Latitude": 40.74276,
     "Longitude": -73.99137,
-    "Borough": "MANHATTAN",
-    "Address": "34 WEST 24 STREET",
+    "Borough": "Manhattan",
+    "Address": "53 WEST 23RD ST.",
     "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1080686,
-    "Latitude": 40.74333,
-    "Longitude": -73.99043,
-    "Borough": "Manhattan",
-    "Address": "24 WEST 25TH STREET",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1080802,
-    "Latitude": 40.73893,
-    "Longitude": -73.98674,
-    "Borough": "Manhattan",
-    "Address": "61 GRAMERCY PARK NORTH",
-    "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1080924,
-    "Latitude": 40.75847,
-    "Longitude": -73.9958,
-    "Borough": "Manhattan",
-    "Address": "460 WEST 41 STREET",
-    "Community Board": 104,
     "Category": "Hospital / Health Care"
   },
   {
@@ -2376,33 +1098,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1082634,
-    "Latitude": 40.7056,
-    "Longitude": -74.01584,
-    "Borough": "Manhattan",
-    "Address": "1 WEST STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1082642,
-    "Latitude": 40.727,
-    "Longitude": -73.9908,
-    "Borough": "Manhattan",
-    "Address": "59 EAST 4TH STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1082706,
-    "Latitude": 40.80331,
-    "Longitude": -73.96203,
-    "Borough": "Manhattan",
-    "Address": "1047 AMSTERDAM AVENUE",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1082718,
     "Latitude": 40.7697,
     "Longitude": -73.98689,
@@ -2412,48 +1107,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1082908,
-    "Latitude": 40.7505,
-    "Longitude": -73.99339,
-    "Borough": "Manhattan",
-    "Address": "4 PENN PLAZA",
-    "Community Board": 105,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 1083026,
-    "Latitude": 40.74998,
-    "Longitude": -73.99213,
-    "Borough": "Manhattan",
-    "Address": "2 PENN PLAZA",
-    "Community Board": 105,
-    "Category": "Utility"
-  },
-  {
     "BIN": 1083247,
     "Latitude": 40.73464,
     "Longitude": -73.98921,
     "Borough": "Manhattan",
     "Address": "1 IRVING PLACE",
     "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1083343,
-    "Latitude": 40.76564,
-    "Longitude": -73.95978,
-    "Borough": "Manhattan",
-    "Address": "317 EAST 67TH STREET",
-    "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1083346,
-    "Latitude": 40.70318,
-    "Longitude": -74.00916,
-    "Borough": "Manhattan",
-    "Address": "55 WATER STREET",
-    "Community Board": 101,
     "Category": "Hospital / Health Care"
   },
   {
@@ -2466,31 +1125,13 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1083624,
-    "Latitude": 40.75357,
-    "Longitude": -73.99188,
-    "Borough": "Manhattan",
-    "Address": "520 8 AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1083802,
-    "Latitude": 40.76548,
-    "Longitude": -73.99271,
-    "Borough": "Manhattan",
-    "Address": "525 WEST 50 STREET",
-    "Community Board": 104,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1083923,
     "Latitude": 40.78988,
     "Longitude": -73.95326,
     "Borough": "Manhattan",
     "Address": "1190 5TH AVENUE",
     "Community Board": 111,
-    "Category": "Hospital / Health Care"
+    "Category": "Utility"
   },
   {
     "BIN": 1083929,
@@ -2499,25 +1140,7 @@
     "Borough": "Manhattan",
     "Address": "1901 1ST AVENUE",
     "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1083953,
-    "Latitude": 40.79089,
-    "Longitude": -73.93768,
-    "Borough": "Manhattan",
-    "Address": "2070 1 AVENUE",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1084118,
-    "Latitude": 40.81383,
-    "Longitude": -73.95791,
-    "Borough": "Manhattan",
-    "Address": "3170 BROADWAY",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
+    "Category": "Utility"
   },
   {
     "BIN": 1084338,
@@ -2526,15 +1149,6 @@
     "Borough": "Manhattan",
     "Address": "575 WEST 181 STREET",
     "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1084357,
-    "Latitude": 40.7182,
-    "Longitude": -73.98193,
-    "Borough": "Manhattan",
-    "Address": "80 PITT STREET",
-    "Community Board": 103,
     "Category": "Hospital / Health Care"
   },
   {
@@ -2551,7 +1165,7 @@
     "Latitude": 40.84069,
     "Longitude": -73.94164,
     "Borough": "Manhattan",
-    "Address": "622 WEST 168 STREET",
+    "Address": "630 WEST 168 STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care"
   },
@@ -2560,7 +1174,7 @@
     "Latitude": 40.84069,
     "Longitude": -73.94164,
     "Borough": "Manhattan",
-    "Address": "620 WEST 168TH STREET",
+    "Address": "620 WEST 168 STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care"
   },
@@ -2574,20 +1188,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 1084631,
-    "Latitude": 40.72463,
-    "Longitude": -73.97594,
-    "Borough": "Manhattan",
-    "Address": "743 EAST 9 STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1084781,
     "Latitude": 40.76445,
     "Longitude": -73.95414,
     "Borough": "Manhattan",
-    "Address": "525 EAST 68 STREET",
+    "Address": "525 EAST 68TH STREET",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
   },
@@ -2595,7 +1200,7 @@
     "BIN": 1084785,
     "Latitude": 40.76445,
     "Longitude": -73.95414,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "1300 YORK AVENUE",
     "Community Board": 108,
     "Category": "Hospital / Health Care"
@@ -2607,15 +1212,6 @@
     "Borough": "Manhattan",
     "Address": "4 IRVING PLACE",
     "Community Board": 106,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 1085050,
-    "Latitude": 40.75996,
-    "Longitude": -73.99755,
-    "Borough": "Manhattan",
-    "Address": "521 WEST 41 STREET",
-    "Community Board": 104,
     "Category": "Utility"
   },
   {
@@ -2632,18 +1228,9 @@
     "Latitude": 40.81151,
     "Longitude": -73.95074,
     "Borough": "Manhattan",
-    "Address": "314 WEST 127TH STREET",
+    "Address": "314 WEST 127 STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1085449,
-    "Latitude": 40.71697,
-    "Longitude": -73.99896,
-    "Borough": "MANHATTAN",
-    "Address": "212 CANAL STREET",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1085517,
@@ -2659,25 +1246,16 @@
     "Latitude": 40.74355,
     "Longitude": -73.97342,
     "Borough": "Manhattan",
-    "Address": "433 EAST 30TH STREET",
+    "Address": "550 1ST AVENUE",
     "Community Board": 106,
     "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1085671,
-    "Latitude": 40.75326,
-    "Longitude": -73.97546,
-    "Borough": "Manhattan",
-    "Address": "450 LEXINGTON AVENUE",
-    "Community Board": 105,
-    "Category": "Utility"
   },
   {
     "BIN": 1086175,
     "Latitude": 40.766,
     "Longitude": -73.99589,
     "Borough": "Manhattan",
-    "Address": "600 WEST 50 STREET",
+    "Address": "600 W50TH STREET",
     "Community Board": 104,
     "Category": "Utility"
   },
@@ -2695,26 +1273,8 @@
     "Latitude": 40.73875,
     "Longitude": -73.97534,
     "Borough": "Manhattan",
-    "Address": "462 FIRST AVE",
+    "Address": "462 FIRST AVENUE",
     "Community Board": 106,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1086601,
-    "Latitude": 40.71388,
-    "Longitude": -73.99588,
-    "Borough": "MANHATTAN",
-    "Address": "46 EAST BROADWAY",
-    "Community Board": 103,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1087080,
-    "Latitude": 40.7056,
-    "Longitude": -74.01584,
-    "Borough": "Manhattan",
-    "Address": "2 WASHINGTON STREET",
-    "Community Board": 101,
     "Category": "Hospital / Health Care"
   },
   {
@@ -2722,54 +1282,18 @@
     "Latitude": 40.76437,
     "Longitude": -73.9568,
     "Borough": "Manhattan",
-    "Address": "411 EAST 67TH STREET",
+    "Address": "1275 YORK AVENUE",
     "Community Board": 108,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1087286,
-    "Latitude": 40.81636,
-    "Longitude": -73.94737,
-    "Borough": "MANHATTAN",
-    "Address": "2511 FREDERICK DOUGLASS BOULEVARD",
-    "Community Board": 110,
     "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1087298,
     "Latitude": 40.74062,
     "Longitude": -73.97476,
-    "Borough": "Manhattan",
-    "Address": "400 EAST 30 ST",
+    "Borough": "MANHATTAN",
+    "Address": "400 EAST 30 STREET",
     "Community Board": 106,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 1087442,
-    "Latitude": 40.80088,
-    "Longitude": -73.93648,
-    "Borough": "MANHATTAN",
-    "Address": "219 EAST 121 STREET",
-    "Community Board": 111,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1087469,
-    "Latitude": 40.83924,
-    "Longitude": -73.94038,
-    "Borough": "Manhattan",
-    "Address": "3940 BROADWAY",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1087537,
-    "Latitude": 40.74651,
-    "Longitude": -73.98107,
-    "Borough": "Manhattan",
-    "Address": "3 PARK AVENUE",
-    "Community Board": 105,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 1087871,
@@ -2817,33 +1341,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 1088438,
-    "Latitude": 40.79609,
-    "Longitude": -73.96851,
-    "Borough": "Manhattan",
-    "Address": "801 AMSTERDAM AVE",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1088576,
-    "Latitude": 40.77541,
-    "Longitude": -73.98458,
-    "Borough": "Manhattan",
-    "Address": "150 AMSTERDAM AVENUE",
-    "Community Board": 107,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1088750,
-    "Latitude": 40.70863,
-    "Longitude": -74.01466,
-    "Borough": "Manhattan",
-    "Address": "100 WASHINGTON STREET",
-    "Community Board": 101,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1088859,
     "Latitude": 40.75902,
     "Longitude": -73.95119,
@@ -2862,24 +1359,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 1089154,
-    "Latitude": 40.82409,
-    "Longitude": -73.95414,
-    "Borough": "MANHATTAN",
-    "Address": "625 WEST 140 STREET",
-    "Community Board": 109,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 1089192,
-    "Latitude": 40.86377,
-    "Longitude": -73.91608,
-    "Borough": "Manhattan",
-    "Address": "375 WEST 207TH STREET",
-    "Community Board": 112,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 1089374,
     "Latitude": 40.77268,
     "Longitude": -73.99181,
@@ -2893,7 +1372,7 @@
     "Latitude": 40.75327,
     "Longitude": -74.00284,
     "Borough": "Manhattan",
-    "Address": "553 WEST 30TH STREET",
+    "Address": "545 WEST 30TH STREET",
     "Community Board": 104,
     "Category": "Affordable Housing"
   },
@@ -2923,15 +1402,6 @@
     "Address": "2211 3 AVENUE",
     "Community Board": 111,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 1089695,
-    "Latitude": 40.75304,
-    "Longitude": -73.99945,
-    "Borough": "Manhattan",
-    "Address": "450 WEST 33RD STREET",
-    "Community Board": 104,
-    "Category": "Utility"
   },
   {
     "BIN": 1089723,
@@ -3028,7 +1498,7 @@
     "Latitude": 40.81255,
     "Longitude": -73.9498,
     "Borough": "Manhattan",
-    "Address": "2395 FREDRICK DOUGLAS BLVD",
+    "Address": "2395 8TH AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing"
   },
@@ -3037,7 +1507,7 @@
     "Latitude": 40.70853,
     "Longitude": -74.00517,
     "Borough": "Manhattan",
-    "Address": "58 B FULTON STREET",
+    "Address": "54 FULTON STREET",
     "Community Board": 101,
     "Category": "Affordable Housing"
   },
@@ -3054,8 +1524,8 @@
     "BIN": 1090460,
     "Latitude": 40.76166,
     "Longitude": -73.99732,
-    "Borough": "MANHATTAN",
-    "Address": "572 11 AVENUE",
+    "Borough": "Manhattan",
+    "Address": "572 11TH AVE",
     "Community Board": 104,
     "Category": "Affordable Housing"
   },
@@ -3064,7 +1534,7 @@
     "Latitude": 40.74546,
     "Longitude": -73.98397,
     "Borough": "Manhattan",
-    "Address": "30 EAST 31ST STREET",
+    "Address": "30 EAST 31 ST",
     "Community Board": 105,
     "Category": "Affordable Housing"
   },
@@ -3082,7 +1552,7 @@
     "Latitude": 40.81015,
     "Longitude": -73.95452,
     "Borough": "Manhattan",
-    "Address": "101 MORNINGSIDE AVE",
+    "Address": "101 MORNINGSIDE AVENUE",
     "Community Board": 109,
     "Category": "Affordable Housing"
   },
@@ -3118,7 +1588,7 @@
     "Latitude": 40.80245,
     "Longitude": -73.94605,
     "Borough": "Manhattan",
-    "Address": "11 WEST 118TH STREET",
+    "Address": "11 WEST 118 STREET",
     "Community Board": 110,
     "Category": "Affordable Housing"
   },
@@ -3142,10 +1612,10 @@
   },
   {
     "BIN": 1090749,
-    "Latitude": 40.8014,
-    "Longitude": -73.96336,
+    "Latitude": 40.80152,
+    "Longitude": -73.96364,
     "Borough": "MANHATTAN",
-    "Address": "143 WEST 108 STREET",
+    "Address": "149 WEST 108 STREET",
     "Community Board": 107,
     "Category": "Affordable Housing"
   },
@@ -3172,7 +1642,7 @@
     "Latitude": 40.74253,
     "Longitude": -73.99094,
     "Borough": "Manhattan",
-    "Address": "39 WEST 23 STREET",
+    "Address": "39 WEST 23RD STREET",
     "Community Board": 105,
     "Category": "Affordable Housing"
   },
@@ -3195,51 +1665,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2000391,
-    "Latitude": 40.81031,
-    "Longitude": -73.91875,
-    "Borough": "Bronx",
-    "Address": "345 BROOK AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2000506,
-    "Latitude": 40.81411,
-    "Longitude": -73.91779,
-    "Borough": "Bronx",
-    "Address": "434 147TH STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2000721,
-    "Latitude": 40.81097,
-    "Longitude": -73.92483,
-    "Borough": "Bronx",
-    "Address": "279 ALEXANDER AVE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2000784,
-    "Latitude": 40.80882,
-    "Longitude": -73.93076,
-    "Borough": "Bronx",
-    "Address": "2417 3RD AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2000816,
-    "Latitude": 40.81624,
-    "Longitude": -73.92275,
-    "Borough": "Bronx",
-    "Address": "502 MORRIS AVE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2000856,
     "Latitude": 40.81681,
     "Longitude": -73.9185,
@@ -3247,42 +1672,6 @@
     "Address": "370 EAST 150TH STREET",
     "Community Board": 201,
     "Category": "Utility"
-  },
-  {
-    "BIN": 2000859,
-    "Latitude": 40.81644,
-    "Longitude": -73.91809,
-    "Borough": "BRONX",
-    "Address": "391 EAST 149 STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2000933,
-    "Latitude": 40.81686,
-    "Longitude": -73.91972,
-    "Borough": "Bronx",
-    "Address": "349 EAST 149 STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2001153,
-    "Latitude": 40.81807,
-    "Longitude": -73.91167,
-    "Borough": "Bronx",
-    "Address": "701 ST ANNS AVE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2001156,
-    "Latitude": 40.82211,
-    "Longitude": -73.91054,
-    "Borough": "Bronx",
-    "Address": "3144 THIRD AVE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2001224,
@@ -3294,31 +1683,13 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2001229,
-    "Latitude": 40.82439,
-    "Longitude": -73.90892,
-    "Borough": "Bronx",
-    "Address": "517 E 163 STREET",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2001305,
     "Latitude": 40.82847,
     "Longitude": -73.90746,
     "Borough": "Bronx",
-    "Address": "3401 3RD AVENUE",
+    "Address": "3401 THIRD AVENUE",
     "Community Board": 203,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 2001620,
-    "Latitude": 40.82534,
-    "Longitude": -73.91177,
-    "Borough": "Bronx",
-    "Address": "951 BROOK AVENUE",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2001736,
@@ -3327,60 +1698,6 @@
     "Borough": "Bronx",
     "Address": "758 COURTLAND AV",
     "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002089,
-    "Latitude": 40.83264,
-    "Longitude": -73.91019,
-    "Borough": "Bronx",
-    "Address": "391 EAST 168 ST",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002160,
-    "Latitude": 40.83161,
-    "Longitude": -73.9116,
-    "Borough": "Bronx",
-    "Address": "1160 TELLER AVENUE",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002457,
-    "Latitude": 40.82545,
-    "Longitude": -73.91908,
-    "Borough": "Bronx",
-    "Address": "260 EAST 161ST STREET",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002497,
-    "Latitude": 40.82799,
-    "Longitude": -73.9177,
-    "Borough": "Bronx",
-    "Address": "250 EAST 164TH STREET",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002823,
-    "Latitude": 40.83015,
-    "Longitude": -73.92014,
-    "Borough": "Bronx",
-    "Address": "1020 GRAND CONCOURSE",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2002941,
-    "Latitude": 40.83068,
-    "Longitude": -73.92226,
-    "Borough": "Bronx",
-    "Address": "1011 WALTON AVENUE",
-    "Community Board": 204,
     "Category": "Hospital / Health Care"
   },
   {
@@ -3406,7 +1723,7 @@
     "Latitude": 40.81018,
     "Longitude": -73.90451,
     "Borough": "Bronx",
-    "Address": "880 EAST 147 STREET",
+    "Address": "880 EAST 147TH STREET",
     "Community Board": 201,
     "Category": "Affordable Housing"
   },
@@ -3429,51 +1746,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2004314,
-    "Latitude": 40.81485,
-    "Longitude": -73.912,
-    "Borough": "Bronx",
-    "Address": "600 SAINT ANN'S AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2004526,
-    "Latitude": 40.82757,
-    "Longitude": -73.90379,
-    "Borough": "Bronx",
-    "Address": "1100 BOSTON ROAD",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2004773,
-    "Latitude": 40.81425,
-    "Longitude": -73.90524,
-    "Borough": "Bronx",
-    "Address": "628 TINTON AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2004795,
-    "Latitude": 40.81929,
-    "Longitude": -73.90298,
-    "Borough": "Bronx",
-    "Address": "807 WESTCHESTER AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2005027,
-    "Latitude": 40.82281,
-    "Longitude": -73.90086,
-    "Borough": "Bronx",
-    "Address": "963 PROSPECT AVENUE",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2005371,
     "Latitude": 40.82181,
     "Longitude": -73.89812,
@@ -3481,15 +1753,6 @@
     "Address": "917 WESTCHESTER  AVENUE",
     "Community Board": 202,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 2005616,
-    "Latitude": 40.81774,
-    "Longitude": -73.89787,
-    "Borough": "Bronx",
-    "Address": "965 LONGWOOD AVENUE",
-    "Community Board": 202,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2005661,
@@ -3507,33 +1770,6 @@
     "Borough": "Bronx",
     "Address": "953 SOUTHERN BOULEVARD",
     "Community Board": 202,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2006079,
-    "Latitude": 40.82233,
-    "Longitude": -73.88897,
-    "Borough": "Bronx",
-    "Address": "984 FAILE STREET",
-    "Community Board": 202,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2006338,
-    "Latitude": 40.81901,
-    "Longitude": -73.88815,
-    "Borough": "BRONX",
-    "Address": "1215 SENECA AVENUE",
-    "Community Board": 202,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2007733,
-    "Latitude": 40.85055,
-    "Longitude": -73.90339,
-    "Borough": "BRONX",
-    "Address": "230 EAST 179 STREET",
-    "Community Board": 205,
     "Category": "Hospital / Health Care"
   },
   {
@@ -3555,57 +1791,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2007902,
-    "Latitude": 40.84855,
-    "Longitude": -73.90902,
-    "Borough": "Bronx",
-    "Address": "1865 MORRIS AVENUE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2008209,
-    "Latitude": 40.8483,
-    "Longitude": -73.91151,
-    "Borough": "Bronx",
-    "Address": "1788 JEROME AVENUE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2008460,
-    "Latitude": 40.84937,
-    "Longitude": -73.91533,
-    "Borough": "Bronx",
-    "Address": "1700 MACOMBS ROAD",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2008471,
     "Latitude": 40.84981,
     "Longitude": -73.9146,
     "Borough": "BRONX",
     "Address": "1731 HARRISON AVENUE",
     "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2009253,
-    "Latitude": 40.85203,
-    "Longitude": -73.92169,
-    "Borough": "Bronx",
-    "Address": "275 HARLEM RIVER PARK BRIDGE",
-    "Community Board": 205,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 2009400,
-    "Latitude": 40.84044,
-    "Longitude": -73.90427,
-    "Borough": "Bronx",
-    "Address": "1600 WEBSTER AVENUE",
-    "Community Board": 203,
     "Category": "Hospital / Health Care"
   },
   {
@@ -3616,15 +1807,6 @@
     "Address": "1734 WEBSTER AVENUE",
     "Community Board": 203,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 2009463,
-    "Latitude": 40.83594,
-    "Longitude": -73.90498,
-    "Borough": "Bronx",
-    "Address": "450 ST. PAUL'S PLACE",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2009646,
@@ -3657,8 +1839,8 @@
     "BIN": 2010494,
     "Latitude": 40.83135,
     "Longitude": -73.89173,
-    "Borough": "BRONX",
-    "Address": "1325 SOUTHERN BOULEVARD",
+    "Borough": "Bronx",
+    "Address": "1325 SOUTHERN BLVD",
     "Community Board": 203,
     "Category": "Affordable Housing"
   },
@@ -3672,15 +1854,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2010906,
-    "Latitude": 40.82956,
-    "Longitude": -73.88776,
-    "Borough": "Bronx",
-    "Address": "999 FREEMAN STREET",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2011054,
     "Latitude": 40.85868,
     "Longitude": -73.89466,
@@ -3690,48 +1863,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2011214,
-    "Latitude": 40.85877,
-    "Longitude": -73.89358,
-    "Borough": "Bronx",
-    "Address": "401 EAST 187TH STREET",
-    "Community Board": 206,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2011533,
     "Latitude": 40.85203,
     "Longitude": -73.89326,
     "Borough": "Bronx",
     "Address": "4419 THIRD AVENUE",
     "Community Board": 206,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2011810,
-    "Latitude": 40.85947,
-    "Longitude": -73.88863,
-    "Borough": "Bronx",
-    "Address": "500 EAST FORDHAM ROAD",
-    "Community Board": 206,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2012887,
-    "Latitude": 40.85525,
-    "Longitude": -73.88248,
-    "Borough": "Bronx",
-    "Address": "2474 CROTONA AVE",
-    "Community Board": 206,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2013307,
-    "Latitude": 40.85439,
-    "Longitude": -73.89736,
-    "Borough": "Bronx",
-    "Address": "2225 WEBSTER AVENUE",
-    "Community Board": 205,
     "Category": "Hospital / Health Care"
   },
   {
@@ -3762,15 +1899,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2013631,
-    "Latitude": 40.85306,
-    "Longitude": -73.90251,
-    "Borough": "BRONX",
-    "Address": "2070 GRAND CONCOURSE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2013665,
     "Latitude": 40.85195,
     "Longitude": -73.90155,
@@ -3778,24 +1906,6 @@
     "Address": "2051 RYER AVENUE",
     "Community Board": 205,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 2013849,
-    "Latitude": 40.85532,
-    "Longitude": -73.90315,
-    "Borough": "Bronx",
-    "Address": "125 EAST 181 STREET",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2013899,
-    "Latitude": 40.8595,
-    "Longitude": -73.9005,
-    "Borough": "Bronx",
-    "Address": "120 EAST 184TH STREET",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2014083,
@@ -3807,24 +1917,6 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 2014731,
-    "Latitude": 40.85794,
-    "Longitude": -73.90965,
-    "Borough": "Bronx",
-    "Address": "2155 UNIVERSITY AVENUE",
-    "Community Board": 207,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2015241,
-    "Latitude": 40.86997,
-    "Longitude": -73.89702,
-    "Borough": "Bronx",
-    "Address": "2780 RESERVOIR AVENUE",
-    "Community Board": 207,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2015449,
     "Latitude": 40.88407,
     "Longitude": -73.88848,
@@ -3834,29 +1926,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2015472,
-    "Latitude": 40.88305,
-    "Longitude": -73.89166,
-    "Borough": "Bronx",
-    "Address": "3961 HILLMAN AVENUE",
-    "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2015502,
     "Latitude": 40.87042,
     "Longitude": -73.90387,
     "Borough": "Bronx",
     "Address": "2678 KINGSBRIDGE TERRACE",
-    "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2015547,
-    "Latitude": 40.87553,
-    "Longitude": -73.9016,
-    "Borough": "Bronx",
-    "Address": "120 WEST 231 STREET",
     "Community Board": 208,
     "Category": "Hospital / Health Care"
   },
@@ -3876,15 +1950,6 @@
     "Borough": "BRONX",
     "Address": "170 WEST 233 STREET",
     "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2017431,
-    "Latitude": 40.86845,
-    "Longitude": -73.89333,
-    "Borough": "Bronx",
-    "Address": "2751 GRAND CONCOURSE",
-    "Community Board": 207,
     "Category": "Hospital / Health Care"
   },
   {
@@ -3933,47 +1998,11 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2020580,
-    "Latitude": 40.81503,
-    "Longitude": -73.85611,
-    "Borough": "Bronx",
-    "Address": "456 WHITE PLAINS ROAD",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2022205,
-    "Latitude": 40.82122,
-    "Longitude": -73.85593,
-    "Borough": "Bronx",
-    "Address": "1980 LAFAYETTE AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2023511,
-    "Latitude": 40.82441,
-    "Longitude": -73.87579,
-    "Borough": "BRONX",
-    "Address": "1569 BRUCKNER BOULEVARD",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2023644,
     "Latitude": 40.82675,
     "Longitude": -73.86087,
     "Borough": "BRONX",
     "Address": "1010 UNDERHILL AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2023922,
-    "Latitude": 40.8266,
-    "Longitude": -73.87614,
-    "Borough": "Bronx",
-    "Address": "1101 MANOR AVENUE",
     "Community Board": 209,
     "Category": "Hospital / Health Care"
   },
@@ -3991,7 +2020,7 @@
     "Latitude": 40.83055,
     "Longitude": -73.87241,
     "Borough": "Bronx",
-    "Address": "1230 METCALF AVENUE",
+    "Address": "1240 METCALF AVENUE",
     "Community Board": 209,
     "Category": "Affordable Housing"
   },
@@ -4000,7 +2029,7 @@
     "Latitude": 40.83329,
     "Longitude": -73.85735,
     "Borough": "Bronx",
-    "Address": "2008 WESTCHESTER AVE",
+    "Address": "2008 WESTCHESTER AVENUE",
     "Community Board": 209,
     "Category": "Homeless Shelter"
   },
@@ -4011,24 +2040,6 @@
     "Borough": "Bronx",
     "Address": "1070 HAVEMEYER AVENUE",
     "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2029018,
-    "Latitude": 40.8345,
-    "Longitude": -73.85226,
-    "Borough": "Bronx",
-    "Address": "1315 CASTLE HILL AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2041406,
-    "Latitude": 40.83505,
-    "Longitude": -73.85095,
-    "Borough": "BRONX",
-    "Address": "2125 GLEBE AVENUE",
-    "Community Board": 210,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4068,20 +2079,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2048794,
-    "Latitude": 40.85307,
-    "Longitude": -73.86626,
-    "Borough": "Bronx",
-    "Address": "725 BRADY AVENUE",
-    "Community Board": 211,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2049614,
     "Latitude": 40.85653,
     "Longitude": -73.85951,
     "Borough": "Bronx",
-    "Address": "1000 PELHAM PARKWAY SOUTH",
+    "Address": "1000 PELHAM PARKWAY",
     "Community Board": 211,
     "Category": "Hospital / Health Care"
   },
@@ -4095,29 +2097,11 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2050179,
-    "Latitude": 40.86044,
-    "Longitude": -73.86074,
-    "Borough": "Bronx",
-    "Address": "925 ASTOR AVENUE",
-    "Community Board": 211,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2050370,
     "Latitude": 40.859,
     "Longitude": -73.85156,
     "Borough": "BRONX",
     "Address": "1235 PELHAM PARKWAY",
-    "Community Board": 211,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2050818,
-    "Latitude": 40.86054,
-    "Longitude": -73.84364,
-    "Borough": "Bronx",
-    "Address": "2331 EASTCHESTER ROAD",
     "Community Board": 211,
     "Category": "Hospital / Health Care"
   },
@@ -4149,47 +2133,11 @@
     "Category": "Utility"
   },
   {
-    "BIN": 2057045,
-    "Latitude": 40.87516,
-    "Longitude": -73.8617,
-    "Borough": "Bronx",
-    "Address": "800 EAST GUN HILL ROAD",
-    "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2058396,
-    "Latitude": 40.88065,
-    "Longitude": -73.86013,
-    "Borough": "Bronx",
-    "Address": "3710 BARNES AVENUE",
-    "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2065164,
     "Latitude": 40.88765,
     "Longitude": -73.84824,
     "Borough": "Bronx",
     "Address": "1050 EAST  230 STREET",
-    "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2066090,
-    "Latitude": 40.88391,
-    "Longitude": -73.83572,
-    "Borough": "Bronx",
-    "Address": "2101 NEEDHAM AVE",
-    "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2066190,
-    "Latitude": 40.88644,
-    "Longitude": -73.84005,
-    "Borough": "Bronx",
-    "Address": "3750 BAYCHESTER AVENUE",
     "Community Board": 212,
     "Category": "Hospital / Health Care"
   },
@@ -4206,7 +2154,7 @@
     "BIN": 2070559,
     "Latitude": 40.90046,
     "Longitude": -73.85805,
-    "Borough": "BRONX",
+    "Borough": "Bronx",
     "Address": "555 NEREID AVENUE",
     "Community Board": 212,
     "Category": "Affordable Housing"
@@ -4224,8 +2172,8 @@
     "BIN": 2072356,
     "Latitude": 40.87932,
     "Longitude": -73.82906,
-    "Borough": "BRONX",
-    "Address": "801 CO-OP CITY BOULEVARD",
+    "Borough": "Bronx",
+    "Address": "801 CO-OP CITY BLVD",
     "Community Board": 210,
     "Category": "Hospital / Health Care"
   },
@@ -4243,17 +2191,8 @@
     "Latitude": 40.884,
     "Longitude": -73.83222,
     "Borough": "Bronx",
-    "Address": "4012 BOSTON RD",
+    "Address": "4008 BOSTON RD",
     "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2074045,
-    "Latitude": 40.83994,
-    "Longitude": -73.83952,
-    "Borough": "Bronx",
-    "Address": "3000 EAST TREMONT AVENUE",
-    "Community Board": 210,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4315,7 +2254,7 @@
     "Latitude": 40.81952,
     "Longitude": -73.89583,
     "Borough": "Bronx",
-    "Address": "900 INTERVALE AVENUE",
+    "Address": "900 INTERVALE AVE.",
     "Community Board": 202,
     "Category": "Hospital / Health Care"
   },
@@ -4326,15 +2265,6 @@
     "Borough": "Bronx",
     "Address": "1200 WATERS PLACE",
     "Community Board": 211,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2087299,
-    "Latitude": 40.8746,
-    "Longitude": -73.86743,
-    "Borough": "Bronx",
-    "Address": "3377 WHITE PLAINS ROAD",
-    "Community Board": 212,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4353,61 +2283,7 @@
     "Borough": "Bronx",
     "Address": "1769 JEROME AVENUE",
     "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2090482,
-    "Latitude": 40.85867,
-    "Longitude": -73.90292,
-    "Borough": "Bronx",
-    "Address": "2295 WALTON AVE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2091008,
-    "Latitude": 40.80788,
-    "Longitude": -73.92284,
-    "Borough": "BRONX",
-    "Address": "416 EAST 137 STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2091115,
-    "Latitude": 40.81464,
-    "Longitude": -73.92282,
-    "Borough": "BRONX",
-    "Address": "308 EAST 145 STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2091142,
-    "Latitude": 40.80954,
-    "Longitude": -73.92686,
-    "Borough": "Bronx",
-    "Address": "188 LINCOLN AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2091187,
-    "Latitude": 40.83289,
-    "Longitude": -73.90843,
-    "Borough": "BRONX",
-    "Address": "1230 WEBSTER AVENUE",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2091224,
-    "Latitude": 40.82233,
-    "Longitude": -73.91826,
-    "Borough": "Bronx",
-    "Address": "765 COURTLANDT AVENUE",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
+    "Category": "Affordable Housing"
   },
   {
     "BIN": 2091322,
@@ -4428,15 +2304,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2091964,
-    "Latitude": 40.824,
-    "Longitude": -73.90402,
-    "Borough": "BRONX",
-    "Address": "765 EAST 163 STREET",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2092008,
     "Latitude": 40.8223,
     "Longitude": -73.89552,
@@ -4444,69 +2311,6 @@
     "Address": "975 TIFFANY STREET",
     "Community Board": 202,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 2092074,
-    "Latitude": 40.83486,
-    "Longitude": -73.90732,
-    "Borough": "BRONX",
-    "Address": "1330 WEBSTER AVENUE",
-    "Community Board": 203,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2092105,
-    "Latitude": 40.8466,
-    "Longitude": -73.92253,
-    "Borough": "BRONX",
-    "Address": "1551 UNIVERSITY AVENUE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2092406,
-    "Latitude": 40.85329,
-    "Longitude": -73.9053,
-    "Borough": "BRONX",
-    "Address": "101 EAST BURNSIDE AVENUE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2092668,
-    "Latitude": 40.81947,
-    "Longitude": -73.85287,
-    "Borough": "Bronx",
-    "Address": "2050 SEWARD AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2092759,
-    "Latitude": 40.82205,
-    "Longitude": -73.86183,
-    "Borough": "Bronx",
-    "Address": "820 THIERIOT AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2092908,
-    "Latitude": 40.83497,
-    "Longitude": -73.87665,
-    "Borough": "Bronx",
-    "Address": "1609 EAST 174TH STREET",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2093919,
-    "Latitude": 40.82076,
-    "Longitude": -73.91955,
-    "Borough": "Bronx",
-    "Address": "346 EAST 156 STREET",
-    "Community Board": 201,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 2094217,
@@ -4554,24 +2358,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2095208,
-    "Latitude": 40.84952,
-    "Longitude": -73.89362,
-    "Borough": "Bronx",
-    "Address": "4366 THIRD AVENUE",
-    "Community Board": 206,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 2095215,
-    "Latitude": 40.87988,
-    "Longitude": -73.88895,
-    "Borough": "Bronx",
-    "Address": "100 WEST MOSHOLU PARKWAY SOUTH",
-    "Community Board": 207,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2095219,
     "Latitude": 40.83703,
     "Longitude": -73.92942,
@@ -4590,40 +2376,13 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2096396,
-    "Latitude": 40.88083,
-    "Longitude": -73.87994,
-    "Borough": "Bronx",
-    "Address": "3450 DEKALB AVENUE",
-    "Community Board": 207,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2096399,
     "Latitude": 40.88083,
     "Longitude": -73.87994,
     "Borough": "Bronx",
     "Address": "111 EAST 210TH STREET",
     "Community Board": 207,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2096674,
-    "Latitude": 40.83611,
-    "Longitude": -73.85893,
-    "Borough": "Bronx",
-    "Address": "1386 METROPOLITAN AVENUE",
-    "Community Board": 209,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2097042,
-    "Latitude": 40.79113,
-    "Longitude": -73.88264,
-    "Borough": "Bronx",
-    "Address": "15-15 HAZEN STREET",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
+    "Category": "Utility"
   },
   {
     "BIN": 2097050,
@@ -4632,15 +2391,6 @@
     "Borough": "Bronx",
     "Address": "234 E 149 ST",
     "Community Board": 201,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2097111,
-    "Latitude": 40.82746,
-    "Longitude": -73.91405,
-    "Borough": "Bronx",
-    "Address": "1000 TELLER AVENUE",
-    "Community Board": 204,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4662,31 +2412,13 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 2097469,
-    "Latitude": 40.87711,
-    "Longitude": -73.82897,
-    "Borough": "Bronx",
-    "Address": "131 DREISER LOOP",
-    "Community Board": 210,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2097550,
     "Latitude": 40.85546,
     "Longitude": -73.84661,
     "Borough": "Bronx",
-    "Address": "1400 PELHAM PARKWAY SOUTH",
+    "Address": "1400 PELHAM PARKWAY",
     "Community Board": 211,
     "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2098307,
-    "Latitude": 40.82503,
-    "Longitude": -73.91653,
-    "Borough": "Bronx",
-    "Address": "3204 PARK AVENUE",
-    "Community Board": 203,
-    "Category": "Utility"
   },
   {
     "BIN": 2098417,
@@ -4704,60 +2436,6 @@
     "Borough": "Bronx",
     "Address": "2975 INDEPENDENCE AVENUE",
     "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2101464,
-    "Latitude": 40.83626,
-    "Longitude": -73.91917,
-    "Borough": "Bronx",
-    "Address": "50 EAST 168 STREET",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2101554,
-    "Latitude": 40.87024,
-    "Longitude": -73.86684,
-    "Borough": "Bronx",
-    "Address": "3050 WHITE PLAINS ROAD",
-    "Community Board": 212,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2103486,
-    "Latitude": 40.82174,
-    "Longitude": -73.92284,
-    "Borough": "Bronx",
-    "Address": "730 CONCOURSE VILLAGE WEST",
-    "Community Board": 204,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2103867,
-    "Latitude": 40.85463,
-    "Longitude": -73.90491,
-    "Borough": "Bronx",
-    "Address": "2100 WALTON AVENUE",
-    "Community Board": 205,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2109474,
-    "Latitude": 40.79113,
-    "Longitude": -73.88264,
-    "Borough": "Bronx",
-    "Address": "16-00 HAZEN STREET",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2109476,
-    "Latitude": 40.79113,
-    "Longitude": -73.88264,
-    "Borough": "Bronx",
-    "Address": "18-18 HAZEN STREET",
-    "Community Board": 401,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4794,24 +2472,6 @@
     "Borough": "Bronx",
     "Address": "5901 PALISADE AVENUE",
     "Community Board": 208,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2117335,
-    "Latitude": 40.85277,
-    "Longitude": -73.83885,
-    "Borough": "Bronx",
-    "Address": "1250 WATERS PLACE",
-    "Community Board": 211,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 2117428,
-    "Latitude": 40.81832,
-    "Longitude": -73.92158,
-    "Borough": "Bronx",
-    "Address": "284 EAST 151 STREET",
-    "Community Board": 201,
     "Category": "Hospital / Health Care"
   },
   {
@@ -4891,7 +2551,7 @@
     "Latitude": 40.85385,
     "Longitude": -73.89182,
     "Borough": "Bronx",
-    "Address": "4511 3RD AVENUE",
+    "Address": "4511 3RD AVE",
     "Community Board": 206,
     "Category": "Affordable Housing"
   },
@@ -4914,29 +2574,11 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 2128421,
-    "Latitude": 40.80342,
-    "Longitude": -73.8773,
-    "Borough": "Bronx",
-    "Address": "1 HALLECK STREET",
-    "Community Board": 202,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 2128425,
-    "Latitude": 40.86743,
-    "Longitude": -73.82536,
-    "Borough": "Bronx",
-    "Address": "2100 BARTOW AVENUE",
-    "Community Board": 210,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 2128429,
     "Latitude": 40.80495,
     "Longitude": -73.91695,
     "Borough": "Bronx",
-    "Address": "570 EAST 137TH STREET",
+    "Address": "570 EAST 137 STREET",
     "Community Board": 201,
     "Category": "Affordable Housing"
   },
@@ -4945,7 +2587,7 @@
     "Latitude": 40.83307,
     "Longitude": -73.85569,
     "Borough": "Bronx",
-    "Address": "2035 NEWBOLD AVE",
+    "Address": "2035 NEWBOLD AVENUE",
     "Community Board": 209,
     "Category": "Affordable Housing"
   },
@@ -4972,7 +2614,7 @@
     "Latitude": 40.84615,
     "Longitude": -73.89693,
     "Borough": "Bronx",
-    "Address": "1880 BATHGATE AVENUE",
+    "Address": "1880 BATHGATE AVE",
     "Community Board": 206,
     "Category": "Affordable Housing"
   },
@@ -4998,8 +2640,8 @@
     "BIN": 2128914,
     "Latitude": 40.86786,
     "Longitude": -73.88645,
-    "Borough": "Bronx",
-    "Address": "2885 MARION AVE.",
+    "Borough": "BRONX",
+    "Address": "2885 MARION AVENUE",
     "Community Board": 207,
     "Category": "Affordable Housing"
   },
@@ -5080,7 +2722,7 @@
     "Latitude": 40.83863,
     "Longitude": -73.88176,
     "Borough": "Bronx",
-    "Address": "1903 WEST FARMS ROAD",
+    "Address": "1903 WEST FARMS RD",
     "Community Board": 206,
     "Category": "Affordable Housing"
   },
@@ -5215,7 +2857,7 @@
     "Latitude": 40.87482,
     "Longitude": -73.88799,
     "Borough": "Bronx",
-    "Address": "16 EAST 204TH STREET",
+    "Address": "16 E. 204TH STREET",
     "Community Board": 207,
     "Category": "Affordable Housing"
   },
@@ -5251,7 +2893,7 @@
     "Latitude": 40.81137,
     "Longitude": -73.91901,
     "Borough": "Bronx",
-    "Address": "448 EAST 143 STREET",
+    "Address": "448 EAST 143RD STREET",
     "Community Board": 201,
     "Category": "Affordable Housing"
   },
@@ -5337,65 +2979,11 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3000141,
-    "Latitude": 40.70192,
-    "Longitude": -73.98441,
-    "Borough": "Brooklyn",
-    "Address": "79 BRIDGE STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3000158,
-    "Latitude": 40.70177,
-    "Longitude": -73.98171,
-    "Borough": "Brooklyn",
-    "Address": "209 YORK STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3000208,
-    "Latitude": 40.69704,
-    "Longitude": -73.9857,
-    "Borough": "Brooklyn",
-    "Address": "22 CHAPEL STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3000338,
     "Latitude": 40.69254,
     "Longitude": -73.98653,
     "Borough": "Brooklyn",
     "Address": "57 WILLOUGHBY STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3000349,
-    "Latitude": 40.69259,
-    "Longitude": -73.98556,
-    "Borough": "Brooklyn",
-    "Address": "360 BRIDGE STREET",
-    "Community Board": 302,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 3000350,
-    "Latitude": 40.6924,
-    "Longitude": -73.98597,
-    "Borough": "Brooklyn",
-    "Address": "81 WILLOUGHBY STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3000484,
-    "Latitude": 40.68973,
-    "Longitude": -73.987,
-    "Borough": "Brooklyn",
-    "Address": "180 LIVINGSTON STREET",
     "Community Board": 302,
     "Category": "Hospital / Health Care"
   },
@@ -5412,7 +3000,7 @@
     "BIN": 3000519,
     "Latitude": 40.68792,
     "Longitude": -73.98261,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "285 SCHERMERHORN STREET",
     "Community Board": 302,
     "Category": "Affordable Housing"
@@ -5436,93 +3024,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3001183,
-    "Latitude": 40.68494,
-    "Longitude": -73.98283,
-    "Borough": "Brooklyn",
-    "Address": "450 PACIFIC STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3001937,
-    "Latitude": 40.69513,
-    "Longitude": -73.99144,
-    "Borough": "Brooklyn",
-    "Address": "300 CADMAN PLAZA WEST",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3002008,
-    "Latitude": 40.69434,
-    "Longitude": -73.99129,
-    "Borough": "Brooklyn",
-    "Address": "195 MONTAGUE STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3002242,
-    "Latitude": 40.69278,
-    "Longitude": -73.99127,
-    "Borough": "Brooklyn",
-    "Address": "44 COURT STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3002244,
-    "Latitude": 40.69283,
-    "Longitude": -73.99177,
-    "Borough": "Brooklyn",
-    "Address": "191 JORALEMON STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3002549,
-    "Latitude": 40.69241,
-    "Longitude": -73.99149,
-    "Borough": "Brooklyn",
-    "Address": "50 COURT STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3002703,
-    "Latitude": 40.69054,
-    "Longitude": -73.99089,
-    "Borough": "Brooklyn",
-    "Address": "76 SCHERMERHORN STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3002801,
     "Latitude": 40.68974,
     "Longitude": -73.99084,
     "Borough": "Brooklyn",
     "Address": "66 BOERUM PLACE",
     "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3003069,
-    "Latitude": 40.68891,
-    "Longitude": -73.99303,
-    "Borough": "BROOKLYN",
-    "Address": "150 COURT STREET",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3006401,
-    "Latitude": 40.68502,
-    "Longitude": -73.99332,
-    "Borough": "Brooklyn",
-    "Address": "284 BALTIC STREET",
-    "Community Board": 306,
     "Category": "Hospital / Health Care"
   },
   {
@@ -5535,24 +3042,6 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 3008585,
-    "Latitude": 40.67708,
-    "Longitude": -74.01187,
-    "Borough": "Brooklyn",
-    "Address": "71 SULLIVAN STREET",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3009847,
-    "Latitude": 40.65768,
-    "Longitude": -74.0002,
-    "Borough": "Brooklyn",
-    "Address": "825 4 AVENUE",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3010094,
     "Latitude": 40.65608,
     "Longitude": -74.00202,
@@ -5560,15 +3049,6 @@
     "Address": "875 FOURTH AVENUE",
     "Community Board": 307,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3010580,
-    "Latitude": 40.65218,
-    "Longitude": -74.00762,
-    "Borough": "Brooklyn",
-    "Address": "4004 4TH AVENUE",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3012967,
@@ -5583,8 +3063,8 @@
     "BIN": 3013507,
     "Latitude": 40.64592,
     "Longitude": -74.01364,
-    "Borough": "Brooklyn",
-    "Address": "5108 4TH AVENUE",
+    "Borough": "BROOKLYN",
+    "Address": "5106 4 AVENUE",
     "Community Board": 307,
     "Category": "Affordable Housing"
   },
@@ -5607,57 +3087,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3016258,
-    "Latitude": 40.64194,
-    "Longitude": -74.01936,
-    "Borough": "Brooklyn",
-    "Address": "330 59TH STREET",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3021057,
-    "Latitude": 40.67237,
-    "Longitude": -73.98505,
-    "Borough": "Brooklyn",
-    "Address": "364 5 AVENUE",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3022202,
-    "Latitude": 40.67228,
-    "Longitude": -73.99697,
-    "Borough": "Brooklyn",
-    "Address": "1 12TH STREET",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3022246,
-    "Latitude": 40.67,
-    "Longitude": -73.98863,
-    "Borough": "BROOKLYN",
-    "Address": "437 4 AVENUE",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3024704,
     "Latitude": 40.67229,
     "Longitude": -73.97095,
     "Borough": "Brooklyn",
     "Address": "1 PROSPECT PARK WEST",
     "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3028204,
-    "Latitude": 40.67855,
-    "Longitude": -73.96632,
-    "Borough": "Brooklyn",
-    "Address": "80 UNDERHILL AV",
-    "Community Board": 308,
     "Category": "Hospital / Health Care"
   },
   {
@@ -5668,15 +3103,6 @@
     "Address": "840 WASHINGTON AVENUE",
     "Community Board": 308,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3029702,
-    "Latitude": 40.66893,
-    "Longitude": -73.96096,
-    "Borough": "Brooklyn",
-    "Address": "875 CARROLL ST",
-    "Community Board": 309,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3029966,
@@ -5706,15 +3132,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3034356,
-    "Latitude": 40.66515,
-    "Longitude": -73.95947,
-    "Borough": "Brooklyn",
-    "Address": "46 MCKEEVER PLACE",
-    "Community Board": 309,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3037315,
     "Latitude": 40.66966,
     "Longitude": -73.93354,
@@ -5727,7 +3144,7 @@
     "BIN": 3038661,
     "Latitude": 40.67554,
     "Longitude": -73.90709,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "126 SACKMAN STREET",
     "Community Board": 316,
     "Category": "Affordable Housing"
@@ -5742,38 +3159,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3039174,
-    "Latitude": 40.67311,
-    "Longitude": -73.92008,
-    "Borough": "Brooklyn",
-    "Address": "430 HOWARD AVENUE",
-    "Community Board": 316,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3039624,
     "Latitude": 40.68898,
     "Longitude": -73.92341,
     "Borough": "Brooklyn",
     "Address": "1000 GATES AVENUE",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3042730,
-    "Latitude": 40.67705,
-    "Longitude": -73.90632,
-    "Borough": "Brooklyn",
-    "Address": "1424 HERKIMER STREE",
-    "Community Board": 316,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3047996,
-    "Latitude": 40.67848,
-    "Longitude": -73.9316,
-    "Borough": "Brooklyn",
-    "Address": "1700 FULTON STREET",
     "Community Board": 303,
     "Category": "Hospital / Health Care"
   },
@@ -5805,15 +3195,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3048546,
-    "Latitude": 40.69762,
-    "Longitude": -73.94329,
-    "Borough": "Brooklyn",
-    "Address": "211 THROOP AVENUE",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3049600,
     "Latitude": 40.69087,
     "Longitude": -73.95471,
@@ -5832,39 +3213,12 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3053259,
-    "Latitude": 40.68061,
-    "Longitude": -73.94942,
-    "Borough": "Brooklyn",
-    "Address": "1293 FULTON STREET",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3053786,
-    "Latitude": 40.67993,
-    "Longitude": -73.94561,
-    "Borough": "Brooklyn",
-    "Address": "1368 FULTON STREET",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3054209,
     "Latitude": 40.6967,
     "Longitude": -73.95925,
     "Borough": "Brooklyn",
     "Address": "439 PARK AVENUE",
     "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3054323,
-    "Latitude": 40.69539,
-    "Longitude": -73.96877,
-    "Borough": "BROOKLYN",
-    "Address": "77 CLINTON AVENUE",
-    "Community Board": 302,
     "Category": "Hospital / Health Care"
   },
   {
@@ -5877,20 +3231,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3057398,
-    "Latitude": 40.68158,
-    "Longitude": -73.95668,
-    "Borough": "Brooklyn",
-    "Address": "1125 FULTON ST",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3057751,
     "Latitude": 40.68071,
     "Longitude": -73.95519,
     "Borough": "Brooklyn",
-    "Address": "1134 FULTON ST",
+    "Address": "1134 FULTON STREET",
     "Community Board": 303,
     "Category": "Affordable Housing"
   },
@@ -5940,24 +3285,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3059164,
-    "Latitude": 40.68803,
-    "Longitude": -73.97996,
-    "Borough": "Brooklyn",
-    "Address": "25 FLATBUSH AVENUE",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3060902,
-    "Latitude": 40.70502,
-    "Longitude": -73.95296,
-    "Borough": "Brooklyn",
-    "Address": "60 HARRISON AV",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3062216,
     "Latitude": 40.71651,
     "Longitude": -73.95786,
@@ -5994,15 +3321,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3070825,
-    "Latitude": 40.70976,
-    "Longitude": -73.94447,
-    "Borough": "Brooklyn",
-    "Address": "223 GRAHAM AVENUE",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3070943,
     "Latitude": 40.70799,
     "Longitude": -73.9479,
@@ -6010,24 +3328,6 @@
     "Address": "55 MESEROLE STREET",
     "Community Board": 301,
     "Category": "Utility"
-  },
-  {
-    "BIN": 3071024,
-    "Latitude": 40.70881,
-    "Longitude": -73.93939,
-    "Borough": "Brooklyn",
-    "Address": "207 BUSHWICK AV",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3071571,
-    "Latitude": 40.70276,
-    "Longitude": -73.94135,
-    "Borough": "Brooklyn",
-    "Address": "60 COOK STREET",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3071676,
@@ -6070,34 +3370,7 @@
     "Latitude": 40.7042,
     "Longitude": -73.91756,
     "Borough": "Brooklyn",
-    "Address": "374 STOCKHOLM ST",
-    "Community Board": 304,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3076116,
-    "Latitude": 40.69567,
-    "Longitude": -73.91783,
-    "Borough": "Brooklyn",
-    "Address": "330 WILSON AVENUE",
-    "Community Board": 304,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3076376,
-    "Latitude": 40.70043,
-    "Longitude": -73.91174,
-    "Borough": "Brooklyn",
-    "Address": "315 WYCKOFF AVENUE",
-    "Community Board": 304,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3076908,
-    "Latitude": 40.69643,
-    "Longitude": -73.91174,
-    "Borough": "Brooklyn",
-    "Address": "400 IRVING AVENUE",
+    "Address": "374 STOCKHOLM STREET",
     "Community Board": 304,
     "Category": "Hospital / Health Care"
   },
@@ -6109,15 +3382,6 @@
     "Address": "381 ROCKAWAY AVENUE",
     "Community Board": 316,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 3081032,
-    "Latitude": 40.66819,
-    "Longitude": -73.91179,
-    "Borough": "Brooklyn",
-    "Address": "110 CHESTER STREET",
-    "Community Board": 316,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3081765,
@@ -6152,24 +3416,6 @@
     "Longitude": -73.89539,
     "Borough": "Brooklyn",
     "Address": "249 PENNSYLVANIA AVENUE",
-    "Community Board": 305,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3084440,
-    "Latitude": 40.66687,
-    "Longitude": -73.89512,
-    "Borough": "Brooklyn",
-    "Address": "400 PENNSYLVANIA AVENUE",
-    "Community Board": 305,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3084621,
-    "Latitude": 40.66467,
-    "Longitude": -73.89626,
-    "Borough": "Brooklyn",
-    "Address": "565 LIVONIA AVENUE",
     "Community Board": 305,
     "Category": "Hospital / Health Care"
   },
@@ -6210,15 +3456,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 3088357,
-    "Latitude": 40.67705,
-    "Longitude": -73.88419,
-    "Borough": "Brooklyn",
-    "Address": "350 LINWOOD STREET",
-    "Community Board": 305,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3088714,
     "Latitude": 40.67551,
     "Longitude": -73.88144,
@@ -6228,15 +3465,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3089807,
-    "Latitude": 40.66999,
-    "Longitude": -73.88133,
-    "Borough": "Brooklyn",
-    "Address": "999 BLAKE AVENUE",
-    "Community Board": 305,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3089994,
     "Latitude": 40.6685,
     "Longitude": -73.88873,
@@ -6244,15 +3472,6 @@
     "Address": "806 BLAKE AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3090738,
-    "Latitude": 40.69269,
-    "Longitude": -73.86919,
-    "Borough": "Brooklyn",
-    "Address": "999 JAMAICA AVENUE",
-    "Community Board": 305,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3096183,
@@ -6276,45 +3495,9 @@
     "BIN": 3103615,
     "Latitude": 40.65492,
     "Longitude": -73.91238,
-    "Borough": "BROOKLYN",
-    "Address": "1275 LINDEN BOULEVARD",
+    "Borough": "Brooklyn",
+    "Address": "1 BROOKDALE PLAZA",
     "Community Board": 317,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3115690,
-    "Latitude": 40.65679,
-    "Longitude": -73.95952,
-    "Borough": "Brooklyn",
-    "Address": "19 WINTHROP ST",
-    "Community Board": 309,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3115866,
-    "Latitude": 40.65628,
-    "Longitude": -73.95381,
-    "Borough": "Brooklyn",
-    "Address": "601 PARKSIDE AVENUE",
-    "Community Board": 309,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3116056,
-    "Latitude": 40.65591,
-    "Longitude": -73.9517,
-    "Borough": "Brooklyn",
-    "Address": "646 PARKSIDE AVENUE",
-    "Community Board": 309,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3116175,
-    "Latitude": 40.65401,
-    "Longitude": -73.95995,
-    "Borough": "Brooklyn",
-    "Address": "770 FLATBUSH AVE",
-    "Community Board": 314,
     "Category": "Hospital / Health Care"
   },
   {
@@ -6327,29 +3510,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3116661,
-    "Latitude": 40.65271,
-    "Longitude": -73.95431,
-    "Borough": "Brooklyn",
-    "Address": "123 LINDEN BOULEVARD",
-    "Community Board": 317,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3117223,
-    "Latitude": 40.65022,
-    "Longitude": -73.95829,
-    "Borough": "Brooklyn",
-    "Address": "885 FLATBUSH AVE",
-    "Community Board": 314,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3117703,
     "Latitude": 40.64776,
     "Longitude": -73.95443,
     "Borough": "Brooklyn",
-    "Address": "74 LOTT STREET",
+    "Address": "74 LOTT ST",
     "Community Board": 317,
     "Category": "Affordable Housing"
   },
@@ -6372,47 +3537,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3121072,
-    "Latitude": 40.63353,
-    "Longitude": -73.96644,
-    "Borough": "Brooklyn",
-    "Address": "1100 NEWKIRK AVENUE",
-    "Community Board": 314,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3125035,
-    "Latitude": 40.64013,
-    "Longitude": -73.98176,
-    "Borough": "BROOKLYN",
-    "Address": "3611 14 AVENUE",
-    "Community Board": 312,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3125490,
     "Latitude": 40.64137,
     "Longitude": -73.97266,
     "Borough": "Brooklyn",
     "Address": "615 AVE C",
-    "Community Board": 312,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3126842,
-    "Latitude": 40.63808,
-    "Longitude": -73.97116,
-    "Borough": "BROOKLYN",
-    "Address": "700 CORTELYOU ROAD",
-    "Community Board": 312,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3135976,
-    "Latitude": 40.6371,
-    "Longitude": -73.98574,
-    "Borough": "Brooklyn",
-    "Address": "4211 14 AVENUE",
     "Community Board": 312,
     "Category": "Hospital / Health Care"
   },
@@ -6444,24 +3573,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3141273,
-    "Latitude": 40.62896,
-    "Longitude": -73.99953,
-    "Borough": "Brooklyn",
-    "Address": "1260 60TH STREET",
-    "Community Board": 312,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3145313,
-    "Latitude": 40.63349,
-    "Longitude": -74.02071,
-    "Borough": "Brooklyn",
-    "Address": "6823 5 AVENUE",
-    "Community Board": 310,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3148730,
     "Latitude": 40.63075,
     "Longitude": -74.02583,
@@ -6480,30 +3591,12 @@
     "Category": "Homeless Shelter"
   },
   {
-    "BIN": 3162711,
-    "Latitude": 40.61302,
-    "Longitude": -74.00227,
-    "Borough": "Brooklyn",
-    "Address": "1601 80TH STREET",
-    "Community Board": 311,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3165661,
     "Latitude": 40.61237,
     "Longitude": -74.01054,
     "Borough": "Brooklyn",
-    "Address": "1435 86 STREET",
+    "Address": "1435 86TH STREET",
     "Community Board": 311,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3180645,
-    "Latitude": 40.61851,
-    "Longitude": -73.96156,
-    "Borough": "Brooklyn",
-    "Address": "1268 EAST 14TH STREET",
-    "Community Board": 314,
     "Category": "Hospital / Health Care"
   },
   {
@@ -6525,65 +3618,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3188417,
-    "Latitude": 40.5788,
-    "Longitude": -73.99008,
-    "Borough": "Brooklyn",
-    "Address": "2201 NEPTUNE AVENUE",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3188726,
-    "Latitude": 40.57677,
-    "Longitude": -74.00044,
-    "Borough": "Brooklyn",
-    "Address": "3314 NEPTUNE AVENUE",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3189517,
-    "Latitude": 40.57467,
-    "Longitude": -73.99577,
-    "Borough": "Brooklyn",
-    "Address": "2929 WEST 30TH STREET",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3189538,
-    "Latitude": 40.57402,
-    "Longitude": -73.9924,
-    "Borough": "Brooklyn",
-    "Address": "2950 WEST 25TH STREET",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3189635,
     "Latitude": 40.57244,
     "Longitude": -73.98997,
     "Borough": "Brooklyn",
     "Address": "3035 WEST 24TH STREET",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3194527,
-    "Latitude": 40.59074,
-    "Longitude": -73.97066,
-    "Borough": "BROOKLYN",
-    "Address": "333 AVENUE X",
-    "Community Board": 315,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3196293,
-    "Latitude": 40.58262,
-    "Longitude": -73.9687,
-    "Borough": "Brooklyn",
-    "Address": "2800 OCEAN PARKWAY",
     "Community Board": 313,
     "Category": "Hospital / Health Care"
   },
@@ -6597,38 +3636,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3203631,
-    "Latitude": 40.59315,
-    "Longitude": -73.93664,
-    "Borough": "Brooklyn",
-    "Address": "3000 AVENUE X",
-    "Community Board": 315,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3206620,
-    "Latitude": 40.62732,
-    "Longitude": -73.95616,
-    "Borough": "Brooklyn",
-    "Address": "1421 OCEAN AVENUE",
-    "Community Board": 314,
-    "Category": "Utility"
-  },
-  {
     "BIN": 3210431,
     "Latitude": 40.61873,
     "Longitude": -73.94298,
     "Borough": "Brooklyn",
     "Address": "3201 KINGS HIGHWAY",
-    "Community Board": 318,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3224139,
-    "Latitude": 40.63417,
-    "Longitude": -73.91722,
-    "Borough": "Brooklyn",
-    "Address": "6565 FLATLANDS AVENUE",
     "Community Board": 318,
     "Category": "Hospital / Health Care"
   },
@@ -6639,15 +3651,6 @@
     "Borough": "Brooklyn",
     "Address": "1555 ROCKAWAY PARKWAY",
     "Community Board": 318,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3245361,
-    "Latitude": 40.58195,
-    "Longitude": -73.95664,
-    "Borough": "Brooklyn",
-    "Address": "12 BRIGHTON 11 STREET",
-    "Community Board": 313,
     "Category": "Hospital / Health Care"
   },
   {
@@ -6673,7 +3676,7 @@
     "Latitude": 40.6955,
     "Longitude": -73.97682,
     "Borough": "Brooklyn",
-    "Address": "39 AUBURN PLACE",
+    "Address": "100 NORTH PORTLAND AVE",
     "Community Board": 302,
     "Category": "Hospital / Health Care"
   },
@@ -6705,15 +3708,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3319505,
-    "Latitude": 40.69286,
-    "Longitude": -73.98385,
-    "Borough": "Brooklyn",
-    "Address": "4 METROTECH",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3319656,
     "Latitude": 40.67413,
     "Longitude": -73.88248,
@@ -6732,15 +3726,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3321871,
-    "Latitude": 40.68979,
-    "Longitude": -73.95866,
-    "Borough": "Brooklyn",
-    "Address": "325 CLASSON AVENUE",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3322633,
     "Latitude": 40.68196,
     "Longitude": -73.9467,
@@ -6748,51 +3733,6 @@
     "Address": "178 HALSEY STREET",
     "Community Board": 303,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3324728,
-    "Latitude": 40.6976,
-    "Longitude": -73.93947,
-    "Borough": "BROOKLYN",
-    "Address": "868 PARK AVENUE",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3324885,
-    "Latitude": 40.71553,
-    "Longitude": -73.95632,
-    "Borough": "Brooklyn",
-    "Address": "118 ROEBLING STREET",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3325733,
-    "Latitude": 40.71105,
-    "Longitude": -73.939,
-    "Borough": "Brooklyn",
-    "Address": "850 GRAND STREET",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3326062,
-    "Latitude": 40.70119,
-    "Longitude": -73.94159,
-    "Borough": "Brooklyn",
-    "Address": "785 FLUSHING AVENUE",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3326063,
-    "Latitude": 40.70119,
-    "Longitude": -73.94159,
-    "Borough": "Brooklyn",
-    "Address": "28 DEBEVOISE STREET",
-    "Community Board": 301,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3326498,
@@ -6815,8 +3755,8 @@
   {
     "BIN": 3327711,
     "Latitude": 40.65663,
-    "Longitude": -73.94415,
-    "Borough": "Brooklyn",
+    "Longitude": -73.94414,
+    "Borough": "BROOKLYN",
     "Address": "451 CLARKSON AVENUE",
     "Community Board": 309,
     "Category": "Hospital / Health Care"
@@ -6833,9 +3773,9 @@
   {
     "BIN": 3328803,
     "Latitude": 40.63414,
-    "Longitude": -74.0141,
-    "Borough": "BROOKLYN",
-    "Address": "6405 7 AVENUE",
+    "Longitude": -74.01409,
+    "Borough": "Brooklyn",
+    "Address": "6405 7TH AVENUE",
     "Community Board": 310,
     "Category": "Hospital / Health Care"
   },
@@ -6851,28 +3791,10 @@
   {
     "BIN": 3329130,
     "Latitude": 40.59594,
-    "Longitude": -73.99785,
-    "Borough": "BROOKLYN",
-    "Address": "2256 CROPSEY AVENUE",
+    "Longitude": -73.99786,
+    "Borough": "Brooklyn",
+    "Address": "2266 CROPSEY AVE",
     "Community Board": 311,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3329628,
-    "Latitude": 40.69958,
-    "Longitude": -73.9486,
-    "Borough": "Brooklyn",
-    "Address": "630 FLUSHING AVE",
-    "Community Board": 303,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3329636,
-    "Latitude": 40.69437,
-    "Longitude": -73.95449,
-    "Borough": "Brooklyn",
-    "Address": "716 MYRTLE AVENUE",
-    "Community Board": 303,
     "Category": "Hospital / Health Care"
   },
   {
@@ -6894,66 +3816,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3331276,
-    "Latitude": 40.66077,
-    "Longitude": -73.98871,
-    "Borough": "Brooklyn",
-    "Address": "544 7TH AVENUE",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3332126,
-    "Latitude": 40.64373,
-    "Longitude": -74.0088,
-    "Borough": "Brooklyn",
-    "Address": "5010 6 AV",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3332194,
-    "Latitude": 40.67899,
-    "Longitude": -73.95633,
-    "Borough": "BROOKLYN",
-    "Address": "1114 ATLANTIC AVENUE",
-    "Community Board": 308,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 3335094,
-    "Latitude": 40.68259,
-    "Longitude": -73.96823,
-    "Borough": "Brooklyn",
-    "Address": "470 VANDERBILT AVENUE",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3335097,
-    "Latitude": 40.68185,
-    "Longitude": -73.96603,
-    "Borough": "BROOKLYN",
-    "Address": "547 CLINTON AVENUE",
-    "Community Board": 302,
-    "Category": "Utility"
-  },
-  {
     "BIN": 3335884,
     "Latitude": 40.69744,
     "Longitude": -73.98608,
     "Borough": "Brooklyn",
     "Address": "40 FLATBUSH AVENUE EXTENSION",
     "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3336036,
-    "Latitude": 40.67954,
-    "Longitude": -74.00203,
-    "Borough": "Brooklyn",
-    "Address": "610 HENRY ST",
-    "Community Board": 306,
     "Category": "Hospital / Health Care"
   },
   {
@@ -6964,15 +3832,6 @@
     "Address": "1488 NEW YORK AVENUE",
     "Community Board": 317,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3336215,
-    "Latitude": 40.6496,
-    "Longitude": -73.95717,
-    "Borough": "Brooklyn",
-    "Address": "911 FLATBUSH AV",
-    "Community Board": 314,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3336552,
@@ -6991,15 +3850,6 @@
     "Address": "99 27 STREET",
     "Community Board": 307,
     "Category": "Utility"
-  },
-  {
-    "BIN": 3336893,
-    "Latitude": 40.65824,
-    "Longitude": -74.00563,
-    "Borough": "BROOKLYN",
-    "Address": "882 3 AVENUE",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3336994,
@@ -7033,18 +3883,9 @@
     "Latitude": 40.67587,
     "Longitude": -73.90778,
     "Borough": "Brooklyn",
-    "Address": "1860 EASTERN PARKWAY",
+    "Address": "1864 EASTERN PARKWAY",
     "Community Board": 316,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3338243,
-    "Latitude": 40.72113,
-    "Longitude": -73.93103,
-    "Borough": "BROOKLYN",
-    "Address": "370 VANDERVOORT AVENUE",
-    "Community Board": 301,
-    "Category": "Utility"
   },
   {
     "BIN": 3338267,
@@ -7092,24 +3933,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 3343256,
-    "Latitude": 40.67119,
-    "Longitude": -73.86607,
-    "Borough": "BROOKLYN",
-    "Address": "735 LINCOLN AVENUE",
-    "Community Board": 305,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 3345219,
-    "Latitude": 40.63121,
-    "Longitude": -73.92289,
-    "Borough": "Brooklyn",
-    "Address": "5515 AVENUE I",
-    "Community Board": 318,
-    "Category": "Utility"
-  },
-  {
     "BIN": 3345333,
     "Latitude": 40.66253,
     "Longitude": -73.91037,
@@ -7117,15 +3940,6 @@
     "Address": "215 LIVONIA AVENUE",
     "Community Board": 316,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3346119,
-    "Latitude": 40.65293,
-    "Longitude": -74.00459,
-    "Borough": "Brooklyn",
-    "Address": "427 38TH STREET",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3346308,
@@ -7137,28 +3951,10 @@
     "Category": "Utility"
   },
   {
-    "BIN": 3346312,
-    "Latitude": 40.69077,
-    "Longitude": -73.98084,
-    "Borough": "Brooklyn",
-    "Address": "33 UNIVERSITY PLAZA",
-    "Community Board": 302,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 3347736,
-    "Latitude": 40.6946,
-    "Longitude": -73.98769,
-    "Borough": "Brooklyn",
-    "Address": "330 JAY STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3379800,
     "Latitude": 40.7296,
-    "Longitude": -73.95138,
-    "Borough": "BROOKLYN",
+    "Longitude": -73.95139,
+    "Borough": "Brooklyn",
     "Address": "211 MCGUINNESS BOULEVARD",
     "Community Board": 301,
     "Category": "Affordable Housing"
@@ -7173,30 +3969,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3388709,
-    "Latitude": 40.68501,
-    "Longitude": -73.97891,
-    "Borough": "Brooklyn",
-    "Address": "556 STATE STREET",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3391735,
     "Latitude": 40.60973,
     "Longitude": -73.95906,
     "Borough": "Brooklyn",
     "Address": "1630 EAST 15TH STRET",
     "Community Board": 315,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3392981,
-    "Latitude": 40.68953,
-    "Longitude": -73.98647,
-    "Borough": "Brooklyn",
-    "Address": "189 SCHERMERHORN STREET",
-    "Community Board": 302,
     "Category": "Hospital / Health Care"
   },
   {
@@ -7209,38 +3987,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 3393245,
-    "Latitude": 40.67517,
-    "Longitude": -73.95893,
-    "Borough": "Brooklyn",
-    "Address": "528 PROSPECT PLACE",
-    "Community Board": 308,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 3393316,
     "Latitude": 40.64243,
     "Longitude": -74.00634,
     "Borough": "Brooklyn",
     "Address": "5008 7TH AVENUE",
-    "Community Board": 307,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3393449,
-    "Latitude": 40.6729,
-    "Longitude": -73.98611,
-    "Borough": "Brooklyn",
-    "Address": "343 4TH AVE",
-    "Community Board": 306,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 3394175,
-    "Latitude": 40.65554,
-    "Longitude": -74.00429,
-    "Borough": "Brooklyn",
-    "Address": "153 35TH STREET",
     "Community Board": 307,
     "Category": "Hospital / Health Care"
   },
@@ -7272,31 +4023,13 @@
     "Category": "Utility"
   },
   {
-    "BIN": 3395991,
-    "Latitude": 40.67514,
-    "Longitude": -73.98638,
-    "Borough": "Brooklyn",
-    "Address": "320 4TH AVENUE",
-    "Community Board": 306,
-    "Category": "Utility"
-  },
-  {
     "BIN": 3397264,
     "Latitude": 40.65323,
     "Longitude": -73.95982,
     "Borough": "Brooklyn",
-    "Address": "800 FLATBUSH AVENUE",
+    "Address": "2119 CATON AVENUE",
     "Community Board": 314,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3398156,
-    "Latitude": 40.68268,
-    "Longitude": -73.97541,
-    "Borough": "Brooklyn",
-    "Address": "620 ATLANTIC AVENUE",
-    "Community Board": 302,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3398209,
@@ -7428,7 +4161,7 @@
     "BIN": 3421884,
     "Latitude": 40.65281,
     "Longitude": -73.87668,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "129 GATEWAY DRIVE",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7437,7 +4170,7 @@
     "BIN": 3421885,
     "Latitude": 40.65289,
     "Longitude": -73.87675,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "127 GATEWAY DRIVE",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7464,16 +4197,16 @@
     "BIN": 3421888,
     "Latitude": 40.65307,
     "Longitude": -73.8768,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "398 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
   },
   {
     "BIN": 3421889,
-    "Latitude": 40.65311,
+    "Latitude": 40.6531,
     "Longitude": -73.87669,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "400 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7491,7 +4224,7 @@
     "BIN": 3421891,
     "Latitude": 40.65335,
     "Longitude": -73.87721,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "401 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7499,17 +4232,17 @@
   {
     "BIN": 3421892,
     "Latitude": 40.6533,
-    "Longitude": -73.87733,
-    "Borough": "Brooklyn",
+    "Longitude": -73.87734,
+    "Borough": "BROOKLYN",
     "Address": "389 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
   },
   {
     "BIN": 3421904,
-    "Latitude": 40.65433,
-    "Longitude": -73.8737,
-    "Borough": "BROOKLYN",
+    "Latitude": 40.65559,
+    "Longitude": -73.87326,
+    "Borough": "Brooklyn",
     "Address": "498 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7561,9 +4294,9 @@
   },
   {
     "BIN": 3421919,
-    "Latitude": 40.6544,
-    "Longitude": -73.87452,
-    "Borough": "BROOKLYN",
+    "Latitude": 40.65559,
+    "Longitude": -73.87326,
+    "Borough": "Brooklyn",
     "Address": "1123 ASHFORD STREET",
     "Community Board": 305,
     "Category": "Affordable Housing"
@@ -7701,7 +4434,7 @@
     "Borough": "Brooklyn",
     "Address": "146 PIERREPONT STREET",
     "Community Board": 302,
-    "Category": "Hospital / Health Care"
+    "Category": "Affordable Housing"
   },
   {
     "BIN": 3424494,
@@ -7735,7 +4468,7 @@
     "Latitude": 40.66482,
     "Longitude": -73.90455,
     "Borough": "Brooklyn",
-    "Address": "405 DUMONT AVENUE",
+    "Address": "405 DUMONT AVE",
     "Community Board": 316,
     "Category": "Affordable Housing"
   },
@@ -7789,7 +4522,7 @@
     "Latitude": 40.71595,
     "Longitude": -73.96661,
     "Borough": "Brooklyn",
-    "Address": "266 KENT AVE",
+    "Address": "262 KENT AVENUE",
     "Community Board": 301,
     "Category": "Affordable Housing"
   },
@@ -7798,7 +4531,7 @@
     "Latitude": 40.67004,
     "Longitude": -73.85869,
     "Borough": "Brooklyn",
-    "Address": "2858 LINDEN BLVD",
+    "Address": "2858 LINDEN BOULEVARD",
     "Community Board": 305,
     "Category": "Affordable Housing"
   },
@@ -7834,18 +4567,9 @@
     "Latitude": 40.66633,
     "Longitude": -73.99163,
     "Borough": "Brooklyn",
-    "Address": "541 4 AVENUE",
+    "Address": "541 4TH AVE",
     "Community Board": 307,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3425549,
-    "Latitude": 40.60148,
-    "Longitude": -73.96107,
-    "Borough": "BROOKLYN",
-    "Address": "2285 CONEY ISLAND AVENUE",
-    "Community Board": 315,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3425609,
@@ -7861,7 +4585,7 @@
     "Latitude": 40.72712,
     "Longitude": -73.95882,
     "Borough": "Brooklyn",
-    "Address": "27 WEST ST",
+    "Address": "29 WEST STREET",
     "Community Board": 301,
     "Category": "Affordable Housing"
   },
@@ -7879,7 +4603,7 @@
     "Latitude": 40.68687,
     "Longitude": -73.95493,
     "Borough": "Brooklyn",
-    "Address": "1104 BEDFORD AVE",
+    "Address": "1104 BEDFORD AVENUE",
     "Community Board": 303,
     "Category": "Affordable Housing"
   },
@@ -7906,7 +4630,7 @@
     "Latitude": 40.72044,
     "Longitude": -73.94749,
     "Borough": "Brooklyn",
-    "Address": "117 NEWTON STREET",
+    "Address": "22 ECKFORD ST",
     "Community Board": 301,
     "Category": "Affordable Housing"
   },
@@ -7923,7 +4647,7 @@
     "BIN": 3426037,
     "Latitude": 40.69574,
     "Longitude": -73.94787,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "869 MYRTLE AVENUE",
     "Community Board": 303,
     "Category": "Affordable Housing"
@@ -7969,18 +4693,9 @@
     "Latitude": 40.57573,
     "Longitude": -73.98624,
     "Borough": "Brooklyn",
-    "Address": "2926 WEST 19TH STREET",
+    "Address": "2926 WEST 19 STREET",
     "Community Board": 313,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 3426198,
-    "Latitude": 40.57931,
-    "Longitude": -73.97338,
-    "Borough": "Brooklyn",
-    "Address": "532 NEPTUNE AVENUE",
-    "Community Board": 313,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 3426244,
@@ -8023,7 +4738,7 @@
     "Latitude": 40.67539,
     "Longitude": -73.87959,
     "Borough": "Brooklyn",
-    "Address": "820 GLENMORE AVE",
+    "Address": "820 GLENMORE AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing"
   },
@@ -8067,8 +4782,8 @@
     "BIN": 3428568,
     "Latitude": 40.73492,
     "Longitude": -73.95468,
-    "Borough": "Brooklyn",
-    "Address": "1056 MANHATTAN AVE",
+    "Borough": "BROOKLYN",
+    "Address": "1056 MANHATTAN AVENUE",
     "Community Board": 301,
     "Category": "Affordable Housing"
   },
@@ -8095,7 +4810,7 @@
     "Latitude": 40.68259,
     "Longitude": -73.9805,
     "Borough": "Brooklyn",
-    "Address": "346 BERGEN STREET",
+    "Address": "346 BERGEN ST",
     "Community Board": 302,
     "Category": "Affordable Housing"
   },
@@ -8289,60 +5004,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 4003105,
-    "Latitude": 40.75164,
-    "Longitude": -73.93105,
-    "Borough": "Queens",
-    "Address": "33-00 NORTHERN BLVD",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4003410,
-    "Latitude": 40.75045,
-    "Longitude": -73.93446,
-    "Borough": "Queens",
-    "Address": "29-76 NORTHERN BOULEVARD",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4003534,
-    "Latitude": 40.74396,
-    "Longitude": -73.93514,
-    "Borough": "Queens",
-    "Address": "31-10 THOMSON AVENUE",
-    "Community Board": 402,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4004351,
-    "Latitude": 40.76027,
-    "Longitude": -73.94533,
-    "Borough": "Queens",
-    "Address": "36-20 VERNON BLVD.",
-    "Community Board": 401,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 4004871,
-    "Latitude": 40.75095,
-    "Longitude": -73.93638,
-    "Borough": "Queens",
-    "Address": "29-61 NORTHERN BLVD.",
-    "Community Board": 401,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 4006382,
-    "Latitude": 40.76601,
-    "Longitude": -73.92999,
-    "Borough": "Queens",
-    "Address": "31-51 21 STREET",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4007688,
     "Latitude": 40.76772,
     "Longitude": -73.92157,
@@ -8356,7 +5017,7 @@
     "Latitude": 40.77361,
     "Longitude": -73.91334,
     "Borough": "Queens",
-    "Address": "23-25 31 STREET",
+    "Address": "2325 31 ST",
     "Community Board": 401,
     "Category": "Hospital / Health Care"
   },
@@ -8370,15 +5031,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4031453,
-    "Latitude": 40.74445,
-    "Longitude": -73.90282,
-    "Borough": "QUEENS",
-    "Address": "40-01 61 STREET",
-    "Community Board": 402,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4037182,
     "Latitude": 40.74582,
     "Longitude": -73.8835,
@@ -8386,24 +5038,6 @@
     "Address": "8130 BAXTER AVENUE",
     "Community Board": 404,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 4038783,
-    "Latitude": 40.74842,
-    "Longitude": -73.87399,
-    "Borough": "QUEENS",
-    "Address": "92-10 ROOSEVELT AVENUE",
-    "Community Board": 404,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4042887,
-    "Latitude": 40.75421,
-    "Longitude": -73.87197,
-    "Borough": "QUEENS",
-    "Address": "34-33 JUNCTION BOULEVARD",
-    "Community Board": 403,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4045404,
@@ -8420,15 +5054,6 @@
     "Longitude": -73.86935,
     "Borough": "Queens",
     "Address": "91-31 QUEENS BOULEVARD",
-    "Community Board": 404,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4047310,
-    "Latitude": 40.73478,
-    "Longitude": -73.86439,
-    "Borough": "Queens",
-    "Address": "59-17 JUNCTION BOULEVARD",
     "Community Board": 404,
     "Category": "Hospital / Health Care"
   },
@@ -8455,7 +5080,7 @@
     "Latitude": 40.72921,
     "Longitude": -73.85844,
     "Borough": "Queens",
-    "Address": "97-77 QUEENS BLVD",
+    "Address": "9785 QUEENS BOULEVARD",
     "Community Board": 406,
     "Category": "Hospital / Health Care"
   },
@@ -8465,24 +5090,6 @@
     "Longitude": -73.85155,
     "Borough": "Queens",
     "Address": "102-01 66 ROAD",
-    "Community Board": 406,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4051282,
-    "Latitude": 40.72519,
-    "Longitude": -73.84913,
-    "Borough": "QUEENS",
-    "Address": "10326 68 ROAD",
-    "Community Board": 406,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4052143,
-    "Latitude": 40.73,
-    "Longitude": -73.844,
-    "Borough": "Queens",
-    "Address": "6701 110 STREET",
     "Community Board": 406,
     "Category": "Hospital / Health Care"
   },
@@ -8541,15 +5148,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 4084940,
-    "Latitude": 40.70714,
-    "Longitude": -73.89762,
-    "Borough": "Queens",
-    "Address": "6660 FRESH POND RD",
-    "Community Board": 405,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4092399,
     "Latitude": 40.70735,
     "Longitude": -73.8732,
@@ -8557,24 +5155,6 @@
     "Address": "78-16 COOPER AVENUE",
     "Community Board": 405,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 4112347,
-    "Latitude": 40.76266,
-    "Longitude": -73.82947,
-    "Borough": "Queens",
-    "Address": "137-34 NORTHERN BOULEVARD",
-    "Community Board": 407,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 4112492,
-    "Latitude": 40.76011,
-    "Longitude": -73.82939,
-    "Borough": "Queens",
-    "Address": "136-18 39TH AVENUE",
-    "Community Board": 407,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4113174,
@@ -8591,15 +5171,6 @@
     "Longitude": -73.82266,
     "Borough": "Queens",
     "Address": "36-17 PARSONS BOULEVARD",
-    "Community Board": 407,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4117041,
-    "Latitude": 40.75722,
-    "Longitude": -73.8229,
-    "Borough": "QUEENS",
-    "Address": "142-31 FRANKLIN AVENUE",
     "Community Board": 407,
     "Category": "Hospital / Health Care"
   },
@@ -8622,15 +5193,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 4141870,
-    "Latitude": 40.73631,
-    "Longitude": -73.81773,
-    "Borough": "Queens",
-    "Address": "65-30 KISSENA BOULEVARD",
-    "Community Board": 408,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4147950,
     "Latitude": 40.72076,
     "Longitude": -73.80778,
@@ -8649,15 +5211,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4173029,
-    "Latitude": 40.76098,
-    "Longitude": -73.72333,
-    "Borough": "Queens",
-    "Address": "58-20 LITTLE NECK PARKWAY",
-    "Community Board": 411,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4173982,
     "Latitude": 40.7556,
     "Longitude": -73.7075,
@@ -8670,26 +5223,17 @@
     "BIN": 4187476,
     "Latitude": 40.6868,
     "Longitude": -73.85126,
-    "Borough": "QUEENS",
-    "Address": "9110 ATLANTIC AVENUE",
+    "Borough": "Queens",
+    "Address": "91-02 ATLANTIC AVE",
     "Community Board": 409,
     "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4202778,
     "Latitude": 40.67944,
-    "Longitude": -73.8389,
-    "Borough": "QUEENS",
-    "Address": "100-02 ROCKAWAY BOULEVARD",
-    "Community Board": 410,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4202849,
-    "Latitude": 40.6783,
-    "Longitude": -73.8368,
+    "Longitude": -73.83891,
     "Borough": "Queens",
-    "Address": "102-10 ROCKAWAY BLVD",
+    "Address": "100-02 ROCKAWAY BOULEVARD",
     "Community Board": 410,
     "Category": "Hospital / Health Care"
   },
@@ -8761,7 +5305,7 @@
     "Latitude": 40.70599,
     "Longitude": -73.79658,
     "Borough": "Queens",
-    "Address": "89-46 164 STREET",
+    "Address": "89-48 164TH STREET",
     "Community Board": 412,
     "Category": "Affordable Housing"
   },
@@ -8772,7 +5316,7 @@
     "Borough": "Queens",
     "Address": "175-20 HILLSIDE AVENUE",
     "Community Board": 412,
-    "Category": "Hospital / Health Care"
+    "Category": "Utility"
   },
   {
     "BIN": 4210853,
@@ -8797,27 +5341,9 @@
     "Latitude": 40.69918,
     "Longitude": -73.8139,
     "Borough": "Queens",
-    "Address": "137-30 91ST AVENUE",
+    "Address": "137-30 91ST AVE.",
     "Community Board": 412,
     "Category": "Utility"
-  },
-  {
-    "BIN": 4215630,
-    "Latitude": 40.70176,
-    "Longitude": -73.79637,
-    "Borough": "Queens",
-    "Address": "94-20 GUY R BREWER BOULEVARD",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4216197,
-    "Latitude": 40.7045,
-    "Longitude": -73.79609,
-    "Borough": "Queens",
-    "Address": "163-18 JAMAICA AVENUE",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4216225,
@@ -8829,20 +5355,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4216655,
-    "Latitude": 40.69693,
-    "Longitude": -73.78642,
-    "Borough": "Queens",
-    "Address": "108-35 167TH STREET",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4222244,
     "Latitude": 40.7158,
     "Longitude": -73.77064,
-    "Borough": "QUEENS",
-    "Address": "191-06 HILLSIDE AVENUE",
+    "Borough": "Queens",
+    "Address": "191-06 HILLSIDE AVE",
     "Community Board": 412,
     "Category": "Hospital / Health Care"
   },
@@ -8865,75 +5382,12 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4238003,
-    "Latitude": 40.69878,
-    "Longitude": -73.74633,
-    "Borough": "Queens",
-    "Address": "207-01 116 AVENUE",
-    "Community Board": 413,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4247760,
     "Latitude": 40.67838,
     "Longitude": -73.8334,
     "Borough": "Queens",
     "Address": "105-34 ROCKAWAY BLVD.",
     "Community Board": 410,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4252357,
-    "Latitude": 40.67916,
-    "Longitude": -73.81006,
-    "Borough": "Queens",
-    "Address": "130-02 115TH AVENUE",
-    "Community Board": 410,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4261713,
-    "Latitude": 40.67471,
-    "Longitude": -73.79036,
-    "Borough": "Queens",
-    "Address": "125-20 SUTPHIN BLVD",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4265978,
-    "Latitude": 40.67407,
-    "Longitude": -73.78275,
-    "Borough": "Queens",
-    "Address": "156-10 BAISLEY BOULEVARD",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4268835,
-    "Latitude": 40.68791,
-    "Longitude": -73.77205,
-    "Borough": "Queens",
-    "Address": "177-01 BAISLEY BLVD",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4270059,
-    "Latitude": 40.675,
-    "Longitude": -73.77559,
-    "Borough": "Queens",
-    "Address": "133-25 GUY R BREWER BOULEVARD",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4279935,
-    "Latitude": 40.67944,
-    "Longitude": -73.75511,
-    "Borough": "Queens",
-    "Address": "134-40 SPRINGFIELD BOULEVARD",
-    "Community Board": 412,
     "Category": "Hospital / Health Care"
   },
   {
@@ -8953,15 +5407,6 @@
     "Address": "20-10 MOTT AVENUE",
     "Community Board": 414,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 4298234,
-    "Latitude": 40.60394,
-    "Longitude": -73.74985,
-    "Borough": "Queens",
-    "Address": "10-45 NAMEOKE STREET",
-    "Community Board": 414,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4298340,
@@ -8987,15 +5432,6 @@
     "Longitude": -73.75363,
     "Borough": "Queens",
     "Address": "242 BEACH 20TH STREET",
-    "Community Board": 414,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4300730,
-    "Latitude": 40.60161,
-    "Longitude": -73.76395,
-    "Borough": "Queens",
-    "Address": "8-21 BAY 25TH STREET",
     "Community Board": 414,
     "Category": "Hospital / Health Care"
   },
@@ -9036,15 +5472,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4302404,
-    "Latitude": 40.59362,
-    "Longitude": -73.79195,
-    "Borough": "Queens",
-    "Address": "405 BEACH 62ND STREET",
-    "Community Board": 414,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4303702,
     "Latitude": 40.58449,
     "Longitude": -73.82206,
@@ -9052,15 +5479,6 @@
     "Address": "226 BEACH 101 STREET",
     "Community Board": 414,
     "Category": "Homeless Shelter"
-  },
-  {
-    "BIN": 4307915,
-    "Latitude": 40.71925,
-    "Longitude": -73.83784,
-    "Borough": "Queens",
-    "Address": "111-15 QUEENS BOULEVARD",
-    "Community Board": 406,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4312845,
@@ -9099,15 +5517,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4436695,
-    "Latitude": 40.74962,
-    "Longitude": -73.93554,
-    "Borough": "Queens",
-    "Address": "29-46 NORTHERN BOULEVARD",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4436864,
     "Latitude": 40.76805,
     "Longitude": -73.92484,
@@ -9130,7 +5539,7 @@
     "Latitude": 40.70545,
     "Longitude": -73.80476,
     "Borough": "Queens",
-    "Address": "150-13 89 AVENUE",
+    "Address": "150-13 89TH AVENUE",
     "Community Board": 412,
     "Category": "Affordable Housing"
   },
@@ -9159,24 +5568,6 @@
     "Borough": "Queens",
     "Address": "56-45 MAIN STREET",
     "Community Board": 407,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4440105,
-    "Latitude": 40.70604,
-    "Longitude": -73.79947,
-    "Borough": "Queens",
-    "Address": "89-17 161ST STREET",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4441059,
-    "Latitude": 40.74561,
-    "Longitude": -73.94408,
-    "Borough": "Queens",
-    "Address": "45-18 COURT SQUARE",
-    "Community Board": 402,
     "Category": "Hospital / Health Care"
   },
   {
@@ -9211,18 +5602,9 @@
     "Latitude": 40.71753,
     "Longitude": -73.80759,
     "Borough": "Queens",
-    "Address": "82-41 PARSONS BOULEVARD",
+    "Address": "82-41 PARSONS BLVD",
     "Community Board": 408,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 4442764,
-    "Latitude": 40.75439,
-    "Longitude": -73.88753,
-    "Borough": "Queens",
-    "Address": "33-34 80 STREET",
-    "Community Board": 403,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4445327,
@@ -9261,20 +5643,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 4448804,
-    "Latitude": 40.71094,
-    "Longitude": -73.78658,
-    "Borough": "QUEENS",
-    "Address": "175-10 88 AVENUE",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4448835,
     "Latitude": 40.69954,
     "Longitude": -73.80619,
-    "Borough": "QUEENS",
-    "Address": "147-07 94 AVENUE",
+    "Borough": "Queens",
+    "Address": "147-07 94TH AVENUE",
     "Community Board": 412,
     "Category": "Affordable Housing"
   },
@@ -9297,15 +5670,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 4457492,
-    "Latitude": 40.70625,
-    "Longitude": -73.78845,
-    "Borough": "QUEENS",
-    "Address": "92-33 170 STREET",
-    "Community Board": 412,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4459547,
     "Latitude": 40.66238,
     "Longitude": -73.80903,
@@ -9315,24 +5679,6 @@
     "Category": "Utility"
   },
   {
-    "BIN": 4467709,
-    "Latitude": 40.76593,
-    "Longitude": -73.93397,
-    "Borough": "Queens",
-    "Address": "14-30 BROADWAY",
-    "Community Board": 401,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 4533735,
-    "Latitude": 40.72023,
-    "Longitude": -73.84296,
-    "Borough": "Queens",
-    "Address": "107-28 71  ROAD",
-    "Community Board": 406,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 4539810,
     "Latitude": 40.58344,
     "Longitude": -73.82933,
@@ -9340,24 +5686,6 @@
     "Address": "106-21 BEACH CHANNEL  DRIVE",
     "Community Board": 414,
     "Category": "Utility"
-  },
-  {
-    "BIN": 4540127,
-    "Latitude": 40.76796,
-    "Longitude": -73.83259,
-    "Borough": "Queens",
-    "Address": "31-39 FARRINGTON STREET",
-    "Community Board": 407,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 4540190,
-    "Latitude": 40.77084,
-    "Longitude": -73.83678,
-    "Borough": "Queens",
-    "Address": "30-50 WHITESTONE EXPRESSWAY",
-    "Community Board": 407,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 4542931,
@@ -9391,7 +5719,7 @@
     "Latitude": 40.7849,
     "Longitude": -73.90514,
     "Borough": "Queens",
-    "Address": "31-03 20TH AVENUE",
+    "Address": "31-01 20TH AVENUE",
     "Community Board": 401,
     "Category": "Utility"
   },
@@ -9401,15 +5729,6 @@
     "Longitude": -73.913,
     "Borough": "Queens",
     "Address": "18-01 20 AVENUE",
-    "Community Board": 401,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 4546971,
-    "Latitude": 40.78717,
-    "Longitude": -73.90097,
-    "Borough": "Queens",
-    "Address": "30-15 11TH AVENUE",
     "Community Board": 401,
     "Category": "Utility"
   },
@@ -9427,7 +5746,7 @@
     "Latitude": 40.74474,
     "Longitude": -73.94551,
     "Borough": "Queens",
-    "Address": "22-34 JACKSON AVENUE",
+    "Address": "22-44 JACKSON AVENUE",
     "Community Board": 402,
     "Category": "Affordable Housing"
   },
@@ -9436,7 +5755,7 @@
     "Latitude": 40.74434,
     "Longitude": -73.92539,
     "Borough": "Queens",
-    "Address": "43-46 39 PLACE",
+    "Address": "43-46 39TH PLACE",
     "Community Board": 402,
     "Category": "Affordable Housing"
   },
@@ -9468,15 +5787,6 @@
     "Category": "Affordable Housing"
   },
   {
-    "BIN": 4615055,
-    "Latitude": 40.78477,
-    "Longitude": -73.91342,
-    "Borough": "Queens",
-    "Address": "19-11 20TH AVENUE",
-    "Community Board": 401,
-    "Category": "Utility"
-  },
-  {
     "BIN": 4616477,
     "Latitude": 40.75483,
     "Longitude": -73.78255,
@@ -9489,8 +5799,8 @@
     "BIN": 4617126,
     "Latitude": 40.77082,
     "Longitude": -73.92748,
-    "Borough": "QUEENS",
-    "Address": "28-16 21 STREET",
+    "Borough": "Queens",
+    "Address": "28-16 21ST STREET",
     "Community Board": 401,
     "Category": "Affordable Housing"
   },
@@ -9517,7 +5827,7 @@
     "Latitude": 40.77649,
     "Longitude": -73.93518,
     "Borough": "Queens",
-    "Address": "26-01 1ST STREET",
+    "Address": "10 HALLETTS POINT",
     "Community Board": 401,
     "Category": "Affordable Housing"
   },
@@ -9525,7 +5835,7 @@
     "BIN": 4617904,
     "Latitude": 40.60254,
     "Longitude": -73.75257,
-    "Borough": "Queens",
+    "Borough": "QUEENS",
     "Address": "19-38 CORNAGA AVENUE",
     "Community Board": 414,
     "Category": "Affordable Housing"
@@ -9589,7 +5899,7 @@
     "Latitude": 40.70384,
     "Longitude": -73.80605,
     "Borough": "Queens",
-    "Address": "148-29 90TH AVENUE",
+    "Address": "148-33 90 AVENUE",
     "Community Board": 412,
     "Category": "Affordable Housing"
   },
@@ -9597,8 +5907,8 @@
     "BIN": 4618810,
     "Latitude": 40.76742,
     "Longitude": -73.92949,
-    "Borough": "Queens",
-    "Address": "21-03 31ST AVENUE",
+    "Borough": "QUEENS",
+    "Address": "21-03 31 AVENUE",
     "Community Board": 401,
     "Category": "Affordable Housing"
   },
@@ -9607,7 +5917,7 @@
     "Latitude": 40.60656,
     "Longitude": -73.75094,
     "Borough": "Queens",
-    "Address": "1915 NAMEOKE AVE.",
+    "Address": "19-15 NAMEOKE AVENUE",
     "Community Board": 414,
     "Category": "Affordable Housing"
   },
@@ -9643,7 +5953,7 @@
     "Latitude": 40.60154,
     "Longitude": -73.74863,
     "Borough": "Queens",
-    "Address": "14-03 GATEWAY BOULEVARD",
+    "Address": "1403 GATEWAY BLVD",
     "Community Board": 414,
     "Category": "Affordable Housing"
   },
@@ -9680,7 +5990,7 @@
     "Longitude": -73.84894,
     "Borough": "Queens",
     "Address": "108-75 62 DRIVE",
-    "Community Board": 406,
+    "Community Board": 4,
     "Category": "Affordable Housing"
   },
   {
@@ -9732,46 +6042,10 @@
     "BIN": 4623158,
     "Latitude": 40.76989,
     "Longitude": -73.93424,
-    "Borough": "Queens",
-    "Address": "11-02 30TH DRIVE",
+    "Borough": "QUEENS",
+    "Address": "11-12 30 DRIVE",
     "Community Board": 401,
     "Category": "Affordable Housing"
-  },
-  {
-    "BIN": 5000035,
-    "Latitude": 40.64069,
-    "Longitude": -74.07603,
-    "Borough": "Staten Island",
-    "Address": "56 BAY STREET",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5000048,
-    "Latitude": 40.63911,
-    "Longitude": -74.07679,
-    "Borough": "STATEN ISLAND",
-    "Address": "100 CENTRAL AVENUE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5000104,
-    "Latitude": 40.64568,
-    "Longitude": -74.07825,
-    "Borough": "Staten Island",
-    "Address": "150 RICHMOND TERRACE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5003237,
-    "Latitude": 40.63105,
-    "Longitude": -74.10361,
-    "Borough": "Staten Island",
-    "Address": "427 FOREST AVE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
   },
   {
     "BIN": 5013145,
@@ -9798,42 +6072,6 @@
     "Borough": "Staten Island",
     "Address": "191 BRADLEY AVE",
     "Community Board": 502,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5024246,
-    "Latitude": 40.63576,
-    "Longitude": -74.13447,
-    "Borough": "STATEN ISLAND",
-    "Address": "1540 CASTLETON AVENUE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5024253,
-    "Latitude": 40.63471,
-    "Longitude": -74.13452,
-    "Borough": "STATEN ISLAND",
-    "Address": "120 ANDERSON AVENUE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5026076,
-    "Latitude": 40.63535,
-    "Longitude": -74.14204,
-    "Borough": "Staten Island",
-    "Address": "39 INNIS STREET",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5027641,
-    "Latitude": 40.63168,
-    "Longitude": -74.15733,
-    "Borough": "Staten Island",
-    "Address": "80 MAPLE PARKWAY",
-    "Community Board": 501,
     "Category": "Hospital / Health Care"
   },
   {
@@ -9864,15 +6102,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 5055367,
-    "Latitude": 40.57094,
-    "Longitude": -74.1058,
-    "Borough": "Staten Island",
-    "Address": "465 NEW DORP LANE",
-    "Community Board": 502,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 5082757,
     "Latitude": 40.51698,
     "Longitude": -74.19614,
@@ -9891,29 +6120,11 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 5095818,
-    "Latitude": 40.63556,
-    "Longitude": -74.11886,
-    "Borough": "Staten Island",
-    "Address": "230 BROADWAY",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5104123,
-    "Latitude": 40.60066,
-    "Longitude": -74.19252,
-    "Borough": "Staten Island",
-    "Address": "1801 SOUTH AVENUE",
-    "Community Board": 502,
-    "Category": "Hospital / Health Care"
-  },
-  {
     "BIN": 5106483,
     "Latitude": 40.64541,
     "Longitude": -74.08222,
     "Borough": "Staten Island",
-    "Address": "105 HAMILTON AVE",
+    "Address": "105 HAMILTON AVENUE",
     "Community Board": 501,
     "Category": "Hospital / Health Care"
   },
@@ -9922,7 +6133,7 @@
     "Latitude": 40.63588,
     "Longitude": -74.10556,
     "Borough": "Staten Island",
-    "Address": "355 BARD AVENUE",
+    "Address": "355 BARD AVE",
     "Community Board": 501,
     "Category": "Hospital / Health Care"
   },
@@ -9941,33 +6152,6 @@
     "Longitude": -74.07561,
     "Borough": "Staten Island",
     "Address": "75 VANDERBILT AVENUE",
-    "Community Board": 501,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5107641,
-    "Latitude": 40.56447,
-    "Longitude": -74.13334,
-    "Borough": "Staten Island",
-    "Address": "3155 AMBOY ROAD",
-    "Community Board": 503,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5108454,
-    "Latitude": 40.57689,
-    "Longitude": -74.16689,
-    "Borough": "Staten Island",
-    "Address": "2795 RICHMOND AVENUE",
-    "Community Board": 502,
-    "Category": "Hospital / Health Care"
-  },
-  {
-    "BIN": 5110428,
-    "Latitude": 40.64204,
-    "Longitude": -74.07734,
-    "Borough": "Staten Island",
-    "Address": "19 HYATT STREET",
     "Community Board": 501,
     "Category": "Hospital / Health Care"
   },
@@ -9999,15 +6183,6 @@
     "Category": "Hospital / Health Care"
   },
   {
-    "BIN": 5126926,
-    "Latitude": 40.60601,
-    "Longitude": -74.16132,
-    "Borough": "STATEN ISLAND",
-    "Address": "1745 RICHMOND AVENUE",
-    "Community Board": 502,
-    "Category": "Utility"
-  },
-  {
     "BIN": 5129201,
     "Latitude": 40.62424,
     "Longitude": -74.17938,
@@ -10022,15 +6197,6 @@
     "Longitude": -74.1972,
     "Borough": "Staten Island",
     "Address": "4329 VICTORY BOULEVARD",
-    "Community Board": 502,
-    "Category": "Utility"
-  },
-  {
-    "BIN": 5156339,
-    "Latitude": 40.61662,
-    "Longitude": -74.19632,
-    "Borough": "STATEN ISLAND",
-    "Address": "200 RIVER ROAD",
     "Community Board": 502,
     "Category": "Utility"
   },
