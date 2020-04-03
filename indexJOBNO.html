@@ -308,7 +308,7 @@ var width = $("#map").width(),
 
 	});
 
-	d3.csv("data/essential_BINs.csv",function(data){
+	d3.csv("https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.csv",function(data){
 				points = data.map(function(d){
 				d.latLng = [+d.Latitude,+d.Longitude];
 				d.bin = [d.BIN];				
@@ -373,7 +373,7 @@ var width = $("#map").width(),
 		var table = $('#riskTable').DataTable({
 
 				"ajax": {
-					"url": "data/essential_BINs.json",
+					"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.json",
 					"dataSrc": ""
 				},
 
