@@ -1,5 +1,15 @@
 [
   {
+    "BIN": 1000007,
+    "Latitude": 40.70278,
+    "Longitude": -74.01072,
+    "Borough": "Manhattan",
+    "Address": "4 NEW YORK PLAZA",
+    "Community Board": 101,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "123744047; M00232424"
+  },
+  {
     "BIN": 1000793,
     "Latitude": 40.70807,
     "Longitude": -74.01485,
@@ -93,8 +103,8 @@
     "BIN": 1001281,
     "Latitude": 40.71003,
     "Longitude": -74.0057,
-    "Borough": "MANHATTAN",
-    "Address": "156 WILLIAM STREET",
+    "Borough": "Manhattan",
+    "Address": "156 WILLIAM ST",
     "Community Board": 101,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -174,7 +184,7 @@
     "Latitude": 40.71637,
     "Longitude": -74.00339,
     "Borough": "Manhattan",
-    "Address": "346 BROADWAY",
+    "Address": "108 LEONARD STREET",
     "Community Board": 101,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "121185831; 140694078"
@@ -183,8 +193,8 @@
     "BIN": 1001841,
     "Latitude": 40.71719,
     "Longitude": -74.00334,
-    "Borough": "MANHATTAN",
-    "Address": "65 FRANKLIN STREET",
+    "Borough": "Manhattan",
+    "Address": "360 BROADWAY",
     "Community Board": 101,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123599392
@@ -254,7 +264,7 @@
     "Latitude": 40.71336,
     "Longitude": -73.98606,
     "Borough": "Manhattan",
-    "Address": "220 HENRY STREET",
+    "Address": "220 HENRY ST",
     "Community Board": 103,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -404,7 +414,7 @@
     "Latitude": 40.7293,
     "Longitude": -73.99554,
     "Borough": "Manhattan",
-    "Address": "31 WEST 4TH STREET",
+    "Address": "238 GREENE STREET",
     "Community Board": 102,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140874864
@@ -414,7 +424,7 @@
     "Latitude": 40.73058,
     "Longitude": -73.9896,
     "Borough": "Manhattan",
-    "Address": "115 EAST 9 STREET",
+    "Address": "115 EAST 9TH STREET",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122555225
@@ -434,7 +444,7 @@
     "Latitude": 40.73177,
     "Longitude": -73.99279,
     "Borough": "Manhattan",
-    "Address": "55 EAST 9 STREET",
+    "Address": "55 EAST 9TH STREET",
     "Community Board": 102,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123495182
@@ -444,7 +454,7 @@
     "Latitude": 40.73235,
     "Longitude": -73.99567,
     "Borough": "Manhattan",
-    "Address": "11 FIFTH AVENUE",
+    "Address": "11 5TH AVE",
     "Community Board": 102,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "M00279013"
@@ -474,7 +484,7 @@
     "Latitude": 40.72651,
     "Longitude": -74.00858,
     "Borough": "Manhattan",
-    "Address": "92 VANDAM STREET",
+    "Address": "100 VANDAM ST",
     "Community Board": 102,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 121190237
@@ -543,7 +553,7 @@
     "BIN": 1012575,
     "Latitude": 40.74481,
     "Longitude": -74.00441,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "435 WEST 19 STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
@@ -564,7 +574,7 @@
     "Latitude": 40.74136,
     "Longitude": -74.0032,
     "Borough": "Manhattan",
-    "Address": "111 EIGHTH AVENUE",
+    "Address": "325 WEST 15TH STREET",
     "Community Board": 104,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -584,7 +594,7 @@
     "Latitude": 40.7545,
     "Longitude": -73.99218,
     "Borough": "Manhattan",
-    "Address": "545 8 AVENUE",
+    "Address": "545 8TH AVENUE",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123817389
@@ -594,7 +604,7 @@
     "Latitude": 40.75503,
     "Longitude": -73.99181,
     "Borough": "Manhattan",
-    "Address": "575 EIGHTH AVE",
+    "Address": "575 8 AVE",
     "Community Board": 104,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -614,7 +624,7 @@
     "Latitude": 40.74431,
     "Longitude": -73.99689,
     "Borough": "Manhattan",
-    "Address": "222 WEST 23 STREET",
+    "Address": "222 WEST 23RD STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 120853754
@@ -624,7 +634,7 @@
     "Latitude": 40.7477,
     "Longitude": -73.9939,
     "Borough": "Manhattan",
-    "Address": "211 WEST 28 STREET",
+    "Address": "211 WEST 28TH STREET",
     "Community Board": 105,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -653,8 +663,8 @@
     "BIN": 1014408,
     "Latitude": 40.75146,
     "Longitude": -73.99075,
-    "Borough": "Manhattan",
-    "Address": "450 7TH AVENUE",
+    "Borough": "MANHATTAN",
+    "Address": "450 7 AVENUE",
     "Community Board": 105,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -713,8 +723,8 @@
     "BIN": 1015141,
     "Latitude": 40.74755,
     "Longitude": -73.9916,
-    "Borough": "MANHATTAN",
-    "Address": "143 WEST 29 STREET",
+    "Borough": "Manhattan",
+    "Address": "143 WEST 29TH STREET",
     "Community Board": 105,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123847935
@@ -763,7 +773,7 @@
     "BIN": 1015496,
     "Latitude": 40.74026,
     "Longitude": -73.99179,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "9 WEST 20 STREET",
     "Community Board": 105,
     "Category": "Emergency Work",
@@ -913,8 +923,8 @@
     "BIN": 1018922,
     "Latitude": 40.7472,
     "Longitude": -73.97821,
-    "Borough": "MANHATTAN",
-    "Address": "144 EAST 36 STREET",
+    "Borough": "Manhattan",
+    "Address": "144 EAST 36TH STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123879712
@@ -933,8 +943,8 @@
     "BIN": 1019118,
     "Latitude": 40.74911,
     "Longitude": -73.9789,
-    "Borough": "MANHATTAN",
-    "Address": "108 EAST 38 STREET",
+    "Borough": "Manhattan",
+    "Address": "108 EAST 38TH STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123491596
@@ -954,7 +964,7 @@
     "Latitude": 40.73537,
     "Longitude": -73.98527,
     "Borough": "Manhattan",
-    "Address": "201 E 17 ST",
+    "Address": "201 EAST 17TH STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -984,7 +994,7 @@
     "Latitude": 40.7409,
     "Longitude": -73.98094,
     "Borough": "Manhattan",
-    "Address": "200 EAST 27TH STREET",
+    "Address": "200 E 27 ST",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123739142
@@ -1014,7 +1024,7 @@
     "Latitude": 40.73439,
     "Longitude": -73.983,
     "Borough": "Manhattan",
-    "Address": "301 EAST 17TH STREET",
+    "Address": "301 EAST 17TH ST",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1024,7 +1034,7 @@
     "Latitude": 40.7336,
     "Longitude": -73.98143,
     "Borough": "Manhattan",
-    "Address": "301 FIRST AVENUE",
+    "Address": "301 1ST AVENUE",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "123531197; 123676708; 123676717; 123748702; 123872504; 123893821"
@@ -1034,7 +1044,7 @@
     "Latitude": 40.73685,
     "Longitude": -73.98105,
     "Borough": "Manhattan",
-    "Address": "380 2ND AVENUE",
+    "Address": "380 2 AVENUE",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1054,7 +1064,7 @@
     "Latitude": 40.74464,
     "Longitude": -73.97482,
     "Borough": "Manhattan",
-    "Address": "317 EAST 34TH STREET",
+    "Address": "317 EAST   34 STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1063,8 +1073,8 @@
     "BIN": 1022051,
     "Latitude": 40.748,
     "Longitude": -73.97284,
-    "Borough": "MANHATTAN",
-    "Address": "300 EAST 40 STREET",
+    "Borough": "Manhattan",
+    "Address": "300 EAST 40TH STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "M00277227"
@@ -1120,6 +1130,16 @@
     "Approved Job Number(s)": 121332968
   },
   {
+    "BIN": 1024909,
+    "Latitude": 40.76674,
+    "Longitude": -73.98142,
+    "Borough": "Manhattan",
+    "Address": "5 COLUMBUS CIRCLE",
+    "Community Board": 105,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 123703705
+  },
+  {
     "BIN": 1024932,
     "Latitude": 40.75777,
     "Longitude": -73.99255,
@@ -1134,7 +1154,7 @@
     "Latitude": 40.76683,
     "Longitude": -73.98424,
     "Borough": "Manhattan",
-    "Address": "320 WEST 57TH STREET",
+    "Address": "322 WEST 57TH STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "123443167; M00198130"
@@ -1154,7 +1174,7 @@
     "Latitude": 40.76231,
     "Longitude": -73.99879,
     "Borough": "Manhattan",
-    "Address": "643 WEST 43RD STREET",
+    "Address": "643 WEST 43 STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140872349
@@ -1164,7 +1184,7 @@
     "Latitude": 40.77073,
     "Longitude": -73.98313,
     "Borough": "Manhattan",
-    "Address": "44 WEST 62ND STREET",
+    "Address": "44 WEST 62 STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123526167
@@ -1237,14 +1257,14 @@
     "Address": "2109 BROADWAY",
     "Community Board": 107,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "123581481; 140824650"
+    "Approved Job Number(s)": "140824650; 123581481"
   },
   {
     "BIN": 1031028,
     "Latitude": 40.78236,
     "Longitude": -73.98302,
     "Borough": "Manhattan",
-    "Address": "333 WEST END AVE",
+    "Address": "333 WEST END AVENUE",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123809254
@@ -1274,17 +1294,27 @@
     "Latitude": 40.79088,
     "Longitude": -73.97136,
     "Borough": "Manhattan",
-    "Address": "146 WEST 92ND STREET",
+    "Address": "146 WEST 92 STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123361913
+  },
+  {
+    "BIN": 1032632,
+    "Latitude": 40.78351,
+    "Longitude": -73.97846,
+    "Borough": "Manhattan",
+    "Address": "201 WEST 79TH STREET",
+    "Community Board": 107,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 123548562
   },
   {
     "BIN": 1032763,
     "Latitude": 40.78567,
     "Longitude": -73.97684,
     "Borough": "Manhattan",
-    "Address": "202 WEST 83 STREET",
+    "Address": "202 WEST 83RD STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140861538
@@ -1294,7 +1324,7 @@
     "Latitude": 40.78569,
     "Longitude": -73.97691,
     "Borough": "Manhattan",
-    "Address": "204 WEST 83 STREET",
+    "Address": "204 WEST 83RD STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140861743
@@ -1344,7 +1374,7 @@
     "Latitude": 40.7916,
     "Longitude": -73.97309,
     "Borough": "Manhattan",
-    "Address": "206 WEST 92 STREET",
+    "Address": "206 WEST 92ND STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123499357
@@ -1374,7 +1404,7 @@
     "Latitude": 40.75386,
     "Longitude": -73.98016,
     "Borough": "Manhattan",
-    "Address": "511 5TH AVENUE",
+    "Address": "511 5TH  AVE",
     "Community Board": 105,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123710216
@@ -1464,7 +1494,7 @@
     "Latitude": 40.75756,
     "Longitude": -73.9677,
     "Borough": "Manhattan",
-    "Address": "232 EAST 54 STREET",
+    "Address": "232 EAST 54TH STREET",
     "Community Board": 106,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -1504,7 +1534,7 @@
     "Latitude": 40.75202,
     "Longitude": -73.97019,
     "Borough": "Manhattan",
-    "Address": "300 EAST 46TH STREET",
+    "Address": "300 EAST 46 STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "M00247501"
@@ -1562,8 +1592,8 @@
   {
     "BIN": 1040472,
     "Latitude": 40.75757,
-    "Longitude": -73.96195,
-    "Borough": "MANHATTAN",
+    "Longitude": -73.96194,
+    "Borough": "Manhattan",
     "Address": "430 EAST 57 STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
@@ -1584,7 +1614,7 @@
     "Latitude": 40.76404,
     "Longitude": -73.97166,
     "Borough": "Manhattan",
-    "Address": "650 MADISON AVENUE",
+    "Address": "650 MADISON AVE",
     "Community Board": 108,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1603,8 +1633,8 @@
     "BIN": 1041824,
     "Latitude": 40.77488,
     "Longitude": -73.96223,
-    "Borough": "Manhattan",
-    "Address": "61 E 77 STREET",
+    "Borough": "MANHATTAN",
+    "Address": "61 EAST 77 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123809245
@@ -1613,8 +1643,8 @@
     "BIN": 1042407,
     "Latitude": 40.76563,
     "Longitude": -73.96539,
-    "Borough": "MANHATTAN",
-    "Address": "855 LEXINGTON AVENUE",
+    "Borough": "Manhattan",
+    "Address": "855 LEXINGTON AVE",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140773875
@@ -1654,7 +1684,7 @@
     "Latitude": 40.77294,
     "Longitude": -73.96076,
     "Borough": "Manhattan",
-    "Address": "136 EAST 76 STREET",
+    "Address": "132 EAST 76TH STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123458739
@@ -1683,8 +1713,8 @@
     "BIN": 1043870,
     "Latitude": 40.76418,
     "Longitude": -73.96214,
-    "Borough": "Manhattan",
-    "Address": "1239 2ND AVENUE",
+    "Borough": "MANHATTAN",
+    "Address": "250 EAST 65 STREET",
     "Community Board": 108,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1724,7 +1754,7 @@
     "Latitude": 40.76639,
     "Longitude": -73.95806,
     "Borough": "Manhattan",
-    "Address": "333 EAST 69TH STREET",
+    "Address": "333 EAST 69 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140857712
@@ -1733,7 +1763,7 @@
     "BIN": 1044904,
     "Latitude": 40.76896,
     "Longitude": -73.95604,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "345 EAST 73 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
@@ -1744,7 +1774,7 @@
     "Latitude": 40.76606,
     "Longitude": -73.95493,
     "Borough": "Manhattan",
-    "Address": "435 EAST 70TH STREET",
+    "Address": "435 EAST 70 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140882267
@@ -1814,7 +1844,7 @@
     "Latitude": 40.78103,
     "Longitude": -73.95997,
     "Borough": "Manhattan",
-    "Address": "1049 FIFTH AVENUE",
+    "Address": "1049 5TH AVENUE",
     "Community Board": 108,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -1823,8 +1853,8 @@
     "BIN": 1046956,
     "Latitude": 40.78203,
     "Longitude": -73.95649,
-    "Borough": "Manhattan",
-    "Address": "1088 PARK AVENUE",
+    "Borough": "MANHATTAN",
+    "Address": "1084 PARK AVENUE",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "123794411; M00305051; M00305083"
@@ -1903,7 +1933,7 @@
     "BIN": 1048679,
     "Latitude": 40.77666,
     "Longitude": -73.9552,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "200 EAST 83 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
@@ -1924,7 +1954,7 @@
     "Latitude": 40.78387,
     "Longitude": -73.94695,
     "Borough": "Manhattan",
-    "Address": "1850 2 AVE",
+    "Address": "1850 2ND AVE",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140243626
@@ -1943,8 +1973,8 @@
     "BIN": 1050752,
     "Latitude": 40.7798,
     "Longitude": -73.94582,
-    "Borough": "MANHATTAN",
-    "Address": "415 EAST 91 STREET",
+    "Borough": "Manhattan",
+    "Address": "415 EAST 91ST STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123848444
@@ -1963,7 +1993,7 @@
     "BIN": 1051164,
     "Latitude": 40.77279,
     "Longitude": -73.94695,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "60 EAST END AVENUE",
     "Community Board": 108,
     "Category": "Emergency Work",
@@ -1984,7 +2014,7 @@
     "Latitude": 40.77599,
     "Longitude": -73.94647,
     "Borough": "Manhattan",
-    "Address": "1642 YORK AVENUE",
+    "Address": "511 EAST 86TH STREET",
     "Community Board": 108,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -2024,7 +2054,7 @@
     "Latitude": 40.7928,
     "Longitude": -73.95106,
     "Borough": "Manhattan",
-    "Address": "21 E. 104TH ST.",
+    "Address": "21 EAST 104TH STREET",
     "Community Board": 111,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122698866
@@ -2064,7 +2094,7 @@
     "Latitude": 40.79615,
     "Longitude": -73.94427,
     "Borough": "Manhattan",
-    "Address": "128 EAST 112 STREET",
+    "Address": "128 EAST 112TH STREET",
     "Community Board": 111,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "123019606; 123162843; 140644934; 140674134; 140717632"
@@ -2123,7 +2153,7 @@
     "BIN": 1053770,
     "Latitude": 40.81094,
     "Longitude": -73.94268,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "406 LENOX AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing",
@@ -2141,9 +2171,9 @@
   },
   {
     "BIN": 1053826,
-    "Latitude": 40.81162,
+    "Latitude": 40.81163,
     "Longitude": -73.94221,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "426 LENOX AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing",
@@ -2222,9 +2252,9 @@
   {
     "BIN": 1055933,
     "Latitude": 40.799,
-    "Longitude": -73.96381,
-    "Borough": "Manhattan",
-    "Address": "107 WEST 105TH STREET",
+    "Longitude": -73.96382,
+    "Borough": "MANHATTAN",
+    "Address": "107 WEST 105 STREET",
     "Community Board": 107,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -2241,9 +2271,9 @@
   },
   {
     "BIN": 1056035,
-    "Latitude": 40.80569,
+    "Latitude": 40.8057,
     "Longitude": -73.96148,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "1111 AMSTERDAM AVENUE",
     "Community Board": 109,
     "Category": "Hospital / Health Care",
@@ -2283,7 +2313,7 @@
     "BIN": 1057209,
     "Latitude": 40.80106,
     "Longitude": -73.9706,
-    "Borough": "MANHATTAN",
+    "Borough": "Manhattan",
     "Address": "320 RIVERSIDE DRIVE",
     "Community Board": 107,
     "Category": "Emergency Work",
@@ -2334,7 +2364,7 @@
     "Latitude": 40.80996,
     "Longitude": -73.94936,
     "Borough": "Manhattan",
-    "Address": "233 WEST 125TH STREET",
+    "Address": "233 W 125",
     "Community Board": 110,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 121187447
@@ -2344,7 +2374,7 @@
     "Latitude": 40.81074,
     "Longitude": -73.95347,
     "Borough": "Manhattan",
-    "Address": "362 WEST 125 STREET",
+    "Address": "370 WEST 125TH STREET",
     "Community Board": 109,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123035624
@@ -2374,7 +2404,7 @@
     "Latitude": 40.81142,
     "Longitude": -73.96214,
     "Borough": "Manhattan",
-    "Address": "3041 BROADWAY",
+    "Address": "600 WEST 122 STREET",
     "Community Board": 109,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "123669618; 123871186; 123890940; 123901206"
@@ -2384,7 +2414,7 @@
     "Latitude": 40.81699,
     "Longitude": -73.94041,
     "Borough": "Manhattan",
-    "Address": "118 W 139 STREET",
+    "Address": "118 WEST 139TH STREET",
     "Community Board": 110,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -2423,8 +2453,8 @@
     "BIN": 1060550,
     "Latitude": 40.82489,
     "Longitude": -73.94006,
-    "Borough": "Manhattan",
-    "Address": "2794 EIGHTH AVENUE",
+    "Borough": "MANHATTAN",
+    "Address": "2794 8 AVENUE",
     "Community Board": 110,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -2454,10 +2484,30 @@
     "Latitude": 40.82585,
     "Longitude": -73.94565,
     "Borough": "Manhattan",
-    "Address": "450 WEST 147TH STREET",
+    "Address": "450 WEST 147 STREET",
     "Community Board": 109,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123570144
+  },
+  {
+    "BIN": 1061865,
+    "Latitude": 40.8243,
+    "Longitude": -73.95,
+    "Borough": "Manhattan",
+    "Address": "512 WEST 143RD STREET",
+    "Community Board": 109,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 121187955
+  },
+  {
+    "BIN": 1062082,
+    "Latitude": 40.82876,
+    "Longitude": -73.94751,
+    "Borough": "Manhattan",
+    "Address": "551 W 149TH STREET",
+    "Community Board": 109,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "140894833; 140894842"
   },
   {
     "BIN": 1062192,
@@ -2484,7 +2534,7 @@
     "Latitude": 40.82512,
     "Longitude": -73.95195,
     "Borough": "Manhattan",
-    "Address": "3495 BROADWAY",
+    "Address": "3489 BROADWAY",
     "Community Board": 109,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "140887388; M00286156"
@@ -2503,7 +2553,7 @@
     "BIN": 1062675,
     "Latitude": 40.84008,
     "Longitude": -73.93636,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "2185 AMSTERDAM AVENUE",
     "Community Board": 112,
     "Category": "Affordable Housing",
@@ -2694,7 +2744,7 @@
     "Latitude": 40.84127,
     "Longitude": -73.94346,
     "Borough": "Manhattan",
-    "Address": "177 FT WASHINGTON AVENUE",
+    "Address": "177 FORT WASHINGTON AVE",
     "Community Board": 112,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -2724,7 +2774,7 @@
     "Latitude": 40.7154,
     "Longitude": -73.98808,
     "Borough": "Manhattan",
-    "Address": "212 EAST BROADWAY",
+    "Address": "208 EAST BROADWAY",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "M00322680"
@@ -2784,7 +2834,7 @@
     "Latitude": 40.74448,
     "Longitude": -73.98011,
     "Borough": "Manhattan",
-    "Address": "450 THIRD AVENUE",
+    "Address": "160 EAST 32ND STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -2843,7 +2893,7 @@
     "BIN": 1080132,
     "Latitude": 40.73444,
     "Longitude": -73.99115,
-    "Borough": "Manhattan",
+    "Borough": "MANHATTAN",
     "Address": "841 BROADWAY",
     "Community Board": 102,
     "Category": "Emergency Work",
@@ -2853,8 +2903,8 @@
     "BIN": 1080334,
     "Latitude": 40.7521,
     "Longitude": -74.0024,
-    "Borough": "MANHATTAN",
-    "Address": "517 WEST 29 STREET",
+    "Borough": "Manhattan",
+    "Address": "517 WEST 29TH STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123440080
@@ -2874,7 +2924,7 @@
     "Latitude": 40.74276,
     "Longitude": -73.99137,
     "Borough": "Manhattan",
-    "Address": "53 WEST 23RD ST.",
+    "Address": "53 WEST 23RD ST",
     "Community Board": 105,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -2894,10 +2944,10 @@
     "Latitude": 40.75847,
     "Longitude": -73.9958,
     "Borough": "Manhattan",
-    "Address": "460 WEST 41ST STREET",
+    "Address": "460 WEST 41 STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "121188614; 123527184; 123527193; 140789056"
+    "Approved Job Number(s)": "121188614; 121188614; 123527184; 123527193; 140789056"
   },
   {
     "BIN": 1081151,
@@ -2914,7 +2964,7 @@
     "Latitude": 40.75269,
     "Longitude": -73.97246,
     "Borough": "Manhattan",
-    "Address": "205 EAST 45 ST",
+    "Address": "205 EAST 45 STREET",
     "Community Board": 106,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123879936
@@ -2954,7 +3004,7 @@
     "Latitude": 40.84978,
     "Longitude": -73.93551,
     "Borough": "Manhattan",
-    "Address": "4250 BROADWAY",
+    "Address": "154 WADSWORTH AVE",
     "Community Board": 112,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "140877362; 140883140; M00246114"
@@ -2974,7 +3024,7 @@
     "Latitude": 40.71506,
     "Longitude": -73.9859,
     "Borough": "Manhattan",
-    "Address": "417 GRAND STREET",
+    "Address": "413 GRAND STREET",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123079863
@@ -2984,7 +3034,7 @@
     "Latitude": 40.71506,
     "Longitude": -73.9859,
     "Borough": "Manhattan",
-    "Address": "266 EAST BROADWAY",
+    "Address": "264 EAST BROADWAY",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "M00322017"
@@ -3034,7 +3084,7 @@
     "Latitude": 40.71952,
     "Longitude": -74.01087,
     "Borough": "Manhattan",
-    "Address": "316 GREENWICH STREET",
+    "Address": "312 GREENWICH STREET",
     "Community Board": 101,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123784690
@@ -3054,7 +3104,7 @@
     "Latitude": 40.77414,
     "Longitude": -73.95995,
     "Borough": "Manhattan",
-    "Address": "132 EAST 78 STREET",
+    "Address": "132 EAST 78TH STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 121191842
@@ -3074,7 +3124,7 @@
     "Latitude": 40.71432,
     "Longitude": -73.97838,
     "Borough": "Manhattan",
-    "Address": "570 GRAND STREET",
+    "Address": "568 GRAND STREET",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "123746893; M00220787; M00220850"
@@ -3103,8 +3153,8 @@
     "BIN": 1083722,
     "Latitude": 40.76426,
     "Longitude": -73.9804,
-    "Borough": "Manhattan",
-    "Address": "859 7TH AVENUE",
+    "Borough": "MANHATTAN",
+    "Address": "859 7 AVENUE",
     "Community Board": 105,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122923284
@@ -3194,7 +3244,7 @@
     "Latitude": 40.84069,
     "Longitude": -73.94164,
     "Borough": "Manhattan",
-    "Address": "630 WEST 168 STREET",
+    "Address": "622 WEST 168 STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -3204,7 +3254,7 @@
     "Latitude": 40.84069,
     "Longitude": -73.94164,
     "Borough": "Manhattan",
-    "Address": "620 WEST 168TH STREET",
+    "Address": "620 WEST 168 STREET",
     "Community Board": 112,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -3254,7 +3304,7 @@
     "Latitude": 40.734,
     "Longitude": -73.98775,
     "Borough": "Manhattan",
-    "Address": "4 IRVING PLACE",
+    "Address": "4 IRVING PL",
     "Community Board": 106,
     "Category": "Utility",
     "Approved Job Number(s)": ""
@@ -3284,7 +3334,7 @@
     "Latitude": 40.81151,
     "Longitude": -73.95074,
     "Borough": "Manhattan",
-    "Address": "314 WEST 127 STREET",
+    "Address": "314 WEST 127TH STREET",
     "Community Board": 110,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 123193212
@@ -3297,7 +3347,7 @@
     "Address": "1568 AIR BROADWAY",
     "Community Board": 105,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "121191236; 123090341"
+    "Approved Job Number(s)": "123090341; 121191236"
   },
   {
     "BIN": 1085517,
@@ -3314,7 +3364,7 @@
     "Latitude": 40.74355,
     "Longitude": -73.97342,
     "Borough": "Manhattan",
-    "Address": "550 1ST AVENUE",
+    "Address": "433 EAST 30TH STREET",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -3334,7 +3384,7 @@
     "Latitude": 40.766,
     "Longitude": -73.99589,
     "Borough": "Manhattan",
-    "Address": "600 WEST 50 STREET",
+    "Address": "600 W50TH STREET",
     "Community Board": 104,
     "Category": "Utility",
     "Approved Job Number(s)": ""
@@ -3364,17 +3414,27 @@
     "Latitude": 40.73875,
     "Longitude": -73.97534,
     "Borough": "Manhattan",
-    "Address": "462 FIRST AVENUE",
+    "Address": "462 FIRST AVE",
     "Community Board": 106,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
+  },
+  {
+    "BIN": 1087119,
+    "Latitude": 40.75475,
+    "Longitude": -73.98501,
+    "Borough": "Manhattan",
+    "Address": "1095 AVENUE OF THE AMERICAS",
+    "Community Board": 105,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 123421305
   },
   {
     "BIN": 1087281,
     "Latitude": 40.84127,
     "Longitude": -73.94346,
     "Borough": "Manhattan",
-    "Address": "161 FORT WASHINGTON AVE",
+    "Address": "161 FORT WASHINGTON AVENUE",
     "Community Board": 112,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140883328
@@ -3384,7 +3444,7 @@
     "Latitude": 40.76437,
     "Longitude": -73.9568,
     "Borough": "Manhattan",
-    "Address": "1275 YORK AVE",
+    "Address": "411 EAST 67TH STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123872103
@@ -3394,7 +3454,7 @@
     "Latitude": 40.74062,
     "Longitude": -73.97476,
     "Borough": "Manhattan",
-    "Address": "400 EAST 30 STREET",
+    "Address": "400 EAST 30 ST",
     "Community Board": 106,
     "Category": "Homeless Shelter",
     "Approved Job Number(s)": ""
@@ -3422,8 +3482,8 @@
   {
     "BIN": 1087465,
     "Latitude": 40.82993,
-    "Longitude": -73.94951,
-    "Borough": "Manhattan",
+    "Longitude": -73.9495,
+    "Borough": "MANHATTAN",
     "Address": "725 RIVERSIDE DRIVE",
     "Community Board": 109,
     "Category": "Emergency Work",
@@ -3492,9 +3552,9 @@
   {
     "BIN": 1088305,
     "Latitude": 40.78803,
-    "Longitude": -73.94325,
-    "Borough": "MANHATTAN",
-    "Address": "315 EAST 102 STREET",
+    "Longitude": -73.94324,
+    "Borough": "Manhattan",
+    "Address": "315 EAST 102ND STREET",
     "Community Board": 111,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140786442
@@ -3514,7 +3574,7 @@
     "Latitude": 40.70863,
     "Longitude": -74.01466,
     "Borough": "Manhattan",
-    "Address": "40 RECTOR STREET",
+    "Address": "98 WASHINGTON STREET",
     "Community Board": 101,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123686920
@@ -3554,7 +3614,7 @@
     "Latitude": 40.76167,
     "Longitude": -73.96493,
     "Borough": "Manhattan",
-    "Address": "254 EAST 60TH STREET",
+    "Address": "254 EAST 60 STREET",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 140717151
@@ -3564,7 +3624,7 @@
     "Latitude": 40.77268,
     "Longitude": -73.99181,
     "Borough": "Manhattan",
-    "Address": "639 WEST 59 STREET",
+    "Address": "639 WEST 59TH STREET",
     "Community Board": 107,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -3624,7 +3684,7 @@
     "Latitude": 40.77345,
     "Longitude": -73.992,
     "Borough": "Manhattan",
-    "Address": "400 WEST 61 ST",
+    "Address": "400 WEST 61 STREET",
     "Community Board": 107,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -3714,7 +3774,7 @@
     "Latitude": 40.75476,
     "Longitude": -74.00084,
     "Borough": "Manhattan",
-    "Address": "66 HUDSON BLVD",
+    "Address": "66 HUDSON BOULEVARD",
     "Community Board": 104,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122885422
@@ -3747,7 +3807,7 @@
     "Address": "222 WEST 80TH STREET",
     "Community Board": 107,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "140879529; M00266175; M00266383; M00274500"
+    "Approved Job Number(s)": "140879529; M00274500; M00266175; M00266383"
   },
   {
     "BIN": 1090211,
@@ -3833,8 +3893,8 @@
     "BIN": 1090460,
     "Latitude": 40.76166,
     "Longitude": -73.99732,
-    "Borough": "MANHATTAN",
-    "Address": "572 11 AVENUE",
+    "Borough": "Manhattan",
+    "Address": "572 11TH AVE",
     "Community Board": 104,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -3884,7 +3944,7 @@
     "Latitude": 40.74577,
     "Longitude": -73.98553,
     "Borough": "Manhattan",
-    "Address": "7 EAST 30TH ST",
+    "Address": "7 EAST 30 STREET",
     "Community Board": 105,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 123058822
@@ -3894,7 +3954,7 @@
     "Latitude": 40.78248,
     "Longitude": -73.94799,
     "Borough": "Manhattan",
-    "Address": "1802 SECOND AVENUE",
+    "Address": "1802 2 AVENUE",
     "Community Board": 108,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "121191361; 140695987"
@@ -3914,7 +3974,7 @@
     "Latitude": 40.81015,
     "Longitude": -73.95452,
     "Borough": "Manhattan",
-    "Address": "101 MORNINGSIDE AVE",
+    "Address": "101 MORNINGSIDE AVENUE",
     "Community Board": 109,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 122068467
@@ -3924,7 +3984,7 @@
     "Latitude": 40.78434,
     "Longitude": -73.94321,
     "Borough": "Manhattan",
-    "Address": "1912 1ST AVENUE",
+    "Address": "1912 1 AVENUE",
     "Community Board": 111,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "122879233; 122893262"
@@ -3943,8 +4003,8 @@
     "BIN": 1090697,
     "Latitude": 40.79677,
     "Longitude": -73.94606,
-    "Borough": "MANHATTAN",
-    "Address": "60 EAST 112 STREET",
+    "Borough": "Manhattan",
+    "Address": "60 EAST 112TH STREET",
     "Community Board": 111,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 121204721
@@ -3958,6 +4018,16 @@
     "Community Board": 110,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "121187982; 123542345; 123547073"
+  },
+  {
+    "BIN": 1090713,
+    "Latitude": 40.76702,
+    "Longitude": -73.95104,
+    "Borough": "Manhattan",
+    "Address": "530 EAST 74TH STREET",
+    "Community Board": 108,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 121237580
   },
   {
     "BIN": 1090720,
@@ -3984,7 +4054,7 @@
     "Latitude": 40.71927,
     "Longitude": -73.98949,
     "Borough": "Manhattan",
-    "Address": "86 DELANCEY STREET",
+    "Address": "86 DELANCY STREET",
     "Community Board": 103,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122141351
@@ -4024,16 +4094,16 @@
     "Latitude": 40.75297,
     "Longitude": -73.97855,
     "Borough": "Manhattan",
-    "Address": "10 VANDERBILT AVENUE",
+    "Address": "10 VANDERBILT AVE",
     "Community Board": 105,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "121189828; 123064254; 123162610; 140447559; 140455914; 140731420"
+    "Approved Job Number(s)": "121189828; 123064254; 123162610; 140447559; 140455914; 140731420; 121189828"
   },
   {
     "BIN": 1090831,
     "Latitude": 40.74106,
-    "Longitude": -73.99661,
-    "Borough": "MANHATTAN",
+    "Longitude": -73.9966,
+    "Borough": "Manhattan",
     "Address": "142 WEST 19 STREET",
     "Community Board": 104,
     "Category": "Emergency Work",
@@ -4044,7 +4114,7 @@
     "Latitude": 40.74253,
     "Longitude": -73.99094,
     "Borough": "Manhattan",
-    "Address": "39 WEST 23 STREET",
+    "Address": "39 WEST 23RD STREET",
     "Community Board": 105,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -4072,8 +4142,8 @@
   {
     "BIN": 1801609,
     "Latitude": 40.72082,
-    "Longitude": -73.98389,
-    "Borough": "Manhattan",
+    "Longitude": -73.9839,
+    "Borough": "MANHATTAN",
     "Address": "14 CLINTON STREET",
     "Community Board": 103,
     "Category": "Emergency Work",
@@ -4083,8 +4153,8 @@
     "BIN": 1813030,
     "Latitude": 40.7907,
     "Longitude": -73.94411,
-    "Borough": "Manhattan",
-    "Address": "221 EAST 105 ST",
+    "Borough": "MANHATTAN",
+    "Address": "221 EAST 105 STREET",
     "Community Board": 111,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 122750157
@@ -4144,7 +4214,7 @@
     "Latitude": 40.82847,
     "Longitude": -73.90746,
     "Borough": "Bronx",
-    "Address": "3401 THIRD AVENUE",
+    "Address": "3401 3RD AVENUE",
     "Community Board": 203,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -4164,7 +4234,7 @@
     "Latitude": 40.82154,
     "Longitude": -73.91642,
     "Borough": "Bronx",
-    "Address": "758 COURTLANDT AV",
+    "Address": "758 COURTLANDT AVENUE",
     "Community Board": 201,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -4194,20 +4264,10 @@
     "Latitude": 40.83648,
     "Longitude": -73.92471,
     "Borough": "Bronx",
-    "Address": "1182 WOODYCREST AVENUE",
+    "Address": "1182 WOODYCREST",
     "Community Board": 204,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "210178074; 240177045"
-  },
-  {
-    "BIN": 2003608,
-    "Latitude": 40.8062,
-    "Longitude": -73.91671,
-    "Borough": "BRONX",
-    "Address": "590 EAST 138 STREET",
-    "Community Board": 201,
-    "Category": "Emergency Work",
-    "Approved Job Number(s)": 240257510
   },
   {
     "BIN": 2003645,
@@ -4250,16 +4310,6 @@
     "Approved Job Number(s)": ""
   },
   {
-    "BIN": 2004252,
-    "Latitude": 40.83176,
-    "Longitude": -73.90269,
-    "Borough": "BRONX",
-    "Address": "590 EAST 169 STREET",
-    "Community Board": 203,
-    "Category": "Emergency Work",
-    "Approved Job Number(s)": 240257529
-  },
-  {
     "BIN": 2005002,
     "Latitude": 40.81773,
     "Longitude": -73.90319,
@@ -4274,7 +4324,7 @@
     "Latitude": 40.82181,
     "Longitude": -73.89812,
     "Borough": "Bronx",
-    "Address": "917 WESTCHESTER AVENUE",
+    "Address": "917 WESTCHESTER  AVENUE",
     "Community Board": 202,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -4323,7 +4373,7 @@
     "BIN": 2007616,
     "Latitude": 40.8486,
     "Longitude": -73.90819,
-    "Borough": "BRONX",
+    "Borough": "Bronx",
     "Address": "1870 MORRIS AVENUE",
     "Community Board": 205,
     "Category": "Emergency Work",
@@ -4363,8 +4413,8 @@
     "BIN": 2007926,
     "Latitude": 40.85197,
     "Longitude": -73.90746,
-    "Borough": "Bronx",
-    "Address": "54 EAST 179TH STREET",
+    "Borough": "BRONX",
+    "Address": "54 EAST 179 STREET",
     "Community Board": 205,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220649378
@@ -4393,8 +4443,8 @@
     "BIN": 2008263,
     "Latitude": 40.85218,
     "Longitude": -73.90797,
-    "Borough": "BRONX",
-    "Address": "20 EAST 179 STREET",
+    "Borough": "Bronx",
+    "Address": "20 EAST 179TH STREET",
     "Community Board": 205,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220650472
@@ -4433,7 +4483,7 @@
     "BIN": 2008471,
     "Latitude": 40.84981,
     "Longitude": -73.9146,
-    "Borough": "Bronx",
+    "Borough": "BRONX",
     "Address": "1731 HARRISON AVENUE",
     "Community Board": 205,
     "Category": "Emergency Work",
@@ -4483,7 +4533,7 @@
     "BIN": 2010494,
     "Latitude": 40.83135,
     "Longitude": -73.89173,
-    "Borough": "Bronx",
+    "Borough": "BRONX",
     "Address": "1325 SOUTHERN BOULEVARD",
     "Community Board": 203,
     "Category": "Affordable Housing",
@@ -4497,7 +4547,7 @@
     "Address": "1490 SOUTHERN BOULEVARD",
     "Community Board": 203,
     "Category": "Affordable Housing",
-    "Approved Job Number(s)": "220613717; 220640279; 220640288; 220640297; 220647664; 220647673"
+    "Approved Job Number(s)": "220613717; 220640279; 220640288; 220640297; 220647664; 220647673; 220613717"
   },
   {
     "BIN": 2011054,
@@ -4524,7 +4574,7 @@
     "Latitude": 40.85928,
     "Longitude": -73.89078,
     "Borough": "Bronx",
-    "Address": "4720 3 AVENUE",
+    "Address": "4720 3RD AVENUE",
     "Community Board": 206,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220671075
@@ -4564,7 +4614,7 @@
     "Latitude": 40.84163,
     "Longitude": -73.8784,
     "Borough": "Bronx",
-    "Address": "2064 BOSTON RD.",
+    "Address": "2064 BOSTON ROAD",
     "Community Board": 206,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "210177690; 220633624; 220634204"
@@ -4610,16 +4660,6 @@
     "Approved Job Number(s)": 220152956
   },
   {
-    "BIN": 2014913,
-    "Latitude": 40.86047,
-    "Longitude": -73.90903,
-    "Borough": "Bronx",
-    "Address": "111 W 183RD STREET",
-    "Community Board": 207,
-    "Category": "Emergency Work",
-    "Approved Job Number(s)": 240256281
-  },
-  {
     "BIN": 2015449,
     "Latitude": 40.88407,
     "Longitude": -73.88848,
@@ -4645,16 +4685,6 @@
     "Longitude": -73.90594,
     "Borough": "Bronx",
     "Address": "5500 BROADWAY",
-    "Community Board": 208,
-    "Category": "Hospital / Health Care",
-    "Approved Job Number(s)": ""
-  },
-  {
-    "BIN": 2016171,
-    "Latitude": 40.88002,
-    "Longitude": -73.90323,
-    "Borough": "BRONX",
-    "Address": "170 WEST 233 STREET",
     "Community Board": 208,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -4702,9 +4732,9 @@
   {
     "BIN": 2018798,
     "Latitude": 40.89626,
-    "Longitude": -73.87354,
-    "Borough": "Bronx",
-    "Address": "69 E 233 ST",
+    "Longitude": -73.87353,
+    "Borough": "BRONX",
+    "Address": "69 EAST 233 STREET",
     "Community Board": 212,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "210178494; 220688227; 220688236; 240249174"
@@ -4754,7 +4784,7 @@
     "Latitude": 40.83055,
     "Longitude": -73.87241,
     "Borough": "Bronx",
-    "Address": "1240 METCALF AVENUE",
+    "Address": "1230 METCALF AVENUE",
     "Community Board": 209,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 210178001
@@ -4784,7 +4814,7 @@
     "Latitude": 40.84071,
     "Longitude": -73.84844,
     "Borough": "Bronx",
-    "Address": "2475 ST RAYMOND AVENUE",
+    "Address": "2475 ST. RAYMOND AVENUE",
     "Community Board": 210,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -4833,7 +4863,7 @@
     "BIN": 2050004,
     "Latitude": 40.85881,
     "Longitude": -73.8681,
-    "Borough": "BRONX",
+    "Borough": "Bronx",
     "Address": "681 THWAITES PLACE",
     "Community Board": 211,
     "Category": "Affordable Housing",
@@ -4923,7 +4953,7 @@
     "BIN": 2062900,
     "Latitude": 40.88671,
     "Longitude": -73.86399,
-    "Borough": "BRONX",
+    "Borough": "Bronx",
     "Address": "629 EAST 222 STREET",
     "Community Board": 212,
     "Category": "Emergency Work",
@@ -5084,7 +5114,7 @@
     "Latitude": 40.81952,
     "Longitude": -73.89583,
     "Borough": "Bronx",
-    "Address": "900 INTERVALE AVENUE",
+    "Address": "900 INTERVALE AVE.",
     "Community Board": 202,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -5134,7 +5164,7 @@
     "Latitude": 40.81482,
     "Longitude": -73.90885,
     "Borough": "Bronx",
-    "Address": "603 JACKSON AVENUE",
+    "Address": "603 PONTIAC PLACE",
     "Community Board": 201,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -5194,7 +5224,7 @@
     "Latitude": 40.82682,
     "Longitude": -73.86417,
     "Borough": "Bronx",
-    "Address": "1815 BRUCKNER BLVD",
+    "Address": "1815 BRUCKNER BOULEVARD",
     "Community Board": 209,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 240236311
@@ -5202,8 +5232,8 @@
   {
     "BIN": 2092810,
     "Latitude": 40.82682,
-    "Longitude": -73.86418,
-    "Borough": "BRONX",
+    "Longitude": -73.86417,
+    "Borough": "Bronx",
     "Address": "1836 WATSON AVENUE",
     "Community Board": 209,
     "Category": "Emergency Work",
@@ -5244,7 +5274,7 @@
     "Latitude": 40.85303,
     "Longitude": -73.89087,
     "Borough": "Bronx",
-    "Address": "4422 3RD AVE",
+    "Address": "4422 3 AVENUE",
     "Community Board": 206,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -5334,7 +5364,7 @@
     "Latitude": 40.81676,
     "Longitude": -73.92448,
     "Borough": "Bronx",
-    "Address": "234 E 149 ST",
+    "Address": "234 E 149 STREET",
     "Community Board": 201,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -5392,8 +5422,8 @@
   {
     "BIN": 2102921,
     "Latitude": 40.82682,
-    "Longitude": -73.86418,
-    "Borough": "BRONX",
+    "Longitude": -73.86417,
+    "Borough": "Bronx",
     "Address": "1810 WATSON AVENUE",
     "Community Board": 209,
     "Category": "Emergency Work",
@@ -5408,6 +5438,16 @@
     "Community Board": 202,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
+  },
+  {
+    "BIN": 2113353,
+    "Latitude": 40.82225,
+    "Longitude": -73.8907,
+    "Borough": "BRONX",
+    "Address": "951 HOE AVENUE",
+    "Community Board": 202,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "X00338702"
   },
   {
     "BIN": 2114100,
@@ -5523,7 +5563,7 @@
     "BIN": 2127125,
     "Latitude": 40.81301,
     "Longitude": -73.88639,
-    "Borough": "BRONX",
+    "Borough": "Bronx",
     "Address": "627 FAILE STREET",
     "Community Board": 202,
     "Category": "Emergency Work",
@@ -5544,7 +5584,7 @@
     "Latitude": 40.81669,
     "Longitude": -73.9147,
     "Borough": "Bronx",
-    "Address": "600 BERGEN AVENUE",
+    "Address": "600 BERGEN AVE",
     "Community Board": 201,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "220151868; 240108799; 240117137"
@@ -5584,17 +5624,17 @@
     "Latitude": 40.85385,
     "Longitude": -73.89182,
     "Borough": "Bronx",
-    "Address": "4511 3RD AVENUE",
+    "Address": "4511 3RD AVE",
     "Community Board": 206,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
   },
   {
     "BIN": 2128327,
-    "Latitude": 40.81104,
+    "Latitude": 40.81105,
     "Longitude": -73.92654,
-    "Borough": "BRONX",
-    "Address": "2560 3 AVENUE",
+    "Borough": "Bronx",
+    "Address": "2550 THIRD AVENUE",
     "Community Board": 201,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220462407
@@ -5664,7 +5704,7 @@
     "Latitude": 40.8304,
     "Longitude": -73.90653,
     "Borough": "Bronx",
-    "Address": "3475 THIRD AVENUE",
+    "Address": "3475 THIRD AVE",
     "Community Board": 203,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "220691703; 220693881"
@@ -5674,7 +5714,7 @@
     "Latitude": 40.84615,
     "Longitude": -73.89693,
     "Borough": "Bronx",
-    "Address": "1880 BATHGATE AVENUE",
+    "Address": "1880 BATHGATE AVE",
     "Community Board": 206,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -5733,7 +5773,7 @@
     "BIN": 2128915,
     "Latitude": 40.80507,
     "Longitude": -73.92256,
-    "Borough": "Bronx",
+    "Borough": "BRONX",
     "Address": "109 BRUCKNER BOULEVARD",
     "Community Board": 201,
     "Category": "Emergency Work",
@@ -5741,9 +5781,9 @@
   },
   {
     "BIN": 2128935,
-    "Latitude": 40.81462,
-    "Longitude": -73.88806,
-    "Borough": "Bronx",
+    "Latitude": 40.81441,
+    "Longitude": -73.88814,
+    "Borough": "BRONX",
     "Address": "700 MANIDA STREET",
     "Community Board": 202,
     "Category": "Affordable Housing",
@@ -5774,7 +5814,7 @@
     "Latitude": 40.80951,
     "Longitude": -73.91615,
     "Borough": "Bronx",
-    "Address": "345 ST ANN'S AVE",
+    "Address": "345 ST ANNS AVENUE",
     "Community Board": 201,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 210177841
@@ -5783,8 +5823,8 @@
     "BIN": 2129008,
     "Latitude": 40.81323,
     "Longitude": -73.91528,
-    "Borough": "BRONX",
-    "Address": "518 EAST 147 STREET",
+    "Borough": "Bronx",
+    "Address": "518 E 147 STREET",
     "Community Board": 201,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220562219
@@ -5827,7 +5867,7 @@
     "Address": "556 BERGEN AVENUE",
     "Community Board": 201,
     "Category": "Affordable Housing",
-    "Approved Job Number(s)": "220151859; 240108780; 240114835; 240114844; 240114924; 240114933; 240117128"
+    "Approved Job Number(s)": "240114933; 220151859; 240108780; 240114835; 240114844; 240114924; 240117128"
   },
   {
     "BIN": 2129104,
@@ -5844,7 +5884,7 @@
     "Latitude": 40.83863,
     "Longitude": -73.88176,
     "Borough": "Bronx",
-    "Address": "1903 WEST FARMS ROAD",
+    "Address": "1903 WEST FARMS RD",
     "Community Board": 206,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -5924,7 +5964,7 @@
     "Latitude": 40.81865,
     "Longitude": -73.90935,
     "Borough": "Bronx",
-    "Address": "600 EAST 156TH STREET",
+    "Address": "600 EAST 156 STREET",
     "Community Board": 201,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 220152705
@@ -6034,7 +6074,7 @@
     "Latitude": 40.87482,
     "Longitude": -73.88799,
     "Borough": "Bronx",
-    "Address": "16 EAST 204TH STREET",
+    "Address": "16 E. 204TH STREET",
     "Community Board": 207,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -6104,7 +6144,7 @@
     "Latitude": 40.85826,
     "Longitude": -73.9015,
     "Borough": "Bronx",
-    "Address": "2302 MORRIS AVE",
+    "Address": "2302 MORRIS AVENUE",
     "Community Board": 205,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "220446355; 220523360; 220534580"
@@ -6161,9 +6201,9 @@
   },
   {
     "BIN": 2130367,
-    "Latitude": 40.83472,
-    "Longitude": -73.92151,
-    "Borough": "BRONX",
+    "Latitude": 40.8347,
+    "Longitude": -73.92189,
+    "Borough": "Bronx",
     "Address": "1164 RIVER AVENUE",
     "Community Board": 204,
     "Category": "Affordable Housing",
@@ -6184,7 +6224,7 @@
     "Latitude": 40.80992,
     "Longitude": -73.92828,
     "Borough": "Bronx",
-    "Address": "2490 3RD AVENUE",
+    "Address": "2490 THIRD AVENUE",
     "Community Board": 201,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 220471727
@@ -6293,7 +6333,7 @@
     "BIN": 3000507,
     "Latitude": 40.6881,
     "Longitude": -73.9824,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "308 LIVINGSTON STREET",
     "Community Board": 302,
     "Category": "Affordable Housing",
@@ -6323,7 +6363,7 @@
     "BIN": 3001646,
     "Latitude": 40.69928,
     "Longitude": -73.99247,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "80 CRANBERRY STREET",
     "Community Board": 302,
     "Category": "Emergency Work",
@@ -6393,7 +6433,7 @@
     "BIN": 3003986,
     "Latitude": 40.68475,
     "Longitude": -73.99622,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "42 TOMPKINS PLACE",
     "Community Board": 306,
     "Category": "Emergency Work",
@@ -6420,6 +6460,16 @@
     "Approved Job Number(s)": 321774433
   },
   {
+    "BIN": 3005988,
+    "Latitude": 40.68276,
+    "Longitude": -73.98094,
+    "Borough": "BROOKLYN",
+    "Address": "332 BERGEN STREET",
+    "Community Board": 302,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 321594299
+  },
+  {
     "BIN": 3006896,
     "Latitude": 40.68211,
     "Longitude": -73.99165,
@@ -6444,7 +6494,7 @@
     "Latitude": 40.67883,
     "Longitude": -74.01725,
     "Borough": "Brooklyn",
-    "Address": "84 FERRIS ST",
+    "Address": "84 FERRIS STREET",
     "Community Board": 306,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "321912622; 321986348"
@@ -6484,7 +6534,7 @@
     "Latitude": 40.64667,
     "Longitude": -74.02122,
     "Borough": "Brooklyn",
-    "Address": "150 55 STREET",
+    "Address": "150 55 ST",
     "Community Board": 307,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -6524,7 +6574,7 @@
     "Latitude": 40.67073,
     "Longitude": -73.98723,
     "Borough": "Brooklyn",
-    "Address": "233 8TH STREET",
+    "Address": "233 8 STREET",
     "Community Board": 306,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321938864
@@ -6554,7 +6604,7 @@
     "Latitude": 40.67297,
     "Longitude": -73.96313,
     "Borough": "Brooklyn",
-    "Address": "840 WASHINGTON AVENUE",
+    "Address": "840 WASHINGTON AVE",
     "Community Board": 308,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 321326301
@@ -6593,7 +6643,7 @@
     "BIN": 3032690,
     "Latitude": 40.67008,
     "Longitude": -73.948,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "615 EASTERN PARKWAY",
     "Community Board": 308,
     "Category": "Emergency Work",
@@ -6604,7 +6654,7 @@
     "Latitude": 40.6688,
     "Longitude": -73.95499,
     "Borough": "Brooklyn",
-    "Address": "1101 PRESIDENT STREET",
+    "Address": "1057 PRESIDENT STREET",
     "Community Board": 309,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -6723,8 +6773,8 @@
     "BIN": 3041353,
     "Latitude": 40.68106,
     "Longitude": -73.91273,
-    "Borough": "Brooklyn",
-    "Address": "305 SUMPTER ST",
+    "Borough": "BROOKLYN",
+    "Address": "305 SUMPTER STREET",
     "Community Board": 316,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321438832
@@ -6753,7 +6803,7 @@
     "BIN": 3044372,
     "Latitude": 40.69004,
     "Longitude": -73.92838,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "770 LEXINGTON AVENUE",
     "Community Board": 303,
     "Category": "Emergency Work",
@@ -6763,8 +6813,8 @@
     "BIN": 3045916,
     "Latitude": 40.68521,
     "Longitude": -73.92879,
-    "Borough": "Brooklyn",
-    "Address": "659 HANCOCK ST",
+    "Borough": "BROOKLYN",
+    "Address": "659 HANCOCK STREET",
     "Community Board": 303,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321633158
@@ -6784,7 +6834,7 @@
     "Latitude": 40.67843,
     "Longitude": -73.93759,
     "Borough": "Brooklyn",
-    "Address": "1535 ATLANTIC AVE",
+    "Address": "55 ALBANY AVENUE",
     "Community Board": 303,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -7063,7 +7113,7 @@
     "BIN": 3053704,
     "Latitude": 40.68018,
     "Longitude": -73.95298,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "1255 BEDFORD AVENUE",
     "Community Board": 303,
     "Category": "Emergency Work",
@@ -7113,7 +7163,7 @@
     "BIN": 3055658,
     "Latitude": 40.68843,
     "Longitude": -73.95925,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "123 CLIFTON PLACE",
     "Community Board": 303,
     "Category": "Emergency Work",
@@ -7154,7 +7204,7 @@
     "Latitude": 40.68071,
     "Longitude": -73.95519,
     "Borough": "Brooklyn",
-    "Address": "1134 FULTON STREET",
+    "Address": "1134 FULTON ST",
     "Community Board": 303,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -7162,8 +7212,8 @@
   {
     "BIN": 3057984,
     "Latitude": 40.69633,
-    "Longitude": -73.97324,
-    "Borough": "Brooklyn",
+    "Longitude": -73.97325,
+    "Borough": "BROOKLYN",
     "Address": "55 CARLTON AVENUE",
     "Community Board": 302,
     "Category": "Emergency Work",
@@ -7203,7 +7253,7 @@
     "BIN": 3059905,
     "Latitude": 40.70505,
     "Longitude": -73.96371,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "114 TAYLOR STREET",
     "Community Board": 301,
     "Category": "Emergency Work",
@@ -7223,7 +7273,7 @@
     "BIN": 3062539,
     "Latitude": 40.71264,
     "Longitude": -73.95287,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "56 AINSLIE STREET",
     "Community Board": 301,
     "Category": "Affordable Housing",
@@ -7234,7 +7284,7 @@
     "Latitude": 40.71617,
     "Longitude": -73.96434,
     "Borough": "Brooklyn",
-    "Address": "292 WYTHE AVE",
+    "Address": "296 WHYTE AV",
     "Community Board": 301,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -7274,7 +7324,7 @@
     "Latitude": 40.71635,
     "Longitude": -73.95168,
     "Borough": "Brooklyn",
-    "Address": "526 UNION AVE",
+    "Address": "526 UNION AVENUE",
     "Community Board": 301,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321383891
@@ -7344,7 +7394,7 @@
     "Latitude": 40.69751,
     "Longitude": -73.9251,
     "Borough": "Brooklyn",
-    "Address": "95 STOCKHOLM STREET",
+    "Address": "93 STOCKHOLM STREET",
     "Community Board": 304,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "340656597; 340665195"
@@ -7513,7 +7563,7 @@
     "BIN": 3089807,
     "Latitude": 40.66999,
     "Longitude": -73.88133,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "999 BLAKE AVENUE",
     "Community Board": 305,
     "Category": "Emergency Work",
@@ -7593,8 +7643,8 @@
     "BIN": 3103615,
     "Latitude": 40.65492,
     "Longitude": -73.91238,
-    "Borough": "BROOKLYN",
-    "Address": "1275 LINDEN BOULEVARD",
+    "Borough": "Brooklyn",
+    "Address": "1 BROOKDALE PLAZA",
     "Community Board": 317,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -7734,7 +7784,7 @@
     "Latitude": 40.63876,
     "Longitude": -73.95049,
     "Borough": "Brooklyn",
-    "Address": "486 EAST 28TH STREET",
+    "Address": "486 EAST 28 STREET",
     "Community Board": 317,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321760581
@@ -7753,7 +7803,7 @@
     "BIN": 3126291,
     "Latitude": 40.63909,
     "Longitude": -73.97033,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "811 CORTELYOU ROAD",
     "Community Board": 312,
     "Category": "Emergency Work",
@@ -7794,7 +7844,7 @@
     "Latitude": 40.63379,
     "Longitude": -73.98943,
     "Borough": "Brooklyn",
-    "Address": "4815 14TH AVENUE",
+    "Address": "4815 14 AVE",
     "Community Board": 312,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 320891736
@@ -7804,7 +7854,7 @@
     "Latitude": 40.63387,
     "Longitude": -73.98933,
     "Borough": "Brooklyn",
-    "Address": "4809 14 AVE",
+    "Address": "4809 14TH AVENUE",
     "Community Board": 312,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 320854679
@@ -7847,7 +7897,7 @@
     "Address": "420 AVENUE P",
     "Community Board": 315,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "322043276; B00325322; B00325361"
+    "Approved Job Number(s)": "B00325322; B00325361; 322043276"
   },
   {
     "BIN": 3182009,
@@ -7974,7 +8024,7 @@
     "Latitude": 40.62144,
     "Longitude": -73.95521,
     "Borough": "Brooklyn",
-    "Address": "1673 OCEAN AVE",
+    "Address": "1673 OCEAN AVENUE",
     "Community Board": 314,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321684762
@@ -7982,9 +8032,9 @@
   {
     "BIN": 3210176,
     "Latitude": 40.61762,
-    "Longitude": -73.94871,
-    "Borough": "Brooklyn",
-    "Address": "1367 EAST 26TH STREET",
+    "Longitude": -73.9487,
+    "Borough": "BROOKLYN",
+    "Address": "1367 EAST 26 STREET",
     "Community Board": 314,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321186337
@@ -8034,7 +8084,7 @@
     "Latitude": 40.6955,
     "Longitude": -73.97682,
     "Borough": "Brooklyn",
-    "Address": "100 NORTH PORTLAND AVE.",
+    "Address": "39 AUBURN PLACE",
     "Community Board": 302,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -8051,9 +8101,9 @@
   },
   {
     "BIN": 3251988,
-    "Latitude": 40.66821,
+    "Latitude": 40.6682,
     "Longitude": -73.91787,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "25 LEGION STREET",
     "Community Board": 316,
     "Category": "Emergency Work",
@@ -8164,7 +8214,7 @@
     "Latitude": 40.70385,
     "Longitude": -73.9429,
     "Borough": "Brooklyn",
-    "Address": "65 GRAHAM AVENUE",
+    "Address": "67 GRAHAM AVENUE",
     "Community Board": 301,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321250604
@@ -8292,9 +8342,9 @@
   {
     "BIN": 3328803,
     "Latitude": 40.63414,
-    "Longitude": -74.01409,
-    "Borough": "Brooklyn",
-    "Address": "6405 7TH AVENUE",
+    "Longitude": -74.0141,
+    "Borough": "BROOKLYN",
+    "Address": "6405 7 AVENUE",
     "Community Board": 310,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -8384,7 +8434,7 @@
     "Latitude": 40.67911,
     "Longitude": -73.94994,
     "Borough": "Brooklyn",
-    "Address": "570 NOSTRAND AVE",
+    "Address": "570 NOSTRAND AVENUE",
     "Community Board": 303,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321628789
@@ -8410,6 +8460,16 @@
     "Approved Job Number(s)": "322001935; 322028131"
   },
   {
+    "BIN": 3335097,
+    "Latitude": 40.68185,
+    "Longitude": -73.96603,
+    "Borough": "BROOKLYN",
+    "Address": "547 CLINTON AVENUE",
+    "Community Board": 302,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "B00221215"
+  },
+  {
     "BIN": 3335796,
     "Latitude": 40.71445,
     "Longitude": -73.96743,
@@ -8417,7 +8477,7 @@
     "Address": "292 KENT AVENUE",
     "Community Board": 301,
     "Category": "Emergency Work",
-    "Approved Job Number(s)": "321385504; 321387520; 340643441; 340652662; 340680409"
+    "Approved Job Number(s)": "321387520; 340652662; 340680409; 321385504; 321385504; 340643441"
   },
   {
     "BIN": 3335884,
@@ -8428,6 +8488,16 @@
     "Community Board": 302,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
+  },
+  {
+    "BIN": 3335899,
+    "Latitude": 40.69029,
+    "Longitude": -73.98604,
+    "Borough": "Brooklyn",
+    "Address": "422 FULTON STREET",
+    "Community Board": 302,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "321597697; 321730249"
   },
   {
     "BIN": 3336201,
@@ -8443,7 +8513,7 @@
     "BIN": 3336359,
     "Latitude": 40.67633,
     "Longitude": -73.99421,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "431 HOYT STREET",
     "Community Board": 306,
     "Category": "Emergency Work",
@@ -8614,7 +8684,7 @@
     "Latitude": 40.65518,
     "Longitude": -74.01189,
     "Borough": "Brooklyn",
-    "Address": "167 41ST STREET",
+    "Address": "167 41 STREET",
     "Community Board": 307,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "322038451; 322038460; B00299363; B00299483; B00307856"
@@ -8663,7 +8733,7 @@
     "BIN": 3338267,
     "Latitude": 40.72113,
     "Longitude": -73.93103,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "287 MASPETH AVENUE",
     "Community Board": 301,
     "Category": "Utility",
@@ -8864,7 +8934,7 @@
     "Latitude": 40.65323,
     "Longitude": -73.95982,
     "Borough": "Brooklyn",
-    "Address": "800 FLATBUSH AVENUE",
+    "Address": "2119 CATON AVENUE",
     "Community Board": 314,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 321188567
@@ -9123,7 +9193,7 @@
     "BIN": 3421888,
     "Latitude": 40.65307,
     "Longitude": -73.8768,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "398 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing",
@@ -9153,7 +9223,7 @@
     "BIN": 3421891,
     "Latitude": 40.65335,
     "Longitude": -73.87721,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "401 SCHROEDERS AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing",
@@ -9231,9 +9301,9 @@
   },
   {
     "BIN": 3421919,
-    "Latitude": 40.65559,
-    "Longitude": -73.87326,
-    "Borough": "Brooklyn",
+    "Latitude": 40.6544,
+    "Longitude": -73.87452,
+    "Borough": "BROOKLYN",
     "Address": "1123 ASHFORD STREET",
     "Community Board": 305,
     "Category": "Affordable Housing",
@@ -9411,10 +9481,10 @@
   },
   {
     "BIN": 3424479,
-    "Latitude": 40.63682,
-    "Longitude": -73.94206,
-    "Borough": "BROOKLYN",
-    "Address": "1495 BROOKLYN AVENUE",
+    "Latitude": 40.63702,
+    "Longitude": -73.94228,
+    "Borough": "Brooklyn",
+    "Address": "1495 BROOKLYN AVE",
     "Community Board": 317,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321477228
@@ -9544,7 +9614,7 @@
     "Latitude": 40.71595,
     "Longitude": -73.96661,
     "Borough": "Brooklyn",
-    "Address": "266 KENT AVENUE",
+    "Address": "266 KENT AVE",
     "Community Board": 301,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 340696116
@@ -9564,7 +9634,7 @@
     "Latitude": 40.67004,
     "Longitude": -73.85869,
     "Borough": "Brooklyn",
-    "Address": "2858 LINDEN BLVD.",
+    "Address": "2858 LINDEN BLVD",
     "Community Board": 305,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": "321191198; 321761777; 321762197"
@@ -9674,7 +9744,7 @@
     "Latitude": 40.72712,
     "Longitude": -73.95882,
     "Borough": "Brooklyn",
-    "Address": "29 WEST ST",
+    "Address": "29 WEST STREET",
     "Community Board": 301,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 321231412
@@ -9744,17 +9814,17 @@
     "Latitude": 40.72044,
     "Longitude": -73.94749,
     "Borough": "Brooklyn",
-    "Address": "117 NEWTON STREET",
+    "Address": "12 ECKFORD ST",
     "Community Board": 301,
     "Category": "Affordable Housing",
-    "Approved Job Number(s)": "320909772; 321936045; 340316633; 340316642"
+    "Approved Job Number(s)": "340316633; 320909772; 321936045; 340316642"
   },
   {
     "BIN": 3425857,
-    "Latitude": 40.69068,
-    "Longitude": -73.99755,
-    "Borough": "Brooklyn",
-    "Address": "70 ATLANTIC AVE",
+    "Latitude": 40.69034,
+    "Longitude": -73.99706,
+    "Borough": "BROOKLYN",
+    "Address": "70 ATLANTIC AVENUE",
     "Community Board": 306,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "B00332213"
@@ -9763,7 +9833,7 @@
     "BIN": 3425883,
     "Latitude": 40.69622,
     "Longitude": -73.95808,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "91 FRANKLIN AVENUE",
     "Community Board": 303,
     "Category": "Emergency Work",
@@ -9823,7 +9893,7 @@
     "BIN": 3426069,
     "Latitude": 40.65516,
     "Longitude": -73.94861,
-    "Borough": "Brooklyn",
+    "Borough": "BROOKLYN",
     "Address": "350 CLARKSON AVENUE",
     "Community Board": 317,
     "Category": "Affordable Housing",
@@ -9864,8 +9934,8 @@
     "Latitude": 40.66146,
     "Longitude": -73.91788,
     "Borough": "Brooklyn",
-    "Address": "7 LIVONIA AVENUE",
-    "Community Board": 316,
+    "Address": "7 LIVONIA AVEUE",
+    "Community Board": 3,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 320910617
   },
@@ -9884,7 +9954,7 @@
     "Latitude": 40.57573,
     "Longitude": -73.98624,
     "Borough": "Brooklyn",
-    "Address": "2926 WEST 19TH STREET",
+    "Address": "2926 WEST 19 STREET",
     "Community Board": 313,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 320911689
@@ -10024,7 +10094,7 @@
     "Latitude": 40.68349,
     "Longitude": -73.96846,
     "Borough": "Brooklyn",
-    "Address": "810 FULTON STREET",
+    "Address": "810 FULTON ST",
     "Community Board": 302,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -10053,7 +10123,7 @@
     "BIN": 3426540,
     "Latitude": 40.65374,
     "Longitude": -73.95113,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "250 LENOX ROAD",
     "Community Board": 317,
     "Category": "Emergency Work",
@@ -10064,7 +10134,7 @@
     "Latitude": 40.67539,
     "Longitude": -73.87959,
     "Borough": "Brooklyn",
-    "Address": "820 GLENMORE AVE",
+    "Address": "820 GLENMORE AVENUE",
     "Community Board": 305,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 321635637
@@ -10083,7 +10153,7 @@
     "BIN": 3426582,
     "Latitude": 40.65969,
     "Longitude": -73.93792,
-    "Borough": "BROOKLYN",
+    "Borough": "Brooklyn",
     "Address": "739 FENIMORE STREET",
     "Community Board": 309,
     "Category": "Emergency Work",
@@ -10112,10 +10182,10 @@
   {
     "BIN": 3426626,
     "Latitude": 40.71798,
-    "Longitude": -73.9558,
-    "Borough": "BROOKLYN",
-    "Address": "185 NORTH 8TH STREET",
-    "Community Board": 301,
+    "Longitude": -73.95583,
+    "Borough": "Brooklyn",
+    "Address": "185 NORTH 8 STREET",
+    "Community Board": 3,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 320912857
   },
@@ -10154,7 +10224,7 @@
     "Latitude": 40.63359,
     "Longitude": -73.9416,
     "Borough": "Brooklyn",
-    "Address": "1613 BROOKLYN AVE",
+    "Address": "1613 BROOKLYN AVENUE",
     "Community Board": 317,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 321847748
@@ -10234,7 +10304,7 @@
     "Latitude": 40.65873,
     "Longitude": -73.99164,
     "Borough": "Brooklyn",
-    "Address": "305 23 STREET",
+    "Address": "303 23RD STREET",
     "Community Board": 307,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "320912571; 321771908"
@@ -10364,7 +10434,7 @@
     "Latitude": 40.68203,
     "Longitude": -73.96112,
     "Borough": "Brooklyn",
-    "Address": "445 GRAND AVE",
+    "Address": "445 GRAND AVENUE",
     "Community Board": 302,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -10444,7 +10514,7 @@
     "Latitude": 40.67737,
     "Longitude": -73.92152,
     "Borough": "Brooklyn",
-    "Address": "343 RALPH AVENUE",
+    "Address": "343 RALPH AVE",
     "Community Board": 303,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 320911340
@@ -10524,7 +10594,7 @@
     "Latitude": 40.57622,
     "Longitude": -73.97131,
     "Borough": "Brooklyn",
-    "Address": "271 SEA BREEZE AVENUE",
+    "Address": "271 SEA BREEZE AVE",
     "Community Board": 313,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 301677460
@@ -10684,7 +10754,7 @@
     "Latitude": 40.77361,
     "Longitude": -73.91334,
     "Borough": "Queens",
-    "Address": "2325 31 ST",
+    "Address": "23-25 31 STREET",
     "Community Board": 401,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -10694,7 +10764,7 @@
     "Latitude": 40.78191,
     "Longitude": -73.91639,
     "Borough": "Queens",
-    "Address": "19-14 21 ROAD",
+    "Address": "19-14 21ST ROAD",
     "Community Board": 401,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 420662713
@@ -10710,6 +10780,16 @@
     "Approved Job Number(s)": 421267220
   },
   {
+    "BIN": 4028427,
+    "Latitude": 40.74639,
+    "Longitude": -73.91023,
+    "Borough": "Queens",
+    "Address": "39-60 54TH STREET",
+    "Community Board": 402,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 440482719
+  },
+  {
     "BIN": 4028821,
     "Latitude": 40.75103,
     "Longitude": -73.8955,
@@ -10723,8 +10803,8 @@
     "BIN": 4037182,
     "Latitude": 40.74582,
     "Longitude": -73.8835,
-    "Borough": "Queens",
-    "Address": "81-30 BAXTER AVENUE",
+    "Borough": "QUEENS",
+    "Address": "8130 BAXTER AVENUE",
     "Community Board": 404,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 421951677
@@ -10874,7 +10954,7 @@
     "Latitude": 40.72296,
     "Longitude": -73.84841,
     "Borough": "Queens",
-    "Address": "104-70 QUEENS BLVD",
+    "Address": "104-70 QUEENS BOULEVARD",
     "Community Board": 406,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -10890,6 +10970,16 @@
     "Approved Job Number(s)": ""
   },
   {
+    "BIN": 4082408,
+    "Latitude": 40.70007,
+    "Longitude": -73.90857,
+    "Borough": "Queens",
+    "Address": "55-03 MYRTLE AVENUE",
+    "Community Board": 405,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 421513428
+  },
+  {
     "BIN": 4083254,
     "Latitude": 40.70599,
     "Longitude": -73.90527,
@@ -10903,7 +10993,7 @@
     "BIN": 4092399,
     "Latitude": 40.70735,
     "Longitude": -73.8732,
-    "Borough": "QUEENS",
+    "Borough": "Queens",
     "Address": "78-16 COOPER AVENUE",
     "Community Board": 405,
     "Category": "Emergency Work",
@@ -11023,8 +11113,8 @@
     "BIN": 4187476,
     "Latitude": 40.6868,
     "Longitude": -73.85126,
-    "Borough": "QUEENS",
-    "Address": "9110 ATLANTIC AVENUE",
+    "Borough": "Queens",
+    "Address": "91-02 ATLANTIC AVE",
     "Community Board": 409,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -11032,8 +11122,8 @@
   {
     "BIN": 4202778,
     "Latitude": 40.67944,
-    "Longitude": -73.83891,
-    "Borough": "Queens",
+    "Longitude": -73.8389,
+    "Borough": "QUEENS",
     "Address": "100-02 ROCKAWAY BOULEVARD",
     "Community Board": 410,
     "Category": "Hospital / Health Care",
@@ -11114,7 +11204,7 @@
     "Latitude": 40.70599,
     "Longitude": -73.79658,
     "Borough": "Queens",
-    "Address": "89-48 164TH STREET",
+    "Address": "89-46 164TH STREET",
     "Community Board": 412,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -11175,6 +11265,16 @@
     "Longitude": -73.79349,
     "Borough": "QUEENS",
     "Address": "165-15 ARCHER AVENUE",
+    "Community Board": 412,
+    "Category": "Hospital / Health Care",
+    "Approved Job Number(s)": ""
+  },
+  {
+    "BIN": 4220566,
+    "Latitude": 40.70892,
+    "Longitude": -73.77458,
+    "Borough": "QUEENS",
+    "Address": "184-10 JAMAICA AVENUE",
     "Community Board": 412,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -11384,7 +11484,7 @@
     "Latitude": 40.7136,
     "Longitude": -73.83126,
     "Borough": "Queens",
-    "Address": "80-02 KEW GARDENS ROAD",
+    "Address": "8002 KEW GARDENS ROAD",
     "Community Board": 409,
     "Category": "Emergency Work",
     "Approved Job Number(s)": "421755050; Q00300755"
@@ -11474,7 +11574,7 @@
     "Latitude": 40.70545,
     "Longitude": -73.80476,
     "Borough": "Queens",
-    "Address": "150-13 89 AVENUE",
+    "Address": "152-11 89TH AVENUE",
     "Community Board": 412,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -11484,7 +11584,7 @@
     "Latitude": 40.74718,
     "Longitude": -73.82516,
     "Borough": "Queens",
-    "Address": "56-45 MAIN STREET",
+    "Address": "5645 MAIN STREET",
     "Community Board": 407,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -11534,7 +11634,7 @@
     "Latitude": 40.71753,
     "Longitude": -73.80759,
     "Borough": "Queens",
-    "Address": "82-41 PARSONS BLVD",
+    "Address": "82-41 PARSONS BOULEVARD",
     "Community Board": 408,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 420664310
@@ -11734,7 +11834,7 @@
     "Latitude": 40.74434,
     "Longitude": -73.92539,
     "Borough": "Queens",
-    "Address": "43-46 39TH PLACE",
+    "Address": "43-46 39 PLACE",
     "Community Board": 402,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -11850,6 +11950,16 @@
     "Approved Job Number(s)": 420662303
   },
   {
+    "BIN": 4617390,
+    "Latitude": 40.74414,
+    "Longitude": -73.91174,
+    "Borough": "QUEENS",
+    "Address": "52-22 ROOSEVELT AVENUE",
+    "Community Board": 402,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": 420659077
+  },
+  {
     "BIN": 4617504,
     "Latitude": 40.59322,
     "Longitude": -73.77698,
@@ -11874,7 +11984,7 @@
     "Latitude": 40.77649,
     "Longitude": -73.93518,
     "Borough": "Queens",
-    "Address": "10 HALLETTS POINT",
+    "Address": "26-01 1ST STREET",
     "Community Board": 401,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -11893,8 +12003,8 @@
     "BIN": 4617912,
     "Latitude": 40.60277,
     "Longitude": -73.75291,
-    "Borough": "QUEENS",
-    "Address": "10-18 BEACH 20 STREET",
+    "Borough": "Queens",
+    "Address": "1018 BEACH 20TH STREET",
     "Community Board": 414,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 420666210
@@ -11914,7 +12024,7 @@
     "Latitude": 40.74192,
     "Longitude": -73.95956,
     "Borough": "Queens",
-    "Address": "52-03 CENTER BOULEVARD",
+    "Address": "52-03 CENTER BLVD",
     "Community Board": 402,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -11954,7 +12064,7 @@
     "Latitude": 40.70384,
     "Longitude": -73.80605,
     "Borough": "Queens",
-    "Address": "148-29 90TH AVENUE",
+    "Address": "148-33 90 AVENUE",
     "Community Board": 412,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
@@ -12034,7 +12144,7 @@
     "Latitude": 40.60154,
     "Longitude": -73.74863,
     "Borough": "Queens",
-    "Address": "14-03 GATEWAY BOULEVARD",
+    "Address": "1403 GATEWAY BLVD",
     "Community Board": 414,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 420664739
@@ -12085,7 +12195,7 @@
     "Longitude": -73.84894,
     "Borough": "Queens",
     "Address": "108-75 62 DRIVE",
-    "Community Board": 406,
+    "Community Board": 4,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": ""
   },
@@ -12183,8 +12293,8 @@
     "BIN": 4623158,
     "Latitude": 40.76989,
     "Longitude": -73.93424,
-    "Borough": "QUEENS",
-    "Address": "11-12 30 DRIVE",
+    "Borough": "Queens",
+    "Address": "11-02 30 DRIVE",
     "Community Board": 401,
     "Category": "Affordable Housing",
     "Approved Job Number(s)": 420664481
@@ -12314,7 +12424,7 @@
     "Latitude": 40.64541,
     "Longitude": -74.08222,
     "Borough": "Staten Island",
-    "Address": "105 HAMILTON AVENUE",
+    "Address": "105 HAMILTON AVE",
     "Community Board": 501,
     "Category": "Hospital / Health Care",
     "Approved Job Number(s)": ""
@@ -12383,11 +12493,21 @@
     "BIN": 5122638,
     "Latitude": 40.61106,
     "Longitude": -74.06024,
-    "Borough": "Staten Island",
+    "Borough": "STATEN ISLAND",
     "Address": "20 CLIFF STREET",
     "Community Board": 501,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 520361581
+  },
+  {
+    "BIN": 5126926,
+    "Latitude": 40.60601,
+    "Longitude": -74.16132,
+    "Borough": "STATEN ISLAND",
+    "Address": "1745 RICHMOND AVENUE",
+    "Community Board": 502,
+    "Category": "Emergency Work",
+    "Approved Job Number(s)": "S00246965"
   },
   {
     "BIN": 5129201,
@@ -12413,7 +12533,7 @@
     "BIN": 5157667,
     "Latitude": 40.63576,
     "Longitude": -74.13447,
-    "Borough": "Staten Island",
+    "Borough": "STATEN ISLAND",
     "Address": "221 PORT RICHMOND AVENUE",
     "Community Board": 501,
     "Category": "Affordable Housing",
@@ -12464,7 +12584,7 @@
     "Latitude": 40.56646,
     "Longitude": -74.11076,
     "Borough": "Staten Island",
-    "Address": "2636 HYLAN BOULEVARD",
+    "Address": "2636 HYLAN BLVD",
     "Community Board": 502,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 520305937
@@ -12474,7 +12594,7 @@
     "Latitude": 40.56646,
     "Longitude": -74.11076,
     "Borough": "Staten Island",
-    "Address": "2656 HYLAN BOULEVARD",
+    "Address": "2656 HYLAN BLVD",
     "Community Board": 502,
     "Category": "Emergency Work",
     "Approved Job Number(s)": 520305928
