@@ -293,10 +293,6 @@ var width = $("#map").width(),
 		.attr('cx',function(d){return proj.latLngToLayerPoint(d.latLng).x;})
 		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
 		.attr('class', function(d){
-		
-		
-		
-		
 			if ([d.Category] == "Affordable Housing"){
 				return "affordCat";
 			}  else if ([d.Category] == "Homeless Shelter"){ 
@@ -316,35 +312,24 @@ var width = $("#map").width(),
 				if (d["Approved Job Number(s)"]  ) {
 						individualjobs=d["Approved Job Number(s)"].split(";")
 						jobstring="<br>";
-
-							for (t=0;t<individualjobs.length;t++) {
-										jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>"
-							
-								}
-					} else {
-						jobstring="None"
-					}
-					
+						for (t=0;t<individualjobs.length;t++) {
+							jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>"}
+				} else {jobstring="None"}	
 				catstring='';individualcats="";
 				if (d["approvedcategories"]  ) {
 						individualcats=d["Approved Category"].split(";")
 						catstring="<br>";
 							for (t=0;t<individualcats.length;t++) {
-										catstring+="<li class='jobno'> " + individualcats[t] + "</li>"			
-								}
-					} else {
-						catstring= d.Category ;//"None"
-					}
+										catstring+="<li class='jobno'> " + individualcats[t] + "</li>"}
+					} else {catstring= d.Category ;//"None"}
 
 				tooltip.html(
 					'BIN: ' + [d.BIN] + '</br>' +								
 					'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +
 					'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +
-					//'CATEGORY: ' + [d.Category] + '</br>' +
-					'APPROVED CATEGORIES: ' + catstring +  '</br>' +
+					( d["approvedcategories"]? 'APPROVED CATEGORIES: ' : 'CATEGORY: ') + catstring +  '</br>' +
 					'APPROVED JOB Number(s): ' + jobstring
 				)
-
 				if (d3.event.pageX > (width - 200)) {
 				   tooltip.style("left", (d3.event.pageX - 350) + "px");
 				} else {
