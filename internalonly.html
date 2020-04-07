@@ -242,18 +242,13 @@ tr.shown td.details-control {
 <script src="https://nycdob.github.io/EssentialActiveConstruction/Leaflet.D3SvgOverlay-master/L.D3SvgOverlay.min.js"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<!--  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.js"></script>  -->
 <script src="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.js"  type="text/javascript" charset="utf8" ></script>
 <script src="build/nv.d3.js"></script>
- 
 <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min.js"></script>
- 
 <script>
 
 $(document).ready(function(){
-
-
 	var today = new Date();
 	var dd = today.getDate();
 	var mm = today.getMonth()+1;
@@ -363,8 +358,7 @@ var width = $("#map").width(),
 
 	});
 
-//	d3.csv("https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.csv",function(data){
-	d3.csv("data/essential_BINs_INTERNALONLY.csv",function(data){
+	d3.csv("https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs-catg.csv",function(data){
 				points = data.map(function(d){
 				d.latLng = [+d.Latitude,+d.Longitude];
 				d.bin = [d.BIN];				
@@ -437,8 +431,7 @@ var width = $("#map").width(),
 	var groupBy=5;
 		var table = $('#riskTable').DataTable({				
 				"ajax": {
-					//"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.json",
-					"url": "data/essential_BINs-INTERNALONLY.json",
+					"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs-catg.json",
 					"dataSrc": ""
 				},
 				order: [[5,"asc"],[2, "asc"],[1, "asc"]],
@@ -536,7 +529,6 @@ var width = $("#map").width(),
 				var lat = table.rows('.selected').data()[i].Latitude;
 				var lon = table.rows('.selected').data()[i].Longitude;
 				latlong = [lat,lon];
-				//console.log(selectedRecord);
 				}
 				highlightPoint(selectedRecord);	
 				zoomToSelected(latlong);
@@ -563,10 +555,7 @@ var width = $("#map").width(),
 		catHealthCheckbox = document.querySelector('input[id="catHealthCB"]');
 		catUtilityCheckbox = document.querySelector('input[id="catUtilityCB"]');
 		catApprovedCheckbox = document.querySelector('input[id="catApprovedCB"]');
-
-	//<circle cx="554.7237333333178" cy="320.3609360269911" class="affordCat" r="4"></circle>
-	
-	
+		//<circle cx="554.7237333333178" cy="320.3609360269911" class="affordCat" r="4"></circle>
 	
 	catAffordCheckbox.onchange = function(){
 			
