@@ -6,8 +6,10 @@
   <link rel="icon" type="image/png" href="https://github.com/NYCDOB/EssentialActiveConstruction/blob/gh-pages/images/logo.png">
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
   <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css' rel='stylesheet' type='text/css'/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.css">
+
   
 <style>
 
@@ -315,20 +317,21 @@ var width = $("#map").width(),
 						for (t=0;t<individualjobs.length;t++) {
 							jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>"}
 				} else {jobstring="None"}	
+
 				catstring='';individualcats="";
 				if (d["approvedcategories"]  ) {
 						individualcats=d["Approved Category"].split(";")
 						catstring="<br>";
 							for (t=0;t<individualcats.length;t++) {
 										catstring+="<li class='jobno'> " + individualcats[t] + "</li>"}
-					} else {catstring= d.Category ;//"None"
-					       }
-
+					} else {catstring= ''; //d.Category ;//"None"
+					}
 				tooltip.html(
 					'BIN: ' + [d.BIN] + '</br>' +								
 					'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +
 					'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +
-					( d["approvedcategories"]? 'APPROVED CATEGORIES: ' : 'CATEGORY: ') + catstring +  '</br>' +
+					'MAIN CATEGORY: ' + d["Category"] + '</br>' +
+					( d["approvedcategories"]? 'Add\'l Categories: ' : '') + catstring +  //  	'</br>' +
 					'APPROVED JOB Number(s): ' + jobstring
 				)
 				if (d3.event.pageX > (width - 200)) {
@@ -429,7 +432,8 @@ var width = $("#map").width(),
 	var groupBy=5;
 		var table = $('#riskTable').DataTable({				
 				"ajax": {
-					"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.json",
+					//"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs.json",
+					"url": "data/essential_BINs-INTERNALONLY.json",
 					"dataSrc": ""
 				},
 				order: [[5,"asc"],[2, "asc"],[1, "asc"]],
@@ -466,7 +470,8 @@ var width = $("#map").width(),
 					titleAttr: 'Download to CSV',
 					filename: "EssentialConstruction",
 					className: "filterTableButton",
-					text: 'Export',
+					//text: 'Export',
+					text: '<i class="fa fa-download"></i>',
 					exportOptions: {
 						modifier: {search: 'none'},
 						columns: 'th:not(:first-child)'}}
