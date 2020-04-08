@@ -18,8 +18,8 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1001497,40.71558,-74.00985,Manhattan,146 CHAMBERS STREET,101,Approved Work,123809218,Emergency Construction
 1001499,40.7155,-74.00958,Manhattan,90 WEST BROADWAY,101,Approved Work,123688045,Essential Facility
 1001622,40.71708,-74.00699,Manhattan,40 WORTH STREET,101,Hospital / Health Care,,
-1001835,40.71637,-74.00339,Manhattan,108 LEONARD STREET,101,Approved Work,121185831; 140694078,Emergency Construction
-1001841,40.71719,-74.00334,Manhattan,360 BROADWAY,101,Approved Work,123599392,Emergency Construction
+1001835,40.71637,-74.00339,Manhattan,346 BROADWAY,101,Approved Work,121185831; 140694078,Emergency Construction
+1001841,40.71719,-74.00334,MANHATTAN,65 FRANKLIN STREET,101,Approved Work,123599392,Emergency Construction
 1001870,40.71717,-74.0021,Manhattan,80 LAFAYETTE STREET,101,Approved Work,123672178,Emergency Construction
 1002734,40.72108,-74.00615,Manhattan,50 VARICK STREET,101,Approved Work,M00245183,Essential Facility
 1002831,40.72274,-74.01122,Manhattan,67 VESTRY STREET,101,Approved Work,123376097; M00313669; M00313703,
@@ -27,10 +27,10 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1003025,40.71992,-74.00107,Manhattan,434 BROADWAY,102,Approved Work,123871792,Essential Facility
 1003074,40.7192,-73.99757,Manhattan,185 GRAND STREET,102,Approved Work,121203893,
 1003139,40.71101,-73.98291,Manhattan,7 GOUVERNEUR SLIP EAST,103,Hospital / Health Care,,
-1003223,40.71336,-73.98606,Manhattan,220 HENRY STREET,103,Hospital / Health Care,,
+1003223,40.71336,-73.98606,Manhattan,220 HENRY ST,103,Hospital / Health Care,,
 1004110,40.71934,-73.98467,Manhattan,66 CLINTON STREET,103,Approved Work,123734931,Essential Facility
 1004351,40.72675,-73.97281,Manhattan,800 EAST 14 STREET,103,Utility,,
-1004699,40.72422,-73.98045,Manhattan,619 EAST 6TH STREET,103,Approved Work,122498243,Emergency Construction; Single Worker Limit
+1004699,40.72422,-73.98045,Manhattan,619 EAST 6 STREET,103,Approved Work,122498243,Emergency Construction; Single Worker Limit
 1005201,40.72938,-73.98075,MANHATTAN,204 AVENUE A,103,Affordable Housing,,
 1005227,40.72861,-73.97962,MANHATTAN,535 EAST 12 STREET,103,Approved Work,123717059,Essential Facility; Affordable Housing
 1005483,40.72054,-73.99052,Manhattan,184 ELDRIDGE STREET,103,Utility,,
@@ -42,17 +42,17 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1007085,40.72207,-74.00264,Manhattan,74 GRAND STREET,102,Approved Work,121784701,Emergency Construction
 1007248,40.72304,-73.99917,Manhattan,525 BROADWAY,102,Approved Work,123803045,Emergency Construction
 1007945,40.72494,-73.9966,Manhattan,598 BROADWAY,102,Approved Work,123683709,Emergency Construction; Essential Facility
-1008646,40.72832,-73.99896,Manhattan,520 LA GUARDIA PLACE,102,Approved Work,140864722,Emergency Construction
-1008815,40.7293,-73.99554,Manhattan,31 WEST 4TH STREET,102,Approved Work,140874864,Emergency Construction
-1008962,40.73058,-73.9896,Manhattan,115 EAST 9TH STREET,103,Approved Work,122555225,Emergency Construction
+1008646,40.72832,-73.99896,Manhattan,520 LAGUARDIA PLACE,102,Approved Work,140864722,Emergency Construction
+1008815,40.7293,-73.99554,Manhattan,238 GREENE STREET,102,Approved Work,140874864,Emergency Construction
+1008962,40.73058,-73.9896,Manhattan,115 EAST 9 STREET,103,Approved Work,122555225,Emergency Construction
 1009098,40.73195,-73.99254,Manhattan,40 EAST 10 STREET,102,Approved Work,140879360,Emergency Construction
-1009100,40.73177,-73.99279,Manhattan,55 EAST 9TH STREET,102,Approved Work,123495182,Emergency Construction
+1009100,40.73177,-73.99279,Manhattan,55 EAST 9 STREET,102,Approved Work,123495182,Emergency Construction
 1009222,40.73235,-73.99567,Manhattan,11 5TH AVE,102,Approved Work,M00279013,Emergency Construction; Essential Facility
 1009501,40.7341,-73.99834,Manhattan,61 WEST 9TH STREET,102,Hospital / Health Care,,
 1009706,40.73684,-73.9968,Manhattan,65 WEST 13 STREET,102,Hospital / Health Care,,
-1010360,40.72651,-74.00858,Manhattan,100 VANDAM STREET,102,Approved Work,121190237,Emergency Construction
+1010360,40.72651,-74.00858,Manhattan,100 VANDAM ST,102,Approved Work,121190237,Emergency Construction
 1010374,40.72713,-74.00769,MANHATTAN,333 HUDSON STREET,102,Approved Work,123886688,Emergency Construction; Essential Facility
-1010641,40.73745,-73.99781,MANHATTAN,114 WEST 14 STREET,102,Approved Work,122620869,Essential Facility
+1010641,40.73745,-73.99781,Manhattan,112 WEST 14 STREET,102,Approved Work,122620869,Essential Facility
 1010852,40.73488,-74.00043,Manhattan,33 GREENWICH AVE,102,Approved Work,M00322161,Essential Facility
 1011094,40.73772,-74.00087,Manhattan,20 7 AVE,102,Hospital / Health Care,,
 1011120,40.73858,-74.00127,Manhattan,225 WEST 13 STREET,102,Approved Work,123490338,Emergency Construction
@@ -60,24 +60,24 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1012275,40.7534,-74.00476,Manhattan,606 WEST 30 STREET,104,Approved Work,121204874,Essential Facility; Affordable Housing
 1012290,40.74611,-74.00681,Manhattan,520 WEST 20TH STREET,104,Approved Work,121191637,Emergency Construction
 1012575,40.74481,-74.00441,Manhattan,435 WEST 19 STREET,104,Approved Work,122609132; 122979401,Emergency Construction
-1012843,40.75405,-73.99898,Manhattan,460 WEST 34TH STREET,104,Approved Work,123721856; 123784397; 123845679; 123848907; M00243404,Emergency Construction
+1012843,40.75405,-73.99898,Manhattan,471 WEST 33RD STREET,104,Approved Work,123721856; 123784397; 123845679; 123848907; M00243404,Emergency Construction
 1013043,40.74136,-74.0032,Manhattan,111 EIGHTH AVENUE,104,Hospital / Health Care,,
 1013088,40.74304,-74.00313,Manhattan,356 WEST 18 STREET,104,Approved Work,123266241,Emergency Construction; Essential Facility
 1013487,40.74926,-73.99592,Manhattan,383 8 AVENUE,104,Approved Work,M00032555,
 1013622,40.7545,-73.99218,Manhattan,545 8 AVENUE,104,Approved Work,123817389,Emergency Construction
 1013627,40.75526,-73.9935,Manhattan,330 WEST 38TH STREET,104,Approved Work,140759105,Emergency Construction
-1013644,40.75503,-73.99181,Manhattan,575 8TH AVENUE,104,Hospital / Health Care,,
+1013644,40.75503,-73.99181,Manhattan,575 8 AVE,104,Hospital / Health Care,,
 1013848,40.74152,-73.99989,Manhattan,249 WEST 17TH STREET,104,Approved Work,123147843,Emergency Construction
 1014130,40.74431,-73.99689,Manhattan,222 WEST 23RD STREET,104,Approved Work,120853754,Emergency Construction
 1014260,40.7477,-73.9939,Manhattan,211 WEST 28 STREET,105,Affordable Housing,,
 1014264,40.74776,-73.99338,Manhattan,330 SEVENTH AVENUE,105,Hospital / Health Care,,
 1014337,40.74954,-73.99442,Manhattan,257 WEST 30TH STREET,105,Homeless Shelter,,
 1014408,40.75146,-73.99075,MANHATTAN,450 7 AVENUE,105,Hospital / Health Care,,
-1014467,40.75415,-73.99085,Manhattan,256 WEST 38 STREET,105,Approved Work,123366561,Emergency Construction
-1014526,40.73769,-73.99696,Manhattan,531 SIXTH AVENUE,104,Approved Work,123174803,Essential Facility
-1014547,40.73896,-73.9979,MANHATTAN,145 WEST 15 STREET,104,Approved Work,123749435,Emergency Construction
+1014467,40.75415,-73.99085,Manhattan,256 WEST 38TH STREET,105,Approved Work,123366561,Emergency Construction
+1014526,40.73769,-73.99696,Manhattan,531 6 AVENUE,104,Approved Work,123174803,Essential Facility
+1014547,40.73896,-73.9979,Manhattan,145 WEST 15TH STREET,104,Approved Work,123749435,Emergency Construction
 1014648,40.74053,-73.99784,Manhattan,119 7TH AVENUE,104,Approved Work,122336846,Emergency Construction
-1015000,40.74554,-73.99416,Manhattan,275 7TH AVENUE,104,Hospital / Health Care,,
+1015000,40.74554,-73.99416,Manhattan,275 SEVENTH AVENUE,104,Hospital / Health Care,,
 1015038,40.7454,-73.99225,Manhattan,125 WEST 26 STREET,105,Approved Work,123710635,Emergency Construction
 1015141,40.74755,-73.9916,MANHATTAN,143 WEST 29 STREET,105,Approved Work,123847935,Essential Facility
 1015244,40.75179,-73.98716,Manhattan,1370 BROADWAY,105,Approved Work,123816638,Emergency Construction
@@ -90,11 +90,11 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1015629,40.74416,-73.99049,Manhattan,30 WEST 26 STREET,105,Approved Work,140826756,Essential Facility
 1015785,40.74619,-73.98667,Manhattan,284 5TH AVENUE,105,Approved Work,140841258,Emergency Construction
 1015862,40.74845,-73.98571,Manhattan,350 5TH AVENUE,105,Approved Work,123897355; M00320854,Emergency Construction; Essential Facility
-1015919,40.75126,-73.98628,Manhattan,990 AVENUE OF AMERICAS,105,Approved Work,140767739,Emergency Construction
+1015919,40.75126,-73.98628,Manhattan,990 6TH AVENUE,105,Approved Work,140767739,Emergency Construction
 1016004,40.7515,-73.98306,Manhattan,424 5 AVENUE,105,Approved Work,121189597,Emergency Construction
 1016113,40.73793,-73.99142,Manhattan,5 EAST 17TH STREET,105,Hospital / Health Care,,
 1016277,40.74025,-73.98913,Manhattan,936 BROADWAY,105,Hospital / Health Care,,
-1016287,40.74015,-73.98697,Manhattan,304 PARK AVENUE SOUTH,105,Approved Work,123793724; 123843546,Emergency Construction
+1016287,40.74015,-73.98697,Manhattan,304 PARK AVE SOUTH,105,Approved Work,123793724; 123843546,Emergency Construction
 1016881,40.74322,-73.98663,Manhattan,60 MADISON AVENUE,105,Hospital / Health Care,,
 1017077,40.74767,-73.98384,Manhattan,16 EAST 34TH STREET,105,Approved Work,123707186,Emergency Construction; Essential Facility
 1017227,40.75098,-73.98181,Manhattan,6 EAST 39 STREET,105,Approved Work,121577515,Emergency Construction
@@ -108,7 +108,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1019551,40.73537,-73.98527,Manhattan,201 EAST 17TH STREET,106,Hospital / Health Care,,
 1019552,40.73516,-73.98514,Manhattan,205 EAST 17 STREET,106,Approved Work,123070522,Emergency Construction; Essential Facility
 1019792,40.73901,-73.98042,Manhattan,429 SECOND AVE,106,Hospital / Health Care,,
-1019864,40.7409,-73.98094,Manhattan,200 EAST 27TH STREET,106,Approved Work,123739142,Emergency Construction
+1019864,40.7409,-73.98094,MANHATTAN,200 EAST 27 STREET,106,Approved Work,123739142,Emergency Construction
 1019951,40.74295,-73.97848,Manhattan,227 EAST 30 STREET,106,Approved Work,123757461,Essential Facility
 1020137,40.74541,-73.97799,Manhattan,200 EAST 34 STREET,106,Approved Work,121205221,Emergency Construction
 1020338,40.74729,-73.97495,Manhattan,240 EAST 38TH STREET,106,Hospital / Health Care,,
@@ -117,52 +117,52 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1020567,40.73685,-73.98105,Manhattan,380 2 AVENUE,106,Hospital / Health Care,,
 1020579,40.73696,-73.97945,Manhattan,336 EAST 23RD STREET,106,Approved Work,123808843,Emergency Construction
 1021900,40.74464,-73.97482,Manhattan,317 EAST   34 STREET,106,Hospital / Health Care,,
-1022051,40.748,-73.97284,Manhattan,300 EAST 40TH STREET,106,Approved Work,M00277227,Essential Facility
-1022057,40.74384,-73.97253,Manhattan,401 EAST 34TH STREET,106,Hospital / Health Care,,
+1022051,40.748,-73.97284,MANHATTAN,300 EAST 40 STREET,106,Approved Work,M00277227,Essential Facility
+1022057,40.74384,-73.97253,Manhattan,401 EAST 34TH ST,106,Hospital / Health Care,,
 1022553,40.72806,-73.97366,Manhattan,801 EAST 14 STREET,106,Utility,,
 1022613,40.75629,-73.98488,Manhattan,127 WEST 43RD STREET,105,Affordable Housing,,
-1023449,40.76501,-73.97992,Manhattan,881 7TH AVENUE,105,Approved Work,140893638,Emergency Construction
-1023728,40.76495,-73.97757,Manhattan,111 WEST 57 STREET,105,Approved Work,121332968,Essential Facility
+1023449,40.76501,-73.97992,MANHATTAN,881 7 AVENUE,105,Approved Work,140893638,Emergency Construction
+1023728,40.76495,-73.97757,Manhattan,116 WEST 58 STREET,105,Approved Work,121332968,Essential Facility
 1024909,40.76674,-73.98142,Manhattan,5 COLUMBUS CIRCLE,105,Approved Work,123703705,Essential Facility
 1024932,40.75777,-73.99255,Manhattan,355 WEST 41 STREET,104,Approved Work,123669994,Emergency Construction
 1025450,40.76683,-73.98424,Manhattan,322 WEST 57TH STREET,104,Approved Work,123443167; M00198130,Emergency Construction; Single Worker Limit
-1026784,40.767,-73.98891,Manhattan,439 WEST 54TH STREET,104,Approved Work,121189007,Emergency Construction
-1027095,40.76231,-73.99879,Manhattan,643 WEST 43 STREET,104,Approved Work,140872349,Emergency Construction
+1026784,40.767,-73.98891,Manhattan,443 WEST 54TH STREET,104,Approved Work,121189007,Emergency Construction
+1027095,40.76231,-73.99879,Manhattan,643 WEST 43RD STREET,104,Approved Work,140872349,Emergency Construction
 1027178,40.7719,-73.9921,MANHATTAN,850 12 AVENUE,104,Utility,,
 1027365,40.77073,-73.98313,Manhattan,44 WEST 62 STREET,107,Approved Work,123526167,Emergency Construction
-1027472,40.77151,-73.98141,Manhattan,20 W 64 STREET,107,Approved Work,M00319793,Emergency Construction; Essential Facility
+1027472,40.77151,-73.98141,Manhattan,1900 BROADWAY,107,Approved Work,M00319793,Emergency Construction; Essential Facility
 1029776,40.77716,-73.98088,Manhattan,140 WEST   71 STREET,107,Approved Work,123320209,Emergency Construction
 1030342,40.77543,-73.98689,Manhattan,128 WEST END AVENUE,107,Utility,,
 1030358,40.77697,-73.98322,Manhattan,200 AMSTERDAM AVENUE,107,Approved Work,122887224,Emergency Construction
 1030403,40.7792,-73.98451,MANHATTAN,246 WEST END AVENUE,107,Approved Work,123740167,Emergency Construction
 1030422,40.77875,-73.98271,Manhattan,214 WEST 72ND STREET,107,Affordable Housing,,
 1030544,40.78014,-73.98222,Manhattan,2109 BROADWAY,107,Approved Work,140824650; 123581481,Emergency Construction; Essential Facility
-1031028,40.78236,-73.98302,Manhattan,333 WEST END AVENUE,107,Approved Work,123809254,Emergency Construction
-1032037,40.78449,-73.97605,Manhattan,150 WEST 82 STREET,107,Approved Work,123886063,Essential Facility
+1031028,40.78236,-73.98302,Manhattan,333 WEST END AVE,107,Approved Work,123809254,Emergency Construction
+1032037,40.78449,-73.97605,Manhattan,150 WEST 82ND STREET,107,Approved Work,123886063,Essential Facility
 1032320,40.7883,-73.97136,Manhattan,100 WEST 89TH STREET,107,Approved Work,M00315883,Emergency Construction
 1032517,40.79088,-73.97136,Manhattan,146 WEST 92 STREET,107,Approved Work,123361913,Single Worker Limit
 1032632,40.78351,-73.97846,Manhattan,201 WEST 79TH STREET,107,Approved Work,123548562,Emergency Construction
 1032763,40.78567,-73.97684,Manhattan,202 WEST 83 STREET,107,Approved Work,140861538,Emergency Construction
 1032764,40.78569,-73.97691,Manhattan,204 WEST 83 STREET,107,Approved Work,140861743,Emergency Construction
-1032771,40.78564,-73.97677,MANHATTAN,200 WEST 83 STREET,107,Approved Work,140861529,Emergency Construction
+1032771,40.78564,-73.97677,Manhattan,200 WEST 83RD STREET,107,Approved Work,140861529,Emergency Construction
 1032772,40.78572,-73.97697,Manhattan,206 WEST 83 STREET,107,Approved Work,140861912,Emergency Construction
 1033104,40.78742,-73.97787,Manhattan,255 WEST 84TH STREET,107,Approved Work,123275632,Essential Facility; Single Worker Limit
 1033313,40.79059,-73.97536,Manhattan,251 WEST 89 STREET,107,Approved Work,123195210,Emergency Construction
 1033583,40.7918,-73.97438,Manhattan,2461 BROADWAY,107,Approved Work,121275707,Emergency Construction; Single Worker Limit
-1033597,40.7916,-73.97309,Manhattan,206 WEST 92 STREET,107,Approved Work,123499357,Emergency Construction
+1033597,40.7916,-73.97309,Manhattan,206 WEST 92ND STREET,107,Approved Work,123499357,Emergency Construction
 1033645,40.79311,-73.97343,Manhattan,2505 BROADWAY,107,Approved Work,123558051,Emergency Construction
 1033801,40.78662,-73.97991,Manhattan,465 WEST END AVE,107,Approved Work,M00292154,Emergency Construction
 1035054,40.76306,-73.97492,MANHATTAN,6 WEST 57 STREET,105,Approved Work,140808142,Emergency Construction; Essential Facility
-1035353,40.75386,-73.98016,Manhattan,511 5TH AVENUE,105,Approved Work,123710216,Emergency Construction
+1035353,40.75386,-73.98016,Manhattan,511 5TH  AVE,105,Approved Work,123710216,Emergency Construction
 1035366,40.75484,-73.97942,Manhattan,535 5TH AVENUE,105,Approved Work,123785074,Essential Facility
 1035404,40.75547,-73.97672,Manhattan,383 MADISON AVENUE,105,Approved Work,140852058,Emergency Construction
 1035421,40.75598,-73.97599,Manhattan,270 PARK AVENUE,105,Approved Work,121189285; 121204810,Essential Facility
 1035471,40.75852,-73.97463,Manhattan,477 MADISON AVENUE,105,Approved Work,M00270595,Emergency Construction
-1036151,40.7516,-73.97752,Manhattan,125 PARK AVE,105,Approved Work,123732425,Emergency Construction
+1036151,40.7516,-73.97752,Manhattan,125 PARK AVENUE,105,Approved Work,123732425,Emergency Construction
 1036152,40.75122,-73.97668,Manhattan,122 EAST 42ND STREET,105,Approved Work,123842208; M00292569; M00292580; M00292590,Emergency Construction; Essential Facility
-1036446,40.75563,-73.97135,Manhattan,800 THIRD AVENUE,106,Approved Work,123876911,Essential Facility
+1036446,40.75563,-73.97135,Manhattan,800 THIRD AVE,106,Approved Work,123876911,Essential Facility
 1036876,40.76034,-73.96923,Manhattan,139 EAST 56TH STREET,106,Approved Work,123028810; 140774473; 140812636,Essential Facility
-1036926,40.76171,-73.96976,Manhattan,115 EAST 57TH ST,105,Approved Work,123844073; M00305927; M00305933; M00305938,Essential Facility
+1036926,40.76171,-73.96976,Manhattan,117 EAST 57TH STREET,105,Approved Work,123844073; M00305927; M00305933; M00305938,Essential Facility
 1038564,40.75756,-73.9677,Manhattan,232 EAST 54 STREET,106,Affordable Housing,,
 1038576,40.7581,-73.96705,Manhattan,240 EAST 55TH STREET,106,Approved Work,123827519,Emergency Construction
 1038579,40.75863,-73.96667,Manhattan,228 EAST 56TH STREET,106,Approved Work,123185187; 123185203,Essential Facility
@@ -175,33 +175,33 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1040356,40.75615,-73.96301,Manhattan,415 EAST 54 STREET,106,Hospital / Health Care,,
 1040472,40.75757,-73.96194,Manhattan,430 EAST 57 STREET,106,Approved Work,M00231535; M00231550; M00245620,Emergency Construction
 1040750,40.77039,-73.942,Manhattan,900 MAIN STREET,108,Hospital / Health Care,,
-1040753,40.76404,-73.97166,Manhattan,650 MADISON AVE,108,Hospital / Health Care,,
-1040754,40.76366,-73.97102,Manhattan,635 MADISON AVE,108,Hospital / Health Care,,
+1040753,40.76404,-73.97166,Manhattan,650 MADISON AVENUE,108,Hospital / Health Care,,
+1040754,40.76366,-73.97102,Manhattan,635 MADISON AVENUE,108,Hospital / Health Care,,
 1041824,40.77488,-73.96223,Manhattan,61 E 77 STREET,108,Approved Work,123809245,Emergency Construction
 1041848,40.77609,-73.96401,Manhattan,969 FIFTH AVENUE,108,Approved Work,123695493,Emergency Construction
-1042018,40.76353,-73.96604,Manhattan,152 E 62 ST,108,Approved Work,122396308,Emergency Construction; Essential Facility
-1042407,40.76563,-73.96539,MANHATTAN,855 LEXINGTON AVENUE,108,Approved Work,140773875,Emergency Construction
+1042018,40.76353,-73.96604,Manhattan,152 EAST 62 STREET,108,Approved Work,122396308,Emergency Construction; Essential Facility
+1042407,40.76563,-73.96539,Manhattan,855 LEXINGTON AVE,108,Approved Work,140773875,Emergency Construction
 1042460,40.76724,-73.96552,Manhattan,643 PARK AVENUE,108,Hospital / Health Care,,
 1042467,40.76806,-73.96552,Manhattan,655 PARK AVENUE,108,Hospital / Health Care,,
-1043076,40.77221,-73.96177,Manhattan,125 EAST 74 STREET,108,Approved Work,123890398; M00216676,Emergency Construction
-1043163,40.77294,-73.96076,Manhattan,132 EAST 76TH STREET,108,Approved Work,123458739,Emergency Construction
+1043076,40.77221,-73.96177,Manhattan,125 EAST 74TH STREET,108,Approved Work,123890398; M00216676,Emergency Construction
+1043163,40.77294,-73.96076,Manhattan,136 EAST 76 STREET,108,Approved Work,123458739,Emergency Construction
 1043866,40.76434,-73.96408,Manhattan,200 EAST 64 STREET,108,Approved Work,M00214524,Emergency Construction; Essential Facility
-1043868,40.76441,-73.96309,MANHATTAN,215 EAST 64 STREET,108,Approved Work,M00298392; M00298859,Emergency Construction
-1043870,40.76418,-73.96214,MANHATTAN,250 EAST 65 STREET,108,Hospital / Health Care,,
+1043868,40.76441,-73.96308,Manhattan,215 EAST 64 STREET,108,Approved Work,M00298392; M00298859,Emergency Construction
+1043870,40.76418,-73.96214,Manhattan,250 EAST 65TH STREET,108,Hospital / Health Care,,
 1044182,40.77377,-73.95683,Manhattan,208 EAST 79TH STREET,108,Utility,,
 1044361,40.76237,-73.96212,Manhattan,315 EAST 62ND STREET,108,Hospital / Health Care,,
 1044750,40.76495,-73.96009,Manhattan,310 EAST 67 STREET,108,Hospital / Health Care,,
-1044820,40.76639,-73.95806,Manhattan,333 EAST 69 STREET,108,Approved Work,140857712,Emergency Construction; Essential Facility
+1044820,40.76639,-73.95806,Manhattan,333 EAST 69TH STREET,108,Approved Work,140857712,Emergency Construction; Essential Facility
 1044904,40.76896,-73.95604,MANHATTAN,345 EAST 73 STREET,108,Approved Work,123720072,Emergency Construction
-1045818,40.76606,-73.95493,Manhattan,435 EAST 70TH STREET,108,Approved Work,140882267,Essential Facility
+1045818,40.76606,-73.95493,Manhattan,435 EAST 70 STREET,108,Approved Work,140882267,Essential Facility
 1046025,40.77126,-73.95164,Manhattan,425 EAST 78 STREET,108,Approved Work,123819056,Emergency Construction
 1046255,40.76568,-73.95415,Manhattan,1320 YORK AVENUE,108,Hospital / Health Care,,
 1046256,40.76511,-73.95273,Manhattan,535 EAST 70TH STREET,108,Hospital / Health Care,,
-1046261,40.76686,-73.95265,Manhattan,510 EAST 73RD STREET,108,Hospital / Health Care,,
+1046261,40.76686,-73.95265,Manhattan,515 EAST 72ND STREET,108,Hospital / Health Care,,
 1046294,40.76833,-73.95226,Manhattan,1402 YORK AVENUE,108,Affordable Housing,122760654; 140618918; M00275114,Essential Facility; Affordable Housing
 1046469,40.77655,-73.96164,Manhattan,1045 MADISON AVENUE,108,Approved Work,121188366,Emergency Construction
 1046842,40.78103,-73.95997,Manhattan,1049 FIFTH AVENUE,108,Hospital / Health Care,,
-1046956,40.78203,-73.95649,MANHATTAN,1084 PARK AVENUE,108,Approved Work,123794411; M00305051; M00305083,Emergency Construction; Essential Facility
+1046956,40.78203,-73.95649,Manhattan,1088 PARK AVENUE,108,Approved Work,123794411; M00305051; M00305083,Emergency Construction; Essential Facility
 1047074,40.78437,-73.95473,Manhattan,1160 PARK AVENUE,108,Approved Work,123354645,Emergency Construction
 1047461,40.77565,-73.95982,Manhattan,109 EAST 79TH STREET,108,Approved Work,121205187,Emergency Construction
 1047502,40.77636,-73.95951,Manhattan,925 PARK AVENUE,108,Approved Work,123895525,Emergency Construction
@@ -209,13 +209,13 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1047938,40.77867,-73.95473,Manhattan,185 EAST 85TH STREET,108,Approved Work,123352905,Emergency Construction
 1048310,40.78287,-73.95264,Manhattan,1395 LEXINGTON AVENUE,108,Approved Work,123748436,Emergency Construction
 1048384,40.78468,-73.95312,Manhattan,1185 PARK AVENUE,108,Approved Work,123744635,Emergency Construction
-1048509,40.77452,-73.95669,Manhattan,201 EAST 79 STREET,108,Approved Work,123805347,Emergency Construction
-1048679,40.77666,-73.9552,Manhattan,200 EAST 83 STREET,108,Approved Work,121205356,Emergency Construction
-1049881,40.77493,-73.95217,Manhattan,333 E82 ST,108,Approved Work,123545262,Essential Facility
+1048509,40.77452,-73.95669,MANHATTAN,201 EAST 79 STREET,108,Approved Work,123805347,Emergency Construction
+1048679,40.77666,-73.9552,MANHATTAN,200 EAST 83 STREET,108,Approved Work,121205356,Emergency Construction
+1049881,40.77493,-73.95218,MANHATTAN,333 EAST 82 STREET,108,Approved Work,123545262,Essential Facility
 1050195,40.78044,-73.94853,Manhattan,316 EAST 91ST STREET,108,Affordable Housing,,
 1050287,40.78186,-73.94672,Manhattan,333 EAST 93RD STREET,108,Approved Work,123688438,Emergency Construction
 1050342,40.78387,-73.94695,Manhattan,1850 2 AVE,108,Approved Work,140243626,Emergency Construction
-1050547,40.77693,-73.94878,Manhattan,401 EAST 86TH STREET,108,Approved Work,123343319,Emergency Construction
+1050547,40.77693,-73.94878,MANHATTAN,401 EAST 86 STREET,108,Approved Work,123343319,Emergency Construction
 1050614,40.77835,-73.94787,Manhattan,401 EAST 88TH STREET,108,Approved Work,123569012,Single Worker Limit
 1050752,40.7798,-73.94582,MANHATTAN,415 EAST 91 STREET,108,Approved Work,123848444,Essential Facility
 1050759,40.77996,-73.94544,Manhattan,428 EAST 92 STREET,108,Approved Work,122961321,Emergency Construction
@@ -224,13 +224,13 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1051260,40.77599,-73.94647,Manhattan,511 EAST 86TH STREET,108,Affordable Housing,,
 1051458,40.78824,-73.95505,Manhattan,1158 FIFTH AVENUE,111,Approved Work,123802242,Emergency Construction
 1051459,40.78857,-73.95467,Manhattan,1160 5TH AVENUE,111,Hospital / Health Care,,
-1051471,40.78832,-73.95301,MANHATTAN,1413 MADISON AVENUE,111,Approved Work,122938269,Emergency Construction
+1051471,40.78832,-73.95301,Manhattan,1413 MADISON AVENUE,111,Approved Work,122938269,Emergency Construction
 1051490,40.79141,-73.95282,MANHATTAN,1212 5 AVENUE,111,Approved Work,123526078,Emergency Construction
 1051492,40.79158,-73.95206,Manhattan,17 EAST 102ND STREET,111,Hospital / Health Care,,
-1051500,40.7928,-73.95106,Manhattan,21 E. 104TH ST.,111,Approved Work,122698866,Essential Facility; Affordable Housing
+1051500,40.7928,-73.95106,MANHATTAN,21 EAST 104 STREET,111,Approved Work,122698866,Essential Facility; Affordable Housing
 1051619,40.79597,-73.94604,Manhattan,94 EAST 111 STREET,111,Approved Work,122240887,Emergency Construction; Essential Facility; Affordable Housing
 1051737,40.78646,-73.94928,Manhattan,151 EAST 97TH STREET,111,Utility,,
-1051738,40.78631,-73.94892,Manhattan,1760 3 AVENUE,111,Approved Work,123799899,Emergency Construction; Essential Facility
+1051738,40.78631,-73.94892,Manhattan,1760 3RD AVE,111,Approved Work,123799899,Emergency Construction; Essential Facility
 1052223,40.79615,-73.94427,Manhattan,128 EAST 112 STREET,111,Affordable Housing,123019606; 123162843; 140644934; 140674134; 140717632,Essential Facility; Affordable Housing
 1052261,40.79829,-73.94156,Manhattan,152 EAST 116 STREET,111,Affordable Housing,,
 1052673,40.78846,-73.94361,Manhattan,300 EAST 103RD STREET,111,Approved Work,123699300,Essential Facility; Affordable Housing
@@ -247,28 +247,28 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1054505,40.80687,-73.93642,Manhattan,110 EAST 129 STREET,111,Approved Work,M00217422,Essential Facility
 1054536,40.79908,-73.93729,Manhattan,234 EAST 119 ST,111,Approved Work,123207591,Essential Facility; Affordable Housing
 1054629,40.80153,-73.93537,Manhattan,224 EAST 123 STREET,111,Approved Work,123534256,Emergency Construction
-1054682,40.80376,-73.93545,Manhattan,201 EAST 125TH STREET,111,Affordable Housing,121204464; 140866267; 140866276; 140874203; 140874212; 140874221; 140874230,Essential Facility; Affordable Housing
+1054682,40.80376,-73.93545,Manhattan,201 EAST 125 STREET,111,Affordable Housing,121204464; 140866267; 140866276; 140874203; 140874212; 140874221; 140874230,Essential Facility; Affordable Housing
 1055265,40.79281,-73.9659,Manhattan,50 WEST 97 STREET,107,Approved Work,122443748,Emergency Construction
 1055906,40.79592,-73.96784,Manhattan,150 WEST 100TH STREET,107,Hospital / Health Care,,
-1055933,40.799,-73.96381,Manhattan,107 WEST 105TH STREET,107,Affordable Housing,,
+1055933,40.799,-73.96382,MANHATTAN,107 WEST 105 STREET,107,Affordable Housing,,
 1055996,40.80171,-73.96438,Manhattan,981 AMSTERDAM AVENUE,107,Affordable Housing,,
 1056035,40.8057,-73.96148,MANHATTAN,1111 AMSTERDAM AVENUE,109,Hospital / Health Care,,
 1057032,40.80539,-73.9625,Manhattan,1090 AMSTERDAM AVENUE,109,Hospital / Health Care,,
 1057068,40.79635,-73.97314,Manhattan,305 WEST 97TH STREET,107,Affordable Housing,,
 1057188,40.80043,-73.97106,Manhattan,310 RIVERSIDE DR,107,Approved Work,M00259363; M00262480,Emergency Construction
-1057209,40.80106,-73.9706,MANHATTAN,320 RIVERSIDE DRIVE,107,Approved Work,123809263,Emergency Construction
+1057209,40.80106,-73.9706,Manhattan,320 RIVERSIDE DRIVE,107,Approved Work,123809263,Emergency Construction
 1057382,40.80815,-73.96494,MANHATTAN,610 WEST 116 STREET,109,Approved Work,M00255128,Emergency Construction
 1057807,40.80783,-73.94833,Manhattan,160 WEST 124 STREET,110,Approved Work,123240251,Essential Facility
 1058399,40.80516,-73.95365,Manhattan,264 WEST 118 STREET,110,Hospital / Health Care,,
-1058438,40.80573,-73.95384,MANHATTAN,281 WEST 118 STREET,110,Affordable Housing,,
+1058438,40.80573,-73.95384,Manhattan,281 W 118 STREET,110,Affordable Housing,,
 1058657,40.80996,-73.94936,Manhattan,233 WEST 125TH STREET,110,Approved Work,121187447,Essential Facility; Affordable Housing
 1059296,40.81074,-73.95347,Manhattan,362 WEST 125 STREET,109,Approved Work,123035624,Emergency Construction
-1059392,40.81304,-73.9526,Manhattan,410 WEST 128TH STREET,109,Affordable Housing,,
+1059392,40.81304,-73.9526,MANHATTAN,410 WEST 128 STREET,109,Affordable Housing,,
 1059527,40.81344,-73.95597,MANHATTAN,1341 AMSTERDAM AVENUE,109,Approved Work,123137685,Emergency Construction
 1059629,40.81688,-73.95287,Manhattan,102 CONVENT AVENUE,109,Approved Work,122918101,Emergency Construction
 1059836,40.81142,-73.96214,Manhattan,3041 BROADWAY,109,Approved Work,123669618; 123871186; 123890940; 123901206,Essential Facility
 1059940,40.81881,-73.95659,Manhattan,600 WEST 133RD STREET,109,Approved Work,123544316,Emergency Construction
-1060040,40.81699,-73.94041,Manhattan,118 WEST 139TH STREET,110,Affordable Housing,,
+1060040,40.81699,-73.94041,Manhattan,118 W 139 STREET,110,Affordable Housing,,
 1060070,40.81821,-73.93942,Manhattan,148 WEST 141ST STREET,110,Approved Work,123694458; 123847374,Essential Facility; Affordable Housing
 1060088,40.8185,-73.93894,Manhattan,111 WEST 141ST STREET,110,Approved Work,123694467,Essential Facility; Affordable Housing
 1060189,40.82117,-73.93649,Manhattan,100 WEST 146TH STREET,110,Approved Work,123406670; 123406705,Emergency Construction; Essential Facility
@@ -281,8 +281,8 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1062192,40.82952,-73.94487,Manhattan,1850 AMSTERDAM AVENUE,109,Approved Work,123524463,Single Worker Limit
 1062326,40.82476,-73.9538,Manhattan,640 RIVERSIDE DRIVE,109,Approved Work,122912535,
 1062347,40.82512,-73.95195,Manhattan,3489 BROADWAY,109,Approved Work,140887388; M00286156,Essential Facility
-1062436,40.82862,-73.94935,Manhattan,601 WEST 148 STREET,109,Affordable Housing,,
-1062456,40.8306,-73.94801,Manhattan,601 WEST 151 STREET,109,Approved Work,123698908,Emergency Construction
+1062436,40.82862,-73.94935,MANHATTAN,601 WEST 148 STREET,109,Affordable Housing,,
+1062456,40.8306,-73.948,MANHATTAN,601 WEST 151 STREET,109,Approved Work,123698908,Emergency Construction
 1062675,40.84008,-73.93636,MANHATTAN,2185 AMSTERDAM AVENUE,112,Affordable Housing,,
 1062718,40.83252,-73.94275,MANHATTAN,1940 AMSTERDAM AVENUE,112,Approved Work,M00246975,Emergency Construction
 1062835,40.83563,-73.94145,Manhattan,518 WEST 161ST STREET,112,Affordable Housing,,
@@ -294,7 +294,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1063278,40.83545,-73.94814,Manhattan,156-20 RIVERSIDE DRIVE,112,Approved Work,123413109,Emergency Construction
 1063303,40.83514,-73.94492,Manhattan,609 WEST 158TH STREET,112,Affordable Housing,,
 1063314,40.83542,-73.94471,Manhattan,9 FORT WASHINGTON AVE,112,Affordable Housing,,
-1063351,40.83654,-73.94362,Manhattan,600 W 161 STREET,112,Approved Work,123829973,Emergency Construction
+1063351,40.83654,-73.94362,Manhattan,600 WEST 161 STREET,112,Approved Work,123829973,Emergency Construction
 1063357,40.83781,-73.94357,Manhattan,80 FT. WASHINGTON AVENUE,112,Approved Work,M00281454,Essential Facility
 1063365,40.8381,-73.94348,Manhattan,86 FT. WASHINGTON AVENUE,112,Approved Work,140858533,Essential Facility
 1063400,40.8424,-73.9435,Manhattan,722 W 168 ST,112,Hospital / Health Care,,
@@ -305,23 +305,23 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1064779,40.86538,-73.92008,MANHATTAN,221 SHERMAN AVENUE,112,Approved Work,140882338,Emergency Construction
 1067542,40.73557,-74.00196,Manhattan,160 7TH AVENUE SOUTH,102,Approved Work,122725186; 123819859,Essential Facility
 1076166,40.74633,-73.97272,Manhattan,330 EAST 38 STREET,106,Approved Work,123309892,Emergency Construction
-1076746,40.84127,-73.94346,Manhattan,177 FORT WASHINGTON AVE,112,Hospital / Health Care,,
-1077421,40.71034,-73.9987,Manhattan,54 CATHARINE STREET,103,Hospital / Health Care,,
+1076746,40.84127,-73.94346,Manhattan,177 FT. WASHINGTON AVENUE,112,Hospital / Health Care,,
+1077421,40.71034,-73.99869,MANHATTAN,54 CATHERINE STREET,103,Hospital / Health Care,,
 1077604,40.7154,-73.98808,Manhattan,357 GRAND STREET,103,Approved Work,123079836,Emergency Construction; Essential Facility
-1077607,40.7154,-73.98808,Manhattan,210 EAST BROADWAY,103,Approved Work,M00322680,Emergency Construction; Essential Facility
+1077607,40.7154,-73.98808,Manhattan,208 EAST BROADWAY,103,Approved Work,M00322680,Emergency Construction; Essential Facility
 1077677,40.73052,-73.9814,Manhattan,428 EAST 14TH STREET,103,Approved Work,123867547,Emergency Construction
-1077844,40.77422,-73.98426,Manhattan,160 WEST 66TH STREET,107,Approved Work,123526023,Emergency Construction
+1077844,40.77422,-73.98426,Manhattan,165 WEST 65TH STREET,107,Approved Work,123526023,Emergency Construction
 1077924,40.73324,-73.99813,MANHATTAN,39 WEST 8 STREET,102,Approved Work,123787330,Emergency Construction
 1078039,40.71743,-73.97781,Manhattan,50 COLUMBIA ST,103,Hospital / Health Care,,
 1078317,40.73418,-74.00929,MANHATTAN,159 CHARLES STREET,102,Approved Work,123476489,Emergency Construction
 1078540,40.7462,-73.99982,Manhattan,275 8TH AVENUE,104,Hospital / Health Care,,
-1078756,40.74448,-73.98011,Manhattan,155 EAST 31 STREET,106,Hospital / Health Care,,
+1078756,40.74448,-73.98011,Manhattan,460 3RD AVENUE,106,Hospital / Health Care,,
 1079156,40.71468,-74.00853,Manhattan,140 CHURCH STREET,101,Approved Work,123724443,Essential Facility
 1079215,40.71423,-74.00565,Manhattan,280 BROADWAY,101,Approved Work,M00235500,Emergency Construction; Essential Facility; Single Worker Limit
 1079729,40.81526,-73.95695,Manhattan,542 WEST 126TH STREET,109,Approved Work,123256920,Essential Facility
 1079731,40.81526,-73.95695,Manhattan,538 WEST 126TH STREET,109,Approved Work,123256948,Essential Facility
-1079770,40.82293,-73.93626,Manhattan,2541 ADAM CLAYTON POWELL BLVD,110,Approved Work,123495967,Emergency Construction; Essential Facility; Affordable Housing
-1080132,40.73444,-73.99115,Manhattan,841 BROADWAY,102,Approved Work,M00339109,Essential Facility
+1079770,40.82293,-73.93626,MANHATTAN,2541 ADAM CLAYTON POWELL BOULEVARD,110,Approved Work,123495967,Emergency Construction; Essential Facility; Affordable Housing
+1080132,40.73444,-73.99115,MANHATTAN,841 BROADWAY,102,Approved Work,M00339109,Essential Facility
 1080334,40.7521,-74.0024,Manhattan,517 WEST 29TH STREET,104,Approved Work,123440080,Emergency Construction
 1080352,40.75736,-74.00043,Manhattan,450 11TH AVENUE,104,Approved Work,121188641,Emergency Construction
 1080642,40.79805,-73.94524,Manhattan,1735 MADISON AVENUE,111,Approved Work,123685690,Essential Facility; Affordable Housing
@@ -330,43 +330,43 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1080789,40.7456,-73.98285,Manhattan,462 PARK AVENUE  SOUTH,105,Approved Work,123862418,Emergency Construction
 1080924,40.75847,-73.9958,Manhattan,460 WEST 41ST STREET,104,Approved Work,121188614; 121188614; 123527184; 123527193; 140789056,NA; Essential Facility
 1081151,40.75946,-73.97494,Manhattan,21 EAST 52ND STREET,105,Approved Work,123755301,
-1081175,40.75269,-73.97246,Manhattan,205 EAST 45 STREET,106,Approved Work,123879936,Emergency Construction
+1081175,40.75269,-73.97246,Manhattan,205 EAST 45 ST,106,Approved Work,123879936,Emergency Construction
 1081243,40.76966,-73.95299,Manhattan,420 EAST 76 STREET,108,Approved Work,123804044,Emergency Construction; Essential Facility
 1081462,40.80443,-73.94063,Manhattan,1919 MADISON AVENUE,111,Hospital / Health Care,,
 1081661,40.73333,-73.98235,Manhattan,10 NATHAN D. PERLMAN PLACE,106,Hospital / Health Care,,
-1081880,40.84978,-73.93551,Manhattan,154 WADSWORTH AVE,112,Approved Work,140877362; 140883140; M00246114,Essential Facility
+1081880,40.84978,-73.93551,Manhattan,4250 BROADWAY,112,Approved Work,140877362; 140883140; M00246114,Essential Facility
 1082079,40.77982,-73.94764,Manhattan,1745 1ST AVENUE,108,Approved Work,123687260; 123842075,Essential Facility
 1082273,40.74721,-73.98891,Manhattan,1239 BROADWAY,105,Approved Work,123592950,Emergency Construction
-1082653,40.71506,-73.9859,Manhattan,413 GRAND STREET,103,Approved Work,123079863,Emergency Construction; Essential Facility
-1082654,40.71506,-73.9859,Manhattan,264 EAST BROADWAY,103,Approved Work,M00322017,Emergency Construction; Essential Facility
+1082653,40.71506,-73.9859,Manhattan,417 GRAND STREET,103,Approved Work,123079863,Emergency Construction; Essential Facility
+1082654,40.71506,-73.9859,Manhattan,266 EAST BROADWAY,103,Approved Work,M00322017,Emergency Construction; Essential Facility
 1082706,40.80331,-73.96203,Manhattan,1047 AMSTERDAM AVENUE,109,Approved Work,123757746,Emergency Construction
 1082718,40.7697,-73.98689,Manhattan,1000 10TH AVENUE,104,Hospital / Health Care,,
 1083142,40.72696,-73.97585,Manhattan,212 AVENUE C,103,Approved Work,121191003,Essential Facility; Affordable Housing
 1083211,40.76302,-73.94958,Manhattan,688 MAIN STREET,108,Approved Work,140852405,Emergency Construction
-1083241,40.71952,-74.01087,Manhattan,316 GREENWICH STREET,101,Approved Work,123784690,Emergency Construction
+1083241,40.71952,-74.01087,Manhattan,312 GREENWICH STREET,101,Approved Work,123784690,Emergency Construction
 1083247,40.73464,-73.98921,Manhattan,10 UNION SQUARE EAST,105,Hospital / Health Care,,
-1083340,40.77414,-73.95995,Manhattan,132 EAST 78 STREET,108,Approved Work,121191842,
+1083340,40.77414,-73.95995,Manhattan,132 EAST 78 ST,108,Approved Work,121191842,
 1083346,40.70318,-74.00916,Manhattan,55 WATER STREET,101,Approved Work,123775432,Emergency Construction; Essential Facility
-1083419,40.71432,-73.97838,Manhattan,568 GRAND STREET,103,Approved Work,123746893; M00220787; M00220850,Essential Facility
+1083419,40.71432,-73.97838,Manhattan,572 GRAND STREET,103,Approved Work,123746893; M00220787; M00220850,Essential Facility
 1083622,40.75251,-73.99083,Manhattan,230 WEST 36TH STREET,105,Utility,,
 1083630,40.74844,-73.98773,Manhattan,1260 BROADWAY,105,Approved Work,122198139,Emergency Construction
 1083722,40.76426,-73.9804,Manhattan,859 7TH AVENUE,105,Approved Work,122923284,Essential Facility
 1083723,40.76426,-73.9804,Manhattan,871 7TH AVENUE,105,Approved Work,122923275,Essential Facility
 1083921,40.78988,-73.95326,Manhattan,1180 FIFTH AVENUE,111,Approved Work,M00319076,Emergency Construction; Essential Facility
 1083922,40.78988,-73.95326,Manhattan,1450 MADISON AVENUE,111,Approved Work,140767427; 140769924; M00044502; M00047810,Essential Facility
-1083923,40.78988,-73.95326,Manhattan,1468 MADISON AVENUE,111,Utility,,
+1083923,40.78988,-73.95326,Manhattan,1190 5TH AVENUE,111,Utility,,
 1083929,40.78505,-73.94496,Manhattan,1901 1ST AVENUE,111,Utility,,
 1083993,40.82097,-73.93471,Manhattan,720 LENOX AVENUE,110,Approved Work,123495958,Emergency Construction; Essential Facility; Affordable Housing
 1084338,40.84935,-73.93314,Manhattan,575 WEST 181 STREET,112,Hospital / Health Care,,
 1084385,40.84069,-73.94164,Manhattan,3959 BROADWAY,112,Hospital / Health Care,,
 1084386,40.84069,-73.94164,Manhattan,622 WEST 168 STREET,112,Hospital / Health Care,,
-1084388,40.84069,-73.94164,Manhattan,620 WEST 168TH STREET,112,Hospital / Health Care,,
+1084388,40.84069,-73.94164,Manhattan,620 WEST 168 STREET,112,Hospital / Health Care,,
 1084583,40.71732,-73.99993,Manhattan,96 BAXTER ST,101,Hospital / Health Care,,
 1084771,40.7565,-73.97335,Manhattan,301 PARK AVENUE,105,Approved Work,121191245; 123750146,Emergency Construction
-1084781,40.76445,-73.95414,Manhattan,525 EAST 68TH STREET,108,Hospital / Health Care,,
+1084781,40.76445,-73.95414,Manhattan,525 EAST 68 STREET,108,Hospital / Health Care,,
 1084785,40.76445,-73.95414,MANHATTAN,1300 YORK AVENUE,108,Hospital / Health Care,,
 1084936,40.734,-73.98775,Manhattan,4 IRVING PLACE,106,Utility,,
-1084969,40.73305,-74.00961,Manhattan,5 WEEHAWKEN STREET,102,Approved Work,M00226283,
+1084969,40.73305,-74.00962,MANHATTAN,5 WEEHAWKEN STREET,102,Approved Work,M00226283,
 1085319,40.72916,-73.97333,Manhattan,276 AVENUE C,106,Utility,,
 1085352,40.81151,-73.95074,Manhattan,314 WEST 127TH STREET,110,Affordable Housing,123193212,Essential Facility; Affordable Housing
 1085494,40.75906,-73.98471,Manhattan,1568 AIR BROADWAY,105,Approved Work,123090341; 121191236,Emergency Construction
@@ -376,54 +376,55 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1086175,40.766,-73.99589,Manhattan,600 W50TH STREET,104,Utility,,
 1086244,40.82583,-73.95467,Manhattan,750 WEST 145 STREET,109,Utility,,
 1086513,40.73897,-73.98457,Manhattan,137 EAST 22ND STREET,106,Approved Work,122574516,Emergency Construction
-1086515,40.73875,-73.97534,Manhattan,462 1ST AVE,106,Hospital / Health Care,,
-1087119,40.75475,-73.98501,Manhattan,3 BRYANT PARK,105,Approved Work,123421305; 123421332; 123492434; 123492443; 123665783,Essential Facility
+1086515,40.73875,-73.97534,Manhattan,462 FIRST AVENUE,106,Hospital / Health Care,,
+1087119,40.75475,-73.98501,Manhattan,1095 AVENUE OF THE AMERICAS,105,Approved Work,123421305; 123421332; 123492434; 123492443; 123665783,Essential Facility
 1087143,40.80442,-73.93642,Manhattan,149 EAST 125 STREET,111,Approved Work,123783129,Essential Facility
 1087281,40.84127,-73.94346,Manhattan,161 FORT WASHINGTON AVENUE,112,Approved Work,140883328,Emergency Construction; Essential Facility
-1087284,40.76437,-73.9568,Manhattan,1275 YORK AVE,108,Approved Work,123872103,Essential Facility
+1087284,40.76437,-73.9568,Manhattan,1275 YORK AVENUE,108,Approved Work,123872103,Essential Facility
 1087298,40.74062,-73.97476,Manhattan,400 EAST 30 ST,106,Homeless Shelter,,
 1087313,40.76506,-73.95658,Manhattan,417 EAST 68 STREET,108,Approved Work,123872121,Essential Facility
 1087450,40.73912,-73.99382,MANHATTAN,32 WEST 18 STREET,105,Approved Work,140544445,Emergency Construction
 1087465,40.82993,-73.94951,Manhattan,725 RIVERSIDE DRIVE,109,Approved Work,122686744,Emergency Construction
-1087538,40.76362,-73.98596,MANHATTAN,310 WEST 52 STREET,104,Approved Work,122654298,Emergency Construction
+1087538,40.76362,-73.98596,Manhattan,310 WEST 52 STREET,104,Approved Work,122654298,Emergency Construction
+1087632,40.74932,-73.97408,Manhattan,222 EAST 41 STREET,106,Hospital / Health Care,,
 1087871,40.80244,-73.96358,Manhattan,1001 AMSTERDAM AVENUE,107,Utility,,
 1087878,40.79288,-73.93887,Manhattan,2141 1ST AVENUE,111,Utility,,
 1087933,40.74744,-73.97543,Manhattan,221 EAST 37TH STREET,106,Utility,,
 1088030,40.78745,-73.92191,Manhattan,107 2ND DRIVE,111,Utility,,
 1088218,40.72758,-73.97474,Manhattan,214 AVENUE C,103,Utility,,
-1088305,40.78803,-73.94324,Manhattan,315 EAST 102ND STREET,111,Approved Work,140786442,Emergency Construction
+1088305,40.78803,-73.94325,MANHATTAN,315 EAST 102 STREET,111,Approved Work,140786442,Emergency Construction
 1088442,40.70916,-74.01372,Manhattan,8 ALBANY STREET,101,Approved Work,123705623,Emergency Construction
-1088750,40.70863,-74.01466,MANHATTAN,100 WASHINGTON STREET,101,Approved Work,123686920,Essential Facility
-1088774,40.76142,-73.9618,Manhattan,323 EAST 61ST STREET,108,Approved Work,121188605; 123695705,Essential Facility
+1088750,40.70863,-74.01466,Manhattan,40 RECTOR STREET,101,Approved Work,123686920,Essential Facility
+1088774,40.76142,-73.9618,Manhattan,323 EAST 61 STREET,108,Approved Work,121188605; 123695705,Essential Facility
 1088859,40.75902,-73.95119,Manhattan,460 MAIN STREET,108,Affordable Housing,121203919,Essential Facility; Affordable Housing
 1088869,40.7722,-73.99091,Manhattan,1 WEST END AVENUE,107,Affordable Housing,,
 1089287,40.76167,-73.96493,Manhattan,254 EAST 60 STREET,108,Approved Work,140717151,Emergency Construction
-1089374,40.77268,-73.99181,Manhattan,639 WEST 59 STREET,107,Affordable Housing,,
+1089374,40.77268,-73.99181,Manhattan,639 WEST 59TH STREET,107,Affordable Housing,,
 1089411,40.75327,-74.00284,Manhattan,15 HUDSON YARDS,104,Affordable Housing,,
 1089450,40.71806,-73.98901,Manhattan,242 BROOME STREET,103,Affordable Housing,,
 1089451,40.71705,-73.98576,Manhattan,175 DELANCEY STREET,103,Hospital / Health Care,,
 1089662,40.80077,-73.93739,Manhattan,2211 3 AVENUE,111,Affordable Housing,,
-1089694,40.75209,-73.99796,Manhattan,401 WEST 31 STREET,104,Approved Work,121204295,Essential Facility
+1089694,40.75209,-73.99796,Manhattan,371 9TH AVENUE,104,Approved Work,121204295,Essential Facility
 1089723,40.77345,-73.992,Manhattan,400 WEST 61 STREET,107,Affordable Housing,,
-1089726,40.83035,-73.94097,MANHATTAN,400 WEST 155 STREET,109,Approved Work,123884289,Emergency Construction; Essential Facility; Affordable Housing
+1089726,40.83035,-73.94097,Manhattan,400 WEST 155 STREET,109,Approved Work,123884289,Emergency Construction; Essential Facility; Affordable Housing
 1089736,40.75654,-73.99905,Manhattan,515 WEST 36TH STREET,104,Affordable Housing,,
-1089741,40.77296,-73.99251,Manhattan,10 RIVERSIDE BLVD,107,Affordable Housing,,
+1089741,40.77296,-73.99251,Manhattan,10 RIVERSIDE BOULEVARD,107,Affordable Housing,,
 1089771,40.71046,-73.99124,Manhattan,250 SOUTH STREET,103,Affordable Housing,,
 1089807,40.7447,-74.00742,Manhattan,76 11 AVENUE,104,Approved Work,121190308,Emergency Construction
 1089873,40.78231,-73.94947,Manhattan,222 EAST 93RD STREET,108,Approved Work,123902759,Emergency Construction; Essential Facility
 1089891,40.71733,-73.98645,Manhattan,180 BROOME STREET,103,Affordable Housing,121191110; 121204838; 140582215,Essential Facility; Affordable Housing
 1089905,40.71723,-73.98724,Manhattan,202 BROOME STREET,103,Affordable Housing,140873767; 140873776; 140880526; 140884498,Emergency Construction
-1090103,40.80473,-73.95339,Manhattan,251 WEST 117 STREET,110,Approved Work,121204053,Essential Facility; Affordable Housing
+1090103,40.80473,-73.95339,Manhattan,251 WEST 117TH STREET,110,Approved Work,121204053,Essential Facility; Affordable Housing
 1090122,40.75476,-74.00084,Manhattan,66 HUDSON BOULEVARD,104,Approved Work,122885422,Essential Facility
 1090142,40.79368,-73.94644,Manhattan,1465 PARK AVENUE,111,Affordable Housing,121191432,Essential Facility; Affordable Housing
 1090183,40.81137,-73.94334,Manhattan,407 LENOX AVENUE,110,Affordable Housing,121187660,Essential Facility; Affordable Housing
 1090196,40.82904,-73.94246,Manhattan,847 ST NICHOLAS AVENUE,109,Affordable Housing,,
 1090207,40.78418,-73.97923,Manhattan,232 WEST 80TH STREET,107,Approved Work,140879529; M00274500; M00266175; M00266383,Emergency Construction; Essential Facility
 1090211,40.73029,-73.98125,Manhattan,435 EAST 13TH STREET,103,Affordable Housing,,
-1090254,40.76485,-73.95586,Manhattan,1283 YORK AVE,108,Approved Work,121325137,Essential Facility
-1090354,40.81255,-73.9498,Manhattan,2395 FREDERICK DOUGLAS BLVD,110,Affordable Housing,121191557,Essential Facility; Affordable Housing
+1090254,40.76485,-73.95586,Manhattan,1283 YORK AVENUE,108,Approved Work,121325137,Essential Facility
+1090354,40.81255,-73.9498,Manhattan,2395 8TH AVENUE,110,Affordable Housing,121191557,Essential Facility; Affordable Housing
 1090387,40.74647,-73.99096,MANHATTAN,105 WEST 28 STREET,105,Approved Work,123765853,Emergency Construction
-1090416,40.70853,-74.00517,Manhattan,58 B FULTON STREET,101,Affordable Housing,,
+1090416,40.70853,-74.00517,Manhattan,54 FULTON STREET,101,Affordable Housing,,
 1090431,40.82857,-73.95506,MANHATTAN,679 RIVERSIDE DRIVE,109,Utility,,
 1090444,40.76138,-73.99464,Manhattan,615 10 AVENUE,104,Approved Work,121190889,Emergency Construction; Essential Facility
 1090459,40.75206,-73.99243,Manhattan,255 WEST 34 STREET,105,Approved Work,122745100,Emergency Construction
@@ -433,26 +434,26 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 1090558,40.81671,-73.94205,Manhattan,2351 ADAM CLAYTON POWELL BLVD,110,Affordable Housing,,
 1090562,40.70911,-74.00635,Manhattan,130 WILLIAM STREET,101,Approved Work,121192903; 122996124,Emergency Construction
 1090567,40.80972,-73.94741,Manhattan,181 WEST 126 STREET,110,Approved Work,140881044; M00214090; M00282385; M00282406,Essential Facility
-1090601,40.74577,-73.98554,MANHATTAN,7 EAST 30 STREET,105,Approved Work,123058822,Essential Facility; Affordable Housing
+1090601,40.74577,-73.98553,Manhattan,7 EAST 30TH ST,105,Approved Work,123058822,Essential Facility; Affordable Housing
 1090662,40.78248,-73.94799,MANHATTAN,1802 2 AVENUE,108,Approved Work,121191361; 140695987,Essential Facility
-1090667,40.77394,-73.95917,MANHATTAN,154 EAST 78 STREET,108,Approved Work,122418204,Emergency Construction
-1090669,40.75205,-73.98342,MANHATTAN,30 WEST 39 STREET,105,Approved Work,122985029,Emergency Construction
-1090673,40.81015,-73.95452,Manhattan,101 MORNINGSIDE AVENUE,109,Affordable Housing,122068467,Essential Facility; Affordable Housing
-1090675,40.78434,-73.94321,Manhattan,1912 1ST AVENUE,111,Affordable Housing,122879233; 122893262,Essential Facility; Affordable Housing
+1090667,40.77394,-73.95918,Manhattan,154 EAST 78TH STREET,108,Approved Work,122418204,Emergency Construction
+1090669,40.75191,-73.98381,Manhattan,30 WEST 39 STREET,105,Approved Work,122985029,Emergency Construction
+1090673,40.81015,-73.95452,Manhattan,101 MORNINGSIDE AVE,109,Affordable Housing,122068467,Essential Facility; Affordable Housing
+1090675,40.78434,-73.94321,Manhattan,1912 FIRST AVENUE,111,Affordable Housing,122879233; 122893262,Essential Facility; Affordable Housing
 1090693,40.72717,-74.0081,Manhattan,102 CHARLTON STREET,102,Affordable Housing,,
-1090697,40.79677,-73.94606,MANHATTAN,60 EAST 112 STREET,111,Affordable Housing,121204721,Essential Facility; Affordable Housing
-1090710,40.80245,-73.94605,Manhattan,11 WEST 118 STREET,110,Affordable Housing,121187982; 123542345; 123547073,Essential Facility; Affordable Housing
+1090697,40.79677,-73.94606,Manhattan,60 EAST 112TH STREET,111,Affordable Housing,121204721,Essential Facility; Affordable Housing
+1090710,40.80245,-73.94605,Manhattan,11 WEST 118TH STREET,110,Affordable Housing,121187982; 123542345; 123547073,Essential Facility; Affordable Housing
 1090713,40.76702,-73.95104,Manhattan,530 EAST 74 STREET,108,Approved Work,121237580,Essential Facility
 1090716,40.7483,-73.99339,Manhattan,211 WEST 29TH STREET,105,Affordable Housing,,
 1090720,40.76091,-73.99547,Manhattan,505 WEST 43 STREET,104,Approved Work,121187456,Essential Facility
-1090736,40.72018,-73.98708,Manhattan,140 ESSEX STREET,103,Affordable Housing,,
+1090736,40.72019,-73.98708,MANHATTAN,140 ESSEX STREET,103,Affordable Housing,,
 1090742,40.71927,-73.98949,Manhattan,86 DELANCY STREET,103,Approved Work,122141351,Essential Facility; Affordable Housing
 1090749,40.80165,-73.96395,Manhattan,145 WEST 108TH STREET,107,Affordable Housing,121204320; 140745870; 140745914; 140759784; M00255929,Essential Facility; Affordable Housing
-1090764,40.76255,-73.95574,MANHATTAN,1230 YORK AVENUE,108,Hospital / Health Care,,
+1090764,40.76255,-73.95573,Manhattan,1230 YORK AVENUE,108,Hospital / Health Care,,
 1090815,40.74793,-73.99449,Manhattan,225 WEST 28TH STREET,105,Affordable Housing,,
 1090825,40.75297,-73.97855,Manhattan,10 VANDERBILT AVENUE,105,Approved Work,121189828; 123064254; 123162610; 140447559; 140455914; 140731420; 121189828,Emergency Construction; Essential Facility
 1090831,40.74106,-73.9966,Manhattan,142 WEST 19 STREET,104,Approved Work,121190549,Emergency Construction
-1091569,40.74253,-73.99094,Manhattan,39 WEST 23 STREET,105,Affordable Housing,,
+1091569,40.74253,-73.99094,Manhattan,39 WEST 23RD STREET,105,Affordable Housing,,
 1091579,40.72046,-73.97913,Manhattan,302 EAST 2ND STREET,103,Affordable Housing,121204641,Essential Facility; Affordable Housing
 1091580,40.81073,-73.94984,Manhattan,267 W 126 STREET,110,Affordable Housing,121189579,Essential Facility; Affordable Housing
 1800727,40.75562,-73.99889,Manhattan,451 10TH AVENUE,104,Approved Work,121205454,Essential Facility
@@ -463,7 +464,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2000933,40.81686,-73.91972,Bronx,349 EAST 149 STREET,201,Approved Work,X00217723; X00217792,Essential Facility
 2000999,40.81389,-73.92888,Bronx,276 GRAND CONCOURSE,201,Approved Work,220689921,Essential Facility; Affordable Housing
 2001224,40.82532,-73.90972,Bronx,972 WASHINGTON AVENUE,203,Affordable Housing,210178966,Essential Facility; Affordable Housing
-2001305,40.82847,-73.90746,Bronx,3401 THIRD AVENUE,203,Affordable Housing,,
+2001305,40.82847,-73.90746,Bronx,3401 3RD AVENUE,203,Affordable Housing,,
 2001327,40.83144,-73.9064,Bronx,1228 WASHINGTON AV,203,Approved Work,220630066,Essential Facility; Affordable Housing
 2001346,40.81795,-73.91664,Bronx,402 EAST 152ND STREET,201,Hospital / Health Care,,
 2001736,40.82154,-73.91642,Bronx,758 COURTLANDT AV,201,Hospital / Health Care,,
@@ -472,7 +473,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2003083,40.83642,-73.92272,Bronx,1227 EDWARD GRANT HIGHWAY,204,Hospital / Health Care,,
 2003157,40.83648,-73.92471,BRONX,1182 WOODYCREST AVENUE,204,Approved Work,210178074; 240177045,Essential Facility; Affordable Housing
 2003645,40.80716,-73.91559,Bronx,587 EAST 139TH STREET,201,Approved Work,240250606,Emergency Construction
-2004081,40.81018,-73.90451,Bronx,880 EAST 147TH STREET,201,Affordable Housing,210179215,Essential Facility; Affordable Housing
+2004081,40.81018,-73.90451,Bronx,880 EAST 147 STREET,201,Affordable Housing,210179215,Essential Facility; Affordable Housing
 2004216,40.83011,-73.90536,BRONX,1193 FULTON AVENUE,203,Affordable Housing,,
 2004246,40.83143,-73.90318,Bronx,1276 FULTON AVENUE,203,Hospital / Health Care,,
 2005002,40.81773,-73.90319,BRONX,839 EAST 156 STREET,201,Approved Work,240257538,Essential Facility; Affordable Housing
@@ -481,7 +482,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2005787,40.82157,-73.8921,Bronx,953 SOUTHERN BOULEVARD,202,Hospital / Health Care,,
 2006691,40.81261,-73.88629,Bronx,615 FAILE STREET,202,Approved Work,220689903,Essential Facility; Affordable Housing
 2007313,40.84303,-73.90561,Bronx,1650 TOPPING AVENUE,204,Approved Work,220650418,Emergency Construction; Essential Facility; Affordable Housing
-2007616,40.8486,-73.90819,Bronx,1870 MORRIS AVENUE,205,Approved Work,240224556,Essential Facility; Affordable Housing
+2007616,40.8486,-73.90819,BRONX,1870 MORRIS AVENUE,205,Approved Work,240224556,Essential Facility; Affordable Housing
 2007622,40.84921,-73.9079,Bronx,1892 MORRIS AVENUE,205,Approved Work,220650445,Emergency Construction; Essential Facility; Affordable Housing
 2007858,40.84647,-73.9104,Bronx,1775 GRAND CONCOURSE,205,Hospital / Health Care,,
 2007859,40.84349,-73.91101,Bronx,1650 GRAND CONCOURSE,204,Hospital / Health Care,,
@@ -492,7 +493,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2008263,40.85218,-73.90797,BRONX,20 EAST 179 STREET,205,Approved Work,220650472,Emergency Construction; Essential Facility; Affordable Housing
 2008264,40.85201,-73.90812,Bronx,1979 WALTON AVENUE,205,Approved Work,220531388,Emergency Construction; Essential Facility; Affordable Housing
 2008265,40.85184,-73.90827,Bronx,1975 WALTON AVENUE,205,Approved Work,220644916,Emergency Construction; Essential Facility; Affordable Housing
-2008272,40.85257,-73.90762,Bronx,2003 WALTON AVENUE,205,Approved Work,220650454,Emergency Construction; Essential Facility; Affordable Housing
+2008272,40.85257,-73.90762,BRONX,2003 WALTON AVENUE,205,Approved Work,220650454,Emergency Construction; Essential Facility; Affordable Housing
 2008471,40.84981,-73.9146,BRONX,1731 HARRISON AVENUE,205,Approved Work,220650436,Emergency Construction; Essential Facility; Affordable Housing
 2008505,40.84909,-73.91439,Bronx,1700 HARRISON AVENUE,205,Approved Work,240250660,Emergency Construction
 2009638,40.83596,-73.90199,Bronx,1451 CROTONA PLACE,203,Approved Work,220708278,Emergency Construction
@@ -510,10 +511,10 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2013282,40.84163,-73.8784,Bronx,2064 BOSTON RD.,206,Approved Work,210177690; 220633624; 220634204,Essential Facility; Affordable Housing
 2013591,40.86058,-73.89745,Bronx,2432 GRAND CONCOURSE,205,Hospital / Health Care,,
 2013600,40.86198,-73.89681,Bronx,2488 GRAND CONCOURSE,205,Hospital / Health Care,,
-2013628,40.85229,-73.90297,Bronx,2050 GRAND CONCOURSE,205,Affordable Housing,210178289,Essential Facility; Affordable Housing
+2013628,40.85229,-73.90297,BRONX,2050 GRAND CONCOURSE,205,Affordable Housing,210178289,Essential Facility; Affordable Housing
 2013665,40.85195,-73.90155,Bronx,2051 RYER AVENUE,205,Affordable Housing,220152956,Essential Facility; Affordable Housing
 2015449,40.88407,-73.88848,Bronx,66 VAN CORTLANDT PARK SOUTH,208,Hospital / Health Care,,
-2015493,40.88496,-73.89346,Bronx,141 VAN CORTLANDT AVENUE W,208,Approved Work,220704600,Emergency Construction; Essential Facility
+2015493,40.88496,-73.89346,Bronx,141 VAN CORTLANDT AVENUE WEST,208,Approved Work,220704600,Emergency Construction; Essential Facility
 2015502,40.87042,-73.90387,Bronx,2678 KINGSBRIDGE TERRACE,208,Hospital / Health Care,,
 2016116,40.87665,-73.90594,Bronx,5500 BROADWAY,208,Hospital / Health Care,,
 2017787,40.88049,-73.88109,Bronx,3424 KOSSUTH AVENUE,207,Hospital / Health Care,,
@@ -525,7 +526,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2022645,40.82262,-73.85677,Bronx,1965 LAFAYETTE AVENUE,209,Approved Work,240258314,Emergency Construction
 2024208,40.82803,-73.86786,Bronx,1755 WATSON AVENUE,209,Affordable Housing,210177627,Essential Facility; Affordable Housing
 2025384,40.83049,-73.8744,Bronx,1240 MORRISON AVENUE,209,Approved Work,220489095,Emergency Construction
-2025407,40.83055,-73.87241,Bronx,1240 METCALF AVENUE,209,Affordable Housing,210178001,Essential Facility; Affordable Housing
+2025407,40.83055,-73.87241,Bronx,1230 METCALF AVENUE,209,Affordable Housing,210178001,Essential Facility; Affordable Housing
 2025973,40.83326,-73.858,Bronx,1990 WESTCHESTER AVENUE,209,Hospital / Health Care,,
 2026267,40.83329,-73.85735,Bronx,2008 WESTCHESTER AVE,209,Approved Work,220676427,Essential Facility
 2026971,40.83001,-73.84661,Bronx,1070 HAVEMEYER AVENUE,209,Hospital / Health Care,,
@@ -534,7 +535,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2044353,40.84423,-73.85735,Bronx,1616 BRONXDALE AVE,211,Hospital / Health Care,,
 2047124,40.84806,-73.84366,Bronx,1740 EASTCHESTER ROAD,211,Hospital / Health Care,,
 2049614,40.85653,-73.85951,Bronx,1000 PELHAM PARKWAY,211,Hospital / Health Care,,
-2050004,40.85881,-73.8681,Bronx,695 THWAITES PLACE,211,Affordable Housing,220632233,Essential Facility; Affordable Housing
+2050004,40.85881,-73.8681,BRONX,681 THWAITES PLACE,211,Affordable Housing,220632233,Essential Facility; Affordable Housing
 2050370,40.859,-73.85156,BRONX,1235 PELHAM PARKWAY,211,Hospital / Health Care,,
 2051277,40.86469,-73.86976,Bronx,612 ALLERTON AVENUE,211,Hospital / Health Care,,
 2051328,40.86454,-73.86665,Bronx,2545 CRUGER AVE,211,Approved Work,220540056,Essential Facility; Affordable Housing
@@ -544,7 +545,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2057812,40.87914,-73.86317,Bronx,746 E 214 STREET,212,Approved Work,220599564,Essential Facility; Affordable Housing
 2057816,40.87895,-73.8624,Bronx,770 E 214 STREET,212,Approved Work,220390654; 220599485; 220599555,Essential Facility; Affordable Housing
 2057822,40.8785,-73.86191,Bronx,3603 BARNES AVENUE,212,Approved Work,220636532,Essential Facility; Affordable Housing
-2062900,40.88671,-73.86399,BRONX,629 EAST 222 STREET,212,Approved Work,220693514,Essential Facility; Affordable Housing
+2062900,40.88671,-73.86399,Bronx,629 EAST 222 STREET,212,Approved Work,220693514,Essential Facility; Affordable Housing
 2065164,40.88765,-73.84824,Bronx,1050 EAST  230 STREET,212,Hospital / Health Care,,
 2068259,40.89245,-73.8534,Bronx,825 EAST 233RD STREET,212,Hospital / Health Care,,
 2070535,40.89929,-73.84393,Bronx,4376 WILDER AVENUE,212,Approved Work,240252828,Emergency Construction
@@ -552,7 +553,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2071889,40.90524,-73.84894,Bronx,4770 WHITE PLAINS ROAD,212,Hospital / Health Care,,
 2072356,40.87932,-73.82906,Bronx,801 CO-OP CITY BLVD,210,Hospital / Health Care,,
 2072372,40.87723,-73.83543,Bronx,3200 BAYCHESTER AVE,212,Hospital / Health Care,,
-2072483,40.884,-73.83222,Bronx,4008 BOSTON RD,212,Hospital / Health Care,,
+2072483,40.884,-73.83222,Bronx,4012 BOSTON RD,212,Hospital / Health Care,,
 2077017,40.82821,-73.81902,Bronx,707 THROGS NECK EXPRESSWAY,210,Hospital / Health Care,,
 2082967,40.88825,-73.8128,Bronx,11 PARK DRIVE,212,Approved Work,220632812,Emergency Construction
 2083186,40.87879,-73.90815,Bronx,3001 KINGSBRIDGE AVENUE,208,Utility,,
@@ -568,14 +569,14 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2091122,40.81464,-73.92282,BRONX,325 EAST 143 STREET,201,Approved Work,X00303501,Essential Facility; Affordable Housing
 2091126,40.81324,-73.92463,BRONX,320 MORRIS AVENUE,201,Approved Work,X00303065,Essential Facility; Affordable Housing
 2091132,40.81324,-73.92463,Bronx,314 EAST 143RD STREET,201,Approved Work,X00261865,Emergency Construction
-2091322,40.81482,-73.90885,Bronx,603 PONTIAC PLACE,201,Affordable Housing,,
-2091800,40.83163,-73.90417,Bronx,1265 FULTON AVENUE,203,Hospital / Health Care,,
+2091322,40.81482,-73.90885,Bronx,603 JACKSON AVENUE,201,Affordable Housing,,
+2091800,40.83163,-73.90417,BRONX,1265 FULTON AVENUE,203,Hospital / Health Care,,
 2092008,40.8223,-73.89552,Bronx,975 TIFFANY STREET,202,Affordable Housing,,
 2092070,40.8534,-73.91861,Bronx,1849 SEDGWICK AVENUE,205,Approved Work,220601249,Emergency Construction
-2092141,40.84301,-73.89432,Bronx,1800 CROTONA PARK NORTH,206,Approved Work,240255736,Essential Facility; Affordable Housing
-2092142,40.84301,-73.89432,Bronx,1805 CROTONA AVENUE,206,Approved Work,210179288,Essential Facility; Affordable Housing
+2092141,40.84302,-73.89432,BRONX,1800 CROTONA PARK NORTH,206,Approved Work,240255736,Essential Facility; Affordable Housing
+2092142,40.84302,-73.89432,BRONX,1805 CROTONA AVENUE,206,Approved Work,210179288,Essential Facility; Affordable Housing
 2092792,40.82617,-73.86951,Bronx,1690 WATSON AVENUE,209,Approved Work,240237034,Essential Facility; Affordable Housing
-2092801,40.82651,-73.8665,Bronx,1085 BEACH AV,209,Approved Work,240236687,Essential Facility; Affordable Housing
+2092801,40.82651,-73.8665,Bronx,1065 BEACH AVENUE,209,Approved Work,240236687,Essential Facility; Affordable Housing
 2092803,40.82651,-73.8665,Bronx,1781 BRUCKNER BOULEVARD,209,Approved Work,240236678,Essential Facility; Affordable Housing
 2092804,40.82651,-73.8665,Bronx,1775 BRUCKNER BOULEVARD,209,Approved Work,240236623,Essential Facility; Affordable Housing
 2092805,40.82651,-73.8665,Bronx,1791 BRUCKNER BOULEVARD,209,Approved Work,240236614,Essential Facility; Affordable Housing
@@ -589,17 +590,17 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2093751,40.88359,-73.84401,Bronx,1891 SCHIEFFELIN PLACE,212,Approved Work,240255745,Essential Facility; Affordable Housing
 2093851,40.86391,-73.82195,Bronx,100 ERSKINE PLACE,210,Approved Work,220637522,Emergency Construction; Essential Facility; Affordable Housing
 2093857,40.86391,-73.82195,Bronx,2400 HUNTER AVENUE,210,Approved Work,220655976,Emergency Construction; Essential Facility; Affordable Housing
-2094217,40.85303,-73.89087,Bronx,4422 3 AVENUE,206,Hospital / Health Care,,
+2094217,40.85303,-73.89087,Bronx,4422 3RD AVE,206,Hospital / Health Care,,
 2094444,40.81199,-73.88918,Bronx,1225 RANDALL AVE,202,Approved Work,X00316343,Emergency Construction
 2094521,40.84611,-73.90894,Bronx,1780 GRAND CONCOURSE,205,Approved Work,X00304398,Essential Facility
 2094699,40.8804,-73.89818,Bronx,3400 CANNON PLACE,208,Hospital / Health Care,,
 2094749,40.88083,-73.87994,Bronx,3444 KOSSUTH AVENUE,207,Hospital / Health Care,,
-2094835,40.82431,-73.85708,Bronx,1925 TURNBULL AVENUE,209,Hospital / Health Care,,
-2095208,40.84952,-73.89362,Bronx,4366 THIRD AVENUE,206,Utility,,
+2094835,40.82431,-73.85708,Bronx,1967 TURNBULL AVENUE,209,Hospital / Health Care,,
+2095208,40.84952,-73.89362,Bronx,4366 3RD AVENUE,206,Utility,,
 2095219,40.83703,-73.92942,BRONX,1145 UNIVERSITY AVENUE,204,Hospital / Health Care,,
 2095229,40.86728,-73.90532,BRONX,130 WEST KINGSBRIDGE ROAD,207,Hospital / Health Care,,
 2096399,40.88083,-73.87994,Bronx,111 EAST 210TH STREET,207,Utility,,
-2097050,40.81676,-73.92448,Bronx,234 E 149 ST,201,Hospital / Health Care,,
+2097050,40.81676,-73.92448,Bronx,234 E 149 STREET,201,Hospital / Health Care,,
 2097363,40.84985,-73.84611,Bronx,1300 MORRIS PARK AVENUE,211,Hospital / Health Care,,
 2097378,40.85925,-73.83305,Bronx,2316 BRUNER AVENUE,211,Hospital / Health Care,,
 2097550,40.85546,-73.84661,Bronx,1400 PELHAM PARKWAY SOUTH,211,Hospital / Health Care,,
@@ -615,7 +616,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2116630,40.82339,-73.91022,Bronx,501 EAST 161 STREET,203,Approved Work,220683240,Essential Facility
 2118990,40.8204,-73.89952,Bronx,886 WESTCHESTER AVE,202,Hospital / Health Care,,
 2120051,40.85274,-73.8464,BRONX,1225 MORRIS PARK AVENUE,211,Hospital / Health Care,,
-2120058,40.87203,-73.90486,BRONX,2724 HEATH AVENUE,207,Approved Work,220696717,Essential Facility; Affordable Housing
+2120058,40.87203,-73.90486,Bronx,2724 HEATH AVENUE,207,Approved Work,220696717,Essential Facility; Affordable Housing
 2122918,40.8799,-73.90776,BRONX,3050 CORLEAR AVENUE,208,Hospital / Health Care,,
 2124019,40.84329,-73.86118,Bronx,1610 MATTHEWS AVE,211,Utility,,
 2124546,40.8433,-73.90976,Bronx,199 MT EDEN PARKWAY,204,Hospital / Health Care,,
@@ -631,24 +632,24 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2128327,40.81104,-73.92654,BRONX,2560 3 AVENUE,201,Approved Work,220462407,Essential Facility; Affordable Housing
 2128391,40.81964,-73.89532,Bronx,909 BECK ST.,202,Affordable Housing,220152554; 220592062; 220592071; 220592080,Essential Facility; Affordable Housing
 2128398,40.83821,-73.88477,Bronx,1812 VYSE AVENUE,203,Affordable Housing,220152581,Essential Facility; Affordable Housing
-2128429,40.80495,-73.91695,Bronx,570 EAST 137 STREET,201,Affordable Housing,220152661; 220603096; 220710247; 240187043; 240187061; 240247666,Essential Facility; Affordable Housing
+2128429,40.80495,-73.91695,Bronx,570 EAST 137TH STREET,201,Affordable Housing,220152661; 220603096; 220710247; 240187043; 240187061; 240247666,Essential Facility; Affordable Housing
 2128439,40.83307,-73.85569,Bronx,2035 NEWBOLD AVENUE,209,Affordable Housing,220152563,Essential Facility; Affordable Housing
 2128441,40.83346,-73.85564,Bronx,2044 WESTCHESTER AVENUE,209,Affordable Housing,220152572,Essential Facility; Affordable Housing
 2128501,40.82573,-73.89513,Bronx,1081 TIFFANY STREET,202,Approved Work,220555851,Essential Facility; Affordable Housing
 2128505,40.85012,-73.90411,Bronx,220 EAST 178 STREET,205,Affordable Housing,220546620,Essential Facility; Affordable Housing
 2128553,40.8304,-73.90653,Bronx,3475 THIRD AVENUE,203,Approved Work,220691703; 220693881,Essential Facility
-2128726,40.84615,-73.89693,Bronx,1880 BATHGATE AVENUE,206,Affordable Housing,,
+2128726,40.84615,-73.89693,Bronx,1880 BATHGATE AVE,206,Affordable Housing,,
 2128733,40.84308,-73.87965,Bronx,988 EAST 180TH STREET,206,Affordable Housing,220152233; 240155568; 240208342,Essential Facility; Affordable Housing
 2128766,40.84105,-73.89172,Bronx,775 CROTONA PARK NORTH,206,Affordable Housing,220152518; 220599957; 240178678; 240180255,Essential Facility; Affordable Housing
 2128829,40.86392,-73.82195,BRONX,140 EINSTEIN LOOP,210,Approved Work,220724599,Emergency Construction; Essential Facility; Affordable Housing
 2128832,40.86391,-73.82195,Bronx,4120 HUTCHINSON RIVER PARKWAY,210,Approved Work,220656001,Emergency Construction; Essential Facility; Affordable Housing
 2128910,40.85103,-73.90333,Bronx,225 EAST 179 STREET,205,Affordable Housing,220546639,Essential Facility; Affordable Housing
-2128914,40.86786,-73.88645,Bronx,2885 MARION AVENUE,207,Affordable Housing,220465841; 220481832; 220516797; 220516920; 220643944; 220692285,Essential Facility; Affordable Housing
-2128915,40.80507,-73.92256,Bronx,109 BRUCKNER BLVD,201,Approved Work,220606137,Essential Facility; Affordable Housing
+2128914,40.86786,-73.88645,Bronx,2885 MARION AVE.,207,Affordable Housing,220465841; 220481832; 220516797; 220516920; 220643944; 220692285,Essential Facility; Affordable Housing
+2128915,40.80507,-73.92256,Bronx,109 BRUCKNER BOULEVARD,201,Approved Work,220606137,Essential Facility; Affordable Housing
 2128935,40.81462,-73.88806,Bronx,700 MANIDA STREET,202,Affordable Housing,210177681,NA
 2128955,40.81294,-73.90459,Bronx,569 PROSPECT AVE,201,Affordable Housing,,
 2128970,40.82081,-73.87899,BRONX,1520 STORY AVENUE,209,Affordable Housing,,
-2128977,40.80951,-73.91615,Bronx,345 ST ANNS AVENUE,201,Affordable Housing,210177841,Essential Facility; Affordable Housing
+2128977,40.80951,-73.91615,Bronx,345 ST ANN'S AVE,201,Affordable Housing,210177841,Essential Facility; Affordable Housing
 2128983,40.80974,-73.91647,Bronx,538 EAST 142 ST,201,Approved Work,220637167,Essential Facility; Affordable Housing
 2128984,40.80972,-73.91639,Bronx,540 EAST 142 ST,201,Approved Work,220638228,Essential Facility; Affordable Housing
 2129008,40.81323,-73.91528,BRONX,518 EAST 147 STREET,201,Approved Work,220562219,Essential Facility; Affordable Housing
@@ -657,7 +658,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2129044,40.81699,-73.92852,Bronx,425 GRAND CONCOURSE,201,Affordable Housing,220569999,Essential Facility; Affordable Housing
 2129056,40.81603,-73.91547,Bronx,556 BERGEN AVENUE,201,Affordable Housing,240114933; 220151859; 240108780; 240114835; 240114844; 240114924; 240117128,Essential Facility; Affordable Housing
 2129104,40.8564,-73.89513,Bronx,2302 WEBSTER AVE,206,Approved Work,220632769; 220638763,Essential Facility; Affordable Housing
-2129118,40.83863,-73.88176,Bronx,1903 WEST FARMS RD,206,Affordable Housing,,
+2129118,40.83863,-73.88176,Bronx,1903 WEST FARMS ROAD,206,Affordable Housing,,
 2129119,40.82791,-73.90833,Bronx,1074 WASHINGTON AVENUE,203,Affordable Housing,,
 2129125,40.81323,-73.91528,Bronx,516 E 147 STREET,201,Approved Work,220562120,Essential Facility; Affordable Housing
 2129126,40.8052,-73.92236,Bronx,133 BROWN PLACE,201,Approved Work,220606146,Essential Facility; Affordable Housing
@@ -675,15 +676,15 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2129224,40.83871,-73.91879,Bronx,1325 JEROME AVENUE,204,Affordable Housing,210178225,Essential Facility; Affordable Housing
 2129230,40.82288,-73.92378,Bronx,180 E 156 STREET,204,Affordable Housing,220152643,Essential Facility; Affordable Housing
 2129246,40.82621,-73.92654,Bronx,810 RIVER AVE,204,Affordable Housing,,
-2129250,40.87407,-73.88603,Bronx,211 EAST 203 STREET,207,Affordable Housing,210178485; 240265262,Essential Facility; Affordable Housing
+2129250,40.87407,-73.88603,BRONX,211 EAST 203 STREET,207,Affordable Housing,210178485; 240265262,Essential Facility; Affordable Housing
 2129261,40.84761,-73.89225,Bronx,600 EAST 179 STREET,206,Affordable Housing,210178403,Essential Facility; Affordable Housing
 2129268,40.82453,-73.91153,Bronx,443 EAST 162ND STREET,203,Affordable Housing,,
-2129282,40.87482,-73.88799,Bronx,16 EAST 204TH STREET,207,Affordable Housing,,
+2129282,40.87482,-73.88799,Bronx,16 E. 204TH ST.,207,Affordable Housing,,
 2129288,40.82838,-73.90652,Bronx,545 EAST  166 STREET,203,Affordable Housing,,
-2129313,40.85871,-73.89142,Bronx,4697 3RD AVENUE,206,Affordable Housing,,
-2129326,40.87673,-73.88451,Bronx,150 VAN CORTLANDT AVE EAST,207,Affordable Housing,220561853,Essential Facility; Affordable Housing
+2129313,40.85871,-73.89142,BRONX,4697 3 AVENUE,206,Affordable Housing,,
+2129326,40.87673,-73.88451,Bronx,150 VAN CORTLANDT AVENUE EAST,207,Affordable Housing,220561853,Essential Facility; Affordable Housing
 2129363,40.80988,-73.93025,Bronx,228 EAST 135 STREET,2,Approved Work,220475322,Essential Facility; Affordable Housing
-2129390,40.81137,-73.91901,Bronx,448 EAST 143 STREET,201,Affordable Housing,210178396; 240252356; 240253033,Essential Facility; Affordable Housing
+2129390,40.81137,-73.91901,Bronx,448 EAST 143RD STREET,201,Affordable Housing,210178396; 240252356; 240253033,Essential Facility; Affordable Housing
 2129395,40.84731,-73.88451,Bronx,801 EAST 181 STREET,206,Affordable Housing,,
 2129425,40.85826,-73.9015,Bronx,2302 MORRIS AVENUE,205,Approved Work,220446355; 220523360; 220534580,Essential Facility; Affordable Housing
 2129428,40.85635,-73.90334,Bronx,2195 MORRIS AVENUE,205,Approved Work,220546648; 220622770; 220683525; 240169465,Essential Facility; Affordable Housing
@@ -691,12 +692,12 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 2129467,40.822,-73.92467,Bronx,702 GRAND CONCOURSE,204,Affordable Housing,220152625,Essential Facility; Affordable Housing
 2129503,40.83011,-73.90536,Bronx,1193 FULTON AVENUE,203,Affordable Housing,220152698,Essential Facility; Affordable Housing
 2129513,40.85303,-73.88628,Bronx,2317 CAMBRELENG AVENUE,206,Approved Work,220485838,Essential Facility; Affordable Housing
-2130367,40.83472,-73.92151,BRONX,1164 RIVER AVENUE,204,Affordable Housing,210178127,Essential Facility; Affordable Housing
+2130367,40.8347,-73.92189,Bronx,1164 RIVER AVENUE,204,Affordable Housing,210178127,Essential Facility; Affordable Housing
 2130380,40.89294,-73.85487,Bronx,773 E 233 STREET,212,Approved Work,220672671,Essential Facility; Affordable Housing
 2130381,40.80992,-73.92828,Bronx,2490 THIRD AVENUE,201,Approved Work,220471727,Essential Facility; Affordable Housing
 2130390,40.81466,-73.89088,Bronx,720 TIFFANY STREET,202,Affordable Housing,210178500; 220676613; 240237551; 240243125,Essential Facility; Affordable Housing
 2130434,40.84227,-73.884,BRONX,1973 DALY AVENUE,206,Affordable Housing,210179616,Essential Facility; Affordable Housing
-2130448,40.85239,-73.90139,Bronx,2065 RYER AVE,205,Approved Work,220617205; 220643711,Essential Facility; Affordable Housing
+2130448,40.85239,-73.90139,BRONX,2065 RYER AVENUE,205,Approved Work,220617205; 220643711,Essential Facility; Affordable Housing
 2130449,40.85249,-73.90135,BRONX,2067 RYER AVENUE,205,Approved Work,220617198; 220643702,Essential Facility; Affordable Housing
 2803496,40.8633,-73.89774,Bronx,2519 CRESTON AVENUE,207,Affordable Housing,,
 2808522,40.84167,-73.8848,Bronx,915 ELSMERE PLACE,206,Approved Work,220727907,Emergency Construction
@@ -706,7 +707,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3000246,40.69533,-73.98484,Brooklyn,11 METROTECH CENTER,302,Approved Work,322029719,Emergency Construction; Essential Facility
 3000338,40.69254,-73.98653,Brooklyn,57 WILLOUGHBY STREET,302,Hospital / Health Care,,
 3000507,40.6881,-73.9824,Brooklyn,308 LIVINGSTON STREET,302,Affordable Housing,321384578,Essential Facility; Affordable Housing
-3000519,40.68792,-73.98261,Brooklyn,285 SCHERMERHORN STREET,302,Affordable Housing,,
+3000519,40.68792,-73.98261,BROOKLYN,285 SCHERMERHORN STREET,302,Affordable Housing,,
 3000556,40.68714,-73.98222,Brooklyn,50 NEVINS STREET,302,Affordable Housing,320912367,Essential Facility; Affordable Housing
 3001646,40.69928,-73.99247,Brooklyn,80 CRANBERRY STREET,302,Approved Work,322071477,Single Worker Limit
 3001688,40.69879,-73.99389,Brooklyn,89 HICKS STREET,302,Approved Work,321960464,Emergency Construction
@@ -726,7 +727,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3010094,40.65608,-74.00202,Brooklyn,875 FOURTH AVENUE,307,Affordable Housing,,
 3012967,40.64511,-74.00928,Brooklyn,514 49TH STREET,307,Hospital / Health Care,,
 3013507,40.64592,-74.01364,Brooklyn,5108 4TH AVENUE,307,Affordable Housing,321188031,Essential Facility; Affordable Housing
-3014856,40.64667,-74.02122,BROOKLYN,150 55 STREET,307,Hospital / Health Care,,
+3014856,40.64667,-74.02122,Brooklyn,150 55 STREET,307,Hospital / Health Care,,
 3015571,40.64502,-74.02157,Brooklyn,5718 SECOND AVENUE,307,Hospital / Health Care,,
 3018433,40.68208,-73.97711,Brooklyn,430 DEAN STREET,306,Approved Work,321595038,Emergency Construction
 3018649,40.68141,-73.97952,Brooklyn,84 SAINT MARKS PLACE,306,Approved Work,321594707,Single Worker Limit
@@ -753,7 +754,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3039624,40.68898,-73.92341,Brooklyn,1000 GATES AVENUE,303,Hospital / Health Care,,
 3039815,40.68733,-73.91934,Brooklyn,1068 PUTNAM AVENUE,303,Approved Work,321699319,Essential Facility; Affordable Housing
 3041353,40.68106,-73.91273,BROOKLYN,305 SUMPTER STREET,316,Approved Work,321438832,Essential Facility; Affordable Housing
-3041354,40.68105,-73.91284,BROOKLYN,303 SUMPTER STREET,316,Approved Work,320910724,Essential Facility; Affordable Housing
+3041354,40.68105,-73.91283,Brooklyn,303 SUMPTER STREET,316,Approved Work,320910724,Essential Facility; Affordable Housing
 3041433,40.67958,-73.91969,Brooklyn,244 HOWARD AVE,303,Approved Work,321646910,Essential Facility; Affordable Housing
 3044372,40.69004,-73.92838,BROOKLYN,770 LEXINGTON AVENUE,303,Approved Work,321849461,Essential Facility; Affordable Housing
 3045916,40.68521,-73.92879,BROOKLYN,659 HANCOCK STREET,303,Approved Work,321633158,Essential Facility; Affordable Housing
@@ -864,7 +865,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3128179,40.63083,-73.97036,Brooklyn,639 FOSTER AVENUE,314,Approved Work,321383560,Essential Facility; Affordable Housing
 3136090,40.64039,-73.99239,Brooklyn,1140 43 STREET,312,Approved Work,321847141,Emergency Construction
 3137310,40.64029,-73.99979,Brooklyn,920 48 STREET,312,Hospital / Health Care,,
-3137492,40.63379,-73.98943,Brooklyn,4815 14TH AVENUE,312,Approved Work,320891736,Essential Facility
+3137492,40.63379,-73.98943,Brooklyn,4815 14 AVE,312,Approved Work,320891736,Essential Facility
 3137493,40.63387,-73.98933,Brooklyn,4809 14 AVE,312,Approved Work,320854679,Essential Facility
 3140386,40.63095,-73.9979,Brooklyn,1250 57 STREET,312,Hospital / Health Care,,
 3148730,40.63075,-74.02583,Brooklyn,370 BAY RIDGE PARKWAY,310,Hospital / Health Care,,
@@ -887,7 +888,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3210431,40.61873,-73.94298,Brooklyn,3201 KINGS HIGHWAY,318,Hospital / Health Care,,
 3219595,40.62071,-73.93439,Brooklyn,2011 FLATBUSH AVENUE,318,Approved Work,321803223,Single Worker Limit
 3219618,40.62066,-73.93436,Brooklyn,2013 FLATBUSH AVENUE,318,Approved Work,321920436,Single Worker Limit
-3230126,40.64248,-73.89857,Brooklyn,1555 ROCKAWAY PARKWAY,318,Hospital / Health Care,,
+3230126,40.64248,-73.89857,BROOKLYN,1555 ROCKAWAY PARKWAY,318,Hospital / Health Care,,
 3244341,40.58038,-73.96471,Brooklyn,2920 BRIGHTON 4 ST,313,Approved Work,321744635; 321760233; 321799069; B00065453,Essential Facility; Affordable Housing
 3247426,40.5842,-73.9412,BROOKLYN,2701 EMMONS AVENUE,315,Hospital / Health Care,,
 3251647,40.6955,-73.97682,Brooklyn,100 NORTH PORTLAND AVE.,302,Hospital / Health Care,,
@@ -914,7 +915,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3327011,40.67287,-73.89175,Brooklyn,340 MILLER AVENUE,305,Approved Work,321070498,Essential Facility; Affordable Housing
 3327012,40.67287,-73.89175,Brooklyn,2189 PITKIN AVENUE,305,Approved Work,321820053; 321820071,Essential Facility; Affordable Housing
 3327047,40.65764,-73.90132,Brooklyn,96 NEW LOTS AVENUE,316,Affordable Housing,321384140,Essential Facility; Affordable Housing
-3327711,40.65663,-73.94415,Brooklyn,451 CLARKSON AVENUE,309,Hospital / Health Care,,
+3327711,40.65663,-73.94414,BROOKLYN,451 CLARKSON AVENUE,309,Hospital / Health Care,,
 3328125,40.69626,-73.93301,Brooklyn,893 WILLOUGHBY AVE,304,Approved Work,320912642,Essential Facility; Affordable Housing
 3328199,40.64804,-73.95718,Brooklyn,2177 ALBEMARLE ROAD,314,Utility,,
 3328301,40.63681,-73.9506,Brooklyn,1355 ROGERS AVENUE,314,Affordable Housing,,
@@ -975,7 +976,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3345333,40.66253,-73.91037,Brooklyn,215 LIVONIA AVENUE,316,Affordable Housing,,
 3346238,40.66422,-73.89921,Brooklyn,487 LIVONIA AVENUE,305,Affordable Housing,,
 3346308,40.57999,-73.9808,Brooklyn,1225 NEPTUNE AVENUE,313,Utility,,
-3379800,40.7296,-73.95139,Brooklyn,211 MC GUINNESS BOULEVARD,301,Affordable Housing,,
+3379800,40.7296,-73.95139,Brooklyn,211 MCGUINNESS BOULEVARD,301,Affordable Housing,,
 3387647,40.69686,-73.92738,Brooklyn,48 CEDAR STREET,304,Hospital / Health Care,,
 3391735,40.60973,-73.95906,Brooklyn,1630 EAST 15TH STRET,315,Hospital / Health Care,,
 3393021,40.67476,-73.87475,Brooklyn,2640 PITKIN AVENUE,305,Hospital / Health Care,,
@@ -1062,9 +1063,9 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3425089,40.67061,-73.95466,Brooklyn,1535 BEDFORD AVENUE,308,Affordable Housing,,
 3425091,40.70193,-73.98573,Brooklyn,85 JAY STREET,302,Approved Work,321188415,Emergency Construction
 3425093,40.67739,-73.95321,Brooklyn,1336 BEDFORD AVENUE,308,Affordable Housing,,
-3425101,40.66689,-73.99116,Brooklyn,535 FOURTH AVENUE,306,Approved Work,320626612,Essential Facility; Affordable Housing
+3425101,40.66689,-73.99116,Brooklyn,535 4TH AVE,306,Approved Work,320626612,Essential Facility; Affordable Housing
 3425163,40.67801,-73.88333,Brooklyn,315 LINWOOD STREET,305,Affordable Housing,321193944,Essential Facility; Affordable Housing
-3425407,40.68143,-73.90945,Brooklyn,389 SUMPTER STREET,316,Approved Work,320910001,Essential Facility; Affordable Housing
+3425407,40.68143,-73.90945,BROOKLYN,389 SUMPTER STREET,316,Approved Work,320910001,Essential Facility; Affordable Housing
 3425443,40.66633,-73.99163,Brooklyn,541 FOURTH AVENUE,307,Affordable Housing,321238264,Essential Facility; Affordable Housing
 3425513,40.6739,-73.91472,Brooklyn,1994 BERGEN STREET,316,Approved Work,321539778,Essential Facility; Affordable Housing
 3425529,40.63636,-73.94269,Brooklyn,3514 FARRAGUT ROAD,317,Approved Work,321512608,Essential Facility; Affordable Housing
@@ -1074,11 +1075,12 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3425627,40.63635,-73.94276,Brooklyn,3512 FARRAGUT RD,317,Approved Work,321512591,Essential Facility; Affordable Housing
 3425676,40.70967,-73.96916,Brooklyn,420 KENT AVENUE,301,Approved Work,320597476,Essential Facility; Affordable Housing
 3425745,40.68107,-73.96252,Brooklyn,909 ATLANTIC AVENUE,302,Affordable Housing,,
+3425771,40.58565,-73.96487,Brooklyn,2619 OCEAN PARKWAY,313,Hospital / Health Care,,
 3425776,40.68687,-73.95493,Brooklyn,1104 BEDFORD AVENUE,303,Affordable Housing,,
 3425799,40.65599,-73.86378,Brooklyn,894 FOUNTAIN AVENUE,305,Affordable Housing,320910813; 321942911,Essential Facility; Affordable Housing
 3425801,40.69565,-73.94389,Brooklyn,948 MYRTLE AVE,303,Affordable Housing,320984208,Essential Facility; Affordable Housing
-3425854,40.72044,-73.94749,Brooklyn,117 NEWTON STREET,301,Affordable Housing,340316633; 320909772; 321936045; 340316642,Emergency Construction; Essential Facility; Affordable Housing
-3425857,40.69068,-73.99755,Brooklyn,70 ATLANTIC AVENUE,306,Approved Work,B00332213,Essential Facility
+3425854,40.72044,-73.94749,Brooklyn,22 ECKFORD ST,301,Affordable Housing,340316633; 320909772; 321936045; 340316642,Emergency Construction; Essential Facility; Affordable Housing
+3425857,40.69034,-73.99706,BROOKLYN,70 ATLANTIC AVENUE,306,Approved Work,B00332213,Essential Facility
 3425883,40.69622,-73.95808,Brooklyn,91 FRANKLIN AVENUE,303,Approved Work,321486860,Essential Facility; Affordable Housing
 3425954,40.71095,-73.95445,Brooklyn,125 BORINQUEN PLACE,301,Affordable Housing,,
 3425968,40.69105,-73.99785,Brooklyn,336 HICKS STREET,306,Approved Work,320911091,Emergency Construction
@@ -1089,7 +1091,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3426087,40.72001,-73.94628,Brooklyn,150 BAYARD ST,301,Affordable Housing,321644538,Essential Facility; Affordable Housing
 3426143,40.70905,-73.9508,Brooklyn,290 UNION AVENUE,301,Approved Work,321751369,Essential Facility; Affordable Housing
 3426146,40.57792,-74.00117,Brooklyn,2760 WEST 33RD STREET,313,Approved Work,321383533,Essential Facility; Affordable Housing
-3426172,40.66146,-73.91788,Brooklyn,7 LIVONIA AVEUE,3,Affordable Housing,320910617,Essential Facility; Affordable Housing
+3426172,40.66146,-73.91788,Brooklyn,7 LIVONIA AVENUE,302,Affordable Housing,320910617,Essential Facility; Affordable Housing
 3426187,40.67771,-73.92806,BROOKLYN,15 HUNTERFLY PLACE,303,Approved Work,321383515,Essential Facility; Affordable Housing
 3426189,40.57573,-73.98624,Brooklyn,2926 WEST 19 STREET,313,Affordable Housing,320911689,Essential Facility; Affordable Housing
 3426224,40.69648,-73.95684,Brooklyn,814 BEDFORD AVENUE,303,Approved Work,321362565,Emergency Construction
@@ -1136,7 +1138,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3800488,40.67688,-73.99522,BROOKLYN,42 5 STREET,306,Approved Work,321969045; B00180237,Emergency Construction; Essential Facility
 3804122,40.66488,-73.89669,BROOKLYN,461 ALABAMA AVENUE,305,Approved Work,321387619,Essential Facility; Affordable Housing
 3804153,40.65996,-73.89525,Brooklyn,650 ALABAMA AVENUE,305,Affordable Housing,320909914,Essential Facility; Affordable Housing
-3806286,40.68259,-73.9805,Brooklyn,346 BERGEN ST,302,Affordable Housing,,
+3806286,40.68259,-73.9805,Brooklyn,346 BERGEN STREET,302,Affordable Housing,,
 3808198,40.64971,-73.97276,Brooklyn,72 CATON PLACE,307,Approved Work,321693413,Emergency Construction
 3808712,40.66032,-73.90903,Brooklyn,449 CHESTER STREET,316,Affordable Housing,321595092,Essential Facility; Affordable Housing
 3808795,40.67275,-73.90691,Brooklyn,38 CHRISTOPHER AVENUE,316,Affordable Housing,320909843,Essential Facility; Affordable Housing
@@ -1159,7 +1161,7 @@ BIN,Latitude,Longitude,Borough,Address,Community Board,Category,Approved Job Num
 3836272,40.67476,-73.91553,Brooklyn,2178 DEAN STREET,316,Affordable Housing,320909870,Essential Facility; Affordable Housing
 3843933,40.66929,-73.88284,Brooklyn,617 CLEVELAND STREET,305,Affordable Housing,321185542; 321994623,Essential Facility; Affordable Housing
 3844843,40.67203,-73.90712,Brooklyn,299 MOTHER GASTON BOULEVARD,316,Affordable Housing,320909816,Essential Facility; Affordable Housing
-3847142,40.57622,-73.97131,Brooklyn,271 SEABREEZE AVENUE,313,Approved Work,301677460,Essential Facility; Affordable Housing
+3847142,40.57622,-73.97131,Brooklyn,271 SEA BREEZE AVE,313,Approved Work,301677460,Essential Facility; Affordable Housing
 3848437,40.67082,-73.88206,Brooklyn,586 LINWOOD STREET,305,Affordable Housing,321195782; 321993964,Essential Facility; Affordable Housing
 3855064,40.67799,-73.87359,Brooklyn,975 LIBERTY AVENUE,305,Affordable Housing,,
 3855970,40.67344,-73.91277,Brooklyn,1633 SAINT MARKS AVENUE,316,Affordable Housing,320909861,Essential Facility; Affordable Housing
