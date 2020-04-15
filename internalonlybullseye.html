@@ -349,8 +349,9 @@ var width = $("#map").width(),
 	function highlightPoint(r2){
 		let a1=document.querySelector("g");
 		let a2 = a1.querySelectorAll(".zoomedPoint");
-		for(let t=0;t<a2.length;t++) {
-			a2[t].classList.remove("zoomedPoint");}
+		for(let t=0; t < a2.length; t++) {
+			a2[t].classList.remove("zoomedPoint");
+		}
 		let q1=a1.querySelector('circle[bin="'+r2+'"]');
 		q1.classList.add("zoomedPoint");
 	}
