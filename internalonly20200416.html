@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+
+  <title>Essential Active Construction Sites</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+  <link rel="icon" type="image/png" href="https://github.com/NYCDOB/EssentialActiveConstruction/blob/gh-pages/images/logo.png">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css' rel='stylesheet' type='text/css'/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.css">
+
+  
+<style>
+.asofDate{
+	font-size:16px;
+}
+.filterTableButton {
+	border: solid 1px green;
+}
+
+
+.filterTableButton.disabled {
+				  border: 1px solid #999999;
+				  background-color: #cccccc;
+				  color: #666666;
+				  cursor: not-allowed;
+}
+	
+.group {
+	background-color: yellow !important;
+}
+.row{
+	padding-top: 50px;
+}
+body {
+	background-color: white;
+}
+.jobno{
+	margin-left: 20px;
+	
+}
+div.tooltip {
+	zcolor: #222;
+	zbackground: #fff;
+	font-weight: bold;
+	padding: .5em;
+	border: 1px solid white;
+	border-radius: 7px; 
+	box-shadow: 0px 0px 2px 0px #a6a6a6; 
+	opacity: 0.9; 
+	position: absolute;
+	visibility: hidden;
+	color:white;
+	background-color:RGB(40,56,124);
+	
+}
+#map {
+	height: 100%;
+	width: 100%;
+	background-color: #333;
+	pointer-events: all;
+}
+#table-container{
+	height: 890px;
+	width: 100%;
+	display: block;
+	background-color: white;
+}
+
+#img{
+	float: left;
+	height: 35px;
+	margin-left: 10px;
+	padding-right: 10px;
+}
+
+
+.missingCat{
+	background-color: #808080;
+}
+.substanceCat{
+	fill: #BCBD22;
+	background-color: brown !important;
+	fill-opacity: .7;
+}
+.publicCat{
+	fill: #9467BD;
+	background-color: #9467BD !important;
+	fill-opacity: .7;
+}
+.schoolCat{
+	fill: #17BECF;
+	background-color: #17BECF !important;
+	fill-opacity: .7;
+	}
+.affordCat{
+	fill: #1F77B4;
+	background-color: #1F77B4 !important;
+	fill-opacity: .7;
+	}
+.homelessCat{
+	fill: #2CA02C;
+	background-color: #2CA02C !important;
+	fill-opacity: .7;
+}
+.healthCat{
+	fill: #D62728;
+	background-color: #D62728 !important;
+	fill-opacity: .7;
+}
+.utilityCat{
+	fill: #E377C2;	
+	background-color: #E377C2 !important;	
+	fill-opacity: .7;
+}
+.approvedCat{
+	fill: #FF7F0E;	
+	background-color: #FF7F0E !important;	
+	fill-opacity: .7;
+}
+
+* [class*='Cat'] :not(circle){
+	color:white !important;
+	font-weight: 900 !important;
+	font-size:1.5em !important;
+	border:solid grey 1px;
+	text-align: center;
+}
+
+#riskTable{
+	height: 100%;
+	font-size: 10px;
+}
+td.details-control {
+	background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+	cursor: pointer;
+}
+tr.shown td.details-control {
+	background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+	cursor: pointer;
+}
+.logo{
+	background-image: url('https://nycdob.github.io/EssentialActiveConstruction/images/dob_logo_white.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	float: right;
+	background-size: 70px;
+	height: 50px;
+	width: 70px;	 
+}
+.ui {
+	top: 10px;
+	left: 50px;
+	padding: 8px;
+	position: absolute;
+	background-color: #fff;
+	border: 2px solid #707070;
+	border-radius: 7px;
+	width: 175px;
+}
+.dataTables_empty {
+  display:none;
+}
+
+.dataTables_wrapper .dataTables_processing {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 50px;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  margin-left: -100px;
+  margin-top: 100px;
+  text-align: center;
+  padding: 1em 0;
+  z-index: 1;
+}
+@media( max-width:1200px){
+		.dobmain	{
+			padding-top:50px
+		}
+}
+</style>
+<body>
+<div class="container">
+			<div class="navbar navbar-fixed-top" role="navigation" style="color:white;background-color:RGB(40,56,124);">
+			<a class="logo" href="https://www1.nyc.gov/site/buildings/about/covid-19-response.page" target="_blank"> </a>
+				<div class="nav navbar-nav" style="margin-left:15px;font-size:28px;font-weight:bold;text-align:center;">
+					Essential Active Construction Sites <span class="asofDate"></span>
+					
+				</div>
+			</div>
+ </div>
+
+
+<div class="container-fluid dobmain" style="margin-top:20px;">
+	<div class="row">
+		  <div class="col-lg-9" style="height:89vh">
+			  <div class="chart-stage" id="map-container" style="border:1px solid black;height:100%;width:100%">
+				<div id="map">
+					<div id="ui-container" class="ui" style="z-index: 401">		
+							  <h5>CATEGORY</h5>				  
+							  <span style="display:inline-block; background-color:#1F77B4; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catAffordCB" id="catAffordCB" checked="true" /></span> 
+								<label for="catAffordCB"></label><span class="en">Affordable Housing</span>
+							  <br/>
+							  
+							  <span style="display:inline-block; background-color:#FF7F0E; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catApprovedCB" id="catApprovedCB" checked="true"/></span>
+								<label for="catApprovedCB"></label><span class="en">Approved Work</span>
+							  <br/>
+							  
+							  <span style="display:inline-block; background-color:#2CA02C; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catHomelessCB" id="catHomelessCB" checked="true"/></span>
+								<label for="catHomelessCB"></label><span class="en">Homeless Shelter</span>
+							  <br/>
+							  
+							  <span style="display:inline-block; background-color:#D62728; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catHealthCB" id="catHealthCB" checked="true"/></span>
+								<label for="catHealthCB"></label><span class="en">Hospital / Health Care</span>
+							  <br/>
+							  
+							  <span style="display:inline-block; background-color:#9467BD; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catPublicCB" id="catPublicCB" checked="true"/></span>
+								<label for="catPublicCB"></label><span class="en">Public Housing</span>
+							  <br/>
+
+							  <span style="display:inline-block; background-color:#E377C2; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catUtilityCB" id="catUtilityCB" checked="true"/></span>
+								<label for="catUtilityCB"></label><span class="en">Utility</span>
+							  <br/>
+							  <span style="display:inline-block; background-color:#17BECF; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catSchoolCB" id="catSchoolCB" checked="true"/></span>
+								<label for="catSchoolCB"></label><span class="en">Schools</span>
+							  <br/>
+<!--							  
+							  <span style="display:inline-block; background-color:#BCBD22; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="bldg_type" class="regular-checkbox" value="catSubstanceCB" id="catSubstanceCB" checked="true"/></span>
+								<label for="catSubstanceCB"></label><span class="en">Substance Abuse Centers</span>
+							  <br/>
+-->							  
+							  
+					</div>				
+
+
+				</div>
+			  </div>
+		  </div>
+
+			  <div class="col-lg-3" style="height:89vh">
+				<div class="newchart" style="padding:5px 5px 0px 5px;border:1px solid black;height:100%;width:100%">
+				  <div class="" id="">
+					<table id="riskTable" class="">
+						<thead>
+							<tr>
+								<th></th>
+								<th>ADDRESS</th>
+								<th>BOROUGH</th>
+								<th>BIN</th>
+								<th>CD</th>
+								<th>CATEGORY</th>
+								<th>SUBCATEGORIES</th>
+								<th>JOB NUMBERS</th>
+
+							</tr>
+						</thead>			
+					</table>
+
+				  </div>
+				</div>
+			  </div>
+	</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.9/d3.min.js"></script>
+<script src="https://nycdob.github.io/EssentialActiveConstruction/Leaflet.D3SvgOverlay-master/L.D3SvgOverlay.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.js"  type="text/javascript" charset="utf8" ></script>
+<script src="build/nv.d3.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min.js"></script>
+<script>
+
+$(document).ready(function(){
+//
+	var latlong = [];
+	var selection = [];
+    L.Control.include({
+      _refocusOnMap: L.Util.falseFn // Do nothing.
+    });
+	
+var map = L.map('map').setView([40.713312, -73.977407], 11);
+
+L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+
+var tooltip = d3.select('body').append('div')
+	.on('mouseover', function(d, i){
+		tooltip.transition().duration(0);
+	})
+	.on('mouseout', function(d, i){
+		tooltip.transition().delay(500).style('visibility', 'hidden');
+	})
+	.attr('class', 'tooltip');
+	
+var width = $("#map").width(),
+	height = $("#map").height(),
+	points = [],
+	table_map = [],
+	filteredData;	
+	var latLngs = [];
+	
+	var pointsOverlay = L.d3SvgOverlay(function(sel,proj){
+	var pointsUpd = sel.selectAll('circle').data(points);	
+	pointsUpd.enter()
+		.append('circle')
+		.attr('cx',function(d){return proj.latLngToLayerPoint(d.latLng).x;})
+		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
+		.attr('class', function(d){
+			if ([d.Category] == "Affordable Housing"){
+				return "affordCat";
+			}  else if ([d.Category] == "Homeless Shelter"){ 
+				return "homelessCat";
+			}  else if ([d.Category] == "Hospital / Health Care"){ 
+				return "healthCat";
+			}  else if ([d.Category] == "Utility"){ 
+				return "utilityCat";
+			}  else if ([d.Category] == "Approved Work"){ 
+				return "approvedCat";
+			}  else if ([d.Category] == "Schools"){ 
+				return "schoolCat";
+			}  else if ([d.Category] == "Substance Abuse Centers"){ 
+				return "substanceCat";
+			}  else if ([d.Category] == "Public Housing"){ 
+				return "publicCat";
+			}  
+		})
+
+		.on('click', function(d){
+				tooltip.style("visibility", "visible");
+				jobstring='';individualjobs="";
+				if (d["Approved Job Number(s)"]  ) {
+						individualjobs=d["Approved Job Number(s)"].split(";")
+						jobstring="<br>";
+						for (t=0;t<individualjobs.length;t++) {
+							jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>"}
+				} else {jobstring="None"}	
+
+				catstring='';individualcats="";
+				if (d["approvedcategories"]  ) {
+						individualcats=d["Approved Category"].split(";")
+						catstring="<br>";
+							for (t=0;t<individualcats.length;t++) {
+										catstring+="<li class='jobno'> " + individualcats[t] + "</li>"}
+					} else {catstring= ''; //d.Category ;//"None"
+					}
+				tooltip.html(
+					'BIN: ' + [d.BIN] + '</br>' +								
+					'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +
+					'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +
+					'CATEGORY: ' + d["Category"] + '</br>' +
+					( d["approvedcategories"]? 'Sub-Categories: ' : '') + catstring +  //  	'</br>' +
+					'APPROVED JOB Number(s): ' + jobstring
+				)
+				if (d3.event.pageX > (width - 200)) {
+				   tooltip.style("left", (d3.event.pageX - 350) + "px");
+				} else {
+				   tooltip.style("left", (d3.event.pageX + 20) + "px")
+						.style("top", (d3.event.pageY -30) + "px");
+				}
+				if (d3.event.pageY > (height - 150)) {
+				   tooltip.style("top", (d3.event.pageY -100) + "px");
+				} else {
+				   tooltip.style("top", (d3.event.pageY -30) + "px");
+				}
+		})
+
+		.on("mouseover", function(d, i){
+			tooltip.transition().duration(0); //settings for using hyperlink in tooltip
+			$(this).attr("style", "cursor: pointer; fill: #eef442; fill-opacity: 1;");			
+		})
+
+		.on("mouseout", function(d, i){			
+			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
+			return tooltip.transition().delay(500).style("visibility", "hidden"); //settings for using hyperlink in tooltip
+		});
+
+
+		pointsUpd.attr('r', 4 / proj.scale);
+
+	});
+
+	d3.csv("https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs-catg_schools.csv",function(data){
+				points = data.map(function(d){
+				d.latLng = [+d.Latitude,+d.Longitude];
+				d.bin = [d.BIN];				
+				d.address = [d.Address];
+				d.CD = d["Community Board"];
+				d.Borough = [d.Borough];
+				d.category = [d.Category];
+				d.jobNum = d["Approved Job Number(s)"];
+				d.approvedcategories = d["Approved Category"];
+			return d;
+			});
+		document.querySelector(".asofDate").textContent="Data Updated "+data[0].timestamp;
+		pointsOverlay.addTo(map);
+	});
+
+
+	
+	function highlightPoint(layerID){
+		d3.selectAll(".point")
+			.style("fill-opacity", function(d){
+				if(d.bin == layerID){return "0.7"}
+				else{return "0"};
+			})
+	}
+	
+	function zoomToSelected(latlong){
+			map.setView(latlong,17);
+	}	
+	
+	function zoomFullExtent(){
+		map.setView([40.713312, -73.977407], 11);
+	}
+	
+	map.on('resize', function(){
+		map.invalidateSize();		
+	});
+
+	function format ( d ) {
+		return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+			'<tr>'+
+				'<td>BIN:</td>'+
+				'<td>'+d["BIN"]+'</td>'+
+			'</tr>'+
+			'<tr>'+
+				'<td>Community District:</td>'+
+				'<td>'+d["Community Board"]+'</td>'+
+			'</tr>'+
+			'<tr>'+
+				'<td>Category:</td>'+
+				'<td>'+d["Category"]+'</td>'+
+			'</tr>'+
+			'<tr>'+
+				'<td>Sub-Categories:</td>'+
+				'<td>'+d["Approved Category"]+'</td>'+
+			'</tr>'+
+			'<tr>'+
+				'<td>Approved Job Number(s):</td>'+
+				'<td>'+d["Approved Job Number(s)"]+'</td>'+
+			'</tr>'+
+			
+		'</table>';
+	}	
+	function zoom(lat,lon){
+		map.panTo(new L.LatLng(lat,lon));
+	}
+	
+		
+	
+	
+	$(function(){
+	var groupBy=5;
+		var table = $('#riskTable').DataTable({				
+				"ajax": {
+					"url": "https://raw.githubusercontent.com/NYCDOB/EssentialActiveConstruction/gh-pages/data/essential_BINs-catg_schools.json",
+					"dataSrc": ""
+				},
+				order: [[5,"asc"],[2, "asc"],[1, "asc"]],
+				lengthChange: false,
+				"scrollY": "73vh",
+				"scrollCollapse": true,
+				"paging": false,
+				"processing": true,
+				"order":[[ groupBy,'asc'   ]],
+				columns: [
+					{
+						"className": 'details-control',
+						"orderable": false,
+						"data": null,
+						"defaultContent": ''
+					},
+					{	data: "Address"
+					},
+					{ 	data: "Borough"
+					},
+					{	data:"BIN","visible":false	
+					},
+					{	data:"Community Board","visible":false	
+					},
+					{	data:"Category","visible":false	
+					},
+					{	data:"Approved Category","visible":false	
+					},
+					{	data:"Approved Job Number(s)","visible":false	
+					}
+				],				
+				"order": [[ groupBy, 'asc' ]],
+				"dom": 'fBrtip',
+				"buttons": [		   
+					{ extend: 'csv',
+					titleAttr: 'Download to CSV',
+					filename: "EssentialConstruction",
+					className: "filterTableButton",
+					//text: 'Export',
+					text: '<i class="fa fa-download"></i>',
+					exportOptions: {
+						modifier: {search: 'none'},
+						columns: 'th:not(:first-child)'}}
+				],                                                                                            
+				"drawCallback": function ( settings ) {
+							var api = this.api();
+							var rows = api.rows( {page:'current'} ).nodes();
+							var last=null;
+							api.column(groupBy, {page:'current'} ).data().each( function ( group, i ) {
+								if ( last !== group ) {
+									switch (  group   ) {
+										case "Affordable Housing":
+												vclassname="affordCat";break;
+										case "Homeless Shelter":
+												vclassname="homelessCat";break;								
+										case "Hospital / Health Care":
+												vclassname="healthCat";break;								
+										case "Utility":
+													vclassname="utilityCat";break;								
+										case "Approved Work":
+												vclassname="approvedCat";break;
+										case "Schools":
+												vclassname="schoolCat";break;
+										case "Public Housing":
+												vclassname="publicCat";break;
+										case "Substance Abuse Centers":
+												vclassname="substanceCat";break;
+										default:
+												vclassname="UNKNOWN";						
+									}
+									$(rows).eq( i ).before(
+										'<tr class="'  +  vclassname  +  ' "><td colspan="3" >'+group.toUpperCase()+'</td></tr>'
+									);			
+									last = group;
+								}
+							} );
+				}				
+			});
+					
+		$("table.dataTable").css("font-size", 10);
+		table.columns.adjust().draw();
+		
+		$('#riskTable tbody').on( 'click', 'tr', function () {
+			if (!this.hasAttribute("role")  ) {
+				return;
+			}
+			if ( $(this).hasClass('selected') ) {
+				$(this).removeClass('selected');			
+			d3.selectAll('.point')
+				.style("fill-opacity", function(d){
+					return "0.7";
+				});	
+			zoomFullExtent();
+			}
+			else {
+				table.$('tr.selected').removeClass('selected');
+				$(this).addClass('selected');
+				
+			for (var i=0; i < table.rows('.selected').data().length; i++){
+				var selectedRecord = table.rows('.selected').data()[i].Address;
+				var lat = table.rows('.selected').data()[i].Latitude;
+				var lon = table.rows('.selected').data()[i].Longitude;
+				latlong = [lat,lon];
+				}
+				highlightPoint(selectedRecord);	
+				zoomToSelected(latlong);
+			}
+		});
+
+				
+		$('#riskTable tbody').on('click', 'td.details-control', function () {
+			var tr = $(this).closest('tr');
+			var row = table.row( tr );
+			if ( row.child.isShown() ) {
+				row.child.hide();
+				tr.removeClass('shown');
+			}
+			else {
+				row.child( format(row.data()) ).show();
+				tr.addClass('shown');
+			}
+		});
+	});	
+
+	var catAffordCheckbox = document.querySelector('input[id="catAffordCB"]');
+		catHomelessCheckbox = document.querySelector('input[id="catHomelessCB"]');
+		catHealthCheckbox = document.querySelector('input[id="catHealthCB"]');
+		catUtilityCheckbox = document.querySelector('input[id="catUtilityCB"]');
+		catSchoolCheckbox = document.querySelector('input[id="catSchoolCB"]');
+		catApprovedCheckbox = document.querySelector('input[id="catApprovedCB"]');
+		catPublicCheckbox = document.querySelector('input[id="catPublicCB"]');
+		catSubstanceCheckbox = document.querySelector('input[id="catSubstanceCB"]');
+		//<circle cx="554.7237333333178" cy="320.3609360269911" class="affordCat" r="4"></circle>
+	
+	catAffordCheckbox.onchange = function(){
+			
+	
+			if(this.checked){
+				d3.selectAll("circle.affordCat").filter(function(d) {
+					return d.Category == "Affordable Housing";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.affordCat").filter(function(d) {
+					return d.Category == "Affordable Housing";
+				})
+				.style("display", "none");						
+			}
+	};
+	catHomelessCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.homelessCat").filter(function(d) {
+					return [d.Category] == "Homeless Shelter";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.homelessCat").filter(function(d) {
+					return [d.Category] == "Homeless Shelter";
+				})
+				.style("display", "none");						
+			}
+	};
+	catHealthCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.healthCat").filter(function(d) {
+					return [d.Category] == "Hospital / Health Care";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.healthCat").filter(function(d) {
+					return [d.Category] == "Hospital / Health Care";
+				})
+				.style("display", "none");						
+			}
+	};
+	catUtilityCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.utilityCat").filter(function(d) {
+					return [d.Category] == "Utility";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.utilityCat").filter(function(d) {
+					return [d.Category] == "Utility";
+				})
+				.style("display", "none");						
+			}
+	};
+	catSchoolCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.schoolCat").filter(function(d) {
+					return d.Category == "Schools";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.schoolCat").filter(function(d) {
+					return d.Category == "Schools";
+				})
+				.style("display", "none");						
+			}
+	};	
+	catApprovedCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.approvedCat").filter(function(d) {
+					return [d.Category] == "Approved Work";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.approvedCat").filter(function(d) {
+					return [d.Category] == "Approved Work";
+				})
+				.style("display", "none");						
+			}
+	};
+	/*
+	catSubstanceCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.substanceCat").filter(function(d) {
+					return d.Category == "Substance Abuse Centers";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.substanceCat").filter(function(d) {
+					return d.Category == "Substance Abuse Centers";
+				})
+				.style("display", "none");						
+			}
+	};	
+	*/
+
+	catPublicCheckbox.onchange = function(){
+			if(this.checked){
+				d3.selectAll("circle.publicCat").filter(function(d) {
+					return d.Category == "Public Housing";
+				})
+				.style("display", "block");	
+			} else {
+				d3.selectAll("circle.publicCat").filter(function(d) {
+					return d.Category == "Public Housing";
+				})
+				.style("display", "none");						
+			}
+	};	
+
+});	
+
+</script>
+</body>
+</html>
