@@ -499,13 +499,10 @@ var width = $("#map").width(),
 					text: '<i class="fa fa-refresh" aria-hidden="true"></i>',
 					action: function(){
 							map.invalidateSize();		
-							//g1=document.querySelectorAll('circle[display="none"]');
 							g1=document.querySelectorAll('circle[style*="display: none;"]');
 							for(t=0;t<g1.length;t++){g1[t].style.display="block";}
 							g1=document.querySelectorAll('input[type="checkbox"]');
-							for(t=0;t<g1.length;t++){g1[t].checked=true;}
-
-							
+							for(t=0;t<g1.length;t++){g1[t].checked=true;}							
 							zoomFullExtent();
 							g1=document.querySelectorAll(".selected");
 							for(t=0;t<g1.length;t++){g1[t].className=g1[t].className.replace(/\bselected\b/g,"");}
@@ -621,14 +618,12 @@ var width = $("#map").width(),
 				d3.selectAll("circle.publicCat").filter(function(d) {
 					return d.Category == "Public Housing";
 				})
-				.style("display", "block");	
-				//.style("visibility", "shown");	
+				.style("display", "block");		
 			} else {
 				d3.selectAll("circle.publicCat").filter(function(d) {
 					return d.Category == "Public Housing";
 				})
-				.style("display", "none");						
-				//.style("visibility", "hidden");						
+				.style("display", "none");												
 			}
 	};	
 	catSchoolCheckbox.onchange = function(){
