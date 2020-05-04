@@ -18,9 +18,6 @@
   border-radius: 3px;
   height: 75px !important;
 }
-.eMbl2{
-cursor:pointer;
-}
 .tooltipheading{
 color:yellow;
 font-size:18px;
@@ -119,15 +116,10 @@ body {
 	fill-opacity: 1;
 	r: 2 !important;
 }
-zz* [class*='Cat'] circle {
-	stroke-width:1px !important;
-	stroke:red !important;
-	fill: red !important;
-	border: 1px double red !important;
-	background-color: red !important;
-	fill-opacity: 1;
-	r: 2 !important;
-
+.eMbl2 i{
+cursor:pointer;
+font-size:18px;
+margin-left:-5px;margin-top:-5px;
 }
 * [class*='Cat'] :not(circle){
 	color:white !important;
@@ -171,6 +163,7 @@ tr[role="row"]:hover td {
 }
 .tooltip {
 	visibility: hidden;
+	z-index:99 !important;
 	font-weight: bold;
 	padding: 15px;
 	border: 2px solid white;
@@ -182,7 +175,7 @@ tr[role="row"]:hover td {
 	left: 50%;
 	color:white;
 	background-color:RGB(40,56,124);
-	max-height:200px;
+	max-height:250px;
 	overflow-y:auto;
 }
 .dataTables_empty {
@@ -327,12 +320,12 @@ var width = $("#map").width(),
 		.attr('class', function(d){	return doClassName(d.Category)})
 		.on('click', function(d){
 				tooltip.style("visibility", "visible");
-				jobstring='';individualjobs="";vJobsT=0;
+				jobstring='';individualjobs="";
 				if (d["Approved Job Number(s)"]  ) {
 						individualjobs=d["Approved Job Number(s)"].split(";")
 						jobstring="<br>";
 						for (t=0;t<individualjobs.length;t++) {
-							jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>";	vJobsT++;}
+							jobstring+="<li class='jobno'> " + individualjobs[t] + "</li>";}
 				} else {jobstring="None"}	
 				catstring='';individualcats="";
 				if (d["approvedcategories"]  ) {
@@ -342,14 +335,13 @@ var width = $("#map").width(),
 								catstring+="<li class='jobno'> " + individualcats[t] + "</li>";}
 					} else {catstring= ''; }
 				tooltip.html(
-					'<span class="pull-left hidden-lg eMbl2" aria-label="Close"><i class="fa fa-times-circle"></i></span>'+
-					'<span class="tooltipheading">Job Site Details</span></br></br>'+
+					'<div class="hidden-lg eMbl2" aria-label="Close"><i class="fa fa-times-circle"></i></div>'+
+					'<span class="tooltipheading">Job Site Details</span></br>'+
 					'BIN: ' + [d.BIN] + '</br>' +								
 					'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +
 					'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +
 					'CATEGORY: ' + d["Category"] + '</br>' +
-					( d["approvedcategories"]? 'Sub-Categories: ' : '') + 
-					catstring +'APPROVED JOB Number(s): '+jobstring)
+					( d["approvedcategories"]?'Sub-Categories: ':'')+catstring +'APPROVED JOB Number(s): '+jobstring+"")
 				/*	
 				if (d3.event.pageX > (width - 200)) {
 				   tooltip.style("left", (d3.event.pageX - 350) + "px");
