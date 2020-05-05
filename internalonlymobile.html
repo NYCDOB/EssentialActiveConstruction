@@ -319,7 +319,7 @@ var width = $("#map").width(),
 		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
 		.attr('class', function(d){	return doClassName(d.Category)})
 		.on('click', function(d){
-								if(L.mobile){return;}
+								if(!L.mobile){
 				tooltip.style("visibility", "visible");
 				jobstring='';individualjobs="";
 				if (d["Approved Job Number(s)"]  ) {
@@ -359,7 +359,7 @@ var width = $("#map").width(),
 				document.querySelector(".eMbl2").addEventListener("click",function(e){
 					e.preventDefault();document.querySelector(".tooltip").style.visibility="hidden";
 				});
-
+			}
 		})
 		.on("mouseover", function(d, i){
 			tooltip.transition().duration(0); 
