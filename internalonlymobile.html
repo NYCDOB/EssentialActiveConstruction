@@ -31,7 +31,7 @@ display:block;
 #riskTable_info{
 	font-weight:bolder !important;
 }
-.row{
+z.row{
 	padding-top: 50px;
 }
 body {
@@ -199,9 +199,13 @@ tr[role="row"]:hover td {
   padding: 1em 0;
   z-index: 1;
 }
+.mJob{
+border: 2px solid white;background-color:RGB(40,56,124);
+;color:white;padding:10px;overflow-y:auto;display:none;margin:1px;max-height:300px
+}
 @media( max-width:1200px){
 	.dobmain	{
-		padding-top:50px
+		padding-top:80px
 	}
 }
 </style>
@@ -214,7 +218,9 @@ tr[role="row"]:hover td {
 				</div>
 			</div>
 </div>
-<div class="container-fluid dobmain" style="margin-top:20px;">
+<div class="container-fluid dobmain" style="margin-top:60px;">
+	<div class="row mJob">
+	</div>
 	<div class="row">
 		  <div class="col-lg-9" style="height:89vh">
 			  <div class="chart-stage" id="map-container" style="border:1px solid black;height:100%;width:100%">
@@ -319,8 +325,6 @@ var width = $("#map").width(),
 		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
 		.attr('class', function(d){	return doClassName(d.Category)})
 		.on('click', function(d){
-								if(!L.Browser.mobile){
-				tooltip.style("visibility", "visible");
 				jobstring='';individualjobs="";
 				if (d["Approved Job Number(s)"]  ) {
 						individualjobs=d["Approved Job Number(s)"].split(";")
@@ -335,31 +339,29 @@ var width = $("#map").width(),
 							for (t=0;t<individualcats.length;t++) {
 								catstring+="<li class='jobno'> " + individualcats[t] + "</li>";}
 					} else {catstring= ''; }
-				tooltip.html(
-					'<div class="hidden-lg eMbl2" aria-label="Close"><i class="fa fa-times-circle"></i></div>'+
-					'<span class="tooltipheading">Job Site Details</span></br>'+
-					'BIN: ' + [d.BIN] + '</br>' +								
-					'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +
-					'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +
-					'CATEGORY: ' + d["Category"] + '</br>' +
-					( d["approvedcategories"]?'Sub-Categories: ':'')+catstring +'APPROVED JOB Number(s): '+jobstring+"")
-				/*	
-				if (d3.event.pageX > (width - 200)) {
-				   tooltip.style("left", (d3.event.pageX - 350) + "px");
-				} else {
-				   tooltip.style("left", (d3.event.pageX + 20) + "px")
-						.style("top", (d3.event.pageY -30) + "px");
+				vHTML='<div class="hidden-lg eMbl2" aria-label="Close"><i class="fa fa-times-circle"></i></div>'+'<span class="tooltipheading">Job Site Details</span></br>'+'BIN: ' + [d.BIN] + '</br>' +'ADDRESS: '+ [d.Address] + ', ' + [d.Borough] + '</br>' +'COMMUNITY DISTRICT: ' + d["Community Board"] + '</br>' +'CATEGORY: ' + d["Category"] + '</br>' +( d["approvedcategories"]?'Sub-Categories: ':'')+catstring +'APPROVED JOB Number(s): '+jobstring+"";
+				if(!L.Browser.mobile) {
+						tooltip.style("visibility", "visible");
+						tooltip.html(vHTML)
+						document.querySelector(".eMbl2").addEventListener("click",function(e){
+							e.preventDefault();
+							document.querySelector(".tooltip").style.visibility="hidden";
+						});
+				} else { 		
+				document.querySelector(".mJob").innerHTML=""
+						document.querySelector(".mJob").style.display="block";
+						document.querySelector("html").style.overflow="hidden";
+						xxx=document.createElement("div");
+						xxx.innerHTML=vHTML;
+						window.scrollTo(0, 0);
+						document.querySelector(".mJob").appendChild(xxx);
+						document.querySelector(".eMbl2").addEventListener("click",function(e){
+							e.preventDefault();
+							document.querySelector(".mJob").style.display="none";
+							document.querySelector("html").style.overflow="scroll";
+							document.querySelector(".mJob").innerHTML=""
+						});
 				}
-				if (d3.event.pageY > (height - 150)) {
-				   tooltip.style("top", (d3.event.pageY -100) + "px");
-				} else {
-				   tooltip.style("top", (d3.event.pageY -30) + "px");
-				}
-				*/
-				document.querySelector(".eMbl2").addEventListener("click",function(e){
-					e.preventDefault();document.querySelector(".tooltip").style.visibility="hidden";
-				});
-			}
 		})
 		.on("mouseover", function(d, i){
 			tooltip.transition().duration(0); 
